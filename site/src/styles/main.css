@@ -308,3 +308,8 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 .legend-row { margin-bottom: var(--sp-5); }
 .legend-count { margin: var(--sp-2) 0 0; font: 400 var(--t-12)/1.4 var(--data); color: var(--ink-soft); }
 .legend-count a { color: var(--seal); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+
+/* The browser's own search-clear control is not in this palette. */
+.search input::-webkit-search-cancel-button,
+.search input::-webkit-search-decoration { -webkit-appearance: none; appearance: none; }
+.nav-gap .gap { margin-left: var(--sp-2); }

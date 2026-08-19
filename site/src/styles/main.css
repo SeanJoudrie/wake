@@ -266,8 +266,20 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 }
 
 @media (max-width: 720px) {
-  .drawer-toggle { display: block; }
-  .frame { grid-template-columns: minmax(0, 1fr); padding: var(--sp-8) var(--sp-4) 0; }
+  /* An opaque bar, not a floating pill: content scrolls under it, not behind it. */
+  .drawer-toggle {
+    display: block;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: var(--sp-3) var(--sp-4);
+    text-align: left;
+    background: var(--paper);
+    border: 0;
+    border-bottom: var(--hair);
+  }
+  .frame { grid-template-columns: minmax(0, 1fr); padding: var(--sp-4) var(--sp-4) 0; }
   .index {
     position: fixed; inset: 0 auto 0 0; z-index: 15;
     width: min(86vw, 300px);
@@ -418,4 +430,119 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 @media print {
   .record > summary { display: none; }
   .record:not([open]) > *:not(summary) { display: block !important; }
+}
+
+/* ---------------------------------------------------------------- index tree */
+
+.cats { border-top: var(--hair); }
+.cat { border-bottom: var(--hair); }
+
+.cat > summary,
+.row > summary {
+  display: flex;
+  align-items: baseline;
+  gap: var(--sp-3);
+  cursor: pointer;
+  list-style: none;
+}
+.cat > summary::-webkit-details-marker,
+.row > summary::-webkit-details-marker { display: none; }
+
+.cat > summary { padding: var(--sp-4) 0; }
+.cat > summary::before,
+.row > summary::before {
+  content: "[+]";
+  flex: none;
+  font: 400 var(--t-14)/1.5 var(--data);
+  color: var(--seal);
+}
+.cat[open] > summary::before,
+.row[open] > summary::before { content: "[\2212]"; }
+
+.cat > summary h2 {
+  margin: 0;
+  flex: 1 1 auto;
+  font: 600 var(--t-25)/1.2 var(--display);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+.cat-count {
+  flex: none;
+  font: 400 var(--t-12)/1.6 var(--data);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+}
+.cat-contested {
+  flex: none;
+  font: 400 var(--t-12)/1.6 var(--data);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--absence);
+}
+
+.cat-body { padding: 0 0 var(--sp-4) var(--sp-5); }
+.row { border-top: var(--hair); }
+.row:first-child { border-top: 0; }
+.row > summary { padding: var(--sp-2) 0; }
+.row-title { flex: 1 1 auto; font: 400 var(--t-16)/1.5 var(--body); color: var(--seal); }
+.row[open] > summary .row-title { font-weight: 600; }
+
+.row-body { padding: var(--sp-3) 0 var(--sp-6); }
+.row-body .also { margin: 0 0 var(--sp-4); font: 400 var(--t-14)/1.5 var(--data); color: var(--ink-soft); }
+.row-body .fields { margin: 0 0 var(--sp-5); }
+.row-refs { margin-top: var(--sp-5); padding-top: var(--sp-3); border-top: var(--hair); }
+.row-refs h3 {
+  margin: 0 0 var(--sp-2);
+  font: 600 var(--t-12)/1.2 var(--display);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+}
+.row-permalink { margin: var(--sp-4) 0 0; font: 400 var(--t-12)/1.5 var(--data); }
+.row-permalink a { color: var(--seal); text-decoration: underline; text-underline-offset: 3px; }
+
+.open-cats {
+  padding: 0;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--paper-edge);
+  color: var(--seal);
+  font: 400 var(--t-12)/1.4 var(--data);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+}
+.open-cats:hover { border-bottom-color: var(--seal); }
+
+/* Index nav groups fold too, so the drawer is ten rows rather than a hundred and
+   seventy-three. */
+.nav-fold > summary {
+  display: flex;
+  align-items: baseline;
+  gap: var(--sp-2);
+  cursor: pointer;
+  list-style: none;
+  margin-bottom: var(--sp-2);
+}
+.nav-fold > summary::-webkit-details-marker { display: none; }
+.nav-fold > summary::before {
+  content: "[+]";
+  flex: none;
+  font: 400 var(--t-12)/1.4 var(--data);
+  color: var(--seal);
+}
+.nav-fold[open] > summary::before { content: "[\2212]"; }
+.nav-fold > summary h2 { margin: 0; }
+
+@media (max-width: 720px) {
+  .cat > summary h2 { font-size: var(--t-20); }
+  .cat-body { padding-left: var(--sp-3); }
+}
+
+@media print {
+  .open-cats { display: none; }
+  .cat:not([open]) > *:not(summary),
+  .row:not([open]) > *:not(summary),
+  .nav-fold:not([open]) > *:not(summary) { display: block !important; }
 }

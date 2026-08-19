@@ -43,7 +43,9 @@ export function nav(entries, gaps, current) {
             }>${escapeHtml(e.title)}</a></li>`
         )
         .join("");
-      return `<section class="nav-group"><h2>${label}</h2><ul>${items}</ul></section>`;
+      const here = byCat.get(key).some((e) => e.slug === current);
+      return `<section class="nav-group"><details class="nav-fold"${here ? " open" : ""}>` +
+        `<summary><h2>${label}</h2></summary><ul>${items}</ul></details></section>`;
     })
     .join("");
 
@@ -79,12 +81,12 @@ ${groups}
 // Sections collapse. The lead and the compiler's notes do not, and a collapsed
 // summary still declares how many gap markers are hiding inside it, so the amount
 // of red on the page survives the entry being closed.
-export function entryBody(entry) {
+export function entryBody(entry, { open = false } = {}) {
   if (!entry.sections.length) return entry.lead + entry.notes;
 
   const sections = entry.sections
     .map(
-      (s) => `<details class="section">
+      (s) => `<details class="section"${open ? " open" : ""}>
 <summary><h2>${escapeHtml(s.title)}</h2>${
         s.gaps ? `<span class="sec-gaps">${s.gaps} gap${s.gaps > 1 ? "s" : ""}</span>` : ""
       }</summary>
@@ -94,11 +96,46 @@ export function entryBody(entry) {
     .join("\n");
 
   return `${entry.lead}
-<p class="section-tools"><button type="button" class="open-all" aria-expanded="false">Open all sections</button></p>
+<div class="section-set">
+<p class="section-tools"><button type="button" class="open-all" aria-expanded="${open}">${
+    open ? "Close" : "Open"
+  } all sections</button></p>
 <div class="sections">
 ${sections}
 </div>
+</div>
 ${entry.notes}`;
+}
+
+// An entry rendered inside the index, where it drops open in place.
+export function inlineEntry(entry, refs) {
+  const fields = entry.fields
+    .map(
+      (f) =>
+        `<div class="field"><dt>${escapeHtml(f.label)}</dt>` +
+        `<dd${f.absent ? ' class="absent"' : ""}>${f.html}</dd></div>`
+    )
+    .join("");
+
+  const refItems = refs
+    .map((r) =>
+      r.ok
+        ? `<li><a href="${u(`/entry/${r.slug}/`)}">${escapeHtml(r.title)}</a></li>`
+        : `<li class="dead"><span class="strike">${escapeHtml(
+            r.title
+          )}</span><span class="gap">[ENTRY NOT RECOVERED]</span></li>`
+    )
+    .join("");
+
+  return `<div class="row-body">
+${entry.subtitle ? `<p class="also">${escapeHtml(entry.subtitle)}</p>` : ""}
+${fields ? `<dl class="fields">${fields}</dl>` : ""}
+${entryBody(entry, { open: true })}
+<div class="row-refs"><h3>Cross-reference</h3><ul class="refs">${refItems}</ul></div>
+<p class="row-permalink"><a href="${u(`/entry/${entry.slug}/`)}">Open ${escapeHtml(
+    entry.title
+  )} on its own page</a></p>
+</div>`;
 }
 
 export function stamp(tier) {

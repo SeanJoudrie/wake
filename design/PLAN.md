@@ -121,3 +121,27 @@ stamp never collapses. Desktop is untouched. On Marfeld this moves the title fro
 1300px down the page to 216px.
 
 Print forces every section and record open, by CSS and again on `beforeprint`.
+
+## The index as the encyclopedia
+
+The index is no longer a list of links to elsewhere. It is a tree of disclosures, three
+levels deep, and it is where the volume is meant to be read.
+
+1. **Ten categories**, shut. Each row carries its entry count, and its contested count in
+   `--absence` when it has one. Peoples is 5 contested out of 10, and that reads before a
+   single category is opened.
+2. **Entry rows**, shut, each with its tier at the right.
+3. **The entry itself**, dropping open in place: subtitle, record fields, lead, sections,
+   compiler's notes, cross-references, and a link to its own page.
+
+An entry opened inside the index renders its sections **open**, where the same entry on
+its own page renders them shut. That is deliberate rather than inconsistent. Reaching an
+entry in the index already costs two clicks, and a third to read a paragraph is too many;
+the entry page is for reading one thing, so it opens quiet. Both carry the same controls.
+
+The left navigation folds by category too, so the mobile drawer is ten rows rather than
+a hundred and seventy-three. Search force-opens any fold holding a match, so a shut
+category can never swallow a result.
+
+The mobile index button became an opaque sticky bar. As a floating pill it sat on top of
+whatever row was under it while scrolling.

@@ -29,6 +29,8 @@
         if (match) shown++;
       });
       group.hidden = shown === 0;
+      var fold = group.querySelector(".nav-fold");
+      if (fold && q) fold.open = shown > 0;
       hits += shown;
     });
 
@@ -49,12 +51,24 @@
     var btn = e.target.closest && e.target.closest(".open-all");
     if (!btn) return;
     var open = btn.getAttribute("aria-expanded") !== "true";
-    var scope = btn.closest("main") || document;
+    var scope = btn.closest(".section-set") || document;
     [].slice.call(scope.querySelectorAll(".section")).forEach(function (d) {
       d.open = open;
     });
     btn.setAttribute("aria-expanded", String(open));
     btn.textContent = open ? "Close all sections" : "Open all sections";
+  });
+
+  // Index: open or shut every category at once.
+  document.addEventListener("click", function (e) {
+    var btn = e.target.closest && e.target.closest(".open-cats");
+    if (!btn) return;
+    var open = btn.getAttribute("aria-expanded") !== "true";
+    [].slice.call(document.querySelectorAll(".cat")).forEach(function (d) {
+      d.open = open;
+    });
+    btn.setAttribute("aria-expanded", String(open));
+    btn.textContent = open ? "Close all categories" : "Open all categories";
   });
 
   // Narrow screens open on the stamp, not on six rows of filing data.

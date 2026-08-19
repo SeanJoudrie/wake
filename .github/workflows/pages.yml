@@ -33,10 +33,12 @@ jobs:
         env:
           # Project pages are served from /<repo>/. Change if you use a custom domain.
           SITE_BASE: /wake
-      # enablement: true turns Pages on via the API, so the repo needs no manual setup.
+      # Requires Pages to be enabled once by a repo admin:
+      # Settings -> Pages -> Build and deployment -> Source: GitHub Actions.
+      # enablement: true does not work here. Creating a Pages site needs admin
+      # rights, and a workflow token never has them ("Resource not accessible
+      # by integration"). This step will 404 until the switch is flipped.
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site/_site

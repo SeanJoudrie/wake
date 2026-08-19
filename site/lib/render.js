@@ -1,5 +1,21 @@
 import { BASE, u, escapeHtml, CATEGORIES } from "./entries.js";
 
+// Out-of-world apparatus. Labelled and styled so it can never be mistaken for the
+// archive's own voice.
+export function readersKey(entry) {
+  if (!entry.sources.length) return "";
+  const links = entry.sources
+    .map((n) => `<a href="${u("/sources/")}#ch-${n}">Ch. ${n}</a>`)
+    .join(" &middot; ");
+  return `<div class="readers-key">
+<p class="rk-label">Reader's key</p>
+<p class="rk-body">Seen in the manuscript at ${links}.</p>
+</div>`;
+}
+
+export const CHEV =
+  '<svg class="chev" viewBox="0 0 12 8" aria-hidden="true" focusable="false"><path d="M1 1.75 L6 6.25 L11 1.75"/></svg>';
+
 export function shell({ title, bodyClass = "", nav, main, aside = "" }) {
   return `<!doctype html>
 <html lang="en">
@@ -45,7 +61,7 @@ export function nav(entries, gaps, current) {
         .join("");
       const here = byCat.get(key).some((e) => e.slug === current);
       return `<section class="nav-group"><details class="nav-fold"${here ? " open" : ""}>` +
-        `<summary><h2>${label}</h2></summary><ul>${items}</ul></details></section>`;
+        `<summary><h2>${label}</h2>${CHEV}</summary><ul>${items}</ul></details></section>`;
     })
     .join("");
 
@@ -72,6 +88,7 @@ ${groups}
 <ul>
 <li><a href="${u("/index/")}">Full index</a></li>
 <li><a href="${u("/gaps/")}">Gaps</a></li>
+<li><a href="${u("/sources/")}">Reader\'s key</a></li>
 <li><a href="${u("/about/")}">On the source tiers</a></li>
 </ul>
 </section>
@@ -89,7 +106,7 @@ export function entryBody(entry, { open = false } = {}) {
       (s) => `<details class="section"${open ? " open" : ""}>
 <summary><h2>${escapeHtml(s.title)}</h2>${
         s.gaps ? `<span class="sec-gaps">${s.gaps} gap${s.gaps > 1 ? "s" : ""}</span>` : ""
-      }</summary>
+      }${CHEV}</summary>
 <div class="section-body">${s.html}</div>
 </details>`
     )
@@ -132,6 +149,7 @@ ${entry.subtitle ? `<p class="also">${escapeHtml(entry.subtitle)}</p>` : ""}
 ${fields ? `<dl class="fields">${fields}</dl>` : ""}
 ${entryBody(entry, { open: true })}
 <div class="row-refs"><h3>Cross-reference</h3><ul class="refs">${refItems}</ul></div>
+${readersKey(entry)}
 <p class="row-permalink"><a href="${u(`/entry/${entry.slug}/`)}">Open ${escapeHtml(
     entry.title
   )} on its own page</a></p>
@@ -166,13 +184,14 @@ export function metaColumn(entry, refs) {
 ${stamp(entry.tier)}
 ${
   fields
-    ? `<details class="record" open><summary><h2>Record details</h2></summary><dl class="fields">${fields}</dl></details>`
+    ? `<details class="record" open><summary><h2>Record details</h2>${CHEV}</summary><dl class="fields">${fields}</dl></details>`
     : ""
 }
 </div>
 <div class="meta-refs">
 <h2>Cross-reference</h2>
 <ul class="refs">${refItems}</ul>
+${readersKey(entry)}
 </div>
 </aside>`;
 }

@@ -15,6 +15,7 @@ export const u = (p) => BASE + p;
 export const CATEGORIES = [
   ["world", "Worlds"],
   ["people", "Peoples"],
+  ["character", "Persons"],
   ["location", "Places"],
   ["institution", "Bodies"],
   ["event", "Events"],
@@ -29,6 +30,14 @@ export const TIERS = ["INTACT", "RECOVERED", "TESTIMONY", "CONTESTED", "INFERRED
 
 const GHOST_NAMES = JSON.parse(
   fs.readFileSync(path.join(process.cwd(), "ghost-names.json"), "utf8")
+);
+
+// Reader apparatus, deliberately kept outside the corpus so the entry files stay in-world.
+export const SOURCES = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), "sources.json"), "utf8")
+);
+export const CHAPTERS = JSON.parse(
+  fs.readFileSync(path.join(process.cwd(), "chapters.json"), "utf8")
 );
 
 const FIELD = /^\*\*([^*]+?):\*\* +(.+)$/;
@@ -148,6 +157,7 @@ function parseEntry(slug, raw) {
     category: data.category,
     tier: data.tier,
     crossRefs: data.cross_refs || [],
+    sources: SOURCES[slug] || [],
     fields: fields.map((f) => ({
       label: f.label,
       html: markGaps(md.renderInline(f.value)),

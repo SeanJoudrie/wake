@@ -546,3 +546,77 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
   .row:not([open]) > *:not(summary),
   .nav-fold:not([open]) > *:not(summary) { display: block !important; }
 }
+
+/* ---------------------------------------------------------------- chevron */
+
+.chev {
+  flex: none;
+  width: 12px;
+  height: 8px;
+  margin-left: var(--sp-2);
+  overflow: visible;
+  color: var(--ink-soft);
+  transition: transform 120ms ease;
+}
+.chev path { fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: square; }
+details[open] > summary .chev { transform: rotate(180deg); }
+summary:hover .chev { color: var(--seal); }
+
+@media (prefers-reduced-motion: reduce) { .chev { transition: none; } }
+@media print { .chev { display: none; } }
+
+/* ---------------------------------------------------------------- reader's key
+   The one part of this site written from outside the world. It gets a fill and a
+   dashed rule precisely because nothing else on the site has either. */
+
+.readers-key {
+  margin-top: var(--sp-6);
+  padding: var(--sp-3) var(--sp-3) var(--sp-3) var(--sp-4);
+  background: var(--paper-deep);
+  border-left: 2px dashed var(--paper-edge);
+}
+.rk-label {
+  margin: 0 0 var(--sp-1);
+  font: 400 var(--t-12)/1.4 var(--data);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+}
+.rk-body {
+  margin: 0 0 var(--sp-2);
+  font: 400 var(--t-12)/1.6 var(--data);
+  color: var(--ink);
+}
+.rk-body:last-child { margin-bottom: 0; }
+.readers-key a { color: var(--seal); text-decoration: underline; text-underline-offset: 3px; }
+.rk-none { color: var(--ink-soft); }
+
+.rk-standalone { margin: 0 0 var(--sp-6); padding: var(--sp-5); }
+.rk-standalone .rk-body { font-size: var(--t-14); line-height: 1.6; }
+
+.chapters { border-top: var(--hair); }
+.chapter { padding: var(--sp-4) 0; border-bottom: var(--hair); }
+.chapter:target { border-left: 2px solid var(--seal); padding-left: var(--sp-3); }
+.ch-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--sp-3);
+  margin: 0 0 var(--sp-2);
+}
+.ch-n {
+  font: 600 var(--t-16)/1.2 var(--display);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+.ch-pov, .ch-where {
+  font: 400 var(--t-12)/1.5 var(--data);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+}
+.ch-what { margin: 0 0 var(--sp-2); }
+.ch-feeds { margin: 0; font: 400 var(--t-12)/1.7 var(--data); }
+.ch-feeds a { color: var(--seal); text-decoration: underline; text-underline-offset: 3px; }
+
+@media print { .readers-key { background: none; border-left: 1px dashed #999; } }

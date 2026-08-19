@@ -1,4 +1,4 @@
-import { shell, nav, inlineEntry } from "../lib/render.js";
+import { shell, nav, inlineEntry, CHEV } from "../lib/render.js";
 import { loadEntries, resolveRefs, escapeHtml, u, CATEGORIES } from "../lib/entries.js";
 
 export const data = { permalink: "/index/index.html" };
@@ -18,17 +18,19 @@ export function render() {
 <summary>
 <span class="row-title">${escapeHtml(e.title)}</span>
 <span class="tier" data-tier="${e.tier}">${e.tier}</span>
+${CHEV}
 </summary>
 ${inlineEntry(e, resolveRefs(e, bySlug, gaps))}
 </details>`
       )
       .join("\n");
 
-    return `<details class="cat">
+    return `<details class="cat" open>
 <summary>
 <h2>${label}</h2>
 <span class="cat-count">${rows.length} entries</span>
 ${contested ? `<span class="cat-contested">${contested} contested</span>` : ""}
+${CHEV}
 </summary>
 <div class="cat-body">${items}</div>
 </details>`;
@@ -41,7 +43,7 @@ ${contested ? `<span class="cat-contested">${contested} contested</span>` : ""}
 <p>Entries are listed by category and open where they stand. Each carries one source tier.
 ${gaps.length} names referenced in this volume have no entry and are listed under
 <a href="${u("/gaps/")}">Gaps</a>.</p>
-<p class="section-tools"><button type="button" class="open-cats" aria-expanded="false">Open all categories</button></p>
+<p class="section-tools"><button type="button" class="open-cats" aria-expanded="true">Close all categories</button></p>
 <div class="cats">
 ${sections}
 </div>

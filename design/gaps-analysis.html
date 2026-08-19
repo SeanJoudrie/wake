@@ -1,0 +1,402 @@
+<meta charset="utf-8">
+<title>Where the Encyclopedia Is Thin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+:root{
+  --paper:#E8DFCC; --paper-deep:#DAD0B7; --paper-edge:#C8BC9F;
+  --ink:#24211C; --ink-soft:#665D4C; --seal:#23474C; --absence:#9B3A2E;
+  --display:"Archivo Narrow","Arial Narrow",sans-serif;
+  --body:"IBM Plex Serif",Georgia,serif;
+  --data:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+*,*::before,*::after{box-sizing:border-box;border-radius:0}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font:400 1rem/1.62 var(--body);}
+.wrap{max-width:74ch;margin:0 auto;padding:clamp(2rem,6vw,5rem) clamp(1rem,5vw,2rem) 6rem}
+header.top{border-bottom:2px solid var(--ink);padding-bottom:1.25rem;margin-bottom:2.5rem}
+header.top h1{margin:0;font:600 clamp(2rem,6vw,2.75rem)/1.08 var(--display);
+  text-transform:uppercase;letter-spacing:-0.01em;text-wrap:balance}
+header.top p{margin:.75rem 0 0;font:400 .75rem/1.5 var(--data);
+  text-transform:uppercase;letter-spacing:.08em;color:var(--ink-soft)}
+
+h1{font:600 1.9375rem/1.15 var(--display);text-transform:uppercase;letter-spacing:-0.01em;
+  margin:3.5rem 0 1rem;padding-top:1.25rem;border-top:2px solid var(--ink);text-wrap:balance}
+h2{font:600 1.5625rem/1.2 var(--display);text-transform:uppercase;letter-spacing:.01em;
+  margin:2.75rem 0 .75rem;text-wrap:balance}
+h3{font:600 1rem/1.3 var(--display);text-transform:uppercase;letter-spacing:.04em;
+  margin:2rem 0 .5rem;color:var(--ink-soft)}
+p{margin:0 0 1rem}
+strong{font-weight:600}
+ul,ol{margin:0 0 1rem;padding-left:1.5rem}
+li{margin-bottom:.4rem}
+a{color:var(--seal);text-decoration:underline;text-underline-offset:3px}
+hr{border:0;border-top:1px solid var(--paper-edge);margin:3rem 0}
+
+/* Numbers, and only numbers, in mono. */
+code{font:400 .9em/1 var(--data);background:none;padding:0;color:var(--ink)}
+
+.scroll{overflow-x:auto;margin:0 0 1.5rem}
+table{width:100%;border-collapse:collapse;font-size:.875rem}
+th,td{text-align:left;padding:.5rem .75rem .5rem 0;border-bottom:1px solid var(--paper-edge);
+  vertical-align:top}
+th{font:600 .75rem/1.3 var(--data);text-transform:uppercase;letter-spacing:.06em;
+  color:var(--ink-soft)}
+td{font-family:var(--data);font-size:.8125rem;font-variant-numeric:tabular-nums}
+td:first-child,td:nth-child(2){font-family:var(--body);font-size:.875rem}
+tbody tr:nth-child(even){background:color-mix(in srgb,var(--paper-deep) 40%,transparent)}
+
+/* The one reserved colour, used only where something is missing. */
+em{font-style:italic}
+blockquote{margin:1.5rem 0;padding-left:1.25rem;border-left:2px solid var(--paper-edge);
+  color:var(--ink-soft);font-style:italic}
+:focus-visible{outline:2px solid var(--seal);outline-offset:2px}
+@media print{body{background:#fff;color:#000}}
+</style>
+<div class="wrap">
+<header class="top">
+<h1>Where the encyclopedia is thin</h1>
+<p>191 entries &middot; 28,103 words &middot; measured, not eyeballed</p>
+</header>
+<h2>Method</h2>
+<p>Four numbers per entry. <strong>Words</strong>, body only. <strong>Inbound</strong>, how many other entries point at it.
+<strong>Outbound</strong>, how many it points at. <strong>Cited</strong>, whether a scene in the manuscript exists for it.</p>
+<p>The useful metric is not length. It is <strong>inbound against words</strong>: an entry the volume leans on
+constantly and says little about. That ratio finds structural holes that reading cannot, because
+a short entry reads fine in isolation and only fails when forty other entries have promised it.</p>
+<h2>Top line</h2>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Entries</td>
+<td>191</td>
+</tr>
+<tr>
+<td>Words</td>
+<td>28,103</td>
+</tr>
+<tr>
+<td>Median entry</td>
+<td>142 words</td>
+</tr>
+<tr>
+<td>Entries nothing points at</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Entries with no scene in the manuscript</td>
+<td>74</td>
+</tr>
+<tr>
+<td>Cross-references resolving to nothing</td>
+<td>12</td>
+</tr>
+</tbody>
+</table></div>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>Category</th>
+<th>n</th>
+<th>Mean words</th>
+<th>Median inbound</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Worlds</td>
+<td>37</td>
+<td>141</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Rites</td>
+<td>31</td>
+<td>168</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Places</td>
+<td>23</td>
+<td>114</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Objects</td>
+<td>20</td>
+<td>139</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Bodies</td>
+<td>19</td>
+<td>181</td>
+<td>7</td>
+</tr>
+<tr>
+<td><strong>Persons</strong></td>
+<td><strong>18</strong></td>
+<td><strong>63</strong></td>
+<td><strong>0</strong></td>
+</tr>
+<tr>
+<td>Flora</td>
+<td>17</td>
+<td>93</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Peoples</td>
+<td>10</td>
+<td>216</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Events</td>
+<td>8</td>
+<td>242</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Tongues</td>
+<td>6</td>
+<td>256</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Materials</td>
+<td>2</td>
+<td>246</td>
+<td>17</td>
+</tr>
+</tbody>
+</table></div>
+<hr>
+<h1>TIER ONE. Fix these first</h1>
+<h2>1. The Guard is the most referenced entry in the volume and one of the least developed for its load</h2>
+<p><strong>73 inbound references. 373 words.</strong> The next most referenced entry has 34. Nothing else is close.
+Seventy-three entries make a promise about this institution and it answers with a page.</p>
+<p>Worse, seven whole systems from your own §6.1 are named nowhere in the corpus:</p>
+<ul>
+<li><strong>The bid system.</strong> Units apply for tasks; strong completion records win bids. Your own note calls
+it load-bearing: <em>nobody assigned Castle Team their record, they chose it.</em> One line of the-guard
+gestures at it. It should be its own entry, <code>INTACT</code>, with acceptance rates filed by unit, because
+the archive would have those and they would be devastating in a dry table.</li>
+<li><strong>Spec Ops as a prestige track.</strong> Re-entering the ladder at a designation that outranks it.
+Absent entirely. It also fixes your Staff Sergeant to Captain problem diegetically.</li>
+<li><strong>Rank structure and the unified force.</strong> A company with divisions, not an army. Two sentences exist.</li>
+<li><strong>Movement rights.</strong> You identified this as the Guard's <em>real</em> appeal, the thing every world actually
+joined for. It is one clause inside the-guard. In a galaxy that watched borders decide who lived,
+this deserves the same weight as the franchise.</li>
+<li><strong>The Mothership rotation</strong> as a scheduling system that governs everyone's life.</li>
+<li><strong>Contracts and completion bonuses</strong> as an employment relation.</li>
+<li><strong>The Academy wardship pipeline</strong> exists but is not connected to the recruiting incentive.</li>
+</ul>
+<p><strong>What to write:</strong> split the-guard into a shorter parent and four to six children. <code>guard-service-contracts</code>,
+<code>the-bid-system</code>, <code>spec-ops</code>, <code>movement-rights</code>. Each <code>INTACT</code>, each mostly numbers.</p>
+<h2>2. Persons is an island. Nothing outside it points at any of the eighteen</h2>
+<p><strong>0 of 18</strong> persons are cross-referenced from any non-person entry. They exist; nothing reaches them.
+The category reads as a bolt-on because structurally it is one.</p>
+<p><strong>What to write:</strong> this is mechanical and high value. Korjin belongs in <code>corefuel</code> and
+<code>wake-extraction-station</code>. Daiser belongs in <code>indentured-servitude</code> and <code>council-of-riflo</code>. Quinn and
+Cillus belong in <code>moon-of-sonaff-incident</code>, which literally says it wishes the names existed somewhere.
+Pavlock belongs in <code>marfeld</code> as the worked example of the muster roll. Liles belongs in
+<code>guard-board-of-directors</code>. Tiam belongs in <code>academy-memorial-walls</code> and <code>resmole</code>.</p>
+<p>That is roughly twenty edits and it converts an island into the connective tissue of the volume.</p>
+<h2>3. There is no entry for the Galactic Calendar</h2>
+<p>Every world entry has a <strong>Calendars in use</strong> field. Thirty-seven worlds fill it in. The thing itself
+has no page. Your §2.1 calls the two-tier calendar the connective tissue of the whole wiki and the
+cheapest cross-link available, and it is the one system with no entry at all.</p>
+<p><strong>What to write:</strong> <code>galactic-calendar</code>, <code>INTACT</code>, and <code>planetary-calendars</code>, <code>TESTIMONY</code>. The pairing
+is the point and you already wrote the reason: the Guard files everything in Galactic; local
+reckonings survive only as testimony. Right now the site asserts that in thirty-seven metadata fields
+and never once states it.</p>
+<h2>4. The Board has seven seats and one name</h2>
+<p><code>guard-board-of-directors</code> is 223 words about the body that runs the galaxy. Liles is the only
+member in the corpus, and he is not even an oligarch by your own design.</p>
+<p>Your §6.1 has three more sketched: the benevolent one, the worst, the middle. None are named. This is
+the largest character-shaped hole in the setting, and it is not an encyclopedia problem, it is a
+manuscript problem the encyclopedia is exposing.</p>
+<p><strong>What you need to decide:</strong> names for at least the benevolent Director and the worst one. The archive
+can then carry them exactly as it carries Liles, which is to say as commercial interests with
+undeclared holdings and no recorded dissent. Their thinness would be the characterisation.</p>
+<h2>5. Bounty hunting has no entry and an entire character depends on it</h2>
+<p>Your §5.5: depression lawlessness turned law enforcement into an industry, which is how Quinn finds a
+whole planet of them to unionise and how Zack's family trade exists. <strong>The corpus contains nothing.</strong>
+No <code>bounty-hunting</code>, no <code>warrant-brokerage</code>, no licensing body.</p>
+<p><strong>What to write:</strong> <code>bounty-hunting</code>, <code>CONTESTED</code> or <code>INTACT</code>. The Guard licenses warrants, or it does
+not and the trade operates in the gap; either is a strong entry. It should cross-reference
+<code>tongishaw</code> (no bounty register because no authority to keep one), <code>galactic-standard-law</code>, and
+<code>the-cartels</code>.</p>
+<h2>6. Regenerative medicine is the thesis of your §5.3 and has no entry</h2>
+<p><code>space-vaccines</code> covers prophylaxis. The finite stockpile of cure-anything medicine, the thing that
+determines Quinn's scars, Berji's face and Pav's hand, appears as <strong>two sentences inside another entry</strong>.</p>
+<p>The priority schedule expressed in terms of a recipient's assessed value to the service is one of the
+coldest documents this archive could hold, and it is currently a subordinate clause.</p>
+<p><strong>What to write:</strong> <code>regenerative-medicine</code>, <code>INTACT</code>. Stock on hand, issue rates, the priority schedule
+quoted in its own words. Then <code>medical-debt</code>, because your Ch. 8 makes the Guard run indenture on its
+own soldiers through fees, and that connects to <code>indentured-servitude</code> on Maspin. Those two entries
+sitting three pages apart is the whole argument.</p>
+<h2>7. Custodial labour is referenced by three entries and has no page</h2>
+<p><code>galactic-standard-law</code> mentions sentence extension. <code>targath</code> records prison labour rolls.
+<code>targath-magnetic-web</code> records ore mined by custodial labour. <code>jax</code> turns on it entirely.
+There is no entry.</p>
+<p><strong>What to write:</strong> <code>custodial-labour</code>, <code>INTACT</code>. Extension grounds, labour returns by installation,
+and the proportion of non-human persons on those rolls, which the Targath entry already implies and
+never states.</p>
+<hr>
+<h1>TIER TWO. Real holes, less urgent</h1>
+<h2>8. The relay towers deserve their own entry</h2>
+<p>Faith organisations built and still own the interstellar broadcast network. Currently a paragraph in
+<code>ministry-of-propaganda</code>. Your §5.6 makes it a system: the Ministry has to negotiate with churches for
+airtime. <code>relay-towers</code>, <code>CONTESTED</code>, with the ownership disputed between eleven proprietors and the
+Guard, would carry it properly.</p>
+<h2>9. Flora is the weakest category and the least connected</h2>
+<p>17 entries, 93 words mean, <strong>median inbound 2</strong>. Six are orphans. They read as a list of nouns rather
+than an ecology. The strong ones prove the rule: <code>astonian-coral</code> works because it is doing thematic
+labour, <code>floom-eggs</code> works because it is load-bearing.</p>
+<p><strong>What to write:</strong> give each remaining plant or animal an <em>economy</em>, the same rule you set for species.
+Who grows it, who buys it, what it is worth, what it replaced. <code>rockroot</code>, <code>spireleaf</code>, <code>starfruit</code>,
+<code>glazberries</code> and <code>yinmelon</code> currently have none.</p>
+<h2>10. Ten world entries are missing the standard field block</h2>
+<p><code>actom</code>, <code>wedear</code>, <code>korno</code>, <code>lerroni</code>, <code>kinton</code>, <code>nancast</code>, <code>polaris</code>, <code>burial-moon</code>, <code>nhath-world</code>,
+<code>fawn</code>. Six of them are Guard installations, where the omission arguably reads as deliberate. Four are
+not, and the inconsistency shows.</p>
+<p><strong>What to write:</strong> complete the blocks, or make the omission explicit with <code>[FILING INCOMPLETE]</code> so it
+reads as an absence rather than an oversight. The second option is better and cheaper.</p>
+<h2>11. Riflo: seven entries point at it, 43 words</h2>
+<p>The seat of the Council, the port of an entire world, and it is two sentences and a shipping figure.
+Everything about Maspin routes through it.</p>
+<h2>12. Materials has two entries and a median inbound of 17</h2>
+<p><code>corefuel</code> and <code>maldo-steel</code> are the two most leaned-on things in the volume per entry. There is room
+for <code>plasma</code> as a material rather than a weapon, given plasma mining is one of the five industrial
+target categories of the war and appears nowhere.</p>
+<h2>13. Nineteen orphan entries</h2>
+<p>Nothing points at: astrovin, cargo-cults, fawn, neo-alchemy, rockroot, spireleaf, yinmelon, and all
+thirteen orphaned persons. <code>cargo-cults</code> is the worst loss. It is 199 words, it carries your
+thermonuclear-warhead set piece, and no entry in the volume refers to it.</p>
+<hr>
+<h1>TIER THREE. Your own open questions, checked against what got built</h1>
+<div class="scroll"><table>
+<thead>
+<tr>
+<th>#</th>
+<th>Your question</th>
+<th>State in the corpus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11</td>
+<td>The third cause of the collapse, the Astrophage-shaped mechanism</td>
+<td><strong>Absent entirely.</strong> <code>the-great-war</code> records industrial targeting and no ecological or food-chain cause. This is the biggest unbuilt idea in your notes</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Sansvor: did the Guard break the blockade or cause it</td>
+<td>Built as <code>CONTESTED</code>, both printed, unresolved. <strong>The honest outcome either way; you may never need to decide</strong></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Name the collective-souls religion</td>
+<td>Filed as <code>The Collective</code>, with the entry stating outright that the heading is the Restoration's and not attested. <strong>Placeholder, and it is visible as one</strong></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Nardow's species, name</td>
+<td>Filed as <code>Species of unresolved classification</code>, <code>CONTESTED</code>. <strong>Turned the gap into a feature; still needs a name if you ever want one</strong></td>
+</tr>
+<tr>
+<td>16</td>
+<td>&quot;Crag&quot; etymology</td>
+<td><code>[NO SURVIVING PRIMARY SOURCE]</code>. <strong>Left open on purpose. Keep it that way</strong></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Maspin: who owns it politically, who sells the labour</td>
+<td>Partly built. Tax remittance to the Royals is filed; <strong>ownership is still undefined and the Council's authority has no stated source</strong></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Maspin family structure</td>
+<td>Entry says the Restoration could not establish it. <strong>Genuinely unresolved, and the vaguest thing about the most distinctive people in the book</strong></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Splendoorians</td>
+<td>One attestation, on a list of slurs. <strong>Correct and complete as an absence</strong></td>
+</tr>
+<tr>
+<td>20</td>
+<td>Kelsa's family on Creta</td>
+<td><strong>Nothing.</strong> Her entry records thin royal blood and Sansvor upbringing. The Creta connection is unbuilt</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Calsco's wife, name</td>
+<td><strong>Nothing.</strong> She is a Book Two lead and does not exist in the corpus. Katanzaria's registry is the most complete in the archive, which makes her absence conspicuous</td>
+</tr>
+<tr>
+<td>22</td>
+<td>The benevolent Director, name</td>
+<td><strong>Nothing.</strong> See Tier One item 4</td>
+</tr>
+<tr>
+<td>13</td>
+<td>The Krostin Sector</td>
+<td>Built as a deliberate hole, three copies, two struck through. <strong>Do not fill this</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h2>From the chapter breakdown, not yet in the corpus</h2>
+<ul>
+<li><strong>&quot;All seven Tier 1 planets have Corefuel&quot;</strong> (Ch. 31). A galactic classification system, stated once,
+absent from the encyclopedia. It also sharpens <code>corefuel</code>, because <em>sole permitted source</em> is uglier
+when six other candidates sit on a list. <strong>High value, cheap to write.</strong></li>
+<li><strong>Sears</strong> (Ch. 16). Named, giving orders, in the most important scene in the book, and in none of
+your worldbuilding notes.</li>
+<li><strong>The AJAX story's setting.</strong> Still Mars. If humans were made on Wake, humanity's pre-interstellar
+past happened there, and renaming it to a body in the Wake system turns a continuity bug into the
+oldest document in the archive.</li>
+<li><strong>Avaris against Cavaris.</strong> The corpus is Cavaris throughout, including four entries built on it.
+The manuscript is still Avaris in four load-bearing places.</li>
+<li><strong>The age arithmetic.</strong> Ch. 1 is Jimzy at eight; Ch. 2 is twenty years later at 26 to 27; your notes
+say he entered at six. Two of those three numbers are compatible. <code>jimzon-cavaris</code> currently files
+age at entry as <code>[RECORD DAMAGED]</code> rather than pick one, which buys you time and is not a decision.</li>
+</ul>
+<hr>
+<h1>What NOT to fill</h1>
+<p>Four absences are doing more work than any entry would. Protect them.</p>
+<ol>
+<li><strong><code>queen-traceen</code>.</strong> Three entries point at the reigning sovereign and she has no page. It is the
+best dead link in the volume and it is theologically exact: nobody can file a goddess as absent.</li>
+<li><strong><code>the-autumnals</code>.</strong> A stub listing one hull, one banner, one tunic. Writing their platform would
+destroy the entire premise.</li>
+<li><strong><code>the-first-world</code>.</strong> The Guard's own origin planet is unnamed in its own archive.</li>
+<li><strong><code>nhath-disbursing-fund</code>.</strong> The fund that paid the Nhaths, identified by internal reference only.
+The reader assembles this. The archive must never state it.</li>
+</ol>
+<hr>
+<h1>What I would do, in order</h1>
+<ol>
+<li>Wire the eighteen persons into the entries that should already mention them. Half a day, and it is
+the difference between a bolt-on and a spine.</li>
+<li>Write <code>galactic-calendar</code> and <code>planetary-calendars</code>. Two entries that thirty-seven others already
+assume.</li>
+<li>Split <code>the-guard</code> and write <code>the-bid-system</code>. The single highest-leverage piece of writing available.</li>
+<li>Write <code>regenerative-medicine</code> and <code>medical-debt</code>, and place them near <code>indentured-servitude</code>.</li>
+<li>Name two Directors. This one is yours, not mine.</li>
+<li>Decide the seven Tier 1 planets, or decide the classification is disputed and print the dispute.</li>
+<li>Give Flora an economy each.</li>
+</ol>
+<p>Items 1 to 4 and 7 I can do from what already exists. Items 5 and 6, and everything in Tier Three's
+first table, need you.</p>
+
+</div>

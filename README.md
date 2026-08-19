@@ -7,6 +7,8 @@ working from paper after **The Wipe**.
 ## Layout
 
 ```
+site/               Eleventy build of the browsable site. See site/README.md.
+design/PLAN.md      The design plan: palette, faces, wireframe, decisions.
 title.md            The epigraph page. One line.
 _conceit.md         The compilers' editorial note on the source tiers.
 index.md            Generated. All entries by category, unresolved refs marked.
@@ -99,3 +101,20 @@ load-bearing one is `queen-traceen`: the reigning sovereign of the Royal systems
 because the archive has no document that would let it write one.
 
 Run `python3 tools/build_index.py` after adding or editing entries.
+
+## The site
+
+`site/` builds the corpus into a browsable reference volume. Eleventy, no client-side
+framework, no CSS framework, self-hosted fonts, 182 pages.
+
+```
+cd site && npm install && npm run serve
+```
+
+Deployment runs from `.github/workflows/pages.yml` on every push to this branch. It
+requires Pages to be turned on once, under **Settings -> Pages -> Build and deployment
+-> Source: GitHub Actions**. Until that is set the workflow will build and fail at the
+deploy step.
+
+The design decisions, including the one place the brief's palette was overridden and
+why, are in `design/PLAN.md`.

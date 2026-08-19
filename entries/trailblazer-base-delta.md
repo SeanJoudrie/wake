@@ -3,7 +3,7 @@ title: Trailblazer Base Delta
 slug: trailblazer-base-delta
 category: location
 tier: INTACT
-cross_refs: [trailblazers, trailblazer-logistics, maspin, riflo, flooms, elder-tree]
+cross_refs: [trailblazers, trailblazer-logistics, maspin, riflo, flooms, elder-tree, calsco-fritt]
 ---
 
 # TRAILBLAZER BASE DELTA

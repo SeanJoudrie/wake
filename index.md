@@ -1,11 +1,11 @@
 # INDEX OF ENTRIES
 
-*192 entries. Compiled to GC 4462. Incomplete.*
+*201 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 115 |
-| `RECOVERED` | 15 |
+| `INTACT` | 125 |
+| `RECOVERED` | 14 |
 | `TESTIMONY` | 43 |
 | `CONTESTED` | 14 |
 | `INFERRED` | 5 |
@@ -118,6 +118,7 @@ See `_conceit.md` for what the tiers mean.
 | [The Trailblazers](entries/trailblazers.md) | `INTACT` |
 | [The accounting division](entries/accounting-division.md) | `INTACT` |
 | [The cartels](entries/the-cartels.md) | `CONTESTED` |
+| [The personnel series](entries/the-personnel-series.md) | `INTACT` |
 | [The quarantine authority](entries/quarantine-authority.md) | `INTACT` |
 | [Trailblazer Logistics](entries/trailblazer-logistics.md) | `INTACT` |
 
@@ -239,23 +240,31 @@ See `_conceit.md` for what the tiers mean.
 ## character
 
 - [Berji](entries/berji.md) `CONTESTED`
+- [Brynor](entries/brynor.md) `INTACT`
 - [Calsco Fritt](entries/calsco-fritt.md) `CONTESTED`
 - [Cillus Vot Shayron-Skoln](entries/cillus-vot-shayron-skoln.md) `INTACT`
 - [Daiser](entries/daiser.md) `INTACT`
-- [Jax](entries/jax.md) `INFERRED`
-- [Jimzon Cavaris](entries/jimzon-cavaris.md) `RECOVERED`
+- [Hada](entries/hada.md) `INTACT`
+- [Jax](entries/jax.md) `INTACT`
+- [Jimzon Cavaris](entries/jimzon-cavaris.md) `INTACT`
 - [Kelsadria Vot Feentor-Jayzin](entries/kelsadria-vot-feentor-jayzin.md) `INTACT`
 - [King Matthew](entries/king-matthew.md) `INTACT`
 - [Korjin Cavaris](entries/korjin-cavaris.md) `INTACT`
 - [Liles](entries/liles.md) `INTACT`
+- [Michael](entries/michael.md) `RECOVERED`
+- [Miss Jaley](entries/miss-jaley.md) `TESTIMONY`
+- [Miss Liles](entries/miss-liles.md) `INTACT`
+- [Mr Armstin](entries/mr-armstin.md) `INTACT`
 - [Nardow](entries/nardow.md) `RECOVERED`
 - [Pavlock](entries/pavlock.md) `INTACT`
 - [Powitt Cavaris](entries/powitt-cavaris.md) `TESTIMONY`
 - [Quinn Domnall](entries/quinn-domnall.md) `INTACT`
 - [Spara Cavaris](entries/spara-cavaris.md) `INTACT`
+- [The Nhath leader](entries/the-nhath-leader.md) `INFERRED`
 - [The Sonaff five](entries/the-sonaff-five.md) `RECOVERED`
-- [Tiam](entries/tiam.md) `TESTIMONY`
-- [Yakib Yalitio](entries/yakib-yalitio.md) `RECOVERED`
+- [Tiam](entries/tiam.md) `INTACT`
+- [Torres](entries/torres.md) `INTACT`
+- [Yakib Yalitio](entries/yakib-yalitio.md) `INTACT`
 
 ## Unresolved cross-references
 
@@ -267,7 +276,7 @@ Referenced in this volume. No entry has been recovered.
 | `board-operational-authorisations` `[ENTRY NOT RECOVERED]` | [The Guard Board of Directors](entries/guard-board-of-directors.md) · [Liles](entries/liles.md) |
 | `kitalia-platform-roll` `[ENTRY NOT RECOVERED]` | [Kitalia](entries/kitalia.md) · [The Kitalia Platform Collapse](entries/kitalia-platform-collapse.md) |
 | `krostin-standing-notice` `[ENTRY NOT RECOVERED]` | [The Krostin Sector](entries/krostin-sector.md) |
-| `nhath-disbursing-fund` `[ENTRY NOT RECOVERED]` | [The Nhath](entries/nhath.md) · [The Guard](entries/the-guard.md) |
+| `nhath-disbursing-fund` `[ENTRY NOT RECOVERED]` | [The Nhath](entries/nhath.md) · [The Guard](entries/the-guard.md) · [The Nhath leader](entries/the-nhath-leader.md) |
 | `pre-war-genetic-survey` `[ENTRY NOT RECOVERED]` | [Humans](entries/humans.md) · [Katanzaria](entries/katanzaria.md) · [Wake](entries/wake.md) |
 | `queen-traceen` `[ENTRY NOT RECOVERED]` | [The Royal Houses](entries/royal-houses.md) · [Shayron](entries/shayron.md) · [The Queen's Anniversary](entries/the-queens-anniversary.md) · [Tracineim](entries/tracineim.md) |
 | `sansvor-port-manifests` `[ENTRY NOT RECOVERED]` | [Sansvor](entries/sansvor.md) |

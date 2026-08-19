@@ -3,7 +3,7 @@ title: Wake Extraction Station
 slug: wake-extraction-station
 category: location
 tier: INTACT
-cross_refs: [corefuel, wake, wakeful-islands, gravity-spires, guard-board-of-directors, synthesis-process-schedule]
+cross_refs: [corefuel, wake, wakeful-islands, gravity-spires, guard-board-of-directors, synthesis-process-schedule, korjin-cavaris, mr-armstin]
 ---
 
 # WAKE EXTRACTION STATION

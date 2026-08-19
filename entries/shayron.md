@@ -3,7 +3,7 @@ title: Shayron
 slug: shayron
 category: world
 tier: INTACT
-cross_refs: [royal-houses, tracineim, high-castle, abandoned-monastic-quarters, shayron-sewers, shayron-lamp-posts, capital-district, maldo, aster, the-queens-anniversary, queen-traceen]
+cross_refs: [royal-houses, tracineim, high-castle, abandoned-monastic-quarters, shayron-sewers, shayron-lamp-posts, capital-district, maldo, aster, the-queens-anniversary, queen-traceen, cillus-vot-shayron-skoln]
 ---
 
 # SHAYRON

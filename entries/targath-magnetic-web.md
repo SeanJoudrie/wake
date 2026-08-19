@@ -3,7 +3,7 @@ title: The Targath magnetic web
 slug: targath-magnetic-web
 category: technology
 tier: TESTIMONY
-cross_refs: [targath, the-guard, torkal-bombers, indentured-servitude, galactic-standard-law]
+cross_refs: [targath, the-guard, torkal-bombers, indentured-servitude, galactic-standard-law, jax]
 ---
 
 # THE TARGATH MAGNETIC WEB

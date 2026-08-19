@@ -3,7 +3,7 @@ title: Maldo
 slug: maldo
 category: world
 tier: INTACT
-cross_refs: [maldo-steel, royal-houses, high-council, shayron, the-autumnals, indentured-servitude, slave-free-territory, burial-moon, king-matthew]
+cross_refs: [maldo-steel, royal-houses, high-council, shayron, the-autumnals, indentured-servitude, slave-free-territory, burial-moon, king-matthew, hada]
 ---
 
 # MALDO

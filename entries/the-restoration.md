@@ -3,7 +3,7 @@ title: The Restoration
 slug: the-restoration
 category: institution
 tier: INTACT
-cross_refs: [the-wipe, guardnet, creta, accounting-division]
+cross_refs: [the-wipe, guardnet, creta, accounting-division, the-personnel-series]
 ---
 
 # THE RESTORATION

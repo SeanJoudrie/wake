@@ -3,7 +3,7 @@ title: The accounting division
 slug: accounting-division
 category: institution
 tier: INTACT
-cross_refs: [the-guard, the-wipe, guard-credits, the-mothership, guardnet, the-restoration]
+cross_refs: [the-guard, the-wipe, guard-credits, the-mothership, guardnet, the-restoration, quinn-domnall]
 ---
 
 # THE ACCOUNTING DIVISION

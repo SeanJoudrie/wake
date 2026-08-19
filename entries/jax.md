@@ -2,19 +2,27 @@
 title: Jax
 slug: jax
 category: character
-tier: INFERRED
-cross_refs: [the-guard, nova-squadron, targath-magnetic-web, indentured-servitude, galactic-standard-law]
+tier: INTACT
+cross_refs: [the-personnel-series, the-guard, nova-squadron, yakib-yalitio, jimzon-cavaris, targath-magnetic-web, custodial-labour]
 ---
 
 # JAX
-`INFERRED`
+`INTACT`
 
-Guard flight personnel. Everything in this entry is inference from two documents that name no one.
+Pilot. One of twelve attached to the platoon, and the one who flies a particular five men whenever those five men go anywhere.
 
-A flight roster of twelve names is held, damaged, one legible. A custodial labour return from the same period records a person of the same service number engaged in the recovery of magnetic ore.
+**Rank:** flight
+**Unit:** twelve-hull establishment
+**Assignment:** general, with a standing operational attachment entered against one team
 
-The Restoration cannot establish whether these are the same person, whether the custodial entry is an error, or what charge produced it, no conviction record having been recovered. `[FILING INCOMPLETE]`
+**Identification schedule.** Black hair, wavy, worn longer than most. Under facial hair, a moustache, entered and permitted.
 
-We print the two documents together because a serving pilot and a custodial labourer sharing a service number is either a clerical fault or something else, and we are not able to say which.
+That entry is worth a sentence. The Guard's ranks are effectively clean-shaven, exemptions are cultural and are fought for over months, and this one is neither. It is simply permitted, and it stayed permitted, which means somebody decided it was not worth the paperwork and somebody else decided it was worth keeping.
 
-*Cross-ref: The Guard · Nova Squadron · The Targath magnetic web · Galactic Standard law*
+**Flying.** Hours are substantial for the age. The sortie returns for his attachment are unusual only in their consistency: the same five names, over and over, across years.
+
+**Social.** Not a field the Guard records. We mention its absence because the operational record shows a pilot who flew one team almost exclusively, and the establishment shows a man rostered with eleven others, and the file gives no way to tell which of those was his life.
+
+The series ends here.
+
+*Cross-ref: The personnel series · The Guard · Nova Squadron · Yakib Yalitio · The Targath magnetic web*

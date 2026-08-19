@@ -3,7 +3,7 @@ title: The Marfeld coming-of-age trial
 slug: marfeld-coming-of-age-trial
 category: practice
 tier: TESTIMONY
-cross_refs: [marfeld, path-of-blood, path-of-root, path-of-sky, marfeld-beard, megafauna-of-marfeld, gift-of-memory]
+cross_refs: [marfeld, path-of-blood, path-of-root, path-of-sky, marfeld-beard, megafauna-of-marfeld, gift-of-memory, pavlock]
 ---
 
 # THE MARFELD COMING-OF-AGE TRIAL

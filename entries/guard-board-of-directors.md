@@ -3,7 +3,7 @@ title: The Guard Board of Directors
 slug: guard-board-of-directors
 category: institution
 tier: INTACT
-cross_refs: [the-guard, corefuel, the-guard-franchise, guard-credits, ministry-of-propaganda, johnny-plasma, board-operational-authorisations]
+cross_refs: [the-guard, corefuel, the-guard-franchise, guard-credits, ministry-of-propaganda, johnny-plasma, board-operational-authorisations, liles, miss-liles]
 ---
 
 # THE GUARD BOARD OF DIRECTORS

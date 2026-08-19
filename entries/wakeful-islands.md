@@ -3,7 +3,7 @@ title: The Wakeful Islands
 slug: wakeful-islands
 category: location
 tier: INFERRED
-cross_refs: [wake, gravity-spires, corefuel, wake-extraction-station, asteroid-colony-docking-pad, scrap-metal-sculpture, wakeful-islands-settlement-roll, jimzon-cavaris]
+cross_refs: [wake, gravity-spires, corefuel, wake-extraction-station, asteroid-colony-docking-pad, scrap-metal-sculpture, wakeful-islands-settlement-roll, jimzon-cavaris, korjin-cavaris, spara-cavaris, powitt-cavaris, mr-armstin, miss-jaley]
 ---
 
 # THE WAKEFUL ISLANDS

@@ -3,7 +3,7 @@ title: The Moon of Sonaff Incident
 slug: moon-of-sonaff-incident
 category: event
 tier: RECOVERED
-cross_refs: [sonaff, dead-moon-raiders, the-guard, accounting-division, ministry-of-propaganda]
+cross_refs: [sonaff, dead-moon-raiders, the-guard, accounting-division, ministry-of-propaganda, quinn-domnall, cillus-vot-shayron-skoln, the-sonaff-five]
 ---
 
 # THE MOON OF SONAFF INCIDENT

@@ -3,7 +3,7 @@ title: Saigo
 slug: saigo
 category: world
 tier: INTACT
-cross_refs: [guard-academy, simulationism, guardnet, the-wipe, datapads, quantum-thread-armor, the-guard]
+cross_refs: [guard-academy, simulationism, guardnet, the-wipe, datapads, quantum-thread-armor, the-guard, michael]
 ---
 
 # SAIGO

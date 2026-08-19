@@ -3,7 +3,7 @@ title: The Academy memorial walls
 slug: academy-memorial-walls
 category: location
 tier: INTACT
-cross_refs: [guard-academy, burial-moon, guard-burial-rites, gem-mosaic-wall, the-guard]
+cross_refs: [guard-academy, burial-moon, guard-burial-rites, gem-mosaic-wall, the-guard, tiam]
 ---
 
 # THE ACADEMY MEMORIAL WALLS

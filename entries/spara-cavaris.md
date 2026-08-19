@@ -3,18 +3,24 @@ title: Spara Cavaris
 slug: spara-cavaris
 category: character
 tier: INTACT
-cross_refs: [royal-houses, korjin-cavaris, jimzon-cavaris, wakeful-islands, planetary-defense-forces]
+cross_refs: [royal-houses, korjin-cavaris, jimzon-cavaris, wakeful-islands, planetary-defense-forces, nhath, translator-chips]
 ---
 
 # SPARA CAVARIS
 `INTACT`
 
-Former officer, Royal Space Force. Decorated.
+Royal Space Force. Decorated. Then a woman on an asteroid with two boys, and then nothing.
 
-**Service record:** held, the Royal service registers having survived intact. Commission, postings, and three decorations are recorded, with citations.
-**Discharge:** recorded. Grounds are given as at own request.
-**Subsequent:** no Royal filing after discharge. No pension drawn. No return to the Royal systems recorded at any port.
+**Service record:** held complete, the Royal registers having survived. Commission, postings, three decorations, each with its citation.
+**Sidearm:** a Royal service pistol, issued, engraved to the pattern of her arm of service, and recorded as retained on discharge. The retention is regular and is entered.
+**Discharge:** at own request.
 
-A Royal officer who discharges at own request and then vanishes from the Royal record entirely is unusual enough that the Restoration checked the series twice.
+**After discharge.** Nothing. No Royal filing of any kind. No pension drawn, in any year. No arrival recorded at any port in the Royal systems.
 
-*Cross-ref: The Royal Houses · Korjin Cavaris · Jimzon Cavaris · The Wakeful Islands*
+An officer of her rank who discharges at own request and then leaves the Royal record entirely is unusual enough that we went back through the series a second time to be sure we had not missed a page. We had not.
+
+**One further note, and it is not from her record.** The Nhath entry in this volume describes a leader wearing a Guard translator chip at the neck, and the medical literature on that implant notes it is sought by patients wanting to cover a mark already in that place.
+
+We hold no document connecting those two facts. We record that we noticed them.
+
+*Cross-ref: The Royal Houses · Korjin Cavaris · Jimzon Cavaris · The Wakeful Islands · The Nhath · Translator chips*

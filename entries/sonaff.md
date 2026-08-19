@@ -3,7 +3,7 @@ title: Sonaff
 slug: sonaff
 category: world
 tier: TESTIMONY
-cross_refs: [moon-of-sonaff-incident, dead-moon-raiders, the-guard, the-collective, ancestor-faiths, the-sonaff-five]
+cross_refs: [moon-of-sonaff-incident, dead-moon-raiders, the-guard, the-collective, ancestor-faiths, the-sonaff-five, quinn-domnall, cillus-vot-shayron-skoln]
 ---
 
 # SONAFF

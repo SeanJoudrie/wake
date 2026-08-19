@@ -2,22 +2,38 @@
 title: Jimzon Cavaris
 slug: jimzon-cavaris
 category: character
-tier: RECOVERED
-cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-cavaris, spara-cavaris, powitt-cavaris, the-guard, enlistment-rites-form]
+tier: INTACT
+cross_refs: [the-personnel-series, guard-academy, wakeful-islands, wake, corefuel, korjin-cavaris, spara-cavaris, powitt-cavaris, the-guard, liles, kelsadria-vot-feentor-jayzin, pavlock, berji, yakib-yalitio, jax, modanick, crag, tiam]
 ---
 
 # JIMZON CAVARIS
-`RECOVERED`
+`INTACT`
 
-Serving member of the Guard. Taken up as a ward of the Academy following an incident in the Wake extraction zone.
+Spec Ops Staff Sergeant. Twenty-six or twenty-seven. In Guard custody since he was eight and in Guard employment since long before that was lawful.
 
-**Wardship register:** entry survives. Name, age at entry, world of origin, and incident reference are legible. The incident reference resolves to no file this archive holds. `[FILING INCOMPLETE]`
-**Age at entry:** `[RECORD DAMAGED]`
-**World of origin:** Modanick, by the register. The Restoration notes that the register records the world of birth and not the world of residence, and that the two are frequently different in the wardship series.
-**Present status:** serving. Rank and unit are not published for personnel below Directorate level.
+**Born:** Modanick. Residence there: none recorded, at any point.
+**Raised:** an extraction settlement in the Wake debris field, to age eight
+**Taken up:** wardship, following the loss of the settlement. The incident reference is entered. It resolves to no file this archive holds `[FILING INCOMPLETE]`
+**Rank:** Spec Ops Staff Sergeant
+**Promotion:** to Captain, pending. Recorded as offered and not returned
 
-Nothing further has been recovered. A person taken into an institution at that age acquires no civil record afterward: no municipal roll, no tax return, no marriage or property filing. What exists of him exists inside the Guard, and the Guard does not release it.
+**Identification and medical schedule.** Brown hair, worn short. Build unremarkable. Two entries under distinguishing marks:
 
-*[Compiler's note: the wardship register is one of the more complete series we hold. It is complete about the taking and silent about everything after.]*
+> *Nasal bridge, healed fracture, malunion. Not surgically corrected.*
+> *Left cheek, linear burn scar approx. 40mm, follicular loss.*
 
-*Cross-ref: The Guard Academy · The Wakeful Islands · Korjin Cavaris · Spara Cavaris · Powitt Cavaris*
+The first is a fistfight. The second is fireworks the night he passed out of the Academy. Neither is operationally significant and both are in the file forever.
+
+**Equipment issue.** Armour, personal, matt black, non-reflective. Visor, blue. The armour is recorded as owner-finished, which is a schedule entry meaning he paints it himself.
+
+**Commendations.** Extensive. The list runs to a page and a half and we have not reproduced it here because it does not tell you anything the length of it does not already.
+
+**Leave.** A period of leave is entered near the end of the series. Purpose: not stated. Authorising officer: entered, and legible.
+
+There is no other leave in the file with the purpose field empty.
+
+The series ends here.
+
+*[Compiler's note: the wardship register is one of the more complete series we hold. It is exact about the taking and silent about everything after it, and then this file is exact about everything after and silent about the taking. Between the two of them there is a boy on a rock and no account of what happened to him.]*
+
+*Cross-ref: The personnel series · The Guard Academy · The Wakeful Islands · Korjin Cavaris · Spara Cavaris · Powitt Cavaris · Liles · Modanick*

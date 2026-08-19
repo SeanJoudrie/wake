@@ -3,7 +3,7 @@ title: Astrovin
 slug: astrovin
 category: flora-fauna
 tier: INTACT
-cross_refs: [schedule-of-unreplaceable-classes, creta, shayron, the-great-war]
+cross_refs: [schedule-of-unreplaceable-classes, creta, shayron, the-great-war, miss-jaley]
 ---
 
 # ASTROVIN

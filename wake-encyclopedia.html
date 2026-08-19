@@ -12,6 +12,9 @@
   --ink-soft: #665D4C;  /* brief gave #6E6555; darkened to clear WCAG AA on --paper */
   --seal:     #23474C;
 
+  /* Source-tier labels. Deliberately the quietest ink on the page. */
+  --tier-ink: #93876F;
+
   /* RESERVED. Only where the record fails. Nothing else on this site is this colour. */
   --absence:  #9B3A2E;
 
@@ -316,21 +319,16 @@ main tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-deep)
 /* The signature element. A stamp on paper. */
 .stamp {
   margin: 0 0 var(--sp-5);
-  padding: 5px 0;
-  border-top: 1px solid currentColor;
-  border-bottom: 1px solid currentColor;
+  padding: 4px 0;
+  border-top: 1px solid var(--paper-edge);
+  border-bottom: 1px solid var(--paper-edge);
   transform: rotate(-0.3deg);
   text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  text-transform: lowercase;
+  letter-spacing: 0.03em;
   font: 400 10px/1.4 var(--data);
-  opacity: 0.85;
-  color: var(--seal);
+  color: var(--tier-ink);
 }
-.stamp[data-tier="RECOVERED"],
-.stamp[data-tier="TESTIMONY"],
-.stamp[data-tier="INFERRED"] { color: var(--ink-soft); }
-.stamp[data-tier="CONTESTED"] { color: var(--absence); }
 .stamp[data-tier="TESTIMONY"] { border-top-style: dashed; border-bottom-style: dashed; }
 .stamp[data-tier="INFERRED"] { border-top-style: dotted; border-bottom-style: dotted; }
 
@@ -363,8 +361,7 @@ main tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-deep)
 
 .listing { list-style: none; margin: 0 0 var(--sp-7); padding: 0; }
 .listing li { display: flex; justify-content: space-between; gap: var(--sp-4); padding: var(--sp-2) 0; border-bottom: var(--hair); }
-.listing .tier { font: 400 10px/1.8 var(--data); letter-spacing: 0.04em; color: var(--ink-soft); opacity: 0.8; white-space: nowrap; }
-.listing .tier[data-tier="CONTESTED"] { color: var(--absence); }
+.listing .tier { font: 400 10px/1.8 var(--data); letter-spacing: 0.02em; text-transform: lowercase; color: var(--tier-ink); white-space: nowrap; }
 .listing a { color: var(--seal); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 
 .gap-item { padding: var(--sp-4) 0; border-bottom: var(--hair); }
@@ -517,7 +514,7 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 .sec-gaps {
   flex: none;
   font: 400 10px/1.8 var(--data);
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 0.04em;
   color: var(--absence);
   opacity: 0.9;
@@ -596,6 +593,7 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 }
 .cat-count {
   flex: none;
+  text-transform: lowercase;
   font: 400 10px/1.8 var(--data);
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -603,6 +601,7 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 }
 .cat-contested {
   flex: none;
+  text-transform: lowercase;
   font: 400 10px/1.8 var(--data);
   text-transform: uppercase;
   letter-spacing: 0.06em;

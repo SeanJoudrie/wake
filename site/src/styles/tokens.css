@@ -10,6 +10,9 @@
   --ink-soft: #665D4C;  /* brief gave #6E6555; darkened to clear WCAG AA on --paper */
   --seal:     #23474C;
 
+  /* Source-tier labels. Deliberately the quietest ink on the page. */
+  --tier-ink: #93876F;
+
   /* RESERVED. Only where the record fails. Nothing else on this site is this colour. */
   --absence:  #9B3A2E;
 

@@ -43,3 +43,10 @@ dead reference and forget.
 
 `SITE_BASE` in the workflow sets the path prefix (`/wake` for a project page). Set it to
 an empty string for a custom domain or a user page.
+
+## Single-file build
+
+`node build-artifact.mjs` (with `SITE_BASE='#'`) packages all 182 routes into one
+self-contained `../wake-encyclopedia.html`: same templates, same tokens, hash routing,
+fonts inlined as data URIs. It opens from a file:// URL with no server and makes no
+network request. Useful for sharing a copy or reading offline.

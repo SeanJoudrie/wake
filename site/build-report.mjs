@@ -1,8 +1,22 @@
 import fs from "node:fs";
 import MarkdownIt from "markdown-it";
+import { loadEntries } from "./lib/entries.js";
 
 const md = new MarkdownIt({ html: false });
 const src = fs.readFileSync("../design/GAPS-ANALYSIS.md", "utf8");
+
+// Read the strapline off the corpus so it cannot go stale again.
+const { entries } = loadEntries();
+const wordCount = entries.reduce(
+  (a, e) =>
+    a +
+    (e.lead + e.sections.map((s) => s.html).join(" ") + e.notes)
+      .replace(/<[^>]+>/g, " ")
+      .split(/\s+/)
+      .filter(Boolean).length,
+  0
+);
+const strapline = `${entries.length} entries &middot; ${wordCount.toLocaleString()} words &middot; measured, not eyeballed`;
 
 // Drop the H1 and the italic strapline; they become the page header.
 const body = md.render(
@@ -68,7 +82,7 @@ blockquote{margin:1.5rem 0;padding-left:1.25rem;border-left:2px solid var(--pape
 <div class="wrap">
 <header class="top">
 <h1>Where the encyclopedia is thin</h1>
-<p>191 entries &middot; 28,103 words &middot; measured, not eyeballed</p>
+<p>${strapline}</p>
 </header>
 ${body.replace(/<table>/g, '<div class="scroll"><table>').replace(/<\/table>/g, "</table></div>")}
 </div>

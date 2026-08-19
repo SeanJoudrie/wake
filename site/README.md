@@ -47,6 +47,13 @@ dead reference and forget.
 `SITE_BASE` in the workflow sets the path prefix (`/wake` for a project page). Set it to
 an empty string for a custom domain or a user page.
 
+## Analysis
+
+`node analyse.mjs` measures the corpus and prints the gap report: words, inbound and outbound
+references, citations, gap markers, and hedge phrases per entry. Inbound against words finds
+structural holes; hedge counts find undecided worldbuilding. Output feeds
+`../design/GAPS-ANALYSIS.md`, which `node build-report.mjs` renders to a styled page.
+
 ## Single-file build
 
 `node build-artifact.mjs` (with `SITE_BASE='#'`) packages all 182 routes into one

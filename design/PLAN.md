@@ -1,0 +1,90 @@
+# Design plan
+
+Written before the code, per the brief. Every value in `site/src/styles/tokens.css`
+derives from this page.
+
+## Palette
+
+| Token | Value | Job |
+|---|---|---|
+| `--paper` | `#E8DFCC` | page. Manila, not cream |
+| `--paper-deep` | `#DAD0B7` | table stripes at 40% |
+| `--paper-edge` | `#C8BC9F` | hairlines, dividers, the compiler-note bar |
+| `--ink` | `#24211C` | primary text |
+| `--ink-soft` | `#665D4C` | secondary text, labels, compiler notes |
+| `--seal` | `#23474C` | links, focus rings, the INTACT stamp |
+| `--absence` | `#9B3A2E` | **reserved** |
+
+`--ink-soft` was given as `#6E6555`. At that value it contrasts 4.35:1 against
+`--paper`, which fails WCAG AA for body-size text, and the quality floor is not
+optional. Darkened to `#665D4C`, which measures 4.86:1. Nothing else moved.
+
+**The reserved colour.** `--absence` appears only where the record fails: the
+`CONTESTED` stamp, `[ENTRY NOT RECOVERED]`, `[RECORD DAMAGED]`, dead cross-references,
+and any population the archive cannot narrow. Not links, not buttons, not headings,
+not hovers. A reader learns to scan for it within two entries, and after that the
+quantity of red on a page is a readout of how much the archive does not know.
+
+The build enforces this: `#9B3A2E` is defined once, in `tokens.css`, and reached only
+through the variable.
+
+## Faces
+
+| Role | Face | Job |
+|---|---|---|
+| Display | Archivo Narrow 600 | entry titles, category labels, index headers |
+| Body | IBM Plex Serif 400/600/400i | all running text |
+| Data | IBM Plex Mono 400/500 | tier stamps, every metadata value, cross-references, compiler notes, gap markers |
+
+Self-hosted from `site/src/styles/fonts/`, latin and latin-ext only, 208 KB total.
+No request leaves the page at runtime.
+
+Every metadata value is mono, which is what makes the numbers rule visible: a Guard
+tonnage filed to one decimal and a civilian population range a billion wide sit in the
+same face at the same size, four rows apart.
+
+## Entry template
+
+```
+┌───────────────┬──────────────────────────────┬──────────────────┐
+│ ⌕ search      │                              │ ══════════════   │
+│               │  WAKE                        │  CONTESTED       │ stamp, -0.4deg
+│ WORLDS        │  also: Waketin · Origin      │ ══════════════   │
+│ │Wake         │  ──────────────────────────  │                  │
+│  Modanick     │                              │ SYSTEM           │
+│  Creta        │  Destroyed planet. Widely    │ Wake (six bodies)│
+│               │  held to be the world of     │ ──────────────   │
+│ PEOPLES       │  human origin, though the    │ POPULATION       │
+│  Humans       │  claim rests on sampling     │ 900 million to   │ absence
+│  The Nhath    │  whose methodology did not   │ 4 billion        │
+│               │  survive.                    │ ──────────────   │
+│ EVENTS        │                              │ MEMBERSHIP       │
+│  The Wipe     │  ┃ [Compiler's note: we      │ [ENTRY NOT       │ absence
+│               │  ┃ hold four hundred and     │  RECOVERED]      │
+│ 240px         │  ┃ eleven pages of ledger…]  │                  │
+│               │        65ch, max 720px       │ CROSS-REF        │
+│               │                              │ Corefuel         │
+│               │                              │ T̶h̶e̶ ̶W̶a̶k̶e̶ ̶c̶e̶n̶s̶u̶s̶  │
+│               │                              │ [ENTRY NOT REC.] │ dead
+└───────────────┴──────────────────────────────┴──────────────────┘
+```
+
+At 1080px the metadata column moves above the body. At 720px the index becomes a
+drawer, the tier stamp comes first, and cross-references go to the foot.
+
+## Signature element
+
+A struck ink stamp, rotated a half-degree, that is the only heavy mark on the page and
+turns red only when the archive is uncertain.
+
+## Three defaults deliberately broken
+
+1. **The metadata column would have been a card** with a tinted fill and rounded
+   corners. Removed. It is a bare column of hairline-separated rows on the same paper
+   as the body, so the stamp is the only object on the page with weight.
+2. **Search would have returned matching entries.** It also returns absences: typing
+   `autumnal` surfaces `The Autumnal charter — referenced by 3` in `--absence`, unlinked.
+   A search field that returns holes is not something built for any other reference site.
+3. **`/gaps` would have been alphabetical.** It is ranked by inbound reference count, so
+   the most-pointed-at absence is first. Alphabetical is a list. Ranked is the shape of
+   the hole.

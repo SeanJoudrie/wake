@@ -9,19 +9,16 @@ cross_refs: [polaris-system, weton, baline, polaris-scrip]
 # SCHRIGGÉ
 `INTACT`
 
-Worked moon of the Polaris system. Salt.
+Brine flats to the horizon, white and flat and dazzling, and 9,880,400 tonnes a year of the one thing without which none of the rest of it keeps.
 
 **System:** Polaris
 **Status:** local government retained. Licensing held on Kelton
 **Population:** between 900,000 and 6 million
-**Membership:** application and assessment
 **Calendars in use:** Polaris Harvest Reckoning
 **Principal exports:** salt, brine chemicals, mineral supplement
 
-Brine flats and evaporation pans across the equatorial basins. Filed output GC 4461: 9,880,400 tonnes.
+Nothing this system grows can be cured, preserved, shipped or eaten at scale without what leaves here. Schriggé appears in the system's own promotional and educational material less often than any other inhabited body in it.
 
-Nothing the system grows can be preserved, cured, shipped or eaten at scale without this moon's output, and the moon appears in the system's promotional and educational material less often than any other inhabited body in it.
-
-**Orthography.** Schriggé is the only body in the system whose registered name carries a diacritic. The mark is retained in local filings and is dropped in Kelton's. The Restoration retains it.
+**The accent.** Schriggé is the only body in the system whose registered name carries a mark. Local filings keep it. Kelton's drop it. We keep it.
 
 *Cross-ref: The Polaris System · Weton · Baline*

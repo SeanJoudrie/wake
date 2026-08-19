@@ -3,20 +3,18 @@ title: The Wakeful Islands
 slug: wakeful-islands
 category: location
 tier: INFERRED
-cross_refs: [wake, gravity-spires, corefuel, wake-extraction-station, asteroid-colony-docking-pad, scrap-metal-sculpture, wakeful-islands-settlement-roll]
+cross_refs: [wake, gravity-spires, corefuel, wake-extraction-station, asteroid-colony-docking-pad, scrap-metal-sculpture, wakeful-islands-settlement-roll, jimzon-cavaris]
 ---
 
 # THE WAKEFUL ISLANDS
 `INFERRED`
 
-Collective informal name for the inhabited fragments of the Wake field. Not a filing term. The Restoration adopts it because informants use it and because no administrative name for the inhabited zone appears in any document we hold.
+What people called the rocks they lived on. It is not a filing term. We use it because they use it, and because no document we hold has a name for the inhabited part of a dead planet.
 
-**Extent.** Sixty-one fragments are catalogued by the licensing authority as extraction-grade. An unstated number of these carried permanent habitation. Our estimate of between nine and thirty is inferred from the number of gravity spire installations appearing on the parts requisition schedules, and should be treated accordingly.
+**How many.** Sixty-one fragments are catalogued as worth extracting from. Some unstated number of those carried people. Our estimate of nine to thirty comes from counting gravity spire installations on the parts requisitions, and should be treated as exactly that good.
 
-**Habitation.** Permitted under extraction licence, not under a settlement charter. Residents were therefore not colonists in law and did not appear on a settlement roll. This is the reason no population figure exists for a place that had a school.
+**Why nobody was counted.** They lived there under an extraction licence, not a settlement charter. In law they were not colonists. There was therefore no settlement roll to be on, which is how a place with a school ends up with no population figure.
 
-Reported features, from testimony: houses linked by intercom rather than by network, weekly supply landings, a single docking pad per fragment, gardens under spire atmosphere, and an orbital communications blackout of several days occurring approximately twice per standard year.
+**What it was like,** from testimony: houses linked by intercom because there was no network to link them with. One landing pad a fragment, one supply run a week. Gardens under spire air. And twice a standard year, for several days, an orbital condition that took the radio out entirely and against which the only remedy was to work to the published timetable.
 
-**Present status.** No current licence lists a fragment as inhabited.
-
-*Cross-ref: Wake · Gravity spires · Corefuel · Wake Extraction Station · The asteroid colony docking pad · The scrap-metal sculpture · The settlement roll `[ENTRY NOT RECOVERED]`*
+*Cross-ref: Wake · Gravity spires · Wake Extraction Station · The asteroid colony docking pad · The scrap-metal sculpture · The settlement roll `[ENTRY NOT RECOVERED]`*

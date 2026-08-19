@@ -9,16 +9,16 @@ cross_refs: [maspin, the-abyss, gem-mosaic-wall, elder-tree-interment-rite, floo
 # THE ELDER TREE
 `TESTIMONY`
 
-A single tree of great height on Maspin, hollow at the base, in continuous ceremonial use. The principal interment site of the settled belt.
+One tree, hollow at the base, going up into cloud. Inside it there is a chamber with mosaic walls and a chandelier, and in the middle of the floor there is a hole.
 
-**Description, from testimony.** The trunk is hollow to a chamber of some size. The chamber walls are mosaic. A chandelier hangs above a circular opening in the floor, catalogued here as the Abyss. Humans and Maspin attend together and there is no separate provision for either.
+**Inside.** Every account agrees on the room: the mosaic, the light hanging above, humans and Maspin standing together with no arrangement made for either, and the opening at the centre with nothing around it.
 
-**Height.** Not measured. Every informant describes the crown as entering cloud. Trailblazer survey work in the surrounding concession recorded canopy heights in the district and stopped at the boundary of the ceremonial ground, by agreement.
+**Height.** Nobody has measured it. Every informant describes the crown entering cloud. Trailblazer survey work in the surrounding concession recorded canopy heights across the district and stopped at the edge of the ceremonial ground, by agreement.
 
-**Function.** Interment. The rite is catalogued separately. The Maspin hold that what is committed to the Abyss returns to the subterranean ocean and that the tree draws on it.
+**What it is for.** The dead go into the hole. Blue vapour comes back up afterwards and is taken into the tree. The Maspin hold that what goes down returns to the ocean beneath the crust and that the tree drinks from it.
 
-The Restoration notes that the surrounding district is exceptionally fertile and that no fertiliser is imported into it.
+**One thing we can add.** The district around this tree is exceptionally fertile, and nothing is imported into it.
 
-Attributed to C., Base Delta, and to four Maspin informants who asked to be recorded collectively.
+Attributed to C., Base Delta, and to four Maspin informants who asked to be recorded together.
 
 *Cross-ref: Maspin · The Abyss · The gem mosaic wall · The Elder Tree interment rite · Flooms*

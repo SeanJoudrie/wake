@@ -3,31 +3,33 @@ title: Maspin
 slug: maspin
 category: world
 tier: INTACT
-cross_refs: [the-maspin, council-of-riflo, elder-tree, flooms, kraskor, indentured-servitude, slave-free-territory, trailblazers, gift-of-memory, maspin-dietary-practice, riflo, beryllium-rifles, season-of-long-nights]
+cross_refs: [the-maspin, council-of-riflo, elder-tree, flooms, kraskor, indentured-servitude, slave-free-territory, trailblazers, gift-of-memory, maspin-dietary-practice, riflo, beryllium-rifles, season-of-long-nights, daiser]
 ---
 
 # MASPIN
 `INTACT`
 
-Remote jungle world of high volcanic and seismic activity. Homeworld of the Maspin. Resource-poor. Not a member.
+Jungle to the horizon in every direction, and under it an ocean nobody has seen. Far enough out that most of the people born here will never leave, and poor enough that most of the ones who could, do not.
 
 **System:** Maspin (single star, twelve bodies, one habitable)
-**Status:** independent. Not a member. Trailblazer port concessions in force. Royal tax jurisdiction asserted and paid
+**Status:** independent. Trailblazer port concessions in force. Royal tax jurisdiction asserted, and paid
 **Population:** between 40 million and 200 million
-**Membership:** by the account of the Council, there is no instrument of membership, the population regarding itself as one family
+**Membership:** the Council says there is no such thing, the people being one family
 **Calendars in use:** Galactic Calendar in the ports; the Maspin reckoning, anchored to the Season of Long Nights
-**Principal exports:** flavoured fruits, kraskor, flooms and floom product
+**Principal exports:** flavoured fruits, kraskor, flooms
 
-**Conditions.** Continuous jungle across the settled belt. Eruption, quake, storm and flood are recorded as annual rather than exceptional. The Council's own submissions to the Royal treasury, which this archive holds in copy, list within one nine-year period: four eruptions, eleven significant quakes, the loss of two monastic foundations to flooding, and burned crop across an area the submission does not quantify.
+**The ground moves.** Eruption, quake, storm and flood are annual here rather than exceptional. The Council's own submissions to the Royal treasury, which we hold in copy, list within one nine-year stretch: four eruptions, eleven significant quakes, two monasteries lost to water, and burned crop across an area the submission does not put a number to.
 
-**Taxation.** Maspin remits to the Royal houses. The figure is filed and is precise. For the most recent solar rotation returned: 10,000,000 royal credits.
+**The fruit.** Remote worlds cannot sell bulk, so Maspin sells what only Maspin has. The fruit here comes in flavours that do not occur elsewhere and it travels badly, which is precisely why the offworld rich pay what they pay for it. Everything else the world exports is an animal or a plant that also grows somewhere closer.
 
-Against that figure the Restoration is able to place no corresponding expenditure, no relief disbursement, and no acknowledgement of receipt. The Council's submissions record fourteen applications for assistance over nineteen years. Our holdings contain no reply to any of them.
+**The ocean underneath.** The Maspin hold that the water beneath the crust is alive, that they are made from it, and that they go back into it. They do not present this as belief. They present it as the way the world is put together, in the tone another people would use for the tides.
 
-**The subterranean ocean.** The Maspin hold that a body of water beneath the crust is living, that they are constituted from it, and that they return to it. This is recorded as reported. It is a religious account and is filed as one. Survey material confirms the existence of a substantial subsurface body and says nothing else about it.
+Survey material confirms a large subsurface body of water. It says nothing else at all.
 
-**Labour.** Maspin styles itself a slave-free territory. The instrument is catalogued separately. Indentured servitude is lawful on the world and is administered by the Council.
+**What it costs to be here.** Maspin remits to the Royal houses, and the figure is filed to the credit: **10,000,000 royal credits** in the most recent solar rotation returned.
 
-**Trailblazer presence.** Port construction and operation under concession. One seat on the Council of Riflo is held by a Trailblazer representative and has been since GC 4451.
+Against that we can set no disbursement, no relief, and no acknowledgement of receipt. The Council's file records fourteen requests for assistance across nineteen years. We hold no reply to any of them, and the Council says none came.
 
-*Cross-ref: The Maspin · The Council of Riflo · The Elder Tree · Flooms · "Slave-free territory" · Indentured servitude · The Trailblazers · The Gift of Memory*
+**Labour.** Maspin calls itself a slave-free territory, and the declaration is accurate as the law defines the word. Indenture is lawful here and is administered by the Council itself.
+
+*Cross-ref: The Maspin · The Council of Riflo · The Elder Tree · Flooms · Indentured servitude · "Slave-free territory" · The Trailblazers · The Gift of Memory*

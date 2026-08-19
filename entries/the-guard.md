@@ -3,30 +3,36 @@ title: The Guard
 slug: the-guard
 category: institution
 tier: INTACT
-cross_refs: [guard-board-of-directors, johnny-plasma, the-guard-franchise, galactic-standard-law, guard-credits, guardnet, guard-academy, the-mothership, accounting-division, ministry-of-propaganda, foundation-day, crag, refugee-displacement, the-great-war, the-first-world, nhath-disbursing-fund]
+cross_refs: [guard-board-of-directors, johnny-plasma, the-guard-franchise, galactic-standard-law, guard-credits, guardnet, guard-academy, the-mothership, accounting-division, ministry-of-propaganda, foundation-day, crag, refugee-displacement, the-great-war, liles, standing-order-41, nhath-disbursing-fund, the-first-world]
 ---
 
 # THE GUARD
 `INTACT`
 
-The principal political and military body of the present period. Incorporated GC 4406. Not a belligerent in the Great War, having been formed after it.
+A police force on a small world with a port, which is now the largest thing in the galaxy. It did not fight the war. It was incorporated four years after the war stopped, by people who had.
 
-**Founding.** The incorporation instrument is held. It names nine founders by name and prior title: four general officers of forces that no longer existed, and five holders of commercial interests, principally in shipping, insurance and salvage. The instrument constitutes the body as a chartered corporation providing security services under contract to subscribing worlds.
+**Founding.** The incorporation instrument survives and names nine founders by name and prior title. Four were general officers of armies that no longer existed. Five held commercial interests in shipping, insurance and salvage.
 
-The body began as the police force of a single small world with port access, extended by agreement with local militias on neighbouring worlds, and consolidated those arrangements over approximately fifteen years.
+It constitutes the body as a chartered corporation selling security to subscribing worlds. That is what it is. Everything since has been growth.
 
-**Character.** A single unified force rather than a coalition of national contingents, and a single unified service rather than separate branches. Member worlds do not contribute distinguishable formations. They contribute persons, who are absorbed.
+The first world is not named in the instrument, and we have not been able to establish it.
 
-**Terms of membership.** Member worlds retain their own laws, religion, observances, statutes and internal government. They pay an assessed share of revenue. They provide personnel by levy or by cash commutation. In return they receive defence, and free movement of persons between all member worlds.
+**What you get for joining.** Defence, and free movement of persons between every member world.
 
-The Restoration notes that free movement, and not defence, is the term most often cited by member worlds in their own accession debates. In the eleven accession records we hold in full, it is cited first in nine.
+Read the accession debates and it is the second one they talk about. We hold eleven in full, and in nine of them the right to go somewhere is the argument that carries the vote. That is what a galaxy remembers after it has watched borders decide who lived.
 
-**Franchise.** Catalogued separately. Planetary citizenship and Guard citizenship are distinct. Voting is a function of the second.
+**What you give.** An assessed share of revenue, and people. Your own laws, religion, holidays and government stay yours. Planetary law can be struck by the Guard at any time and almost never is, because the Guard wants the money and not the argument.
 
-**Service.** By contract, not enlistment. Contracts run for a fixed term with a completion bonus assessed per operation. Operational assignment within an embarked establishment is by bid: units apply for available tasks and the applications of units with strong completion records are preferred. Acceptance rates by unit are filed.
+**Not an army, a company.** There are no branches. Flight, ground, engineering, medical and administrative divisions share the same hull, the same mess and the same seniority list. Nobody serves in a national contingent; absorbed formations enter as individuals, which is why no formation in the establishment is older than the Guard itself.
 
-**Recovery of materiel.** Standing order 41 provides for the recovery of materiel from cleared objectives, and schedules the classes of item that may be retained by the recovering personnel. The order and the schedule are `INTACT` and have been amended twice, on each occasion to widen the schedule.
+**Not enlistment, contract.** Fixed term, completion bonus per operation. Units bid for the work that is going, and units with strong completion records win what they bid on. Acceptance rates are filed by unit.
 
-**Enforcement.** Galactic Standard law is universal and binding. Planetary law is local and may be struck by the Guard at any time. It is almost never struck. Enforcement of Galactic Standard is not uniform and is not required by any instrument to be.
+Nobody is assigned. Everybody applies.
 
-*Cross-ref: The Guard Board of Directors · The Guard franchise · Galactic Standard law · Guard credits · Johnny Plasma · The Guard Academy · The Great War · The first world `[ENTRY NOT RECOVERED]` · The disbursing fund `[ENTRY NOT RECOVERED]`*
+**Standing order 41.** Materiel at a cleared objective is recovered rather than destroyed, and a schedule sets out what the recovering personnel may keep. The schedule has been widened twice. Retained items are not entered anywhere, on the stated ground that entering them would be disproportionate.
+
+**Enforcement.** Galactic Standard law is universal and binding. Nothing in it requires enforcement to be even, provides a complaint for uneven enforcement, or names a body to hear one.
+
+The laws are not there to be applied. They are there to be available.
+
+*Cross-ref: The Guard Board of Directors · The Guard franchise · Galactic Standard law · Standing order 41 · Guard credits · The Guard Academy · Liles · The first world `[ENTRY NOT RECOVERED]`*

@@ -1,10 +1,10 @@
 # INDEX OF ENTRIES
 
-*191 entries. Compiled to GC 4462. Incomplete.*
+*192 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 114 |
+| `INTACT` | 115 |
 | `RECOVERED` | 15 |
 | `TESTIMONY` | 43 |
 | `CONTESTED` | 14 |
@@ -141,6 +141,7 @@ See `_conceit.md` for what the tiers mean.
 | [Ancestor faiths](entries/ancestor-faiths.md) | `TESTIMONY` |
 | [Aster](entries/aster.md) | `TESTIMONY` |
 | [Cargo cults](entries/cargo-cults.md) | `TESTIMONY` |
+| [Custodial labour](entries/custodial-labour.md) | `INTACT` |
 | [Dreamwalking](entries/dreamwalking.md) | `TESTIMONY` |
 | [Foundation Day](entries/foundation-day.md) | `INTACT` |
 | [Galactic Standard law](entries/galactic-standard-law.md) | `INTACT` |
@@ -268,7 +269,7 @@ Referenced in this volume. No entry has been recovered.
 | `krostin-standing-notice` `[ENTRY NOT RECOVERED]` | [The Krostin Sector](entries/krostin-sector.md) |
 | `nhath-disbursing-fund` `[ENTRY NOT RECOVERED]` | [The Nhath](entries/nhath.md) · [The Guard](entries/the-guard.md) |
 | `pre-war-genetic-survey` `[ENTRY NOT RECOVERED]` | [Humans](entries/humans.md) · [Katanzaria](entries/katanzaria.md) · [Wake](entries/wake.md) |
-| `queen-traceen` `[ENTRY NOT RECOVERED]` | [The Royal Houses](entries/royal-houses.md) · [The Queen's Anniversary](entries/the-queens-anniversary.md) · [Tracineim](entries/tracineim.md) |
+| `queen-traceen` `[ENTRY NOT RECOVERED]` | [The Royal Houses](entries/royal-houses.md) · [Shayron](entries/shayron.md) · [The Queen's Anniversary](entries/the-queens-anniversary.md) · [Tracineim](entries/tracineim.md) |
 | `sansvor-port-manifests` `[ENTRY NOT RECOVERED]` | [Sansvor](entries/sansvor.md) |
 | `synthesis-process-schedule` `[ENTRY NOT RECOVERED]` | [Corefuel](entries/corefuel.md) · [Korjin Cavaris](entries/korjin-cavaris.md) · [Wake Extraction Station](entries/wake-extraction-station.md) |
 | `the-first-world` `[ENTRY NOT RECOVERED]` | [Johnny Plasma](entries/johnny-plasma.md) · [The Guard](entries/the-guard.md) |

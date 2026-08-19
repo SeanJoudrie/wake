@@ -170,14 +170,15 @@ main tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-deep)
 /* The signature element. A stamp on paper. */
 .stamp {
   margin: 0 0 var(--sp-5);
-  padding: var(--sp-2) 0;
-  border-top: 2px solid currentColor;
-  border-bottom: 2px solid currentColor;
-  transform: rotate(-0.4deg);
+  padding: 5px 0;
+  border-top: 1px solid currentColor;
+  border-bottom: 1px solid currentColor;
+  transform: rotate(-0.3deg);
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  font: 500 var(--t-12)/1 var(--data);
+  letter-spacing: 0.05em;
+  font: 400 10px/1.4 var(--data);
+  opacity: 0.85;
   color: var(--seal);
 }
 .stamp[data-tier="RECOVERED"],
@@ -216,7 +217,7 @@ main tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-deep)
 
 .listing { list-style: none; margin: 0 0 var(--sp-7); padding: 0; }
 .listing li { display: flex; justify-content: space-between; gap: var(--sp-4); padding: var(--sp-2) 0; border-bottom: var(--hair); }
-.listing .tier { font: 400 var(--t-12)/1.6 var(--data); letter-spacing: 0.06em; color: var(--ink-soft); white-space: nowrap; }
+.listing .tier { font: 400 10px/1.8 var(--data); letter-spacing: 0.04em; color: var(--ink-soft); opacity: 0.8; white-space: nowrap; }
 .listing .tier[data-tier="CONTESTED"] { color: var(--absence); }
 .listing a { color: var(--seal); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 
@@ -356,13 +357,7 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 .section > summary::-webkit-details-marker { display: none; }
 
 /* The disclosure marker is a bracket, not an icon. */
-.section > summary::before {
-  content: "[+]";
-  flex: none;
-  font: 400 var(--t-14)/1.5 var(--data);
-  color: var(--seal);
-}
-.section[open] > summary::before { content: "[\2212]"; }
+
 
 .section > summary h2 {
   margin: 0;
@@ -375,10 +370,11 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 /* Absence still reads down the page when a section is shut. */
 .sec-gaps {
   flex: none;
-  font: 400 var(--t-12)/1.6 var(--data);
+  font: 400 10px/1.8 var(--data);
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.04em;
   color: var(--absence);
+  opacity: 0.9;
 }
 
 .section-body { padding: var(--sp-2) 0 var(--sp-5); }
@@ -398,7 +394,6 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 /* The record details collapse on small screens only. The stamp never does:
    the reader still meets the tier before the first word. */
 .record > summary { display: none; }
-.record[open] > summary::before { content: "[\2212]"; }
 
 @media (max-width: 720px) {
   .record { border-top: var(--hair); border-bottom: var(--hair); margin-bottom: var(--sp-5); }
@@ -411,12 +406,7 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
     list-style: none;
   }
   .record > summary::-webkit-details-marker { display: none; }
-  .record > summary::before {
-    content: "[+]";
-    flex: none;
-    font: 400 var(--t-14)/1.5 var(--data);
-    color: var(--seal);
-  }
+
   .record > summary h2 {
     margin: 0;
     font: 600 var(--t-16)/1.3 var(--display);
@@ -449,15 +439,7 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 .row > summary::-webkit-details-marker { display: none; }
 
 .cat > summary { padding: var(--sp-4) 0; }
-.cat > summary::before,
-.row > summary::before {
-  content: "[+]";
-  flex: none;
-  font: 400 var(--t-14)/1.5 var(--data);
-  color: var(--seal);
-}
-.cat[open] > summary::before,
-.row[open] > summary::before { content: "[\2212]"; }
+
 
 .cat > summary h2 {
   margin: 0;
@@ -468,14 +450,14 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 }
 .cat-count {
   flex: none;
-  font: 400 var(--t-12)/1.6 var(--data);
+  font: 400 10px/1.8 var(--data);
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--ink-soft);
 }
 .cat-contested {
   flex: none;
-  font: 400 var(--t-12)/1.6 var(--data);
+  font: 400 10px/1.8 var(--data);
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--absence);
@@ -485,7 +467,7 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 .row { border-top: var(--hair); }
 .row:first-child { border-top: 0; }
 .row > summary { padding: var(--sp-2) 0; }
-.row-title { flex: 1 1 auto; font: 400 var(--t-16)/1.5 var(--body); color: var(--seal); }
+.row-title { flex: 1 1 auto; padding-left: 0; font: 400 var(--t-16)/1.5 var(--body); color: var(--seal); }
 .row[open] > summary .row-title { font-weight: 600; }
 
 .row-body { padding: var(--sp-3) 0 var(--sp-6); }
@@ -526,13 +508,7 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
   margin-bottom: var(--sp-2);
 }
 .nav-fold > summary::-webkit-details-marker { display: none; }
-.nav-fold > summary::before {
-  content: "[+]";
-  flex: none;
-  font: 400 var(--t-12)/1.4 var(--data);
-  color: var(--seal);
-}
-.nav-fold[open] > summary::before { content: "[\2212]"; }
+
 .nav-fold > summary h2 { margin: 0; }
 
 @media (max-width: 720px) {

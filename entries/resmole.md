@@ -3,25 +3,27 @@ title: Resmole
 slug: resmole
 category: world
 tier: INTACT
-cross_refs: [the-guard, greyleaf, galactic-standard-law, hyperspace-slipstream]
+cross_refs: [the-guard, greyleaf, galactic-standard-law, hyperspace-slipstream, tiam]
 ---
 
 # RESMOLE
 `INTACT`
 
-Arid world of dispersed settlement. Occupied. Holds no assessed resource value and no assessed strategic value beyond position.
+Dust, a river, a clock tower and a fuel depot. Occupied because of where it is and for no other reason anyone has written down.
 
 **System:** Resmole (single star, seven bodies, one habitable)
 **Status:** Guard occupation. No accession instrument. No referendum has been held
 **Population:** between 4 million and 40 million
-**Membership:** not determinable. Local authority is settlement-level and is not recorded in any register held here
+**Membership:** not determinable. Authority here is settlement-level and appears in no register we hold
 **Calendars in use:** Galactic Calendar in the port. Local reckonings are not filed
-**Principal exports:** none. The world is a net importer of everything including water
+**Principal exports:** none. The world imports everything, including water
 
-**Basis of occupation.** Position. Resmole sits on the shortest surveyed lane between two sectors of consequence and possesses one river, one usable plain, and sufficient flat ground for airfields. The basing schedule lists a shipport, two airstrips, a fuel depot, and a refuelling and transit function. It lists no other purpose.
+**Position, and nothing else.** Resmole sits on the shortest surveyed lane between two sectors that matter, and it has one river, one usable plain, and enough flat ground for airstrips. The basing schedule lists a shipport, two strips, a fuel depot and a transit function. It lists no other purpose, because there is no other purpose.
 
-**Civil programme.** A programme of local engagement was chartered on occupation and funded for four years. Its final report is held. Subsequent appropriations are nil in every year.
+**The civil programme.** Chartered on occupation and funded for four years. Its final report is held. Every appropriation after that is nil.
 
-**Security.** The garrison returns record contact as continuous and low-intensity. Local combatants operate from a tunnel network that is not mapped in any document held here. Casualty returns for the sector average between eleven and nineteen Guard personnel per year and are filed by name. Local casualties are not filed at all.
+**The fighting.** Continuous and low-intensity, for long enough that nobody flinches. Local combatants work out of a tunnel network that appears on no map in this archive. Garrison casualties run eleven to nineteen a year and are filed by name.
 
-*Cross-ref: The Guard · Greyleaf · Galactic Standard law*
+Local casualties are not filed at all.
+
+*Cross-ref: The Guard · Greyleaf · Galactic Standard law · Tiam*

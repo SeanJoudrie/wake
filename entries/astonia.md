@@ -9,25 +9,33 @@ cross_refs: [astonian-annexation, astonian-dialect, astonian-coral, astonian-mil
 # ASTONIA
 `INTACT`
 
-Dry ocean world under permanent low sun. Formerly a Royal protectorate, annexed GC 4419. Principal exports are mineral, dairy and personnel.
+The sun does not rise here and does not set. It sits low on the rim of the sky and stays there, and the sky holds pink and yellow at every hour, over sand the colour of brass.
 
 **System:** Astonia (single star, five bodies, one habitable)
-**Status:** Guard territory. Annexed GC 4419. Revenue-sharing instrument with the Royal houses in force
+**Status:** Guard territory. Annexed GC 4419
 **Population:** between 60 million and 300 million
-**Membership:** determined externally. Status is conferred by the annexation instrument of GC 4419 and is not locally variable
-**Calendars in use:** Galactic Calendar. No local calendar is currently in observance. A prior local reckoning is attested in testimony and has not been recovered
-**Principal exports:** industrial diamond, milk and milk solids, conscripted personnel
+**Membership:** determined externally, by the annexation instrument, and not locally variable
+**Calendars in use:** Galactic Calendar. The prior local reckoning is attested in testimony and has not been recovered
+**Principal exports:** industrial diamond, milk, conscripted personnel
 
-**Land.** Axial and orbital conditions produce a permanent low sun and a sky in the pink to yellow range at all hours. Golden sand. The mountain ranges are diamondiferous to a degree that makes the stone an industrial commodity and not a precious one.
+**The dry ocean.** There was a sea here for most of the world's history. Terraforming and drift took it away across about four hundred years, and the reefs it left are still standing. They stand where shrubs would stand on any other world: eight metres of coral in the open air, dry, pink and orange and a blue that carries after dark.
 
-The world formerly carried an ocean, removed over approximately four centuries by a combination of terraforming activity and natural drift. The reef structures remain standing above ground across much of the equatorial belt. They neither grow nor decay, the substrate retaining sufficient moisture to sustain them. Certain formations are bioluminescent, principally blue.
+They do not grow. They do not rot either. There is enough water in the sand to hold them exactly as they are.
 
-**Population health.** Two properties of the population are recorded in Guard medical survey and are not in dispute. Astonian musculature and bone density measure substantially above the human mean, an effect the surveys attribute to a dietary factor associated with local milk production. Astonian resistance to a range of pathogens for which no vaccine stock exists measures likewise above the mean, attributed in the same surveys to lifelong exposure to reef organisms. Both surveys predate the annexation.
+The people keep them alive. Households keep a spray bottle by the door and mist the formation nearest them, daily, everywhere in the settled belt. No ordinance requires it. We asked four informants why and got four answers, none of which was the same as another.
 
-**Conscription.** Astonian personnel are levied under the annexation instrument rather than contracted. The yield is filed annually and precisely. For GC 4461: 41,208 persons. Royalty payable to the Royal houses on the same instrument for that year: 2,472,480 credits.
+**Diamond.** The mountains are diamondiferous to a depth nobody has bothered to measure, which makes the stone here an industrial material and not a precious one. It goes out by the shipload for cutting tools. Children are given the flawed ones.
 
-**Culture.** Daytime surface temperature makes the day impractical. Commerce, worship, schooling and public life are conducted after dark by long practice and not by biological necessity.
+**The night.** The day is too hot to work in, so nothing happens in it. Trade, worship, school and every kind of public life happen after dark, under signage that runs pink and green above streets already lit like a long evening. This is a choice their grandparents made and not a fact of their bodies, and they will tell you so.
 
-**Schooling.** Following annexation, education was transferred to sponsored religious foundations under contract to the territorial administration. The contracts are `INTACT`. They specify instruction in Galactic Standard, residential attendance, and a curriculum. Enrolment reached 94 per cent of the eligible cohort within eleven years.
+**The bodies.** Two Guard medical surveys, both dated GC 4416, record what everyone here already knew: Astonians are stronger than the human mean and harder to make ill. The first credits the milk, which comes from herds that graze on a forage that grows nowhere else. The second credits a lifetime spent breathing over the reefs, and lists eleven diseases the rest of the galaxy has no vaccine for and Astonians largely shrug off.
 
-*Cross-ref: The Astonian Annexation · The Astonian dialect · Astonian coral · Astonian milk · The cartels · The Royal Houses*
+Both surveys recommend further study. No further study was undertaken.
+
+The annexation instrument is dated GC 4419.
+
+**Schooling.** After the annexation, the schools were handed to sponsored religious foundations on contract. The contracts survive and are specific: residential attendance, and instruction in Galactic Standard. Within eleven years they had 94 per cent of the children.
+
+**Levy.** Astonians do not enlist. They are levied, under a clause of the same instrument. Yield for GC 4461: 41,208 persons. Royalty paid to the Royal houses that year on the same clause: 2,472,480 credits.
+
+*Cross-ref: The Astonian Annexation · Astonian coral · Astonian milk · Astonians · The Astonian dialect · The cartels · The Royal Houses*

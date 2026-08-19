@@ -9,25 +9,23 @@ cross_refs: [kitalia-platform-collapse, the-guard, guard-burial-rites, the-guard
 # KITALIA
 `INTACT`
 
-Ocean world of engineered platform habitation. Guard member state. Site of the platform collapse of GC 4461.
+They saw the water coming and they built above it. Pylons driven two kilometres to the seabed, and cities standing on top of them, and no land in use anywhere on the world.
 
 **System:** Kitalia (single star, four bodies, one habitable)
 **Status:** Guard member state. Acceded GC 4424 by referendum
 **Population:** between 200 million and 800 million
-**Membership:** idea. Residence, rate, and registration on a platform roll
+**Membership:** residence, rate, and a name on a platform roll
 **Calendars in use:** Galactic Calendar; the Kitalian tide reckoning, twelve periods, still used in shipping and in law
-**Principal exports:** marine protein, structural engineering services, deep-foundation contracting
+**Principal exports:** marine protein, structural engineering, deep-foundation contracting
 
-**Land.** There is none in use. A glacial melt of predicted onset raised sea level over approximately two centuries. The response was engineered and successful: pylon arrays driven to the seabed carrying platform cities above the maximum recorded storm surge.
+**The engineering.** A glacial melt they could see coming two centuries out, and an answer that worked. This is the most completely documented infrastructure in the archive, because the works were financed from offworld and the financiers wanted certification at every stage: seabed surveys, weld schedules, inspection intervals, unit costs, all of it.
 
-**Structure.** The engineering record for this world is the most complete infrastructure holding in this archive, because the works were externally financed and the financiers required certification at every stage. Pylon depths, seabed composition surveys, load tolerances, weld schedules, inspection intervals and unit costs are filed for every platform in service.
+Foundations run 1,180 to 2,340 metres. Design load 4.1 million tonnes. Certified to 260 knots sustained. They are, by every measure we can apply, magnificent.
 
-Representative figures, principal platforms: foundation depth 1,180 to 2,340 metres; design load 4.1 million tonnes; certified storm tolerance 260 knots sustained; construction cost per platform 880,000,000 to 1,940,000,000 credits.
+**Living on one.** Dense and vertical, because there is no outward. The platform is the civic unit: your roll, your rate, your school, your council. There is no countryside and no farming of any consequence, and the whole arrangement rests on the assumption that the structure holds.
 
-**Population by platform.** Not filed. Platform rolls were held by platform administrations on their own platforms.
+**Population by platform.** Not filed anywhere. Each platform kept its own roll, on itself.
 
-**Society.** Dense, vertical, and organised around the platform as the primary civic unit. There is no rural population and no agricultural sector of significance.
-
-**Funerary practice.** There is no ground. Local practice is catalogued separately and is conducted over water.
+**Burial.** There is no ground. What Kitalians do instead is done over water, and is catalogued separately.
 
 *Cross-ref: The Kitalia Platform Collapse · The Guard · Guard burial rites · The Burial Moon · The platform roll `[ENTRY NOT RECOVERED]`*

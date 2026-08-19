@@ -3,29 +3,33 @@ title: Shayron
 slug: shayron
 category: world
 tier: INTACT
-cross_refs: [royal-houses, tracineim, high-castle, abandoned-monastic-quarters, shayron-sewers, shayron-lamp-posts, capital-district, maldo, aster, the-queens-anniversary]
+cross_refs: [royal-houses, tracineim, high-castle, abandoned-monastic-quarters, shayron-sewers, shayron-lamp-posts, capital-district, maldo, aster, the-queens-anniversary, queen-traceen]
 ---
 
 # SHAYRON
 `INTACT`
 
-Ceremonial seat of the Royal houses. Scholarly and religious foundation. Not a productive world and never one.
+Jasmine, cut stone, and an afternoon that seems to last all day. No industry, no exhaust, and a city built in four eras stacked on top of each other, any of which you can reach by digging eleven metres in more or less any direction.
 
 **System:** Shayron (single star, seven bodies, one habitable)
 **Status:** Royal. Ceremonial seat
 **Population:** between 20 million and 110 million
-**Membership:** idea. Residence and payment of the municipal rate. There is no other requirement and there never has been
-**Calendars in use:** Galactic Calendar; the Shayron liturgical calendar, which is not filed with any authority and survives in the observance of registered scholars
-**Principal exports:** none of significance. Chocolate, beer, hospitality, restoration work
+**Membership:** residence, and the municipal rate. There has never been another requirement
+**Calendars in use:** Galactic Calendar; the Shayron liturgical calendar, filed with nobody, surviving in the observance of registered scholars
+**Principal exports:** almost nothing. Chocolate, beer, hospitality, restoration work
 
-**Foundation.** Shayron had no indigenous population and no founding stock. It was established as a place in which to study religion. The founding charter, `INTACT`, provides for the endowment of libraries, monastic houses, and workshops, and for the maintenance of scholars of any faith without regard to which.
+**Built to study religion.** Shayron had no natives and no founding stock. It was endowed as a place to think about faith: libraries, monastic houses, workshops, and scholars of any belief maintained without regard to which.
 
-The doctrinal competition that followed produced the art. The mosaic and glass work of the older quarters is the single largest surviving body of pre-war craft in the galaxy, and the only one for which the workshops, the commissions, and the payments are all documented.
+What came out of that is the art. Faiths in competition commission better work than faiths at peace, and the mosaic and glass of the old quarters is the largest surviving body of pre-war craft anywhere, and the only one where the workshop, the commission and the payment are all still on file.
 
-**Decline.** Scholars did not proselytise. Newer faiths spread around the world rather than through it. The monastic register records continuous decline in professed numbers across three centuries and the formal closure of nine quarters. No conquest, no plague and no disaster appears in the record. Enrolment simply stops.
+**Why it went quiet.** Scholars do not proselytise. Newer faiths spread around this world rather than through it. The monastic register records three centuries of decline and the formal closure of nine quarters, and there is no conquest in it, no plague, no disaster. Enrolment simply stops.
 
-**Royal acquisition.** By agreement, not by force. The instrument is held. The crown received a defensible ceremonial seat of no economic consequence. The scholars received statutory protection of their foundations, exemption from municipal rate, and exemption from levy. The exemptions are still in force. The register of exempt persons has not been audited since GC 4361.
+Two of the nine were closed with a single person left inside, in both cases at that person's request.
 
-**Fabric.** Excavation anywhere in the old city encounters four distinct construction eras within eleven metres. The sewer system of the earliest is still in service.
+**Why the crown could take it.** By agreement, and the instrument survives. The Royals were sympathetic to the old faith and wanted a seat that was beautiful, defensible and of no economic consequence whatsoever. The scholars wanted their foundations protected.
 
-*Cross-ref: The Royal Houses · Tracineim · The High Castle · The abandoned monastic quarters · The Shayron sewers · Maldo*
+Both got it. Registered scholars still hold exemption from the rate and from levy. The register of exempt persons has not been audited since GC 4361.
+
+**Underneath.** The sewers of the earliest city still run under all of it, and are still in service, because nobody ever found a reason to replace something that works.
+
+*Cross-ref: The Royal Houses · Tracineim · The High Castle · The abandoned monastic quarters · The Shayron sewers · Queen Traceen `[ENTRY NOT RECOVERED]`*

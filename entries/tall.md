@@ -3,23 +3,23 @@ title: Tall
 slug: tall
 category: world
 tier: INTACT
-cross_refs: [polaris-system, weton, kelton, quarantine-authority, corr]
+cross_refs: [polaris-system, weton, kelton, quarantine-authority, corr, schedule-of-unreplaceable-classes]
 ---
 
 # TALL
 `INTACT`
 
-Worked moon of the Polaris system. Seed stock.
+Eleven cold vaults on a moon with no town, holding the parent line of every crop the breadbasket grows.
 
 **System:** Polaris
-**Status:** operated under licence from Kelton. Restricted access
+**Status:** licensed from Kelton. Restricted access
 **Population:** between 40,000 and 300,000
 **Membership:** appointment only. There is no residential application route
 **Calendars in use:** Polaris Harvest Reckoning
 **Principal exports:** certified seed, parent lines
 
-Cold vaults holding the parent lines for every crop grown in the system, and for a further 3,900 registered lines not currently in cultivation. Vault capacity, temperature schedules, and audit intervals are filed. Line inventory is filed. Line composition is not.
+The vaults hold the lines in cultivation and a further 3,900 that are not. Capacity, temperature schedules and audit intervals are all filed. What is actually in each line is not.
 
-In a galaxy that cannot manufacture, a viable parent line is capital that cannot be reproduced and cannot be replaced. The whole of it occupies eleven vaults on a moon with no town.
+In a galaxy that cannot manufacture, a viable parent line is capital that cannot be reproduced and cannot be replaced. The whole of it fits in eleven rooms, and the people who work in them commute.
 
-*Cross-ref: The Polaris System · Weton · Kelton · Corr*
+*Cross-ref: The Polaris System · Weton · Kelton · The Schedule of unreplaceable classes*

@@ -9,21 +9,19 @@ cross_refs: [polaris-system, weton, kelton-city, polaris-scrip, house-polaris, g
 # KELTON
 `INTACT`
 
-Principal administrative planet of the Polaris system. Produces no food.
+One city on the whole world, and beyond it small towns and a great deal of empty ground. Nothing edible is produced here.
 
 **System:** Polaris
-**Status:** Guard administration. Seat of the harvest ledger, the licensing authority, and the system port
+**Status:** Guard administration. Seat of the harvest ledger, the licensing authority and the port
 **Population:** between 8 million and 40 million
-**Membership:** appointment or licence. Residence in the city requires either
-**Calendars in use:** Polaris Harvest Reckoning; Galactic Calendar for external contract
-**Principal exports:** guarantees. Insurance, licensing, storage rights, forward purchase, arbitration
+**Membership:** appointment or licence. Residence in the city requires one or the other
+**Calendars in use:** Polaris Harvest Reckoning; Galactic for external contract
+**Principal exports:** guarantees
 
-**The city.** One city on the world. Beyond it, small towns, villages, and a large quantity of empty ground. The city holds every transaction in the system: the ledger, the exchange, the embassies, the seed licensing registry, the water allocation office, the quarantine authority and the port.
+What the city makes is the promise that a harvest will be bought, stored, insured and delivered, and the paperwork that makes the promise enforceable. The exchange, the seed registry, the water allocation office, the quarantine authority, forty-one embassies and every insurer writing agricultural risk in the system are all inside it.
 
-Nothing edible is produced on Kelton. What the city produces is the guarantee that a harvest will be bought, stored, insured and delivered, and the paperwork by which that guarantee is enforced.
+**Crop laboratories.** 1,188 registered variant lines, developed here rather than on the worlds that grow them. Licence revenue for GC 4461: 96,440,200 credits.
 
-**Crop development.** The system's plant laboratories are here rather than on the growing worlds. Registered variant lines: 1,188. Licence revenue on those lines for GC 4461: 96,440,200 credits.
-
-**Note.** A farmer on Weton may plant, harvest and sell freely. Water, seed, storage, milling, shipping and sale each require a Kelton instrument.
+**The arrangement.** A farmer on Weton may plant what she likes, harvest it, and sell it. Water, seed, storage, milling, shipping and sale each require an instrument issued in this city.
 
 *Cross-ref: The Polaris System · Weton · Kelton City · Polaris scrip · Tall · Corr*

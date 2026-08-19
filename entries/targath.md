@@ -3,24 +3,26 @@ title: The Targath
 slug: targath
 category: people
 tier: CONTESTED
-cross_refs: [targath-magnetic-web, torkal-bombers, the-guard, crag, indentured-servitude]
+cross_refs: [targath-magnetic-web, torkal-bombers, the-guard, crag, indentured-servitude, custodial-labour]
 ---
 
 # THE TARGATH
 `CONTESTED`
 
-Non-human burrowing people. Jungle and subsurface settlement. Subject of one of the two accounts in this volume that the Restoration is unable to check at all.
+Blue gel inside a jagged shell, and one eye that goes all the way round the head and shows you everything at once. They take prey apart rather than killing it, and they are, by every account we have, fond of humans.
 
-**Physical.** Description is available only from custodial and prison observation. Body of a blue gelatinous medium within a jagged external casing. A single eye wrapping the head, described as kaleidoscopic. Informants report that Targath dismantle prey rather than kill it, and report, separately and consistently, that they are well disposed toward humans.
+**A caution about this entry.** Every physical description we hold was taken in a prison yard or a custody suite. Nobody has surveyed a Targath settlement. We are describing a people entirely from the condition of the ones who have been caught.
 
-**The magnetic web.** Catalogued separately. The account in circulation holds that a Targath construction beneath a planetary crust immobilised a fleet and its embarked personnel, armour and weapons drawn to the ground, with no survivor to report it. The account is `TESTIMONY` at one remove and originates within the Guard officer corps.
+**The web.** The account in circulation holds that a Targath construction beneath a planet's crust pulled a whole fleet and everybody in it to the ground, armour and weapons dragged down, with nobody left to report it.
 
-That no one survived is stated in the same account that describes what happened.
+It comes from inside the Guard officer corps and it is repeated there. We can trace it to no document and no named witness, and we are obliged to point out that the claim nobody survived and the description of what happened come from the same mouth.
 
-**Bombardment.** Targath jungle settlements were bombed with second-generation Torkal aircraft. The sortie returns are `INTACT`. Tonnage delivered is filed. Settlements struck are filed by grid. Population of those settlements is not filed.
+**The bombing.** Their jungle settlements were struck with second-generation Torkal aircraft. The sortie returns are `INTACT`: aircraft, crew, hours, ordnance loaded, ordnance released, grids struck, all filed.
 
-**Economy.** Subsurface agriculture, mineral extraction, and tunnelling contract work. Also, in the present period, prison labour. Targath appear in the custodial labour rolls of two Guard installations at a proportion of the roll far above their proportion of the population, engaged in the recovery of magnetic ore.
+Population of those grids is not filed. No census of them was ever taken by anybody.
 
-The survey material notes one Targath employed as a keeper of accounts for a port concession, and records that the concession's books were in order.
+**Work.** Subsurface farming, mineral extraction, tunnelling under contract. And prison labour: Targath appear on the custodial rolls of two Guard installations at a proportion the population figures cannot account for, digging magnetic ore.
 
-*Cross-ref: The Targath magnetic web · Torkal bombers · The Guard · Indentured servitude*
+The survey material also notes one Targath keeping accounts for a port concession, and records that the books were in order.
+
+*Cross-ref: The Targath magnetic web · Torkal bombers · Custodial labour · "Crag"*

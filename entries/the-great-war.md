@@ -10,20 +10,24 @@ cross_refs: [the-autumnals, cord, the-wipe, destruction-of-wake, refugee-displac
 *also known as: the War · the Last War · the Long Account (Katanzaria)*
 `CONTESTED`
 
-General war between the Autumnal movement and the Compact of Realms in Defense. Both parties ceased to exist. No successor state to either has been recognised.
+Two powers went to war and both of them ceased to exist. Nothing succeeded either one. Everything in this volume is dated from it and nobody can tell you why it started.
 
-**Dates.** Cessation of hostilities is filed by the Guard at GC 4402 and is not disputed anywhere in our holdings. Commencement is disputed everywhere. Dates supplied by member worlds range from GC 4386 to GC 4393, a spread of seven years. Several worlds date the war from the first action fought in their own system, which accounts for part of the spread and not all of it.
+**When.** It stopped in GC 4402 and no source disputes that. It started somewhere between GC 4386 and GC 4393 depending on which world you ask, a spread of seven years. Some of that is worlds dating the war from the first fighting in their own sky. Not all of it is.
 
-**Cause.** Not established. Every world the Restoration has surveyed holds an account of why the war began. No two accounts agree, and no document has been recovered that would allow one to be preferred over another. This is not a case of lost data. Our present view, marked as inference, is that no single account ever existed to be lost. `INFERRED`
+**Why.** Every world has an answer. No two answers agree. No document has been recovered that would let anyone prefer one.
 
-**Conduct.** Targeting across the recovered operational filings is overwhelmingly industrial rather than territorial. The categories appearing most often in surviving requisition and damage-assessment paperwork are, in order of frequency: shipyards, weapons manufacture, plasma extraction, medical production, and financial institutions. Ground held and ground lost appear rarely.
+Our view, marked as inference and held loosely: this is not lost data. There was never one story to lose. `INFERRED`
 
-The practical consequence is documented in the technology entries of this volume. The galaxy retained the use of its machines and lost the capacity to produce them.
+**How it was fought.** Look at the requisitions and the damage assessments and the targets come up in the same order every time: shipyards, weapons manufacture, plasma extraction, medicine, banks. Ground taken and ground lost barely appear.
 
-**Alignment.** Reconstructing a map has not been possible. Surviving tax filings, which are the best evidence of allegiance because allegiance was determined by whom a world paid, indicate approximately 65 worlds aligned one way and approximately 72 the other, with the remainder either neutral, internally divided, or paying both. At least nineteen worlds appear in the collection records of both parties in the same year.
+They were not trying to hold each other's worlds. They were taking each other's capacity to make things, and they succeeded, and that is why a galaxy that can still fly cannot build a ship.
 
-**Attributed atrocities.** Two. The Wipe, attributed to C.O.R.D. The destruction of Wake, attributed to the Autumnals. Each is catalogued separately. In both cases the attribution is made by the other side, and in one case the other side no longer exists to be asked.
+**Who was on which side.** We cannot draw the map. The best evidence is tax filings, because allegiance was decided by whom you paid, and they give roughly 65 worlds one way and 72 the other with everything else neutral, split, or paying both.
+
+Nineteen worlds appear in the collection records of both parties in the same year.
+
+**The two atrocities.** The Wipe, laid at C.O.R.D.'s door. The destruction of Wake, laid at the Autumnals'. In both cases the accusation is made by the other side, and in one of those cases the other side is not there to answer it.
 
 *[Compiler's note: we have been asked several times to produce a map. We have not produced a map.]*
 
-*Cross-ref: The Autumnals · C.O.R.D. · The Wipe · The Destruction of Wake · The Refugee Displacement · The Guard · The Autumnal charter `[ENTRY NOT RECOVERED]`*
+*Cross-ref: The Autumnals · C.O.R.D. · The Wipe · The Destruction of Wake · The Refugee Displacement · The Autumnal charter `[ENTRY NOT RECOVERED]`*

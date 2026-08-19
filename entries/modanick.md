@@ -3,29 +3,33 @@ title: Modanick
 slug: modanick
 category: world
 tier: INTACT
-cross_refs: [the-guard, space-vaccines, guard-academy, the-guard-franchise, galactic-standard-law, moonball, glazberries]
+cross_refs: [the-guard, space-vaccines, guard-academy, the-guard-franchise, galactic-standard-law, moonball, glazberries, jimzon-cavaris]
 ---
 
 # MODANICK
 `INTACT`
 
-Temperate world. Guard member state. Principal supplier of trained physicians and medical equipment to the member worlds.
+Cold, close-built and comfortable. Brick, iron gates, chimneys, canals that freeze hard enough to skate by the second week. The kind of world that produces doctors and cheese and very little history.
 
 **System:** Modanick (single star, four bodies, one habitable)
-**Status:** Guard member state. Acceded GC 4427 by referendum, 71.4 per cent in favour on a turnout of 88.2 per cent
+**Status:** Guard member state. Acceded GC 4427 by referendum, 71.4 per cent for, on a turnout of 88.2
 **Population:** between 200 million and 900 million
-**Membership:** descent. Residence is open. Municipal office is restricted by statute to persons born in the municipality
-**Calendars in use:** Galactic Calendar for filings. The Modanick reckoning, four seasons, anchored to the first frost, for everything else
-**Principal exports:** physicians, surgical instruments, pharmaceutical stock, tuition, cheese, cut flowers
+**Membership:** descent. Anyone may live here. Municipal office is restricted by statute to people born in the municipality
+**Calendars in use:** Galactic Calendar for filings; the Modanick reckoning, four seasons anchored to first frost, for everything anyone actually says out loud
+**Principal exports:** physicians, surgical instruments, pharmaceuticals, tuition, cheese, cut flowers
 
-**Land.** Four months of winter, characterised in the agricultural returns by persistence rather than severity. Canal freeze is annual and is used. Shallow seas, no deep ocean. Fishing fleet of 11,400 registered hulls. No structure on the world exceeds nine storeys, by municipal code, in every municipality, independently enacted.
+**Winter.** Four months of it, and it is not violent. It is an inch a day, most days, for a third of the year. The canals go over and stay over, the skating leagues run, and the national game is played on them by people who learned it before they could read.
 
-**Settlement.** Founded on an uninhabited world. Native biology at first survey was limited to forest cover and marine life. Early diets are recorded as fish-heavy for approximately six generations. There is no displacement history and no recorded indigenous population.
+Nothing on this world is more than nine storeys, by municipal code, in every municipality, each of which passed the code separately.
 
-**Public health.** The medical export is the direct product of a long plague period in the settlement centuries, when crowding and winter produced recurrent epidemic disease. Hospital foundation dates cluster tightly in that period. So does the emergence of the local expectation, recorded in school statutes and still enforced in them, that a person be fully formed by the age of twenty.
+**Flowers.** Spring here is a serious business. Botany is a national art rather than a hobby, the flower shows are old and formal, and the shortest route to being taken seriously in a Modanick town is to be good at growing something.
 
-**Defence.** None. Modanick maintains no military and has never maintained one. Its accession instrument provides soldiers by cash commutation rather than by levy, one of four such instruments in the member register. It pays 3.9 per cent of member revenue and provides no personnel.
+**Why the doctors.** Crowding plus long winters made this a plague world for six generations. Hospital foundation dates cluster tightly in that period, and so does the local expectation, still written into the school statutes, that a person be fully formed by twenty. The plagues stopped. The expectation did not.
 
-**Note on climate.** Guard tourism material issued between GC 4440 and GC 4455 describes the world as warm and bright year round. The municipal weather returns for the same period do not. The returns are held here.
+The world now supplies more trained physicians to the member worlds than any other, and manufactures no weapons at all.
 
-*Cross-ref: The Guard · Space vaccines · The Guard Academy · Galactic Standard law · Moonball*
+**Defence.** None. Modanick has never had a military. Its accession instrument settles the personnel obligation in cash, one of four such instruments in the register: it pays 3.9 per cent of member revenue and sends nobody.
+
+**A note on the weather.** Guard tourism material issued between GC 4440 and GC 4455 describes Modanick as warm and bright the year round. The municipal weather returns for the same years describe something else. We hold the returns.
+
+*Cross-ref: The Guard · Space vaccines · The Guard Academy · Moonball · Jimzon Cavaris*

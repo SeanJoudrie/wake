@@ -3,26 +3,28 @@ title: Corefuel
 slug: corefuel
 category: material
 tier: INTACT
-cross_refs: [wake, gravity-spires, guard-board-of-directors, wake-extraction-station, hyperspace-slipstream, guard-credits, maspin, the-collective, synthesis-process-schedule]
+cross_refs: [wake, gravity-spires, guard-board-of-directors, wake-extraction-station, hyperspace-slipstream, guard-credits, maspin, the-collective, korjin-cavaris, synthesis-process-schedule]
 ---
 
 # COREFUEL
 `INTACT`
 
-Refined propellant and power medium of extreme energy density. Produced by synthesis from high-density planetary core material. The Wake field is the sole licensed source.
+A quarter of a litre of it will run twenty haulers for a hundred years. It is refined out of the core of a dead planet, and there is one planet you are allowed to take it from.
 
-**Yield.** One standard measure of refined Corefuel, taken as 0.25 litres, is rated by the licensing authority at sufficient output to run a commercial hauler fleet of twenty vehicles for approximately one hundred standard years.
+**Yield.** One standard measure, taken as 0.25 litres, is rated by the licensing authority at a commercial hauler fleet of twenty vehicles for approximately one hundred standard years.
 
-**Reserves.** The Wake core fragments are assessed at approximately 5,000 years of extraction at current licensed rates. The assessment is a Guard survey document and has not been independently verified.
+**Reserves.** The Wake fragments are assessed at about five thousand years at current rates. It is not scarce. Nothing about this trade is driven by scarcity.
 
-**Licensing.** Extraction, synthesis, transport and resale are licensed exclusively by the Guard Board of Directors. Duty is assessed per tonne at point of extraction and again at point of sale. Licensed extraction for GC 4461: 812,443.6 standard tonnes. Assessed duty: 40,622,180 credits. Recorded resale value of the same material at final market: 3,249,774,400 credits.
+**The licence.** Extraction, synthesis, transport and resale are licensed by the Guard Board of Directors and by nobody else. Duty is charged at the point it comes out of the ground and again at the point it is sold.
 
-**Sources other than Wake.** Every planetary body possesses a core. Extraction elsewhere is technically permitted under licence and is not economically undertaken. Recovery requires deep drilling, fracturing, or the fortunate acquisition of a dense asteroid, followed in all cases by synthesis. Filings record eleven applications for non-Wake extraction licences since GC 4420. All eleven were withdrawn by the applicant.
+For GC 4461: **812,443.6 tonnes** extracted, **40,622,180 credits** in duty, and **3,249,774,400 credits** at final market.
 
-**Synthesis.** The process is proprietary. Registration filed GC 4417 under a single named patentee, K. Cavaris, licence subsequently assigned to the Board. The registration document lists the process in seven steps, six of which are redacted in the copy held by this archive. `[RECORD DAMAGED]`
+**Everywhere else.** Every world has a core. Getting at one anywhere else means deep drilling, fracturing, or a lucky asteroid, and then it still has to be synthesised. Since GC 4420 there have been eleven applications for a non-Wake licence. All eleven were withdrawn by the applicant.
 
-Testimony from Maspin, and from certain mystic communities elsewhere, holds that planetary cores are living or possess something the informants translate as a soul, and that the substance is therefore not a mineral. The Restoration records this claim as reported and files it under religious testimony. No corroborating material exists.
+**The process.** Registered GC 4417 to a single named patentee, K. Cavaris, and assigned afterwards to the Board for a consideration of one credit. The registration sets the process out in seven steps. Six of them are redacted in the copy we hold. `[RECORD DAMAGED]`
 
-*[Compiler's note: the resale figure above is filed to the credit. The number of persons employed in the extraction zone is not filed at all.]*
+**What the Maspin say.** That planetary cores are alive. That the thing in the tanks is not a mineral. They do not say it as belief, and mystics on four other worlds say something close enough that we have filed them together, under religious testimony, which is where claims go when nothing corroborates them.
 
-*Cross-ref: Wake · Gravity spires · Guard Board of Directors · Wake Extraction Station · Hyperspace slipstream · Guard credits · Maspin · The synthesis process schedule `[ENTRY NOT RECOVERED]`*
+*[Compiler's note: the market figure above is filed to the credit. The number of people employed in the extraction zone is not filed at all.]*
+
+*Cross-ref: Wake · Gravity spires · Guard Board of Directors · Korjin Cavaris · Wake Extraction Station · The synthesis process schedule `[ENTRY NOT RECOVERED]`*

@@ -3,24 +3,23 @@ title: Corr
 slug: corr
 category: world
 tier: INTACT
-cross_refs: [polaris-system, weton, kelton, tall]
+cross_refs: [polaris-system, weton, kelton, tall, tspa]
 ---
 
 # CORR
-*the initial consonant is rolled in local speech and in the system's shipping calls*
+*the R is rolled, here and in the shipping calls*
 `INTACT`
 
-Worked moon of the Polaris system. Water.
+Ice and deep water, and a fleet of 2,206 tankers that runs it out to everybody else.
 
 **System:** Polaris
-**Status:** operated under licence from Kelton. Local council retained with limited competence
+**Status:** licensed from Kelton. Local council retained, with limited competence
 **Population:** between 600,000 and 5 million
-**Membership:** contract or application
 **Calendars in use:** Polaris Harvest Reckoning
 **Principal exports:** water
 
-Surface ice, deep aquifer, and a tanker fleet of 2,206 registered hulls. Allocation is set annually on Kelton against the forecast planting on Weton and Tspa.
+Kelton sets the allocation once a year, against the planting forecast for Weton and Tspa.
 
-The allocation is therefore set before the planting and determines it. No instrument records this as a power and nothing in the system's constitution addresses it.
+Which means the allocation is set before the planting, and therefore decides it. No instrument anywhere describes this as a power. Nothing in the system's constitution mentions it. It is simply what happens when one moon has the water and another moon has the fields.
 
 *Cross-ref: The Polaris System · Weton · Kelton · Tall*

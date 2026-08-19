@@ -3,29 +3,29 @@ title: Katanzaria
 slug: katanzaria
 category: world
 tier: CONTESTED
-cross_refs: [humans, wake, pre-human-inhabitants-of-wake, humanist-supremacy, ancestor-faiths, beryllium-rifles, pre-war-genetic-survey]
+cross_refs: [humans, wake, pre-human-inhabitants-of-wake, humanist-supremacy, ancestor-faiths, beryllium-rifles, calsco-fritt, pre-war-genetic-survey]
 ---
 
 # KATANZARIA
 `CONTESTED`
 
-Populous agricultural and craft world. Governed by chieftains. Holds, as a matter of general and official account, that its population did not descend from Wake.
+Stone terraces, long tables, wine, and a monumental architecture raised on foundations nobody here laid. Governed by chieftains. Insists, officially and generally, that its people did not come from Wake.
 
-**System:** Katanzaria (single star, six bodies, one habitable, one exploited)
-**Status:** independent. Not a member. Trade agreement with the Guard, renewed six-yearly
+**System:** Katanzaria (single star, six bodies, one habitable, one worked)
+**Status:** independent. Trade agreement with the Guard, renewed six-yearly
 **Population:** between 300 million and 1.4 billion
-**Membership:** lineage. Standing derives from family. Residence without lineage is permitted and confers nothing
-**Calendars in use:** Galactic Calendar for trade; the Katanzarian reckoning, which numbers years from a foundation the Restoration has been unable to fix to any other calendar
-**Principal exports:** stone, worked metal, wine, oil, preserved goods, ritual craft
+**Membership:** lineage. You may live here without it and it will get you nothing
+**Calendars in use:** Galactic Calendar for trade; the Katanzarian reckoning, which counts from a foundation we have not been able to fix against any other calendar
+**Principal exports:** stone, worked metal, wine, oil, preserves, ritual craft
 
-**The contested point.** Katanzarian official account holds the population to be autochthonous, descended on-world, and unrelated to the Wake origin. The genetic surveys held by this archive, which are pre-war, incomplete, and of a methodology that did not survive, place the population within the human range and record no distinguishing marker. Both accounts are printed. They cannot both be correct.
+**The disagreement.** Katanzaria holds that its people grew here and are related to nobody. The pre-war genetic surveys we hold in summary place them inside the human range with no distinguishing marker at all. Both are printed. They cannot both be right.
 
-The Restoration notes a complicating fact rather than a resolution. Katanzaria does possess ruins that predate its settlement, of a construction its own builders did not use and could not reproduce, and much of its monumental architecture is raised on those foundations. That the ruins are not human is established. That the population is not human is not.
+There is a complication, and it is not a resolution. Katanzaria does have ruins older than its settlement, built in a way its own masons did not use and cannot copy, and a great deal of what stands here stands on them. That the ruins are not human is established. That the people are not human is not.
 
-**Government.** Chieftains, not kings. Succession is by family and not by seniority within it. A brother, a cousin, or a nephew may take a title, and the recorded criterion is that the family be provided for. An electoral and reputational element sits beside a martial one, and titles have been recorded as transferring by each.
+**Honour, which is not a decoration.** What is said about you after you die is the working currency of public life here, and the world's institutions are shaped around that. Katanzaria keeps the most complete civil registry in this archive, running eleven centuries, because a name is an asset and assets are recorded.
 
-**Honour.** The reputational element is not ceremonial. Standing after death is the operative currency of the world's public life, and the record reflects it: Katanzaria maintains the most complete civil registry of any world in this archive, running to eleven centuries, because the world regards a name as an asset.
+**Succession.** Chieftains, not kings. A title passes within a family but not by birth order: a brother, a cousin or a nephew may take it, and the recorded test is whether the family will be provided for. Alongside the martial component there is an electoral one, and titles have demonstrably moved by each.
 
-**Ritual duel.** Recognised in local statute, restricted by it, and rarer in the record than in the accounts given to us. Twenty-two are registered in the last century. Informants describe considerably more.
+**Duelling.** Recognised in statute, restricted by it, and much rarer in the record than in conversation. Twenty-two registered in the last century. Informants describe considerably more.
 
-*Cross-ref: Humans · Wake · Pre-human inhabitants of Wake · Humanist supremacy · Beryllium rifles · The pre-war genetic survey `[ENTRY NOT RECOVERED]`*
+*Cross-ref: Humans · Wake · Pre-human inhabitants of Wake · Calsco Fritt · The pre-war genetic survey `[ENTRY NOT RECOVERED]`*

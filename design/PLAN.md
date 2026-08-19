@@ -145,3 +145,27 @@ category can never swallow a result.
 
 The mobile index button became an opaque sticky bar. As a floating pill it sat on top of
 whatever row was under it while scrolling.
+
+## The voice, corrected
+
+The first corpus applied ledger-voice to everything, and it flattened the world. A planet
+where households mist a dead coral reef by hand every morning was written up as
+"axial and orbital conditions produce a permanent low sun."
+
+The rule now: **dry about institutions, concrete about worlds.** A clerk writing up a
+shipping instrument writes like a clerk, and that dryness is the joke, so it stays in the
+Guard's entries where it belongs. A clerk writing down what somebody told them about a
+planet writes down the coral and the spray bottle, because that is what they were told.
+
+The contrast is sharper for it, and it is the thesis anyway: the institutions are grey
+paperwork and the worlds are alive.
+
+Practically, per entry: lead with the image rather than the classification; verbs active,
+not "conditions produce" or "is conducted"; one devastating figure instead of five; every
+image from the worldbuilding notes restored rather than compressed into a subordinate
+clause. "The Restoration notes that" was a tic, used 67 times, and the bracketed
+compiler's note already does that job better.
+
+Tier tags dropped to 10px with hairline rules, lighter tracking and slight transparency;
+they were shouting. The `[+]` bracket markers are gone entirely and the chevron carries
+the disclosure on its own.

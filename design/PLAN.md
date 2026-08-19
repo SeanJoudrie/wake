@@ -88,3 +88,36 @@ turns red only when the archive is uncertain.
 3. **`/gaps` would have been alphabetical.** It is ranked by inbound reference count, so
    the most-pointed-at absence is first. Alphabetical is a list. Ranked is the shape of
    the hole.
+
+## Collapsible sections
+
+Entries carry no markdown headings. Their structure is bold lead-ins, 446 ending in a
+period and 206 in a colon. The build promotes those into real sections and renders each
+as a native `<details>`, collapsed. 461 sections across 123 entries; 50 short entries
+have none and are unchanged.
+
+What stays open, and why:
+
+- **The lead.** The opening definition and the paragraphs before the first section.
+  Every entry with sections has one, so no entry opens on a wall of shut boxes.
+- **The compiler's notes.** They are the archive talking about itself and are the best
+  writing in the volume. Trailing notes are lifted out of the last section.
+- **The tier stamp**, always, on every screen size.
+
+The disclosure marker is `[+]` / `[−]` in mono, not a triangle: the brief allows a rule,
+a bracket, or a mono glyph, and no icon set.
+
+**The gap badge.** Collapsing hides text, and this design puts its whole argument in how
+much red a page carries. So a shut section still declares what it is hiding: a summary
+whose content holds bracketed gap markers prints `2 gaps` in `--absence` on the right of
+the row. Thirteen entries carry one. The signal survives the collapse, which is the only
+reason collapsing is acceptable here.
+
+**Record details on mobile.** Below 720px the metadata column sits above the body, per
+the brief, so a reader meets the tier before the first word. With sections shut the body
+became short while that column stayed long, and the entry title fell a screen down the
+page. The fields now collapse under `[+] RECORD DETAILS` on narrow screens only; the
+stamp never collapses. Desktop is untouched. On Marfeld this moves the title from roughly
+1300px down the page to 216px.
+
+Print forces every section and record open, by CSS and again on `beforeprint`.

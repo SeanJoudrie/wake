@@ -38,3 +38,40 @@
   input.addEventListener("input", apply);
   apply();
 })();
+
+// Section disclosures: bulk toggle, and never print a closed section.
+(function () {
+  function sections() {
+    return [].slice.call(document.querySelectorAll(".section"));
+  }
+
+  document.addEventListener("click", function (e) {
+    var btn = e.target.closest && e.target.closest(".open-all");
+    if (!btn) return;
+    var open = btn.getAttribute("aria-expanded") !== "true";
+    var scope = btn.closest("main") || document;
+    [].slice.call(scope.querySelectorAll(".section")).forEach(function (d) {
+      d.open = open;
+    });
+    btn.setAttribute("aria-expanded", String(open));
+    btn.textContent = open ? "Close all sections" : "Open all sections";
+  });
+
+  // Narrow screens open on the stamp, not on six rows of filing data.
+  var narrow = window.matchMedia("(max-width: 720px)");
+  // querySelectorAll, not querySelector: the single-file build holds every entry at once.
+  if (narrow.matches) {
+    [].slice.call(document.querySelectorAll(".record")).forEach(function (r) { r.open = false; });
+  }
+
+  window.addEventListener("beforeprint", function () {
+    [].slice.call(document.querySelectorAll(".section, .record")).forEach(function (d) {
+      if (!d.open) { d.dataset.wasShut = "1"; d.open = true; }
+    });
+  });
+  window.addEventListener("afterprint", function () {
+    [].slice.call(document.querySelectorAll(".section, .record")).forEach(function (d) {
+      if (d.dataset.wasShut) { d.open = false; delete d.dataset.wasShut; }
+    });
+  });
+})();

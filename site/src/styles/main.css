@@ -313,3 +313,109 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 .search input::-webkit-search-cancel-button,
 .search input::-webkit-search-decoration { -webkit-appearance: none; appearance: none; }
 .nav-gap .gap { margin-left: var(--sp-2); }
+
+/* ---------------------------------------------------------------- sections */
+
+.section-tools { margin: var(--sp-6) 0 var(--sp-3); text-align: right; }
+.open-all {
+  padding: 0;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--paper-edge);
+  color: var(--seal);
+  font: 400 var(--t-12)/1.4 var(--data);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+}
+.open-all:hover { border-bottom-color: var(--seal); }
+
+.sections { border-top: var(--hair); }
+.section { border-bottom: var(--hair); }
+
+.section > summary {
+  display: flex;
+  align-items: baseline;
+  gap: var(--sp-3);
+  padding: var(--sp-3) 0;
+  cursor: pointer;
+  list-style: none;
+}
+.section > summary::-webkit-details-marker { display: none; }
+
+/* The disclosure marker is a bracket, not an icon. */
+.section > summary::before {
+  content: "[+]";
+  flex: none;
+  font: 400 var(--t-14)/1.5 var(--data);
+  color: var(--seal);
+}
+.section[open] > summary::before { content: "[\2212]"; }
+
+.section > summary h2 {
+  margin: 0;
+  flex: 1 1 auto;
+  font: 600 var(--t-20)/1.3 var(--display);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+/* Absence still reads down the page when a section is shut. */
+.sec-gaps {
+  flex: none;
+  font: 400 var(--t-12)/1.6 var(--data);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--absence);
+}
+
+.section-body { padding: var(--sp-2) 0 var(--sp-5); }
+.section-body > :last-child { margin-bottom: 0; }
+.section-body h2 { margin-top: var(--sp-5); }
+
+@media (max-width: 720px) {
+  .section > summary h2 { font-size: var(--t-16); }
+}
+
+@media print {
+  .section-tools { display: none; }
+  .section > summary::before { content: ""; }
+  .section:not([open]) > *:not(summary) { display: block !important; }
+}
+
+/* The record details collapse on small screens only. The stamp never does:
+   the reader still meets the tier before the first word. */
+.record > summary { display: none; }
+.record[open] > summary::before { content: "[\2212]"; }
+
+@media (max-width: 720px) {
+  .record { border-top: var(--hair); border-bottom: var(--hair); margin-bottom: var(--sp-5); }
+  .record > summary {
+    display: flex;
+    align-items: baseline;
+    gap: var(--sp-3);
+    padding: var(--sp-3) 0;
+    cursor: pointer;
+    list-style: none;
+  }
+  .record > summary::-webkit-details-marker { display: none; }
+  .record > summary::before {
+    content: "[+]";
+    flex: none;
+    font: 400 var(--t-14)/1.5 var(--data);
+    color: var(--seal);
+  }
+  .record > summary h2 {
+    margin: 0;
+    font: 600 var(--t-16)/1.3 var(--display);
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    color: var(--ink);
+  }
+  .record .fields { margin-bottom: var(--sp-4); }
+}
+
+@media print {
+  .record > summary { display: none; }
+  .record:not([open]) > *:not(summary) { display: block !important; }
+}

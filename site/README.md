@@ -28,7 +28,10 @@ this directory needs editing to add an entry: write the markdown, rebuild.
 - the first run of two or more `**Label:** value` lines becomes the metadata column
 - the trailing `*Cross-ref:*` line is dropped; the column is built from frontmatter
   `cross_refs` instead, so a reference resolves if and only if the file exists
-- bracketed gap markers are wrapped in `--absence`
+- bold lead-ins become collapsible sections; the lead and any trailing compiler's
+  notes stay outside them and always visible
+- bracketed gap markers are wrapped in `--absence`, and each section counts its own so a
+  shut section can still declare what it hides
 - a population the archive cannot narrow is treated as a failure of the record, not a
   fact, and is coloured accordingly
 

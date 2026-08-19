@@ -76,6 +76,31 @@ ${groups}
 </nav>`;
 }
 
+// Sections collapse. The lead and the compiler's notes do not, and a collapsed
+// summary still declares how many gap markers are hiding inside it, so the amount
+// of red on the page survives the entry being closed.
+export function entryBody(entry) {
+  if (!entry.sections.length) return entry.lead + entry.notes;
+
+  const sections = entry.sections
+    .map(
+      (s) => `<details class="section">
+<summary><h2>${escapeHtml(s.title)}</h2>${
+        s.gaps ? `<span class="sec-gaps">${s.gaps} gap${s.gaps > 1 ? "s" : ""}</span>` : ""
+      }</summary>
+<div class="section-body">${s.html}</div>
+</details>`
+    )
+    .join("\n");
+
+  return `${entry.lead}
+<p class="section-tools"><button type="button" class="open-all" aria-expanded="false">Open all sections</button></p>
+<div class="sections">
+${sections}
+</div>
+${entry.notes}`;
+}
+
 export function stamp(tier) {
   return `<p class="stamp" data-tier="${tier}">${tier}</p>`;
 }
@@ -102,7 +127,11 @@ export function metaColumn(entry, refs) {
   return `<aside class="meta" aria-label="Record details">
 <div class="meta-head">
 ${stamp(entry.tier)}
-${fields ? `<dl class="fields">${fields}</dl>` : ""}
+${
+  fields
+    ? `<details class="record" open><summary><h2>Record details</h2></summary><dl class="fields">${fields}</dl></details>`
+    : ""
+}
 </div>
 <div class="meta-refs">
 <h2>Cross-reference</h2>

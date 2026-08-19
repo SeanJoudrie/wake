@@ -63,6 +63,48 @@ function isUnnarrowed(label, value) {
   );
 }
 
+// Entries carry no markdown headings. Sections are bold lead-ins: "**Loss event.** ..."
+const SECTION = /^\*\*([^*]+?)[.:]\*\*(?:\s+(.*))?$/;
+const NOTE = /^\*\[Compiler's note:/;
+
+function countGaps(html) {
+  return (html.match(/class="gap"/g) || []).length;
+}
+
+// Splits an entry into a lead that is always visible, collapsible sections, and
+// trailing compiler notes, which stay visible because they are the entry talking.
+function sectionize(lines) {
+  const rest = lines.slice();
+
+  const notes = [];
+  while (rest.length) {
+    const last = rest[rest.length - 1].trim();
+    if (!last) { rest.pop(); continue; }
+    if (!NOTE.test(last)) break;
+    notes.unshift(rest.pop());
+  }
+
+  const starts = [];
+  rest.forEach((l, i) => SECTION.test(l) && starts.push(i));
+
+  if (!starts.length) {
+    return { lead: rest.join("\n"), sections: [], notes: notes.join("\n") };
+  }
+
+  const sections = starts.map((start, n) => {
+    const [, title, tail] = rest[start].match(SECTION);
+    const end = n + 1 < starts.length ? starts[n + 1] : rest.length;
+    const body = [tail || "", ...rest.slice(start + 1, end)].join("\n").trim();
+    return { title, body };
+  });
+
+  return {
+    lead: rest.slice(0, starts[0]).join("\n"),
+    sections,
+    notes: notes.join("\n"),
+  };
+}
+
 function parseEntry(slug, raw) {
   const { data, content } = matter(raw);
   const lines = content.split("\n");
@@ -111,7 +153,24 @@ function parseEntry(slug, raw) {
       html: markGaps(md.renderInline(f.value)),
       absent: isUnnarrowed(f.label, f.value),
     })),
-    body: markGaps(noteClass(md.render(rest.join("\n").trim()))),
+    ...renderParts(rest),
+  };
+}
+
+function renderParts(rest) {
+  const split = sectionize(rest);
+  const render = (t) => (t.trim() ? markGaps(noteClass(md.render(t.trim()))) : "");
+  const sections = split.sections.map((s) => {
+    const html = render(s.body);
+    return { title: s.title, html, gaps: countGaps(html) };
+  });
+  const lead = render(split.lead);
+  return {
+    lead,
+    sections,
+    notes: render(split.notes),
+    // Kept for anything that wants the whole entry as one block, such as print.
+    body: lead + sections.map((s) => s.html).join("\n") + render(split.notes),
   };
 }
 

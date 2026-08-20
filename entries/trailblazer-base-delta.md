@@ -9,14 +9,12 @@ cross_refs: [trailblazers, trailblazer-logistics, maspin, riflo, flooms, elder-t
 # TRAILBLAZER BASE DELTA
 `INTACT`
 
-Trailblazer port and settlement, Maspin. Established under concession GC 4451.
+A Trailblazer port on Maspin, built up into the trees.
 
-**Establishment.** Filed. Concession area, term, revenue split with the Council, and construction schedule are all held. The split is 60 per cent to the local council and 40 per cent to the concessionaire, against land and housing.
+Bungalows on stilts and platforms, woven rugs, ferns everywhere, lanterns strung between branches, and the Elder Tree going up out of sight beyond the edge of it. There is a medbay with two theatres, a machine shop, and ground for four medium hulls. Flooms are kept in the surrounding district and largely do as they please.
 
-**Fabric.** Elevated bungalow construction in local timber, lantern lighting, woven ground covering. Medical facility with two theatres. Machine shop. Landing ground for four medium hulls.
+**No walls.** No perimeter, no watchtowers, no emplacements, no guards. This is true of every Trailblazer installation and it is deliberate: they are guests on somebody's world and they build like guests. Soldiers who see it for the first time tend to describe it as a trap someone forgot to set.
 
-**Defensive works.** None. The concession filing records no perimeter, no watchtower, no emplacement, and no armed establishment. The Restoration has confirmed this against the construction schedule, which lists no such item, and against three informants, who confirmed it with some amusement.
+Maspin work here at every grade, including running things, which is not the arrangement anywhere else on this world.
 
-**Native employment.** The base employs Maspin at every grade including supervisory. Flooms are kept in the surrounding district and are managed rather than harvested.
-
-*Cross-ref: The Trailblazers · Trailblazer Logistics · Maspin · Riflo · Flooms*
+*Cross-ref: The Trailblazers · Maspin · Riflo · Flooms · Calsco Fritt*

@@ -9,12 +9,12 @@ cross_refs: [council-of-riflo, riflo, palace-of-riflo, maspin, the-maspin, trail
 # THE COUNCIL CHAMBER OF RIFLO
 `TESTIMONY`
 
-Seat of the Council of Riflo. Within the Palace of Riflo.
+Stone floor, woven banners, and bioluminescent vines kept trained along the upper walls, so the whole room has a faint blue underlight before anyone lights anything.
 
-**Description, from testimony.** Stone floor. Woven banners. Bioluminescent vine growth maintained along the upper walls. A ceremonial bowl at the centre of the floor which is lit at the opening of a session, at which point each seated councillor's flame answers it in a distinct colour.
+A ceremonial bowl sits in the centre. When it is lit at the opening of a session, every seated councillor's flame answers it, each one a different colour, and the room reads at a glance as a set of individuals rather than a body.
 
-The floor carries a hum which informants describe as conveying the disposition of the room. Every informant who has stood in the chamber describes this without prompting and none describes it as a metaphor.
+**The floor hums.** Everyone who has stood in that chamber says so, and none of them says it as a figure of speech. The stone carries the mood of the room. Anger, amusement, doubt, all of it comes up through your feet before anybody speaks.
 
-**Procedure.** Councillors are addressed as the Council and by no other name. Gavels are used. Record is taken by hand with quills. A vote is expressed as a change in the colour of the flames, and unanimity is described as their merging to white.
+Records are taken by hand with feathered quills. Gavels are used. A vote is not counted; the flames change colour, and unanimity is all of them going white at once.
 
 *Cross-ref: The Council of Riflo · Riflo · The Palace of Riflo · The Maspin*

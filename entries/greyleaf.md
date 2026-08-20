@@ -3,16 +3,16 @@ title: Greyleaf
 slug: greyleaf
 category: flora-fauna
 tier: INTACT
-cross_refs: [monver, resmole, the-guard, galactic-standard-law, redleaf]
+cross_refs: [monver, resmole, the-guard, galactic-standard-law, redleaf, tiam]
 ---
 
 # GREYLEAF
 `INTACT`
 
-Cured leaf, smoked. The most widely traded recreational substance in the member worlds and the least regulated.
+Cured leaf, rolled and smoked. The most common vice in the galaxy and the cheapest.
 
-Grown on 41 worlds. Cured, cut and rolled. Sold by the packet and by weight, at prices the port returns record as low and stable.
+Grown on forty-one worlds, sold everywhere by the packet, legal in every jurisdiction in this volume, and issued as part of the Guard ration. It is what two people share on a wall at the end of a shift.
 
-Lawful everywhere in this archive. It appears in the Guard's ration schedule as an issue item and in the health returns of every member world as a cause of death.
+It also turns up in the cause-of-death column on every member world that keeps one.
 
-*Cross-ref: Monver · Resmole · The Guard · Redleaf*
+*Cross-ref: Monver · Resmole · Redleaf · Tiam*

@@ -9,10 +9,10 @@ cross_refs: [guardnet, skeleton-keys, saigo, the-wipe]
 # DATAPADS
 `INTACT`
 
-Handheld terminal. Reconstructed manufacture, in production at Saigo and at two licensed facilities.
+A handheld screen, rebuilt from scratch after the Wipe and now made at Saigo and two licensed plants.
 
-Identity is verified at the device by thumb contact against the holder's registered print. Verification is local where the network is unavailable and is reconciled to the ledger when it is not.
+You confirm who you are with a thumb on the glass. Off-network it checks you locally and squares up with the ledger later.
 
-The reconstructed devices are not compatible with pre-war peripherals and were designed without reference to pre-war security practice, no example of that practice having survived to design against.
+They do not talk to anything from before the war. The people who designed them had never used a pre-war device, had no examples to study, and built to their own guesses, which is also why nothing in them anticipates a skeleton key.
 
-*Cross-ref: Guardnet · Skeleton keys · Saigo · The Wipe*
+*Cross-ref: Guardnet · Skeleton keys · Saigo*

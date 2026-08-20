@@ -280,7 +280,7 @@ Referenced in this volume. No entry has been recovered.
 | `pre-war-genetic-survey` `[ENTRY NOT RECOVERED]` | [Humans](entries/humans.md) · [Katanzaria](entries/katanzaria.md) · [Wake](entries/wake.md) |
 | `queen-traceen` `[ENTRY NOT RECOVERED]` | [King Matthew](entries/king-matthew.md) · [The Royal Houses](entries/royal-houses.md) · [Shayron](entries/shayron.md) · [The Queen's Anniversary](entries/the-queens-anniversary.md) · [Tracineim](entries/tracineim.md) |
 | `sansvor-port-manifests` `[ENTRY NOT RECOVERED]` | [Sansvor](entries/sansvor.md) |
-| `synthesis-process-schedule` `[ENTRY NOT RECOVERED]` | [Corefuel](entries/corefuel.md) · [Korjin Cavaris](entries/korjin-cavaris.md) · [Wake Extraction Station](entries/wake-extraction-station.md) |
+| `synthesis-process-schedule` `[ENTRY NOT RECOVERED]` | [Corefuel](entries/corefuel.md) · [Korjin Cavaris](entries/korjin-cavaris.md) |
 | `the-first-world` `[ENTRY NOT RECOVERED]` | [Johnny Plasma](entries/johnny-plasma.md) · [The Guard](entries/the-guard.md) |
 | `wake-census` `[ENTRY NOT RECOVERED]` | [The Destruction of Wake](entries/destruction-of-wake.md) · [Wake](entries/wake.md) |
 | `wakeful-islands-settlement-roll` `[ENTRY NOT RECOVERED]` | [The Wakeful Islands](entries/wakeful-islands.md) |

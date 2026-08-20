@@ -9,10 +9,10 @@ cross_refs: [maspin, fermented-kraskor, sheel, maspin-dietary-practice]
 # KRASKOR
 `INTACT`
 
-Herd animal of Maspin. Horned, heavy, and disposed to charge. Herded across the settled belt and exported live and processed.
+Big, horned, herd animals on Maspin, with a strong preference for charging first.
 
-**Export returns, GC 4461:** 411,200 head live, 88,400 tonnes processed product.
+They are herded across the settled belt by people made of smoke, which is a sight visitors do not forget, and they are one of the few things this world produces in enough quantity to sell offworld. Four hundred thousand head a year go out live.
 
-Kraskor are not eaten by the Maspin in the form in which they are exported. Local consumption is of the fermented product, which is catalogued separately and which the Council's own submissions describe as a staple delicacy.
+The Maspin do not eat them in the form they sell them. What they eat is fermented, and it takes years.
 
 *Cross-ref: Maspin · Fermented kraskor · Sheel · Maspin dietary practice*

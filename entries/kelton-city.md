@@ -9,13 +9,10 @@ cross_refs: [kelton, polaris-system, polaris-scrip, weton, guard-credits, quaran
 # KELTON CITY
 `INTACT`
 
-The only city of the Polaris system. Seat of the harvest ledger.
+The only city in the breadbasket, on the only world in it that grows nothing.
 
-**Contains:** the exchange, the licensing authority, the seed registry, the water allocation office, the quarantine authority, the port, the plant laboratories, forty-one embassies and consulates, and the offices of every insurer writing agricultural risk in the system.
+Everything that decides what happens to the food is in here: the exchange, the harvest ledger, the licensing office, the seed registry, the water allocation desk, quarantine, the port, the crop laboratories, forty-one embassies, and every insurer writing agricultural risk in the system.
 
-**Population:** between 2 million and 11 million
-**Transactions cleared, GC 4461:** 4,880,206, at a total value of 21,144,890,300 credits
-
-**Food production within the municipal boundary:** nil.
+It is a city of offices in the middle of a planet of empty ground, and it clears twenty-one billion credits a year without a field anywhere inside the municipal boundary.
 
 *Cross-ref: Kelton · The Polaris System · Polaris scrip · The quarantine authority*

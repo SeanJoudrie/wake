@@ -3,17 +3,18 @@ title: Riflo
 slug: riflo
 category: location
 tier: INTACT
-cross_refs: [maspin, council-of-riflo, palace-of-riflo, trailblazers, trailblazer-base-delta]
+cross_refs: [maspin, council-of-riflo, palace-of-riflo, trailblazers, trailblazer-base-delta, the-maspin, daiser]
 ---
 
 # RIFLO
 `INTACT`
 
-Principal settlement of the settled belt, Maspin. Seat of the Council.
+The main settlement of the settled belt, and as close as Maspin gets to a city.
 
-**Population:** between 400,000 and 3 million
-**Registered port traffic, GC 4461:** 1,140 arrivals, of which 1,102 were Trailblazer or Trailblazer-chartered
+It sits where the jungle allows it: low buildings, stone and grown timber, walkways that go around trees rather than through them, and the Palace at the middle of it with the Council inside. Everything on this world that involves a decision happens here.
 
-The port returns are the only complete administrative series this archive holds for the world, the Trailblazers being obliged to file them under their concession. Everything else known about Riflo is testimony.
+The port is the other half of the place. Almost every ship that touches Maspin is a Trailblazer hull or chartered by one, which is a small number of arrivals for a whole world and a very large number for this one. Crews come through, drink the local wine, and leave.
 
-*Cross-ref: Maspin · The Council of Riflo · The Palace of Riflo · The Trailblazers*
+It is the only place on Maspin where a visitor is unremarkable, and the only place most Maspin will ever see an outsider.
+
+*Cross-ref: Maspin · The Council of Riflo · The Palace of Riflo · The Trailblazers · Trailblazer Base Delta*

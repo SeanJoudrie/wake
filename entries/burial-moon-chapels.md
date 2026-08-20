@@ -9,12 +9,10 @@ cross_refs: [burial-moon, guard-burial-rites, enlistment-rites-form, tracineim, 
 # THE BURIAL MOON CHAPELS
 `INTACT`
 
-Service buildings distributed across the Burial Moon at intervals of approximately four kilometres. 214 in the establishment schedule.
+Two hundred and fourteen small stone buildings scattered across a moon of grass, about four kilometres apart, so that wherever a plot is there is one within walking distance.
 
-**Form.** Small, single-chamber, unheated, and denominationally unassigned. Each holds forty. Each is fitted with a rail, a table, and a cupboard, and is otherwise bare, so that any rite recorded on the enlistment form can be conducted in it without alteration.
+Each holds forty people. Each is unheated, and belongs to no faith at all: a rail, a table, a cupboard, and nothing else on the walls. That is deliberate. Any rite a person wrote on their enrolment form at seventeen can be performed in one of these rooms without moving a single thing.
 
-**Use.** Booked in advance through the caretaker establishment. Mean attendance per service, filed: 6.
-
-**Capacity note.** The establishment schedule provides for individual services. The largest observance the moon has hosted is filed as a single combined service, and the return for it records attendance in a figure and the number of persons commemorated in a range.
+Services are booked through the caretakers. The average attendance is six.
 
 *Cross-ref: The Burial Moon · Guard burial rites · The enlistment rites form*

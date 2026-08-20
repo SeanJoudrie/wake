@@ -3,20 +3,20 @@ title: Beryllium rifles
 slug: beryllium-rifles
 category: technology
 tier: INTACT
-cross_refs: [galactic-standard-law, plasma-rifles, maspin, royal-houses, katanzaria]
+cross_refs: [galactic-standard-law, plasma-rifles, maspin, royal-houses, katanzaria, daiser]
 ---
 
 # BERYLLIUM RIFLES
 `INTACT`
 
-Kinetic weapon firing a toxic projectile. Prohibited on Maspin and throughout the Royal systems. Restricted elsewhere.
+A kinetic weapon that fires a poisoned round, banned across the Royal systems and on Maspin, restricted almost everywhere else.
 
-**Effect.** The projectile is metallurgically toxic. A survivable wound carries a long-term carcinogenic burden which the medical literature documents and which the prohibitions cite.
+The metal is toxic. Survive a hit and you carry a cancer risk for the rest of your life, which is what the bans cite and what everyone means when they talk about them.
 
-**Prohibition.** Maspin, by Council instrument. The Royal systems, by statute. Nine member worlds, by planetary statute. Galactic Standard law restricts possession and does not prohibit it.
+> *"You don't just wanna put holes in people. You wanna give them cancer too?"*
 
-**Manufacture.** Unlike most weapons in current use, these can be made. The process is chemical rather than industrial and is within the reach of a competent chemist with access to the base metal. Prosecution returns record 41 manufacturing prosecutions in nineteen years, of which 38 were on worlds where the weapon is prohibited.
+**Why they exist at all.** Unlike almost every other weapon in this volume, these can still be made. It is chemistry rather than industry, and a competent chemist with access to the base metal can produce them, which is exactly how they turn up on worlds that have outlawed them.
 
-**Trade.** Crates in the freight returns are declared under other descriptions. The most common declarations recorded in seizure returns are battery stock, mineral samples, and agricultural chemical.
+Crates move under other names. Seizure returns most often find them declared as battery stock, mineral samples, or agricultural chemical.
 
-*Cross-ref: Galactic Standard law · Plasma rifles · Maspin · The Royal Houses*
+*Cross-ref: Galactic Standard law · Plasma rifles · Maspin · Daiser*

@@ -9,15 +9,10 @@ cross_refs: [shayron, maldo, maldo-steel, capital-district]
 # THE SHAYRON LAMP POSTS
 `INTACT`
 
-Street lighting standards of the Capital District, Shayron. Imported from Maldo during the period of that world's industry.
+Two thousand four hundred and eleven cast standards down the Capital District, brought in from Maldo when Maldo still made things.
 
-**Number:** 2,411 in the district schedule.
-**Maintenance:** municipal, continuous, with a repair record kept per standard since installation.
+They have been repaired constantly ever since, one broken section at a time, with whatever was to hand. Maldo steel has not been to hand for a very long time.
 
-The repair records are complete. Read against them, no standard in the district retains a majority of its original material. Sections have been replaced individually as they failed, in each case with the nearest available substitute, and Maldo steel has not been available for a considerable period.
-
-The schedule continues to describe them as the Maldo standards.
-
-*[Compiler's note: a clerk in the district office has written in the margin of the GC 4455 return: "at what point are these something else." We reproduce the marginal note because it is a better statement of the problem than ours.]*
+Go through the repair books and no standard in the district still holds a majority of its original metal. Not one. The city continues to call them the Maldo standards, and a clerk in the district office wrote in the margin of one return: *at what point are these something else.*
 
 *Cross-ref: Shayron · Maldo · Maldo steel*

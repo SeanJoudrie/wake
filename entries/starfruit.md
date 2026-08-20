@@ -9,8 +9,8 @@ cross_refs: [kinton, maspin, creta]
 # STARFRUIT
 `INTACT`
 
-Sectioned fruit of high sugar content, grown on the warm worlds and exported fresh to the inner systems and preserved to the outer.
+A sectioned fruit, very sweet, grown on the warm worlds and cut across the sections so it comes apart in stars.
 
-Export returns record two grades. The difference between them in the schedule is the permitted transit time.
+It travels badly. Inner systems get it fresh and the outer worlds get it preserved, which is a difference of about eleven days in transit and, to anyone who has only ever had the jar, an entirely different fruit.
 
-*Cross-ref: Kinton · Maspin · Creta*
+*Cross-ref: Kinton · Creta*

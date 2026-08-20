@@ -9,14 +9,14 @@ cross_refs: [maldo, high-castle, shayron-lamp-posts, royal-houses, schedule-of-u
 # MALDO STEEL
 `INTACT`
 
-Structural alloy produced on Maldo during the period of that world's industry. The source ore is exhausted. The material is no longer produced.
+The metal the Royal systems are made of, and there is no more of it.
 
-**Properties.** Filed in the pre-war standards schedules. Tensile and fatigue performance above any alloy currently in production, and a characteristic surface which the standards describe and which is the reason the material was used decoratively as well as structurally.
+It came out of one world during one industrial century, and it is better than anything now in production: stronger, longer-lived, and with a surface finish that is the reason it got used for statues and railings as well as for beams.
 
-**Extent of use.** Every principal Royal structure on Maldo and on Shayron. The High Castle throughout. Public works, street furniture, monuments, and the fittings of a large number of buildings on worlds that imported it.
+Then the ore ran out.
 
-**Replacement.** None. The ore body is worked out and no substitute produces the surface. Repairs to Maldo steel structures are effected in current alloys, which differ visibly and are recorded as differing in the maintenance returns.
+Every palace, ministry, monument, embassy and lamp post the Royals have raised anywhere is built from a material that cannot be made again. Repairs go in with modern alloys that do not match and never will, and every Royal building is tracked as a slowly falling percentage of its original self.
 
-**Consequence.** The architectural identity of the Royal systems is constituted in a material that cannot be produced. Any part of it that is destroyed can be rebuilt. It cannot be rebuilt in the same thing, and the maintenance returns of every Royal structure record the proportion of original material remaining.
+Knock a wing down and you can rebuild it. You cannot rebuild it out of the same thing.
 
-*Cross-ref: Maldo · The High Castle · The Shayron lamp posts · The Royal Houses · The Schedule of unreplaceable classes*
+*Cross-ref: Maldo · The High Castle · The Shayron lamp posts · The Royal Houses*

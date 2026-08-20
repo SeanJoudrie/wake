@@ -9,14 +9,12 @@ cross_refs: [the-guard, the-wipe, guard-credits, the-mothership, guardnet, the-r
 # THE ACCOUNTING DIVISION
 `INTACT`
 
-Financial administration of the Guard. Maintains the ledger on which Guard credits are issued and against which they are honoured.
+A very large room full of desks, fluorescent light that hums, and people retyping the past.
 
-**Reconstruction.** Every financial record held by the Guard was lost in GC 4401. The division reconstructed twenty years of accounts by hand from paper duplicates, a programme running from GC 4402 to a completion date the division has not published. The reconstruction was manual throughout. Guardnet was not available for any part of it.
+Every financial record the Guard had died in GC 4401 along with every other computer in existence. What survived was paper duplicates, in cabinets, scattered across a hundred worlds. So the division has spent decades typing twenty years of accounts back in by hand.
 
-**Volume.** The division's own establishment returns record clerical strength rising from 411 to 9,204 across the reconstruction period and not falling afterwards.
+Clerical strength went from 411 to over nine thousand during that programme and never came back down.
 
-**Accuracy.** The reconstructed accounts have not been externally audited. The Restoration is aware of no instrument under which they could be. Internal audit is conducted by the division.
+Nobody has ever audited the result. There is no body with the standing to do it, and the division audits itself. What the Guard wanted out of twenty years of retyping was the twenty years.
 
-*[Compiler's note: we have made four applications for access to the reconstructed ledger. We have received three acknowledgements and one reply, which was an acknowledgement.]*
-
-*Cross-ref: The Guard · The Wipe · Guard credits · The Mothership · Guardnet*
+*Cross-ref: The Guard · The Wipe · Guard credits · The Mothership · Quinn Domnall*

@@ -9,16 +9,14 @@ cross_refs: [the-guard, academy-memorial-walls, actom, wedear, enlistment-rites-
 # THE GUARD ACADEMY
 `INTACT`
 
-Educational and training establishment of the Guard. Provides general schooling, service instruction and commissioning preparation.
+Where the Guard raises the people it will employ.
 
-**Intake.** Two routes. Ordinary entry at the standard age from member worlds, by application. And wardship entry, by which the Guard assumes the education and maintenance of children left without family by an action in which the Guard was engaged or present.
+Two ways in. The ordinary one is an application at the usual age from a member world. The other is wardship: when an action leaves a child with nobody, and the Guard was there, the Guard takes the child.
 
-Wardship intake, filed, GC 4442 to GC 4461: 41,880 children. Mean age at entry: 7.2 years. The wardship register records name, age, world of origin, and the incident reference under which the child was taken up.
+Over the last twenty years that is 41,880 children. The average age when they come in is seven.
 
-**Curriculum.** General education to the standard of the better member worlds, service instruction from the twelfth year, and a specialist stream from the fifteenth. Instruction in Galactic Standard is universal. Instruction in the history of the Great War occupies eleven periods across the whole course.
+They get a real education, better than most worlds manage, plus service instruction from about twelve and a specialist stream from fifteen. Poetry, mathematics, languages, the lot. Eleven periods across the entire course are spent on the history of the Great War.
 
-**Outcome.** Wardship entrants enter service at a rate of 94.1 per cent. The comparable rate for ordinary entrants is 61.8 per cent.
+Ordinary entrants join the service at a rate of about six in ten. Wardship entrants join at ninety-four in a hundred, which is not surprising, because the Academy is the only home they have.
 
-*[Compiler's note: the wardship register is the most complete continuous civil record of children in this archive. It is kept by an army.]*
-
-*Cross-ref: The Guard · The Academy memorial walls · Actom · Wedear · The enlistment rites form*
+*Cross-ref: The Guard · The Academy memorial walls · Jimzon Cavaris · Tiam · The enlistment rites form*

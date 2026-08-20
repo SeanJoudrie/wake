@@ -9,12 +9,12 @@ cross_refs: [kraskor, maspin, maspin-dietary-practice, the-maspin, pickled-insid
 # FERMENTED KRASKOR
 `TESTIMONY`
 
-Maspin preparation. Kraskor flesh fermented to a liquid or near-liquid state and taken by absorption.
+The finest thing on Maspin, by the Council's own account, and it is meat that has been left alone for years.
 
-Described in the Council's own submissions as a staple delicacy of the cuisine, which is the highest characterisation any food receives in a Maspin document held here.
+Kraskor flesh is fermented down until it is liquid, or near enough, and then taken the way Maspin take everything, which is absorbed rather than eaten. Grades exist and the good ones are measured in years.
 
-Grades exist and are distinguished by duration of fermentation. The finest are described by informants in terms of years.
+The Council's formal submissions describe it, alongside pickled inside-barked mycelium, as a staple delicacy of the cuisine. That is the highest praise any food gets in a Maspin document.
 
-The preparation is not exported. Kraskor is exported in a form the Maspin do not eat.
+None of it is exported. What leaves this world is live kraskor, in a form the Maspin themselves would not touch.
 
-*Cross-ref: Kraskor · Maspin · Maspin dietary practice · Pickled inside-barked mycelium*
+*Cross-ref: Kraskor · Maspin dietary practice · Pickled inside-barked mycelium*

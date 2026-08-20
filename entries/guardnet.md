@@ -9,14 +9,12 @@ cross_refs: [the-wipe, the-guard, guard-credits, saigo, ministry-of-propaganda, 
 # GUARDNET
 `INTACT`
 
-The reconstructed communications and ledger network of the Guard. In progressive service since GC 4417.
+The network being built to replace the one that died, and it is not going quickly.
 
-**Coverage.** Filed. Continuous within the inner member worlds. Intermittent beyond them. Absent on 44 member worlds and on all non-member worlds, which are served by courier and by radio.
+It carries the credit ledger, service records, licensing and official traffic. It does not carry public communication and was never meant to. If you want to send a letter to someone three systems away you still use a courier ship or a church-owned radio tower, the same as everybody has for sixty years.
 
-**Function.** Carries the credit ledger, service records, licensing, and administrative traffic. It does not carry general public communication and is not intended to.
+Coverage is continuous through the inner member worlds, patchy past them, and absent on forty-four member worlds and every non-member world in existence.
 
-**Dependence.** Where Guardnet reaches, money exists. Guard credits are ledger entries and are honoured against the ledger. Where the network does not reach, the credit is honoured on presentation of paper or is not honoured.
+That map matters more than anything else about it. Money is a ledger entry now, and the ledger lives here. Where the network reaches, you have savings. Where it does not, you have a promise.
 
-The network's service schedules are filed, including planned interruptions by world and by date.
-
-*Cross-ref: The Wipe · The Guard · Guard credits · Saigo · The accounting division*
+*Cross-ref: The Wipe · The Guard · Guard credits · Saigo*

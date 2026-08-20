@@ -9,12 +9,12 @@ cross_refs: [schedule-of-unreplaceable-classes, plasma-rifles, the-guard, wingsu
 # QUANTUM-THREAD ARMOUR
 `INTACT`
 
-Personal and vessel armour of pre-war manufacture. Listed in the schedule of unreplaceable classes.
+The good armour. Pre-war, unmakeable, and getting rarer every year in the most literal way possible.
 
-**Stock.** No facility for the thread is known to survive. Existing armour is repaired by patching from unserviceable stock, which reduces total area with every repair. The Guard's returns record serviceable area as a quantity and track it annually. It declines annually.
+Nobody knows how to spin the thread any more. Damaged suits are patched from suits that are past saving, which means every repair anywhere reduces the total amount of it in existence. The Guard tracks its remaining serviceable area as a single number, and that number goes down annually.
 
-**Issue.** By priority schedule. Personnel in categories the schedule ranks highly receive whole suits. Others receive patched suits, partial suits, or current-manufacture substitutes, which are heavier and perform less well and are produced in quantity.
+Ship hulls are armoured with the same material out of the same pool. Every year a committee decides how much goes on hulls and how much goes on people.
 
-**Note.** The armour of a vessel is scheduled on the same basis. Repairs to a hull consume the stock that would otherwise clothe personnel, and the allocation between the two is made annually by a committee whose minutes are filed.
+Who gets a whole suit is a priority list. Everybody else gets a patched one, a partial one, or the current-manufacture substitute, which is heavier, worse, and available in quantity.
 
 *Cross-ref: The Schedule of unreplaceable classes · Plasma rifles · The Guard · Wingsuits*

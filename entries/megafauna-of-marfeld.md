@@ -9,12 +9,14 @@ cross_refs: [marfeld, marfeld-coming-of-age-trial, path-of-blood, path-of-sky, k
 # MEGAFAUNA OF MARFELD
 `INTACT`
 
-The large fauna of Marfeld, predator and herbivore, surviving in the wild at population densities that preclude permanent settlement of any size.
+Forty-one catalogued species over a tonne, nine of them predators, all of them still out there.
 
-**Survey.** 41 species above one tonne adult mass are catalogued, of which 9 are predatory. Range, seasonal movement and density are surveyed annually by the settlements themselves and the returns are consolidated. They are the most consistent scientific series produced on the world.
+Every other world hunted its big animals to nothing. Marfeld never managed it, and that single failure shaped everything about the place: why the towns are walled, why they stay small enough to move, why there has never been a city, and why the world's chief export is people who have already survived something.
 
-**Consequence for settlement.** No settlement can hold ground against seasonal predator movement year-round. Settlement is therefore walled, medium in scale, and relocatable. No urban centre has ever existed on Marfeld and none is projected.
+The settlements survey them every year, tracking range, movement and density, and pool the results. It is the most consistent piece of science produced on the world and it is done by farmers.
 
-**Domestication.** A number of the large herbivores were domesticated in the last two centuries and bred for docility. Draught animals of these lines are exported. The culture that formed around the wild animals did not change when the animals did.
+**Domestication.** In the last two centuries they broke some of the big grazers to harness and bred the aggression out. Those lines are exported now as draught animals, placid as anything.
+
+The animals changed. The culture did not.
 
 *Cross-ref: Marfeld · The Marfeld coming-of-age trial · The Path of Blood · The Path of Sky*

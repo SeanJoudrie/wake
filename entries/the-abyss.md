@@ -9,10 +9,12 @@ cross_refs: [elder-tree, elder-tree-interment-rite, maspin, gem-mosaic-wall]
 # THE ABYSS
 `TESTIMONY`
 
-The opening in the floor of the Elder Tree chamber. Circular, unrailed, and of undetermined depth.
+The hole in the floor of the Elder Tree.
 
-No informant has described a bottom. No survey has been permitted. The Maspin do not regard the depth as a question.
+It sits at the centre of the chamber, perfectly round, with nothing around it. No rail, no rope, no warning. Everybody who has stood in that room mentions how strange it is to see a drop like that left completely open, and how quickly you stop noticing.
 
-Blue vapour is described as rising from the opening after an interment and as being taken up by the tree.
+Nobody has ever described a bottom. No survey has been permitted and none has been requested twice. The Maspin do not treat the depth as an interesting question.
+
+After an interment, blue vapour comes up out of it, and the tree takes it in.
 
 *Cross-ref: The Elder Tree · The Elder Tree interment rite · The gem mosaic wall*

@@ -9,8 +9,10 @@ cross_refs: [hyperspace-slipstream, corefuel, the-mothership]
 # J.LOT
 `INTACT`
 
-Catalogued belt formation. Navigational hazard and recreational transit route.
+A belt formation with nothing in it worth having: no settlement, no licence, nothing to mine.
 
-The formation carries no settlement, no licence, and no assessed extraction value. It appears in the navigational schedules with a standing advisory against powered transit at speed, and in the Guard's disciplinary returns as the location cited in 88 charges of unauthorised vessel use over eleven years.
+What it does have is rock, in quantity, at speed, in a pattern that makes flying through it fast a genuinely stupid idea. The navigational schedules carry a standing advisory against powered transit at speed.
+
+It appears in the Guard's disciplinary returns eighty-eight times in eleven years, always as the location, always in a charge about unauthorised use of a vessel. Young pilots have been doing this for as long as there have been young pilots.
 
 *Cross-ref: Hyperspace slipstream · The Mothership*

@@ -9,18 +9,12 @@ cross_refs: [polaris-system, kelton, weton, guard-credits, kelton-city, dorrow]
 # POLARIS SCRIP
 `INTACT`
 
-The local currency of the Polaris system. Issued on Kelton against the harvest. Not negotiable outside the system.
+The money in the breadbasket. Excellent money, and only in the breadbasket.
 
-**Issue.** By the Kelton authority, against the forward value of the harvest, in fixed annual tranches. The issue schedules are filed.
+Wages, rent, shopping, licences and local tax are all in scrip. Wages are good and savings are substantial, well above the member-world average, because the system pays properly and there is not much to spend it on.
 
-**Acceptance.** Universal within the ten inhabited bodies. Wages, rents, purchases, licences and local taxes are all in scrip.
+You can change it for Guard credits at the exchange in Kelton City, at a rate set daily, up to an annual limit per person. Roughly four people in a thousand ever reach that limit.
 
-**Convertibility.** Scrip is convertible to Guard credits at the Kelton exchange, at a rate set daily by the exchange, subject to a conversion limit per person per year set out in the residence instrument.
+Nobody is stopped from leaving Polaris. What you cannot do is take twenty years of it with you.
 
-**Conversion limit, current:** an amount the exchange returns record as being met or exceeded by 0.4 per cent of holders in a year.
-
-**Effect on holdings.** Wages in the system are high and savings are substantial. Mean recorded household savings across the ten bodies exceed the member-world mean by a considerable margin. Those savings are denominated in scrip.
-
-A resident may leave the system. The residence instrument provides for it at clause 11, subject to an approved leave filing stating a date of return. What the resident may take is a separate question and is answered by the conversion limit.
-
-*Cross-ref: The Polaris System · Kelton · Weton · Guard credits · Kelton City*
+*Cross-ref: The Polaris System · Kelton · Guard credits · Kelton City*

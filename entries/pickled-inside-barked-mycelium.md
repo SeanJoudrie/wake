@@ -9,8 +9,10 @@ cross_refs: [maspin, maspin-dietary-practice, fermented-kraskor, the-maspin, eld
 # PICKLED INSIDE-BARKED MYCELIUM
 `TESTIMONY`
 
-Maspin preparation. A fungal growth taken from the inner bark of certain jungle trees, pickled and taken as a liquid.
+A fungus that grows on the inner bark of certain jungle trees, cut out, pickled, and drunk.
 
-Named in the Council's submissions alongside fermented kraskor as a staple delicacy. The trees from which it is taken are not identified in any document held here, and our informants declined to identify them, on grounds we understood to be commercial rather than religious.
+It is named beside fermented kraskor in the Council's submissions as one of the two great Maspin foods, which on a world with very little to eat is a real distinction.
 
-*Cross-ref: Maspin · Maspin dietary practice · Fermented kraskor*
+Which trees it comes from is not written down anywhere and nobody would tell us. That reticence turned out not to be religious. It is commercial.
+
+*Cross-ref: Maspin dietary practice · Fermented kraskor · The Elder Tree*

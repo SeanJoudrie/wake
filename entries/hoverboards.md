@@ -9,10 +9,10 @@ cross_refs: [schedule-of-unreplaceable-classes, saigo, moonball]
 # HOVERBOARDS
 `INTACT`
 
-Personal repulsor transport. Listed in the schedule of unreplaceable classes.
+Everybody knows what one is. Everybody has seen one. Nobody can build one.
 
-The type is well understood, widely used, and not manufacturable, the repulsor assembly having been produced at facilities that no longer exist. Surviving boards are repaired and traded. Prices in the port returns have risen in every year published.
+The repulsor assembly came out of factories that no longer exist, and the design is well understood in the sense that engineers can explain exactly how it works and cannot produce the part. Surviving boards get repaired and traded and the price goes up every single year.
 
-Reconstruction has been attempted at Saigo on four occasions and abandoned on four occasions. The programme reports are filed and are candid.
+Saigo has tried to rebuild them four times and abandoned it four times. The programme reports are unusually honest about why.
 
-*Cross-ref: The Schedule of unreplaceable classes · Saigo · Moonball*
+*Cross-ref: The Schedule of unreplaceable classes · Saigo*

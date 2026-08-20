@@ -9,16 +9,14 @@ cross_refs: [guardnet, accounting-division, the-guard, polaris-scrip, the-wipe, 
 # GUARD CREDITS
 `INTACT`
 
-The general currency of the member worlds. A ledger entry. There is no coin, no note, and no bearer instrument.
+The money. There is no coin, no note, and nothing you can hold. A credit is a line in the Guard's ledger and it is worth something because the Guard says it is.
 
-**Nature.** A credit exists as a line in the Guard ledger and is honoured against that ledger. It is not a claim on any commodity and is not backed by a reserve. Its value rests on the Guard's undertaking to honour it and on the willingness of member worlds to assess taxation in it.
+When the Wipe took every financial record in existence, money went back to paper for about a decade while the accounts were retyped, and then the credit replaced it. It is not backed by metal or grain or anything else. It is backed by the Guard's word and by the fact that member worlds collect tax in it.
 
-**Origin.** Currency reverted to paper on the loss of all monetary records in GC 4401. The credit was introduced during the reconstruction of the accounts and displaced paper instruments over approximately eleven years.
+**Where it works.** Wherever Guardnet reaches. Beyond that you settle in paper and hope somebody reconciles it later, at the discretion of whoever you are dealing with.
 
-**Availability.** A credit is honoured where the ledger can be reached. Where Guardnet does not reach, settlement is by paper against later reconciliation, at the discretion of the receiving party.
+Which means the answer to whether your savings exist depends on where you are standing. Cut a world off the network and everything its people own becomes a rumour until it comes back.
 
-**Consequence.** A holding of credits is a holding of an entry in a ledger maintained by one party, honoured in the places that party's network reaches. Where a world is not reached, its residents' holdings are not spendable there. The Restoration states this as a property of the instrument and not as an allegation about its use.
+The ledger rules allow settlement to a world or a district to be suspended by administrative decision. It has happened nineteen times in twenty years, for an average of forty-one days.
 
-**Suspension.** The ledger schedules provide for the suspension of settlement to a world or a district, on stated grounds, by administrative decision. Grounds listed: fraud, insolvency of a clearing party, technical failure, and the protection of the ledger. Recorded suspensions, GC 4442 to GC 4461: 19. Mean duration: 41 days.
-
-*Cross-ref: Guardnet · The accounting division · The Guard · Polaris scrip · The Wipe*
+*Cross-ref: Guardnet · The accounting division · Polaris scrip · The Wipe*

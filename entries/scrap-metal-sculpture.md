@@ -9,12 +9,10 @@ cross_refs: [wakeful-islands, asteroid-colony-docking-pad, wake]
 # THE SCRAP-METAL SCULPTURE
 `TESTIMONY`
 
-A welded sculpture standing in the square of one of the inhabited fragments of the Wake field.
+Somebody on one of the Wake fragments welded a sculpture together out of offcuts and painted it teal and magenta, and stood it in the square.
 
-Approximately three metres. Assembled from painted plate and offcut. Teal and magenta. The subject is not identifiable to any informant, including two who lived in sight of it.
+It is about three metres tall. Nobody who has described it to us can say what it is meant to be, including two people who lived within sight of it and walked past it every day.
 
-It does not appear in the licensing schedule, the parts requisition, the structures return, or any other document held here, the fragment settlements having no charter under which a public work could be filed.
-
-Attributed to J., and to one further informant who did not wish to be recorded.
+It appears in no document anywhere, because a settlement without a charter has no way to file a public work. It existed because somebody made it.
 
 *Cross-ref: The Wakeful Islands · The asteroid colony docking pad · Wake*

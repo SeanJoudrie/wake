@@ -3,29 +3,20 @@ title: Wake Extraction Station
 slug: wake-extraction-station
 category: location
 tier: INTACT
-cross_refs: [corefuel, wake, wakeful-islands, gravity-spires, guard-board-of-directors, synthesis-process-schedule, korjin-cavaris, mr-armstin]
+cross_refs: [corefuel, wake, wakeful-islands, gravity-spires, guard-board-of-directors, korjin-cavaris, mr-armstin]
 ---
 
 # WAKE EXTRACTION STATION
 `INTACT`
 
-Primary synthesis and loading facility of the Wake field. Referred to in licensing paperwork as Station, without qualifier, there being only one.
+The works where the homeworld gets turned into fuel. In the paperwork it is called Station, without a qualifier, because there is only one.
 
-**Function.** Receives raw fragment material, performs synthesis, certifies output by mass, and loads to Guard transport. Quota is set annually by the Board of Directors and is filed to one decimal place.
+Raw fragment material comes in, synthesis happens, and certified Corefuel goes out to Guard transports. Everything that flies anywhere begins here.
 
-**Quota performance, selected years, as filed:**
+**The quota.** The Board sets a number each year and the station meets it. The contract pays on certification of the full year's quota and not before, which means a station chief spends every year working toward a single date. Miss it and the year pays nothing.
 
-| Year | Quota (tonnes) | Delivered |
-|---|---|---|
-| GC 4458 | 780,000.0 | 780,000.0 |
-| GC 4459 | 795,000.0 | 795,000.0 |
-| GC 4460 | 806,000.0 | 806,000.0 |
-| GC 4461 | 812,000.0 | 812,443.6 |
+The final year on record came in at 443.6 tonnes over.
 
-**Terms.** The operating contract is a quota contract. Payment falls due on certification of the full annual quota and not before. Partial delivery is compensated at nil. This structure appears in every extraction contract in our holdings, on this world and on others.
+**Class 2.** That rating entitles the station to point-defence parts every quarter, on request. The entitlements are all on file. The delivery notes are kept somewhere else and that series has gaps in it.
 
-**Personnel.** Not filed. The station's requisition schedules order rations, atmosphere plant consumables, and school materials, from which a resident population may be inferred, but no roll exists.
-
-**Defensive fitting.** The station is listed in the licensing schedule as a Class 2 installation, carrying an entitlement to point-defence maintenance parts on quarterly resupply. The delivery manifests in our holdings record those parts as scheduled. Several manifests record them as scheduled in consecutive quarters without an accompanying delivery note. `[FILING INCOMPLETE]`
-
-*Cross-ref: Corefuel · Wake · The Wakeful Islands · Gravity spires · Guard Board of Directors · The synthesis process schedule `[ENTRY NOT RECOVERED]`*
+*Cross-ref: Corefuel · Wake · The Wakeful Islands · Gravity spires · Korjin Cavaris · Mr Armstin*

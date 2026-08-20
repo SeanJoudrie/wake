@@ -9,14 +9,14 @@ cross_refs: [schedule-of-unreplaceable-classes, galactic-standard-law, the-guard
 # PLASMA RIFLES
 `INTACT`
 
-The standard infantry weapon of the present period. Not manufacturable. Total galactic stock decreases.
+The standard weapon of the age, and nobody can make another one.
 
-**Stock.** No production facility for the weapon or for its charge assemblies is known to survive. Every plasma rifle in existence predates the Wipe. Serviceable stock is maintained by repair, cannibalisation, and the recovery of assemblies from unserviceable weapons.
+Every plasma rifle in the galaxy was built before the Wipe. The factories that made them and the charge assemblies they run on were among the first things both sides burned, because that was the whole strategy of the war: not taking ground, taking the ability to build.
 
-**Value.** Listed in the underwriters' schedule of unreplaceable classes. The index value of a serviceable rifle has risen in every year published. In several outer markets the weapon functions as a store of value and is traded as one, a use recorded in the port returns of eleven worlds.
+So the total number only goes down. Armourers keep them alive by cannibalising the dead ones, and a serviceable rifle appreciates in value against almost everything else. Out on the rim, weapons work as currency. A rifle holds its worth better than money does.
 
-**Regulation.** Automatic plasma weapons are lawful under planetary statute on 19 member worlds and unlawful under Galactic Standard. The provision is among the most frequently cited in the prosecution returns, and its citation is not evenly distributed by world or by year.
+Which makes the Guard's arsenal not just power but a fortune, sitting in racks.
 
-**Guard holding.** The Guard's arsenal return is filed and is precise. It is the largest single holding of scheduled items recorded anywhere in this archive.
+Automatic plasma weapons are legal under planetary statute on nineteen member worlds and illegal under Galactic Standard everywhere. Both are true at once, and which one gets enforced depends on who is asking.
 
 *Cross-ref: The Schedule of unreplaceable classes · Galactic Standard law · The Guard · Beryllium rifles*

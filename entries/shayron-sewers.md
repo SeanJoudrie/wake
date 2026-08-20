@@ -9,12 +9,12 @@ cross_refs: [shayron, abandoned-monastic-quarters, capital-district]
 # THE SHAYRON SEWERS
 `INTACT`
 
-Gravity drainage system of the oldest construction era, Shayron. In continuous service.
+The oldest thing on Shayron still doing its job.
 
-**Age.** The system predates every structure standing above it. It was surveyed on Royal acquisition, found sound, and retained. No section has been replaced. Sections have been extended.
+They were cut for the first city on this site and they have outlasted three more built on top. Gravity-fed, stone-lined, and never once replaced, because every era that inherited them checked, found them sound, and got on with something else. Sections have been extended. Nothing has been rebuilt.
 
-**Extent.** 411 kilometres of main channel, mapped. An unquantified additional length is recorded in the survey as "inherited, unmapped, in service."
+Four hundred and eleven kilometres are mapped. The survey notes a further unknown length inherited from the earliest works, unmapped, and in service.
 
-**Note.** The system runs beneath the closed monastic quarters, which are sealed at street level and are not sealed below it. The municipal survey records this. It is not recorded as a concern.
+They run under the sealed quarters, which are locked at street level and open from below. The city knows. It has never been treated as a problem.
 
 *Cross-ref: Shayron · The abandoned monastic quarters*

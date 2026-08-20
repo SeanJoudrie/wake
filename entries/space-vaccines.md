@@ -9,16 +9,12 @@ cross_refs: [schedule-of-unreplaceable-classes, modanick, astonians, floom-eggs,
 # SPACE VACCINES
 `INTACT`
 
-The standard prophylactic series against the principal transmissible diseases of the settled worlds. Near-universal coverage. The reason plague is not a feature of the present period.
+The reason there is no plague.
 
-**Coverage.** Filed. Above 90 per cent of population on 88 member worlds. Below 40 per cent on 19. The distribution follows the reach of Guardnet closely, the programme being administered from the ledger.
+A standard course against the major transmissible diseases, given nearly everywhere, and the single most successful thing anyone has managed to keep running since the war. Coverage is above ninety per cent on eighty-eight member worlds. It is below forty on nineteen, and the map of who gets them looks almost exactly like the map of where Guardnet reaches, because the programme runs off the ledger.
 
-**Stock.** The pre-war formulations appear in the underwriters' schedule of unreplaceable classes. Current supply is produced from surviving seed stock at three facilities. The programme's own returns record production as sufficient for the current schedule and insufficient to extend it.
+**What they cannot do.** There are forty-one diseases with no surviving formulation at all. The seed stock burned with everything else. Populations that happen to have picked up resistance to any of them are noted, world by world, in the survey material, and that is the whole of the plan.
 
-**Regenerative and cellular medicine.** A separate and much smaller category. The techniques were pre-war and the facilities were destroyed. What exists is inventory. It is issued against clinical criteria and against a standing schedule of priority which is filed and is precise.
+**And the other kind of medicine.** The regenerative material, the cure-anything material, is not this. That was pre-war, the facilities are gone, and what exists is a stockpile being spent. A million doses is an enormous number until you are counting people in billions.
 
-The Restoration notes that the priority schedule is expressed in terms of the recipient's assessed value to the service, and that this is stated in the schedule itself, in those terms, without euphemism.
-
-**Pathogens without stock.** The medical returns list 41 transmissible diseases for which no vaccine formulation survives. Populations with acquired resistance to any of them are recorded in the survey material by world.
-
-*Cross-ref: The Schedule of unreplaceable classes · Modanick · Astonians · Floom eggs · The Refugee Displacement*
+*Cross-ref: The Schedule of unreplaceable classes · Modanick · Astonians · Floom eggs*

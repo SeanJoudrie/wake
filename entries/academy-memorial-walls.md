@@ -9,14 +9,12 @@ cross_refs: [guard-academy, burial-moon, guard-burial-rites, gem-mosaic-wall, th
 # THE ACADEMY MEMORIAL WALLS
 `INTACT`
 
-Brass memorial to Guard personnel lost in service. Sited on the approach to the Guard Academy.
+Cast brass plates on the approach road to the Academy, running in continuous rows, with every name in applied gold leaf.
 
-**Form.** Plates of cast brass, mounted in continuous runs, carrying names in applied gold leaf. Names appear in order of loss. Each carries surname, initials, service number and year. No rank, no unit, and no place.
+Names go up in order of loss, once a year, in the eleventh month. Each one gets a surname, initials, a service number and a year. No rank, no unit, no place, because at the moment they went up nobody thought any of that would matter as much as the name.
 
-**Extent.** Filed: 41 walls in the principal run, 2,140,880 names as at the last recorded addition, additions made annually in the eleventh month. Gold leaf consumption per annum is filed. The maintenance contract is filed. The cost per name is filed.
+There are 2,140,880 of them across forty-one walls.
 
-**Legibility.** The plates are legible. Volunteers of this archive have attempted a full transcription on three occasions and have not completed one. The furthest attempt reached the eleventh wall.
+Every plate is perfectly legible and nobody has ever read them all. Three people from this archive have tried. The furthest anyone got was the eleventh wall.
 
-*[Compiler's note: there is no obligation to read it. There is nothing anywhere that says a person has to. Three of ours tried anyway.]*
-
-*Cross-ref: The Guard Academy · The Burial Moon · The gem mosaic wall*
+*Cross-ref: The Guard Academy · The Burial Moon · The gem mosaic wall · Tiam*

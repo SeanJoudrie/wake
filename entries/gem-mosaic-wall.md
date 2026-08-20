@@ -9,12 +9,12 @@ cross_refs: [elder-tree, gem-setting-practice, the-abyss, academy-memorial-walls
 # THE GEM MOSAIC WALL
 `TESTIMONY`
 
-The interior wall of the Elder Tree chamber, set with coloured stones. One stone is set for each interment.
+The inside of the Elder Tree is covered in coloured stones, and every one of them is a person.
 
-**Count.** Not established. Informants give figures between many thousands and a number they decline to estimate. The Restoration has not counted them and has not asked to.
+When a Maspin is interred, the stone is taken off the necklace they wore in life and set into the wall. There are thousands. Nobody has counted them and nobody has been asked to.
 
-**Order.** There is none. Stones are set where there is room. There is no chronology, no section by family, and no inscription of any kind. A stone carries a colour and a position and nothing else.
+There is no order to it. Not by date, not by family, not by anything. A stone goes wherever there is room. There are no names, no dates, and no inscriptions of any kind, so a family cannot come back and find their own.
 
-The Restoration records, for comparison and without drawing a conclusion from it, that the Guard Academy memorial walls carry every name in full, in gold leaf, in order of loss, and that no volunteer of this archive has succeeded in transcribing them.
+Asked about that, they say it is not what the wall is for.
 
 *Cross-ref: The Elder Tree · The gem-setting practice · The Academy memorial walls*

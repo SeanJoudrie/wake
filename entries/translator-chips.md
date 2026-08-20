@@ -9,14 +9,12 @@ cross_refs: [galactic-standard, nhath, the-guard, guard-credits, nhathian, the-n
 # TRANSLATOR CHIPS
 `INTACT`
 
-Implanted device providing comprehension and production of Galactic Standard. Guard manufacture. Implanted at the neck.
+A Guard-made implant that puts Galactic Standard in your head. It goes in at the neck.
 
-**Production.** One of the few classes reconstructed since the Wipe and now in continuous manufacture. Units are serialised. The serial ranges are allocated by year and by production run and are filed, which permits any recovered unit to be dated to within a production quarter.
+One of the very few things the galaxy has managed to start manufacturing again since the Wipe, which makes it a small triumph and a very profitable line. Guard personnel get one if the job needs it. Everybody else buys one, and they are not cheap.
 
-**Distribution.** Issued to Guard personnel requiring it. Sold commercially at a filed price. Sales returns are kept by unit, by serial range, and by purchasing party where the purchase is over a stated value.
+Each unit is serialised, and the serial ranges are allocated by production quarter, which means any chip anyone finds can be dated to within three months of when it was made.
 
-**Implantation.** Surgical, at the neck, leaving a scar of characteristic form and position. The scar is described in the medical schedule as unavoidable given the placement.
+**The scar.** The placement leaves a mark, and the surgical notes say so plainly: it is unavoidable at that position. The same notes mention, without further comment, that some patients ask for the implant specifically because there is already something at their neck they would rather people did not look at.
 
-**Note.** Because the implant is placed at the neck and the scar is characteristic, the device is also recorded in the medical literature as being sought by patients for the concealment of pre-existing marks in the same location.
-
-*Cross-ref: Galactic Standard · The Nhath · The Guard · Nhathian*
+*Cross-ref: The Nhath · The Nhath leader · Galactic Standard · The Guard*

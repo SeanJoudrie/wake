@@ -3,14 +3,18 @@ title: Redleaf
 slug: redleaf
 category: flora-fauna
 tier: INTACT
-cross_refs: [monver, greyleaf, galactic-standard-law]
+cross_refs: [monver, greyleaf, galactic-standard-law, berji]
 ---
 
 # REDLEAF
 `INTACT`
 
-Cultivated leaf with a psychoactive resin. Lawful on Monver by reservation in that world's accession instrument, and on 22 other worlds by planetary statute. Restricted elsewhere.
+The Monveri crop. A cultivated leaf with a psychoactive resin, legal there by name in their accession terms and legal on twenty-two other worlds by local statute.
 
-Monver's returns record cultivation, sale and taxation in the ordinary way and record no enforcement activity. They also record, annually, a category of long-term dependent user for whom the effect is not recreational, at a rate the returns publish and no local statute addresses.
+Monver taxes it like anything else and enforces nothing, and the line you will hear if you ask, more or less word for word from anyone: soldiers who fight hard should relax hard, and it helps with what fighting does to you.
 
-*Cross-ref: Monver · Greyleaf · Galactic Standard law*
+That is mostly true.
+
+The health returns record, every year, a minority for whom it stopped being recreation a long time ago. Nobody has proposed a statute. It is the one subject on that world where a direct question gets a change of topic.
+
+*Cross-ref: Monver · Greyleaf · Berji*

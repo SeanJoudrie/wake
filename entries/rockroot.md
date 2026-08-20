@@ -3,16 +3,16 @@ title: Rockroot
 slug: rockroot
 category: flora-fauna
 tier: INTACT
-cross_refs: [marfeld, path-of-root, resmole, weton]
+cross_refs: [marfeld, path-of-root, resmole, weton, megafauna-of-marfeld]
 ---
 
 # ROCKROOT
 `INTACT`
 
-Hardy tuber. Grows in thin soil and in rock fracture, in both extremes of temperature, and stores for approximately two years without preparation.
+A tuber that grows in thin soil, in rock cracks, in heat and in frost, and keeps for two years in a sack without anyone doing anything to it.
 
-Cultivated on the marginal worlds and gathered wild on Marfeld, where it is the principal food of one of the three paths of the trial.
+It is the food of last resort on a dozen marginal worlds and the food of the Path of Root on Marfeld, where a seventeen-year-old with no tools and no supplies is expected to find enough of it to live on.
 
-It is not palatable. The Restoration records that no world in this archive exports it and that eleven import it.
+It tastes appalling. No world in this volume exports it and eleven import it, which tells you everything about who is eating it and why.
 
-*Cross-ref: Marfeld · The Path of Root · Resmole · Weton*
+*Cross-ref: Marfeld · The Path of Root · Resmole*

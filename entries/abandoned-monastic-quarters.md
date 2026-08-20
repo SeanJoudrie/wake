@@ -9,14 +9,14 @@ cross_refs: [shayron, shayron-sewers, tracineim, aster, capital-district]
 # THE ABANDONED MONASTIC QUARTERS
 `INTACT`
 
-Nine districts of Shayron formally closed by instrument between GC 4118 and GC 4390. Sealed, maintained against collapse, and not inhabited.
+Nine districts of Shayron that were closed and sealed, and are still standing.
 
-**Closure.** Each closure is documented. The instruments record the foundation, the date, the final professed number, and the disposition of the library. Final professed numbers in the nine range from 41 to 2. Two quarters were closed with a single occupant remaining, in each case at that occupant's request.
+They emptied slowly, over three centuries, as the faiths that filled them stopped sending anyone. There is no conquest in the story, no plague, no disaster. Enrolment simply falls, year on year, until a house has four people in it, and then one, and then the city writes the closure down.
 
-**Condition.** Structurally sound. The municipality maintains the roofs and the drains under the founding charter and inspects on a seven-year cycle. The inspection returns are filed and record the districts as empty in every cycle.
+Two of the nine were shut with a single occupant left inside, in both cases because that occupant asked to stay.
 
-**Access.** Sealed at street level. The sewer system of the earliest construction era runs beneath all nine and is not sealed, being still in municipal service.
+The city still maintains the roofs and the drains, inspects every seven years, and finds them empty every time. They are sealed at street level. They are not sealed underneath, because the oldest sewers in the city run beneath all nine and are still in use.
 
-**Holdings.** The libraries of six of the nine were transferred. The libraries of three were left in place, sealed with the quarter. The transfer instruments for those three record the intention to remove the material "when convenient."
+Three of the libraries were never removed. The transfer papers say the books would be collected when convenient.
 
 *Cross-ref: Shayron · The Shayron sewers · Tracineim · The Capital District*

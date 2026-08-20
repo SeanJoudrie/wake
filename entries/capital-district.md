@@ -9,12 +9,10 @@ cross_refs: [shayron, high-castle, shayron-lamp-posts, the-queens-anniversary, a
 # THE CAPITAL DISTRICT
 `INTACT`
 
-Central ceremonial district of Shayron. Contains the High Castle, the processional way, the principal squares, and the older mosaic quarters in current use.
+The ceremonial heart of Shayron: the Castle, the processional way, three great squares, and the old mosaic quarters that are still lived in.
 
-**Character.** No industry is permitted within the district by municipal statute and none is recorded. There is no exhaust. Surfaces are hand-laid stone, maintained under a standing contract. Planting is jasmine and citrus by schedule.
+No industry is allowed inside the boundary and none has ever been. There is no exhaust here and no engine noise. The streets are hand-laid stone kept under permanent contract, the planting is jasmine and citrus by schedule, and the light comes in low and gold most of the day.
 
-**Population.** Resident population is small and is overwhelmingly employed in hospitality, food, restoration trades, or the household. Daytime population during observances exceeds the resident population by an order of magnitude.
-
-**Observances.** The processional way carries the principal Royal observances, of which the Queen's Anniversary is the largest. Crowd capacity of the way and the three principal squares is filed by the municipality at 214,000.
+Almost nobody who works here lives here. The resident population is small and works in food, hospitality, restoration or the household. On an observance day the district holds two hundred thousand people, and the day after, it goes back to being very quiet.
 
 *Cross-ref: Shayron · The High Castle · The Shayron lamp posts · The Queen's Anniversary*

@@ -9,10 +9,10 @@ cross_refs: [the-mothership, the-guard, foundation-day]
 # THE GRAND MOTHERSHIP DINING HALL
 `INTACT`
 
-Principal mess of the Mothership. Seats the whole embarked establishment in three sittings.
+Warm tans and golds, in a ship that is otherwise white and blue all the way through. It is the only room aboard that does not look like a machine.
 
-Finished in tan and gold against the vessel's standard white and blue. The specification and the cost are filed: the fitting-out of this compartment is the largest single line in the vessel's interior schedule and exceeds the appropriation for the medical wing by a factor the return does not comment on.
+It seats the entire embarked complement in three sittings, and it cost more to fit out than the medical wing, which is in the accounts and has never been commented on.
 
-Personnel are required to attend out of armour. The standing order giving that requirement states the reason as morale.
+You are required to come out of armour to eat. The standing order gives the reason as morale, and it is correct: it is the one hour of the day when a unit stops looking like a unit and starts looking like five people who know each other.
 
 *Cross-ref: The Mothership · The Guard*

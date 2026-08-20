@@ -9,14 +9,12 @@ cross_refs: [floom-eggs, flooms, maspin, dreamwalking, space-vaccines, trailblaz
 # SENSORY TANKS
 `TESTIMONY`
 
-Immersion vessels used in the treatment of catastrophic injury. Filled with floom fluid.
+A tank of floom fluid that you put a dying person into.
 
-**Use.** The patient is submerged for an extended period. Recorded outcomes in the cases described to this archive include the restoration of function that conventional medicine had recorded as lost, and do not include the restoration of tissue that was absent.
+It is used for injuries nothing else will touch. What it does is not fully understood by anyone who operates one, including the people who operate them: it brings back function that conventional medicine has already written off, and it does not bring back tissue that is gone. What is missing stays missing.
 
-**Availability.** Restricted by the supply of the fluid, which is restricted by the Council of Riflo. Tanks are recorded in operation at four facilities, of which three are on Maspin.
+There are four of these anywhere, three of them on Maspin, and the limit is the fluid rather than the tank.
 
-**Reported effects beyond the therapeutic.** Patients under immersion are described by attendants as dreaming continuously and, on waking, as reporting experiences of unusual duration and coherence. Attendants report this consistently. The Restoration records it and files the associated beliefs separately under dreamwalking.
-
-Attributed to a medical officer at Base Delta and to two attendants.
+**What patients report.** Attendants say the same thing every time. People under immersion dream continuously, and when they surface they describe stretches of experience far longer and far more coherent than the hours they were in the water.
 
 *Cross-ref: Floom eggs · Flooms · Maspin · Dreamwalking*

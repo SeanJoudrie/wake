@@ -9,14 +9,14 @@ cross_refs: [flooms, maspin, sensory-tanks, dreamwalking, council-of-riflo, spac
 # FLOOM EGGS
 `TESTIMONY`
 
-Unfertilised eggs laid by flooms, containing a blue fluid. Both an agricultural input and a medicine of exceptional potency.
+Unfertilised eggs, laid on dead ground, full of a blue liquid. On Maspin they are fertiliser. Off Maspin they are the most valuable medicine in existence.
 
-**Agricultural use.** Laid by the animal on dry or failing ground. Recovery of the ground follows within approximately one week. This is the ordinary use and the one on which the fertility of the settled belt depends.
+The ordinary use is the important one: a floom drops them on dry grass or a failing garden and a week later the ground has recovered. That is how the settled belt stays fertile without importing anything.
 
-**Medical use.** The fluid is the medium of the sensory tanks and is administered in other forms. Our informants describe it in terms that are not medical. The formulation given to us more than once is that it is the essence of life in its purest form.
+**The fluid.** Nobody sensible calls it a drug. Calsco calls it the essence of life in its purest form and does not appear to be exaggerating for effect. It is the medium in the sensory tanks and it brings people back from injuries that should have finished them.
 
-**Effect on the taker.** Powerful and not subtle. Human informants describe a period of altered consciousness of hours. Maspin informants state that a member of their own people who took it would be affected for the remainder of their life, and give this as the reason they do not.
+**Taking it.** For a human it is hours of something that is not a high in any recognisable sense. For a Maspin it is not hours. Ask one whether they have ever tried it and you will get a straight no, and the reason, which is that the effect would last the rest of their life.
 
-**Control.** The Council of Riflo restricts collection, holding and export. Three applications to expand the trade have been refused. The Restoration notes that this is the most valuable substance on the world by any measure available to us, and that the body restricting it is the body that would profit from releasing it.
+**Control.** The Council of Riflo restricts collection, holding and export, and has refused three applications to expand the trade. It is the most valuable thing on the planet, and the body sitting on it is the body that would profit most from letting it go.
 
 *Cross-ref: Flooms · Maspin · Sensory tanks · Dreamwalking · The Council of Riflo*

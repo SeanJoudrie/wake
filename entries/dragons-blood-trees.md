@@ -9,10 +9,10 @@ cross_refs: [sansvor, refugee-displacement]
 # DRAGON'S BLOOD TREES
 `INTACT`
 
-Broad-canopied tree of Sansvor, named for the red resin of its trunk. Slow-growing, long-lived, and tolerant of poor and disturbed ground.
+Broad flat canopies on bare trunks, named for the red resin that runs when you cut them. Slow, long-lived, and entirely happy in ruined ground.
 
-The species is opportunistic in built environments. Municipal returns on Sansvor record established specimens within the structures of two rail terminals, one exchange, and eleven civic buildings, in each case entered as a maintenance item and in no case removed.
+Which is why Sansvor is full of them now. They have come up inside two rail terminals, an exchange and eleven civic buildings, and in every case the municipality entered them as a maintenance item and then left them alone. The canopy of the north terminal is a tree.
 
-The resin has a minor commercial value as a varnish and a dye. It is the world's largest surviving export by value, which is a statement about the export and not about the resin.
+The resin sells as a varnish and a dye. It is the world's largest surviving export by value, which says more about the world than about the resin.
 
-*Cross-ref: Sansvor · The Refugee Displacement*
+*Cross-ref: Sansvor*

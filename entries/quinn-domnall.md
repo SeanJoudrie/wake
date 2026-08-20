@@ -3,7 +3,7 @@ title: Quinn Domnall
 slug: quinn-domnall
 category: character
 tier: INTACT
-cross_refs: [accounting-division, moon-of-sonaff-incident, sonaff, the-guard, the-wipe, the-sonaff-five, cillus-vot-shayron-skoln, the-medbay-doctor, actom, maldo, wedear, fawn]
+cross_refs: [accounting-division, moon-of-sonaff-incident, sonaff, the-guard, the-wipe, the-sonaff-five, cillus-vot-shayron-skoln, the-medbay-doctor, actom, maldo, wedear, fawn, vance, karagash, meram-kest]
 ---
 
 # QUINN DOMNALL

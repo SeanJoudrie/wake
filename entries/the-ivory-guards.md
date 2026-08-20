@@ -3,7 +3,7 @@ title: The Ivory Guards
 slug: the-ivory-guards
 category: character
 tier: INTACT
-cross_refs: [shayron, royal-houses, cillus-vot-shayron-skoln, king-matthew, shayron-lamp-posts, high-castle]
+cross_refs: [shayron, royal-houses, cillus-vot-shayron-skoln, king-matthew, shayron-lamp-posts, high-castle, royal-shayron-defence-force]
 ---
 
 # THE IVORY GUARDS

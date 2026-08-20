@@ -1,13 +1,13 @@
 # INDEX OF ENTRIES
 
-*230 entries. Compiled to GC 4462. Incomplete.*
+*239 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 131 |
-| `RECOVERED` | 22 |
+| `INTACT` | 133 |
+| `RECOVERED` | 24 |
 | `TESTIMONY` | 57 |
-| `CONTESTED` | 14 |
+| `CONTESTED` | 19 |
 | `INFERRED` | 6 |
 
 See `_conceit.md` for what the tiers mean.
@@ -92,6 +92,7 @@ See `_conceit.md` for what the tiers mean.
 | [Species of unresolved classification](entries/species-of-unresolved-classification.md) | `CONTESTED` |
 | [Splendoorians](entries/splendoorians.md) | `RECOVERED` |
 | [The Dead Moon raiders](entries/dead-moon-raiders.md) | `TESTIMONY` |
+| [The Gashi](entries/gashi.md) | `INTACT` |
 | [The Maspin](entries/the-maspin.md) | `TESTIMONY` |
 | [The Nhath](entries/nhath.md) | `CONTESTED` |
 | [The Targath](entries/targath.md) | `CONTESTED` |
@@ -106,6 +107,7 @@ See `_conceit.md` for what the tiers mean.
 | [House Polaris](entries/house-polaris.md) | `INTACT` |
 | [Nova Squadron](entries/nova-squadron.md) | `INTACT` |
 | [Planetary Defence Forces](entries/planetary-defense-forces.md) | `INTACT` |
+| [Royal Shayron Defence Force](entries/royal-shayron-defence-force.md) | `INTACT` |
 | [Shayron Port Authority](entries/shayron-port-authority.md) | `INTACT` |
 | [The Autumnals](entries/the-autumnals.md) | `RECOVERED` |
 | [The Council of Riflo](entries/council-of-riflo.md) | `TESTIMONY` |
@@ -253,11 +255,14 @@ See `_conceit.md` for what the tiers mean.
 - [Hada Mariner](entries/hada-mariner.md) `INTACT`
 - [Jax Sheel](entries/jax-sheel.md) `INTACT`
 - [Jimzon Cavaris](entries/jimzon-cavaris.md) `INTACT`
+- [Karagash](entries/karagash.md) `RECOVERED`
+- [Kaz](entries/kaz.md) `CONTESTED`
 - [Kelsadria Vot Feentor-Jayzin](entries/kelsadria-vot-feentor-jayzin.md) `INTACT`
 - [King Matthew](entries/king-matthew.md) `INTACT`
 - [Korjin Cavaris](entries/korjin-cavaris.md) `INTACT`
 - [Liles Ninzin](entries/liles-ninzin.md) `INTACT`
 - [Maspin children](entries/maspin-children.md) `TESTIMONY`
+- [Meram Kest](entries/meram-kest.md) `CONTESTED`
 - [Michael Vousin](entries/michael-vousin.md) `RECOVERED`
 - [Miss Jaley](entries/miss-jaley.md) `TESTIMONY`
 - [Miss Liles](entries/miss-liles.md) `INTACT`
@@ -267,8 +272,10 @@ See `_conceit.md` for what the tiers mean.
 - [Oren](entries/oren.md) `RECOVERED`
 - [Pavlock Jattern](entries/pavlock-jattern.md) `INTACT`
 - [Powitt Cavaris](entries/powitt-cavaris.md) `TESTIMONY`
+- [Prodar](entries/prodar.md) `CONTESTED`
 - [Quinn Domnall](entries/quinn-domnall.md) `INTACT`
 - [Ranzi](entries/ranzi.md) `TESTIMONY`
+- [Sears](entries/sears.md) `CONTESTED`
 - [Sergeant Aren](entries/sergeant-aren.md) `INTACT`
 - [Sergeant Cotts](entries/sergeant-cotts.md) `INTACT`
 - [Spara Cavaris](entries/spara-cavaris.md) `INTACT`
@@ -291,7 +298,9 @@ See `_conceit.md` for what the tiers mean.
 - [The screaming man](entries/the-screaming-man.md) `RECOVERED`
 - [Tiam Tinoppel](entries/tiam-tinoppel.md) `INTACT`
 - [Torres Delprest](entries/torres-delprest.md) `INTACT`
+- [Vance](entries/vance.md) `RECOVERED`
 - [Vando](entries/vando.md) `TESTIMONY`
+- [Vesk Iradin](entries/vesk-iradin.md) `CONTESTED`
 - [Vick](entries/vick.md) `RECOVERED`
 - [Yakib Yalitio](entries/yakib-yalitio.md) `INTACT`
 
@@ -303,12 +312,14 @@ Referenced in this volume. No entry has been recovered.
 |---|---|
 | `autumnal-charter` `[ENTRY NOT RECOVERED]` | [C.O.R.D.](entries/cord.md) · [The Autumnals](entries/the-autumnals.md) · [The Great War](entries/the-great-war.md) |
 | `board-operational-authorisations` `[ENTRY NOT RECOVERED]` | [The Guard Board of Directors](entries/guard-board-of-directors.md) · [Liles Ninzin](entries/liles-ninzin.md) |
+| `gashi-homeworld` `[ENTRY NOT RECOVERED]` | [The Gashi](entries/gashi.md) |
 | `kitalia-platform-roll` `[ENTRY NOT RECOVERED]` | [Kitalia](entries/kitalia.md) · [The Kitalia Platform Collapse](entries/kitalia-platform-collapse.md) |
 | `krostin-standing-notice` `[ENTRY NOT RECOVERED]` | [The Krostin Sector](entries/krostin-sector.md) |
 | `nhath-disbursing-fund` `[ENTRY NOT RECOVERED]` | [The Nhath](entries/nhath.md) · [The Guard](entries/the-guard.md) · [The Nhath leader](entries/the-nhath-leader.md) |
 | `pre-war-genetic-survey` `[ENTRY NOT RECOVERED]` | [Humans](entries/humans.md) · [Katanzaria](entries/katanzaria.md) · [Wake](entries/wake.md) |
 | `queen-traceen` `[ENTRY NOT RECOVERED]` | [King Matthew](entries/king-matthew.md) · [Shayron](entries/shayron.md) · [The Queen's Anniversary](entries/the-queens-anniversary.md) · [Tracineim](entries/tracineim.md) |
 | `sansvor-port-manifests` `[ENTRY NOT RECOVERED]` | [Sansvor](entries/sansvor.md) |
+| `strategic-covert-operations-division` `[ENTRY NOT RECOVERED]` | [Vesk Iradin](entries/vesk-iradin.md) |
 | `synthesis-process-schedule` `[ENTRY NOT RECOVERED]` | [Corefuel](entries/corefuel.md) · [Korjin Cavaris](entries/korjin-cavaris.md) |
 | `the-first-world` `[ENTRY NOT RECOVERED]` | [Johnny Plasma](entries/johnny-plasma.md) · [The Guard](entries/the-guard.md) |
 | `wake-census` `[ENTRY NOT RECOVERED]` | [The Destruction of Wake](entries/destruction-of-wake.md) · [Wake](entries/wake.md) |

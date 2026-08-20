@@ -3,7 +3,7 @@ title: Species of unresolved classification
 slug: species-of-unresolved-classification
 category: people
 tier: CONTESTED
-cross_refs: [the-cartels, crag, galactic-standard-law, humans, nardow]
+cross_refs: [the-cartels, crag, galactic-standard-law, humans, nardow, gashi]
 ---
 
 # SPECIES OF UNRESOLVED CLASSIFICATION

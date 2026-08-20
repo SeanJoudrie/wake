@@ -3,7 +3,7 @@ title: Cillus Vot Shayron-Skoln
 slug: cillus-vot-shayron-skoln
 category: character
 tier: INTACT
-cross_refs: [royal-houses, shayron, moon-of-sonaff-incident, sonaff, ministry-of-propaganda, astonia, dead-moon-raiders, the-collective, standing-order-41, the-sonaff-five, quinn-domnall]
+cross_refs: [royal-houses, shayron, moon-of-sonaff-incident, sonaff, ministry-of-propaganda, astonia, dead-moon-raiders, the-collective, standing-order-41, the-sonaff-five, quinn-domnall, royal-shayron-defence-force]
 ---
 
 # PRINCE CILLUS VOT SHAYRON-SKOLN

@@ -3,7 +3,7 @@ title: Humans
 slug: humans
 category: people
 tier: CONTESTED
-cross_refs: [wake, katanzaria, pre-human-inhabitants-of-wake, crag, humanist-supremacy, galactic-standard, the-guard, pre-war-genetic-survey]
+cross_refs: [wake, katanzaria, pre-human-inhabitants-of-wake, crag, humanist-supremacy, galactic-standard, the-guard, pre-war-genetic-survey, gashi]
 ---
 
 # HUMANS

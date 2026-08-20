@@ -3,7 +3,7 @@ title: Atmospheric masks
 slug: atmospheric-masks
 category: technology
 tier: INTACT
-cross_refs: [vitula, gravity-spires, wingsuits, quantum-thread-armor]
+cross_refs: [vitula, gravity-spires, wingsuits, quantum-thread-armor, karagash, gashi]
 ---
 
 # ATMOSPHERIC MASKS

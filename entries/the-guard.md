@@ -3,7 +3,7 @@ title: The Guard
 slug: the-guard
 category: institution
 tier: INTACT
-cross_refs: [guard-board-of-directors, johnny-plasma, the-guard-franchise, galactic-standard-law, guard-credits, guardnet, guard-academy, the-mothership, accounting-division, ministry-of-propaganda, foundation-day, crag, refugee-displacement, the-great-war, liles-ninzin, standing-order-41, nhath-disbursing-fund, the-first-world, the-personnel-series, sergeant-cotts, sergeant-aren, the-medbay-doctor]
+cross_refs: [guard-board-of-directors, johnny-plasma, the-guard-franchise, galactic-standard-law, guard-credits, guardnet, guard-academy, the-mothership, accounting-division, ministry-of-propaganda, foundation-day, crag, refugee-displacement, the-great-war, liles-ninzin, standing-order-41, nhath-disbursing-fund, the-first-world, the-personnel-series, sergeant-cotts, sergeant-aren, the-medbay-doctor, vesk-iradin, royal-shayron-defence-force]
 ---
 
 # THE GUARD

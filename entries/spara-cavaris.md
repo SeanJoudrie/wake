@@ -3,7 +3,7 @@ title: Spara Cavaris
 slug: spara-cavaris
 category: character
 tier: INTACT
-cross_refs: [royal-houses, korjin-cavaris, jimzon-cavaris, wakeful-islands, planetary-defense-forces, nhath, translator-chips, powitt-cavaris]
+cross_refs: [royal-houses, korjin-cavaris, jimzon-cavaris, wakeful-islands, planetary-defense-forces, nhath, translator-chips, powitt-cavaris, royal-shayron-defence-force]
 ---
 
 # SPARA CAVARIS

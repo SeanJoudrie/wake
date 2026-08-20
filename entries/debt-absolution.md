@@ -1,7 +1,7 @@
 ---
 title: Debt absolution
 slug: debt-absolution
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, guard-credits, indentured-servitude, the-cartels, refugee-displacement, galactic-standard-law, polaris-scrip, the-renewal]
 ---

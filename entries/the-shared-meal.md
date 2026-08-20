@@ -1,7 +1,7 @@
 ---
 title: The shared meal
 slug: the-shared-meal
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, kraskor, fermented-kraskor, maspin, the-maspin, guard-rations, the-blind-day, floom-eggs]
 ---

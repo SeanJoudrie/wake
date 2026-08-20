@@ -1,7 +1,7 @@
 ---
 title: The Coal Run
 slug: the-coal-run
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, corefuel, the-seed-pool, the-detonation, wake-extraction-station]
 ---

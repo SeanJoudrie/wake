@@ -1,7 +1,7 @@
 ---
 title: Household crowning
 slug: household-crowning
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, royal-houses, shayron, maldo, house-polaris, house-kafkee, king-matthew, the-ivory-guards, the-detonation]
 ---

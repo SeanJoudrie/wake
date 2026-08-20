@@ -1,7 +1,7 @@
 ---
 title: The Seed Pool
 slug: the-seed-pool
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, weton, kelton, rockroot, glazberries, the-coal-run, guard-rations, polaris-scrip, indentured-servitude]
 ---

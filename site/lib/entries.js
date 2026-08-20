@@ -20,6 +20,7 @@ export const CATEGORIES = [
   ["institution", "Bodies"],
   ["event", "Events"],
   ["practice", "Rites"],
+  ["binding", "Bindings"],
   ["technology", "Objects"],
   ["material", "Materials"],
   ["flora-fauna", "Flora"],

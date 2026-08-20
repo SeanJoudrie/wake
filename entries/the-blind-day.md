@@ -1,7 +1,7 @@
 ---
 title: The Blind Day
 slug: the-blind-day
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, the-rescue, civilian-dress, the-shared-meal, guard-rations]
 ---

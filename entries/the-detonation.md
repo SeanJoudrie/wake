@@ -1,7 +1,7 @@
 ---
 title: The Detonation
 slug: the-detonation
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, the-great-war, marfeld, sansvor, refugee-displacement, household-crowning, the-coal-run]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Marriage
 slug: marriage
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [the-marriage-braid, the-blind-day, the-coal-run, the-seed-pool, the-guard-corridor, proxy-marriage, the-renewal, the-shared-meal, debt-absolution, unwritten-marriage, refugee-displacement, guard-credits, galactic-standard-law, the-great-war]
 ---

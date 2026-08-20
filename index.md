@@ -70,7 +70,6 @@ See `_conceit.md` for what the tiers mean.
 | [The Council Chamber of Riflo](entries/council-chamber-of-riflo.md) | `TESTIMONY` |
 | [The Elder Tree](entries/elder-tree.md) | `TESTIMONY` |
 | [The Grand Mothership Dining Hall](entries/grand-mothership-dining-hall.md) | `INTACT` |
-| [The Guard corridor](entries/the-guard-corridor.md) | `INTACT` |
 | [The High Castle](entries/high-castle.md) | `INTACT` |
 | [The Krostin Sector](entries/krostin-sector.md) | `RECOVERED` |
 | [The Mothership](entries/the-mothership.md) | `INTACT` |
@@ -155,7 +154,6 @@ See `_conceit.md` for what the tiers mean.
 | [Cargo cults](entries/cargo-cults.md) | `TESTIMONY` |
 | [Civilian dress](entries/civilian-dress.md) | `INTACT` |
 | [Custodial labour](entries/custodial-labour.md) | `INTACT` |
-| [Debt absolution](entries/debt-absolution.md) | `TESTIMONY` |
 | [Dreamwalking](entries/dreamwalking.md) | `TESTIMONY` |
 | [Field aliases](entries/field-aliases.md) | `TESTIMONY` |
 | [Foundation Day](entries/foundation-day.md) | `INTACT` |
@@ -164,24 +162,18 @@ See `_conceit.md` for what the tiers mean.
 | [Guard pay](entries/guard-pay.md) | `INTACT` |
 | [Guard rations](entries/guard-rations.md) | `INTACT` |
 | [Guard training](entries/guard-training.md) | `INTACT` |
-| [Household crowning](entries/household-crowning.md) | `TESTIMONY` |
 | [Humanist supremacy](entries/humanist-supremacy.md) | `TESTIMONY` |
 | [Indentured servitude](entries/indentured-servitude.md) | `INTACT` |
 | [Johnny Plasma](entries/johnny-plasma.md) | `TESTIMONY` |
-| [Marriage](entries/marriage.md) | `TESTIMONY` |
 | [Maspin dietary practice](entries/maspin-dietary-practice.md) | `TESTIMONY` |
 | [Mead cards](entries/mead-cards.md) | `INTACT` |
 | [Moonball](entries/moonball.md) | `INTACT` |
 | [Neo-alchemy](entries/neo-alchemy.md) | `RECOVERED` |
-| [Proxy marriage](entries/proxy-marriage.md) | `INTACT` |
 | [Simulationism](entries/simulationism.md) | `INTACT` |
 | [Slave-free territory](entries/slave-free-territory.md) | `INTACT` |
 | [Standing order 41](entries/standing-order-41.md) | `INTACT` |
 | [Sun worship](entries/sun-worship.md) | `TESTIMONY` |
-| [The Blind Day](entries/the-blind-day.md) | `TESTIMONY` |
-| [The Coal Run](entries/the-coal-run.md) | `TESTIMONY` |
 | [The Collective](entries/the-collective.md) | `TESTIMONY` |
-| [The Detonation](entries/the-detonation.md) | `TESTIMONY` |
 | [The Elder Tree interment rite](entries/elder-tree-interment-rite.md) | `TESTIMONY` |
 | [The Gift of Memory](entries/gift-of-memory.md) | `TESTIMONY` |
 | [The Guard franchise](entries/the-guard-franchise.md) | `INTACT` |
@@ -191,19 +183,13 @@ See `_conceit.md` for what the tiers mean.
 | [The Path of Root](entries/path-of-root.md) | `TESTIMONY` |
 | [The Path of Sky](entries/path-of-sky.md) | `TESTIMONY` |
 | [The Queen's Anniversary](entries/the-queens-anniversary.md) | `INTACT` |
-| [The Renewal](entries/the-renewal.md) | `TESTIMONY` |
-| [The Rescue](entries/the-rescue.md) | `TESTIMONY` |
 | [The Season of Long Nights](entries/season-of-long-nights.md) | `TESTIMONY` |
-| [The Seed Pool](entries/the-seed-pool.md) | `TESTIMONY` |
 | [The Tipsitters](entries/the-tipsitters.md) | `INTACT` |
 | [The death benefit](entries/the-death-benefit.md) | `INTACT` |
 | [The discharge ceremony](entries/the-discharge-ceremony.md) | `INTACT` |
 | [The enlistment rites form](entries/enlistment-rites-form.md) | `INTACT` |
 | [The gem-setting practice](entries/gem-setting-practice.md) | `TESTIMONY` |
-| [The marriage braid](entries/the-marriage-braid.md) | `TESTIMONY` |
-| [The shared meal](entries/the-shared-meal.md) | `TESTIMONY` |
 | [Tracineim](entries/tracineim.md) | `TESTIMONY` |
-| [Unwritten marriage](entries/unwritten-marriage.md) | `TESTIMONY` |
 
 ## Technology
 
@@ -276,6 +262,23 @@ See `_conceit.md` for what the tiers mean.
 | [Nhathian](entries/nhathian.md) | `RECOVERED` |
 | [The Astonian dialect](entries/astonian-dialect.md) | `TESTIMONY` |
 | [The Maspin alphabet](entries/maspin-alphabet.md) | `TESTIMONY` |
+
+## binding
+
+- [Debt absolution](entries/debt-absolution.md) `TESTIMONY`
+- [Household crowning](entries/household-crowning.md) `TESTIMONY`
+- [Marriage](entries/marriage.md) `TESTIMONY`
+- [Proxy marriage](entries/proxy-marriage.md) `INTACT`
+- [The Blind Day](entries/the-blind-day.md) `TESTIMONY`
+- [The Coal Run](entries/the-coal-run.md) `TESTIMONY`
+- [The Detonation](entries/the-detonation.md) `TESTIMONY`
+- [The Guard corridor](entries/the-guard-corridor.md) `INTACT`
+- [The Renewal](entries/the-renewal.md) `TESTIMONY`
+- [The Rescue](entries/the-rescue.md) `TESTIMONY`
+- [The Seed Pool](entries/the-seed-pool.md) `TESTIMONY`
+- [The marriage braid](entries/the-marriage-braid.md) `TESTIMONY`
+- [The shared meal](entries/the-shared-meal.md) `TESTIMONY`
+- [Unwritten marriage](entries/unwritten-marriage.md) `TESTIMONY`
 
 ## character
 

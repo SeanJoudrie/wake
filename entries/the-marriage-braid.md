@@ -1,7 +1,7 @@
 ---
 title: The marriage braid
 slug: the-marriage-braid
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, marfeld-beard, marfeld, guard-burial-rites, unwritten-marriage, the-renewal, galactic-standard-law]
 ---

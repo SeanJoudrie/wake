@@ -1,7 +1,7 @@
 ---
 title: The Rescue
 slug: the-rescue
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, the-blind-day, monver, katanzaria, calsco-fritt, the-detonation]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Unwritten marriage
 slug: unwritten-marriage
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, the-renewal, the-marriage-braid, maspin-naming-taboos, the-maspin, galactic-standard-law, humans]
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Renewal
 slug: the-renewal
-category: practice
+category: binding
 tier: TESTIMONY
 cross_refs: [marriage, the-marriage-braid, unwritten-marriage, galactic-standard-law, refugee-displacement, debt-absolution]
 ---

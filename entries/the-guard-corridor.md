@@ -1,7 +1,7 @@
 ---
 title: The Guard corridor
 slug: the-guard-corridor
-category: location
+category: binding
 tier: INTACT
 cross_refs: [the-mothership, marriage, the-guard, proxy-marriage, enlistment-rites-form, ancestor-faiths, guard-credits, guard-burial-rites, sun-worship, aster]
 ---

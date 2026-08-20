@@ -1,7 +1,7 @@
 ---
 title: Proxy marriage
 slug: proxy-marriage
-category: practice
+category: binding
 tier: INTACT
 cross_refs: [the-guard-corridor, marriage, the-guard, guard-burial-rites, the-death-benefit, guard-pay, burial-moon, guardnet]
 ---

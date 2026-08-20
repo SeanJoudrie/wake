@@ -11,7 +11,9 @@ cross_refs: [nhath, nhathian, translator-chips, corefuel, the-guard, nhath-disbu
 
 The Nhath who signed the contracts. A lineage number in the hundreds, which means eighty and more generations of one family counted in eights and remembered.
 
-He speaks flawless Galactic Standard, and enjoys the effect that has on people who were not expecting it.
+He speaks flawless Galactic Standard, and enjoys the effect that has on people who were not expecting it. Told that his Standard is good, he corrects the compliment.
+
+> *"Better than you."*
 
 **The chip.** He wears a Guard translator implant at the neck, bought with the credits from a job stealing Corefuel. He does not need it. He wears it partly because it covers a scar that was already there, put in that exact place by a woman who shot him.
 

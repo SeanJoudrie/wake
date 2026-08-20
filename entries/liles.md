@@ -3,7 +3,7 @@ title: Liles
 slug: liles
 category: character
 tier: INTACT
-cross_refs: [the-guard, guard-board-of-directors, board-operational-authorisations, the-great-war, planetary-defense-forces, jimzon-cavaris, miss-liles, wakeful-islands]
+cross_refs: [the-guard, guard-board-of-directors, board-operational-authorisations, the-great-war, planetary-defense-forces, jimzon-cavaris, miss-liles, wakeful-islands, sergeant-cotts]
 ---
 
 # DIRECTOR LILES
@@ -20,6 +20,8 @@ They were always kind, and the kindness is what made the distance worse.
 **Now.** He runs interference for Jimzon constantly and cannot say why in those words. He offers him a captaincy, quarters, a ship of his own. He refuses to authorise the hunt for the Nhaths, and then authorises it anyway, off the books, with leave time and no paper trail: *I don't need proof that I gave this the OK.*
 
 He notices things. The bottom row of a man's medals in the wrong order, at a glance, across a room.
+
+He is old enough now that his knees are a running joke between the two of them, and old enough to get nostalgic about the Battle of Rudcuff without noticing he is doing it, in the specific way of a man remembering the last time his job was simple.
 
 What he says he wants, delivered like warmth:
 

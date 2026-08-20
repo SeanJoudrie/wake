@@ -3,7 +3,7 @@ title: The Trailblazers
 slug: trailblazers
 category: institution
 tier: INTACT
-cross_refs: [trailblazer-logistics, trailblazer-base-delta, maspin, council-of-riflo, the-great-war, the-guard, riflo, sansvor, calsco-fritt, michael]
+cross_refs: [trailblazer-logistics, trailblazer-base-delta, maspin, council-of-riflo, the-great-war, the-guard, riflo, sansvor, calsco-fritt, michael, vando, barris]
 ---
 
 # THE TRAILBLAZERS

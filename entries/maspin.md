@@ -3,7 +3,7 @@ title: Maspin
 slug: maspin
 category: world
 tier: INTACT
-cross_refs: [the-maspin, council-of-riflo, elder-tree, flooms, kraskor, indentured-servitude, slave-free-territory, trailblazers, gift-of-memory, maspin-dietary-practice, riflo, beryllium-rifles, season-of-long-nights, daiser]
+cross_refs: [the-maspin, council-of-riflo, elder-tree, flooms, kraskor, indentured-servitude, slave-free-territory, trailblazers, gift-of-memory, maspin-dietary-practice, riflo, beryllium-rifles, season-of-long-nights, daiser, the-old-maspin-veteran, maspin-children, the-friend, the-decontamination-doctor]
 ---
 
 # MASPIN

@@ -3,7 +3,7 @@ title: The Vitula
 slug: vitula
 category: people
 tier: CONTESTED
-cross_refs: [the-cartels, atmospheric-masks, the-guard, crag, plasma-rifles, custodial-labour]
+cross_refs: [the-cartels, atmospheric-masks, the-guard, crag, plasma-rifles, custodial-labour, the-vitula-in-the-compound]
 ---
 
 # THE VITULA

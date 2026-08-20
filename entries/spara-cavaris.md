@@ -17,4 +17,8 @@ Three decorations, each with a citation, and then a discharge at her own request
 
 He believed all of it.
 
+**The last thing she did.** She got her pistol and she killed one of them. There were two.
+
+She fell across a floorboard, which turned out to matter.
+
 *Cross-ref: The Royal Houses · Korjin Cavaris · Jimzon Cavaris · Powitt Cavaris · The Wakeful Islands*

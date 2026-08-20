@@ -3,7 +3,7 @@ title: Nardow
 slug: nardow
 category: character
 tier: RECOVERED
-cross_refs: [the-cartels, species-of-unresolved-classification, vitula, standing-order-41, galactic-standard-law, custodial-labour]
+cross_refs: [the-cartels, species-of-unresolved-classification, vitula, standing-order-41, galactic-standard-law, custodial-labour, the-vitula-in-the-compound]
 ---
 
 # NARDOW

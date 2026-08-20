@@ -7,6 +7,7 @@ cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-cavaris, spa
 ---
 
 # JIMZON CAVARIS
+*also: Jim · Jimzy · Jimz · Jimzo · Jimbo · Jimmy*
 `INTACT`
 
 Twenty-six. Spec Ops Staff Sergeant, and the man the rest of Castle Team follows without anyone ever having decided that.
@@ -17,13 +18,21 @@ Two marks he cannot walk past a mirror without finding. His nose was broken in a
 
 His armour is black and deliberately unshined, with a blue visor. He paints it himself, by hand, every time.
 
+He wears glasses some of the time, and there is no pattern to when.
+
+Everyone who likes him has a different name for him, and none of them agreed on one. Calsco Fritt calls him something else entirely, on purpose, and waits every single time for the correction that never comes.
+
+A promotion to Captain is sitting on somebody's desk. He failed officer school once already, years ago, and has not mentioned that in a while.
+
 **Where he is from, and where he is from.** Born on Modanick and has never once set foot on it. What he knows about his own birthworld is a bedtime story his mother told him: always warm, always daytime, trees taller than houses. She was describing a place she had loved as a student to a boy sitting on a rock, and she made it better than it is.
 
 He grew up on the Corefuel colony in the wreckage of Wake, where his father ran the station. The family was two months from moving to Creta.
 
-**What he carries.** A grey stone he picked up on the colony road when he was eight. He has had it for twenty years and it is smooth because he rubs it. His mother's service pistol, cleaned since he was old enough to be shown how.
+**What he carries.** A grey stone he picked up on the colony road when he was eight. He has had it for twenty years and it is smooth because he rubs it. His mother's service pistol, cleaned since he was old enough to be shown how. A gold holowatch, a gift from a general, shined and with an audible tick to it. An engagement ring in a velvet box that has not been opened in front of anybody.
 
 **What he is like.** Impulsive to the point of recklessness, and funnier in private than anyone outside the team would believe. Table impressions. A napkin moustache. A microwave that went out of a window. He reads his own silence as steadiness and does not notice that everyone around him reads it as absence.
+
+He is casually bigoted about non-humans in the ordinary, unexamined way of somebody raised where he was raised, and he is unthinkingly kind to children, and he would be embarrassed to have either one pointed out.
 
 He also uses *Crag* the way everyone he grew up with uses it, and thinks nothing about it at all.
 

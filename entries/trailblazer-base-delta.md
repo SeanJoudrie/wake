@@ -3,7 +3,7 @@ title: Trailblazer Base Delta
 slug: trailblazer-base-delta
 category: location
 tier: INTACT
-cross_refs: [trailblazers, trailblazer-logistics, maspin, riflo, flooms, elder-tree, calsco-fritt]
+cross_refs: [trailblazers, trailblazer-logistics, maspin, riflo, flooms, elder-tree, calsco-fritt, the-trailblazer-doctor, the-nurse-with-the-clipboard, the-little-girl, the-medevac-dispatcher]
 ---
 
 # TRAILBLAZER BASE DELTA

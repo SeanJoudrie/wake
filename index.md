@@ -1,14 +1,14 @@
 # INDEX OF ENTRIES
 
-*201 entries. Compiled to GC 4462. Incomplete.*
+*230 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 126 |
-| `RECOVERED` | 14 |
-| `TESTIMONY` | 43 |
-| `CONTESTED` | 13 |
-| `INFERRED` | 5 |
+| `INTACT` | 131 |
+| `RECOVERED` | 22 |
+| `TESTIMONY` | 57 |
+| `CONTESTED` | 14 |
+| `INFERRED` | 6 |
 
 See `_conceit.md` for what the tiers mean.
 
@@ -106,6 +106,7 @@ See `_conceit.md` for what the tiers mean.
 | [House Polaris](entries/house-polaris.md) | `INTACT` |
 | [Nova Squadron](entries/nova-squadron.md) | `INTACT` |
 | [Planetary Defence Forces](entries/planetary-defense-forces.md) | `INTACT` |
+| [Shayron Port Authority](entries/shayron-port-authority.md) | `INTACT` |
 | [The Autumnals](entries/the-autumnals.md) | `RECOVERED` |
 | [The Council of Riflo](entries/council-of-riflo.md) | `TESTIMONY` |
 | [The Guard](entries/the-guard.md) | `INTACT` |
@@ -151,6 +152,7 @@ See `_conceit.md` for what the tiers mean.
 | [Indentured servitude](entries/indentured-servitude.md) | `INTACT` |
 | [Johnny Plasma](entries/johnny-plasma.md) | `TESTIMONY` |
 | [Maspin dietary practice](entries/maspin-dietary-practice.md) | `TESTIMONY` |
+| [Mead cards](entries/mead-cards.md) | `INTACT` |
 | [Moonball](entries/moonball.md) | `INTACT` |
 | [Neo-alchemy](entries/neo-alchemy.md) | `RECOVERED` |
 | [Simulationism](entries/simulationism.md) | `INTACT` |
@@ -239,11 +241,15 @@ See `_conceit.md` for what the tiers mean.
 
 ## character
 
+- [Barris](entries/barris.md) `RECOVERED`
 - [Berji](entries/berji.md) `INTACT`
 - [Brynor](entries/brynor.md) `INTACT`
 - [Calsco Fritt](entries/calsco-fritt.md) `CONTESTED`
+- [Captain Medarco](entries/captain-medarco.md) `CONTESTED`
 - [Cillus Vot Shayron-Skoln](entries/cillus-vot-shayron-skoln.md) `INTACT`
 - [Daiser](entries/daiser.md) `INTACT`
+- [Dan](entries/dan.md) `TESTIMONY`
+- [Graves](entries/graves.md) `RECOVERED`
 - [Hada](entries/hada.md) `INTACT`
 - [Jax](entries/jax.md) `INTACT`
 - [Jimzon Cavaris](entries/jimzon-cavaris.md) `INTACT`
@@ -251,19 +257,42 @@ See `_conceit.md` for what the tiers mean.
 - [King Matthew](entries/king-matthew.md) `INTACT`
 - [Korjin Cavaris](entries/korjin-cavaris.md) `INTACT`
 - [Liles](entries/liles.md) `INTACT`
+- [Maspin children](entries/maspin-children.md) `TESTIMONY`
 - [Michael](entries/michael.md) `RECOVERED`
 - [Miss Jaley](entries/miss-jaley.md) `TESTIMONY`
 - [Miss Liles](entries/miss-liles.md) `INTACT`
+- [Mister Flimmity Dimmity](entries/mister-flimmity-dimmity.md) `TESTIMONY`
 - [Mr Armstin](entries/mr-armstin.md) `INTACT`
 - [Nardow](entries/nardow.md) `RECOVERED`
+- [Oren](entries/oren.md) `RECOVERED`
 - [Pavlock](entries/pavlock.md) `INTACT`
 - [Powitt Cavaris](entries/powitt-cavaris.md) `TESTIMONY`
 - [Quinn Domnall](entries/quinn-domnall.md) `INTACT`
+- [Ranzi](entries/ranzi.md) `TESTIMONY`
+- [Sergeant Aren](entries/sergeant-aren.md) `INTACT`
+- [Sergeant Cotts](entries/sergeant-cotts.md) `INTACT`
 - [Spara Cavaris](entries/spara-cavaris.md) `INTACT`
+- [The Friend](entries/the-friend.md) `TESTIMONY`
+- [The Guard nurses](entries/the-guard-nurses.md) `RECOVERED`
+- [The Halgo family](entries/the-halgo-family.md) `TESTIMONY`
+- [The Ivory Guards](entries/the-ivory-guards.md) `INTACT`
 - [The Nhath leader](entries/the-nhath-leader.md) `INFERRED`
 - [The Sonaff five](entries/the-sonaff-five.md) `RECOVERED`
+- [The Trailblazer doctor](entries/the-trailblazer-doctor.md) `TESTIMONY`
+- [The Vitula in the compound](entries/the-vitula-in-the-compound.md) `INFERRED`
+- [The colony recovery detail](entries/the-colony-recovery-detail.md) `RECOVERED`
+- [The decontamination doctor](entries/the-decontamination-doctor.md) `TESTIMONY`
+- [The little girl in the waiting room](entries/the-little-girl.md) `TESTIMONY`
+- [The medbay doctor](entries/the-medbay-doctor.md) `RECOVERED`
+- [The medevac dispatcher](entries/the-medevac-dispatcher.md) `TESTIMONY`
+- [The nurse with the clipboard](entries/the-nurse-with-the-clipboard.md) `TESTIMONY`
+- [The old Maspin veteran](entries/the-old-maspin-veteran.md) `TESTIMONY`
+- [The palace staff](entries/the-palace-staff.md) `TESTIMONY`
+- [The screaming man](entries/the-screaming-man.md) `RECOVERED`
 - [Tiam](entries/tiam.md) `INTACT`
 - [Torres](entries/torres.md) `INTACT`
+- [Vando](entries/vando.md) `TESTIMONY`
+- [Vick](entries/vick.md) `RECOVERED`
 - [Yakib Yalitio](entries/yakib-yalitio.md) `INTACT`
 
 ## Unresolved cross-references

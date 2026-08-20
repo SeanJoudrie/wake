@@ -3,7 +3,7 @@ title: Berji
 slug: berji
 category: character
 tier: INTACT
-cross_refs: [monver, planetary-defense-forces, the-guard, monver-refusal, redleaf, jimzon-cavaris, pavlock]
+cross_refs: [monver, planetary-defense-forces, the-guard, monver-refusal, redleaf, jimzon-cavaris, pavlock, captain-medarco]
 ---
 
 # BERJI
@@ -20,8 +20,10 @@ Blond hair, tightly curled, cut short. Green eyes at the far end of the range, t
 
 He is engaged. She is a botanist with the Guard's scientific service, and what they have in common is growing things, cooking them, and smoking the ones that are for smoking.
 
+He does an impression of a Guard officer, at bars, at length, with a name he made up on the spot and has used ever since.
+
 He talks in stories rather than principles, and he is the one who says the thing that lands. *You can't hate yourself into being better.* And the old Monveri line about a ship in harbour being safe and belonging somewhere else entirely.
 
 His enlistment runs out shortly and he has not filed anything about extending it.
 
-*Cross-ref: Monver · Planetary Defence Forces · The Monver Refusal · Redleaf · Jimzon Cavaris*
+*Cross-ref: Monver · Planetary Defence Forces · The Monver Refusal · Redleaf · Captain Medarco*

@@ -3,7 +3,7 @@ title: Brynor
 slug: brynor
 category: character
 tier: INTACT
-cross_refs: [nova-squadron, the-guard, torres, kelsadria-vot-feentor-jayzin]
+cross_refs: [nova-squadron, the-guard, torres, kelsadria-vot-feentor-jayzin, mead-cards, hada]
 ---
 
 # BRYNOR

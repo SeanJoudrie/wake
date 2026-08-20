@@ -17,6 +17,10 @@ He ran the extraction station in the Wake field himself. He knew everyone on the
 
 **What he was like at the end.** Triumphant. He hit quota, called the entire settlement off work, and ordered a festival for two days later. He had a wife he was plainly still delighted by and two sons, one of whom did not live past five.
 
+His younger boy asked him, that night, for a spaceship. He did not hesitate for even a moment.
+
+> *"Even a spaceship. We're gonna get you one."*
+
 His contract paid on completion of the full year's quota and not a tonne before, which is how these contracts are always written.
 
 The family was two months from moving to Creta.

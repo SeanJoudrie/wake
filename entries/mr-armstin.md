@@ -19,6 +19,6 @@ A tinkerer by temperament, always halfway through fixing something that was not 
 
 He requested them. Correctly, on the right form, quarter after quarter, for nineteen consecutive quarters. His handwriting does not change across any of them. The last one is as neat as the first.
 
-> *"The spires are down! I've been trying to get the fucking parts—"*
+> *"The spires are down! I've been trying to get the fucking parts"*
 
 *Cross-ref: Gravity spires · The Wakeful Islands · Corefuel · Wake*

@@ -3,13 +3,15 @@ title: Hada
 slug: hada
 category: character
 tier: INTACT
-cross_refs: [the-guard, maldo, burial-moon, enlistment-rites-form]
+cross_refs: [the-guard, maldo, burial-moon, enlistment-rites-form, mead-cards, brynor, kelsadria-vot-feentor-jayzin]
 ---
 
 # HADA
 `INTACT`
 
 Long service, clean record, and a retirement date.
+
+At the bar he takes the seat next to whoever is on their own and offers, unprompted, to wingman for them. He plays Mead cards in partners and is a serious loss as a partner, because he narrates his own hand.
 
 He is going to Maldo, to one of the ex-Guard communities there, on a square with ornate geometric stonework that he has apparently described to people more than once.
 

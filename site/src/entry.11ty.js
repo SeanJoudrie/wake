@@ -1,4 +1,4 @@
-import { shell, nav, metaColumn, entryBody } from "../lib/render.js";
+import { shell, nav, metaColumn, entryBody, plate } from "../lib/render.js";
 import { loadEntries, resolveRefs, escapeHtml } from "../lib/entries.js";
 
 export function data() {
@@ -21,6 +21,7 @@ export function render(d) {
 <h1>${escapeHtml(e.title)}</h1>
 ${e.subtitle ? `<p class="also">${escapeHtml(e.subtitle)}</p>` : ""}
 </header>
+${plate(e)}
 ${entryBody(e)}
 </article>
 </main>`;

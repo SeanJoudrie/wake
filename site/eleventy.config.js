@@ -1,5 +1,6 @@
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/styles": "styles" });
+  eleventyConfig.addPassthroughCopy({ "src/art": "art" });
   eleventyConfig.addWatchTarget("../entries/");
   eleventyConfig.addWatchTarget("./lib/");
   return {

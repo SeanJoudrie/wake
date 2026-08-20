@@ -3,6 +3,7 @@ title: The Maspin
 slug: the-maspin
 category: people
 tier: TESTIMONY
+art_caption: "a maspin of riflo, travelling"
 cross_refs: [maspin, maspin-alphabet, maspin-dietary-practice, maspin-naming-taboos, gift-of-memory, council-of-riflo, elder-tree, flooms, indentured-servitude, daiser, kaspian, unwritten-marriage]
 ---
 

@@ -598,3 +598,36 @@ summary:hover .chev { color: var(--seal); }
 .ch-feeds a { color: var(--seal); text-decoration: underline; text-underline-offset: 3px; }
 
 @media print { .readers-key { background: none; border-left: 1px dashed #999; } }
+
+/* ---- Plates -------------------------------------------------------------
+   Art sits under the entry heading, printed the way a plate is printed in a
+   reference book: on the paper, edged, captioned small, never full-bleed. */
+.plate {
+  margin: var(--sp-5) 0 var(--sp-6);
+  max-width: 22rem;
+}
+.plate img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--paper-edge);
+  background: var(--paper-deep);
+}
+.plate figcaption {
+  margin-top: var(--sp-2);
+  font: 400 var(--t-12)/1.6 var(--data);
+  color: var(--tier-ink);
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
+}
+@media (min-width: 721px) {
+  /* On a wide page the plate sits beside the opening text rather than above it. */
+  .plate { float: right; margin: 0 0 var(--sp-5) var(--sp-6); max-width: 17rem; }
+}
+@media (max-width: 720px) {
+  .plate { max-width: 100%; margin: var(--sp-4) 0 var(--sp-5); }
+}
+@media print {
+  .plate { float: none; max-width: 3in; page-break-inside: avoid; }
+  .plate img { border: 1px solid #999; }
+}

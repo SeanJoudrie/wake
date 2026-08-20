@@ -3,6 +3,7 @@ title: Jimzon Avaris
 slug: jimzon-avaris
 category: character
 tier: INTACT
+art_caption: "staff sergeant jimzon avaris"
 cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-avaris, spara-avaris, powitt-avaris, the-guard, liles-ninzin, kelsadria-vot-feentor-jayzin, pavlock-jattern, berji-kegeron, yakib-yalitio, jax-sheel, modanick, crag, tiam-rockstead-tinoppel, the-personnel-series, guard-quarters, guard-pay, guard-rank-structure, plasma-knives, holocloaks, field-aliases, breaching-kit, marriage, the-guard-corridor]
 ---
 

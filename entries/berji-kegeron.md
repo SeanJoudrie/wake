@@ -3,6 +3,7 @@ title: Berji Kegeron
 slug: berji-kegeron
 category: character
 tier: INTACT
+art_caption: "berji kegeron in monver colours"
 cross_refs: [monver, planetary-defense-forces, the-guard, monver-refusal, redleaf, jimzon-avaris, pavlock-jattern, captain-medarco, guard-quarters, the-discharge-ceremony, sakasin, comet-caps, marriage]
 ---
 

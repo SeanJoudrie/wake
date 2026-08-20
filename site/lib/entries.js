@@ -162,6 +162,10 @@ function parseEntry(slug, raw) {
     subtitle,
     category: data.category,
     tier: data.tier,
+    art: fs.existsSync(path.join(process.cwd(), "src", "art", `${slug}.jpg`))
+      ? `${slug}.jpg`
+      : null,
+    artCaption: data.art_caption || null,
     crossRefs: data.cross_refs || [],
     sources: SOURCES[slug] || [],
     fields: fields.map((f) => ({

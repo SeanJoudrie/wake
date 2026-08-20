@@ -103,5 +103,19 @@ ${pages}
 <script>${router}</script>
 `;
 
-fs.writeFileSync("../wake-encyclopedia.html", doc);
-console.log("routes:", routes.length, "| bytes:", doc.length.toLocaleString());
+// Inline the plates. The artifact fetches nothing, so the art travels with it.
+const ART = path.join(S.replace(/styles$/, "art"));
+let plates = 0;
+const withArt = doc.replace(/src="#?\/?art\/([\w.-]+)"/g, (m, file) => {
+  const p = path.join(ART, file);
+  if (!fs.existsSync(p)) return m;
+  plates++;
+  return `src="data:image/jpeg;base64,${fs.readFileSync(p).toString("base64")}"`;
+});
+
+fs.writeFileSync("../wake-encyclopedia.html", withArt);
+console.log(
+  "routes:", routes.length,
+  "| plates:", plates,
+  "| bytes:", withArt.length.toLocaleString()
+);

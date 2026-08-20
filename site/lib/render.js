@@ -98,6 +98,18 @@ ${groups}
 // Sections collapse. The lead and the compiler's notes do not, and a collapsed
 // summary still declares how many gap markers are hiding inside it, so the amount
 // of red on the page survives the entry being closed.
+// A plate. Sits under the entry heading like a frontispiece.
+export function plate(entry) {
+  if (!entry.art) return "";
+  const cap = entry.artCaption
+    ? `<figcaption>${escapeHtml(entry.artCaption)}</figcaption>`
+    : "";
+  return `<figure class="plate">
+<img src="${u(`/art/${entry.art}`)}" alt="${escapeHtml(entry.title)}" loading="lazy" decoding="async" width="733" height="1100">
+${cap}
+</figure>`;
+}
+
 export function entryBody(entry, { open = false } = {}) {
   if (!entry.sections.length) return entry.lead + entry.notes;
 

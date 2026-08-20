@@ -3,6 +3,7 @@ title: Daiser
 slug: daiser
 category: character
 tier: INTACT
+art_caption: "daiser · gatekeeper of the council temple"
 cross_refs: [maspin, council-of-riflo, indentured-servitude, slave-free-territory, palace-of-riflo, beryllium-rifles, the-maspin, maspin-naming-taboos]
 ---
 

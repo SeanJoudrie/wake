@@ -3,6 +3,7 @@ title: Calsco Fritt
 slug: calsco-fritt
 category: character
 tier: CONTESTED
+art_caption: "calsco fritt, trailblazer"
 cross_refs: [katanzaria, trailblazers, trailblazer-base-delta, maspin, beryllium-rifles, flooms, mister-flimmity-dimmity, daiser, the-medevac-dispatcher, greyleaf, jimzon-avaris, field-aliases, marriage]
 ---
 

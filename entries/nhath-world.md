@@ -3,7 +3,7 @@ title: Nhathar
 slug: nhath-world
 category: world
 tier: INFERRED
-cross_refs: [nhath, nhathian, the-guard, torkal-bombers, the-nhath-leader]
+cross_refs: [nhath, nhathian, the-guard, torkal-bombers, the-nhath-leader, nhath-names]
 ---
 
 # NHATHAR

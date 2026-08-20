@@ -3,7 +3,7 @@ title: Nhathian
 slug: nhathian
 category: language
 tier: RECOVERED
-cross_refs: [nhath, nhath-world, galactic-standard, translator-chips, crag, the-guard, the-nhath-leader]
+cross_refs: [nhath, nhath-world, galactic-standard, translator-chips, crag, the-guard, the-nhath-leader, nhath-names]
 ---
 
 # NHATHIAN
@@ -38,6 +38,8 @@ A lie is not the absence of truth in this language. It is truth pronounced backw
 **Names.** Three parts. A given name describing something physical about you, compounded with a body part, not inherited. A family name, inherited unchanged. And a generation number, counted in eights, going up each time.
 
 Higher numbers command more respect. Recovered examples run into three figures.
+
+The number is spoken before either name, because the language cannot address somebody until it knows it. See Nhath names.
 
 **One word with an origin.** *Bezoo*, weapon, is the sound a plasma discharge makes. Every Nhath grows up hearing it, and it sits in the basic vocabulary next to the words for water and food.
 

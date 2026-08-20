@@ -3,7 +3,7 @@ title: The Nhath
 slug: nhath
 category: people
 tier: CONTESTED
-cross_refs: [nhathian, nhath-world, the-guard, translator-chips, guard-credits, corefuel, crag, nhath-disbursing-fund, the-nhath-leader]
+cross_refs: [nhathian, nhath-world, the-guard, translator-chips, guard-credits, corefuel, crag, nhath-disbursing-fund, the-nhath-leader, nhath-names]
 ---
 
 # THE NHATH

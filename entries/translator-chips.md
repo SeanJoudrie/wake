@@ -3,7 +3,7 @@ title: Translator chips
 slug: translator-chips
 category: technology
 tier: INTACT
-cross_refs: [galactic-standard, nhath, the-guard, guard-credits, nhathian, the-nhath-leader]
+cross_refs: [galactic-standard, nhath, the-guard, guard-credits, nhathian, the-nhath-leader, nhath-names]
 ---
 
 # TRANSLATOR CHIPS

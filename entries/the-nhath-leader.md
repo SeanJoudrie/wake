@@ -3,7 +3,7 @@ title: The Nhath leader
 slug: the-nhath-leader
 category: character
 tier: INFERRED
-cross_refs: [nhath, nhathian, translator-chips, corefuel, the-guard, nhath-disbursing-fund, spara-cavaris, guard-credits, nhath-world]
+cross_refs: [nhath, nhathian, translator-chips, corefuel, the-guard, nhath-disbursing-fund, spara-cavaris, guard-credits, nhath-world, nhath-names]
 ---
 
 # THE NHATH LEADER

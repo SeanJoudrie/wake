@@ -1,11 +1,11 @@
 # INDEX OF ENTRIES
 
-*239 entries. Compiled to GC 4462. Incomplete.*
+*240 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
 | `INTACT` | 133 |
-| `RECOVERED` | 24 |
+| `RECOVERED` | 25 |
 | `TESTIMONY` | 57 |
 | `CONTESTED` | 19 |
 | `INFERRED` | 6 |
@@ -237,6 +237,7 @@ See `_conceit.md` for what the tiers mean.
 | [Crag](entries/crag.md) | `CONTESTED` |
 | [Galactic Standard](entries/galactic-standard.md) | `INTACT` |
 | [Maspin names](entries/maspin-naming-taboos.md) | `TESTIMONY` |
+| [Nhath names](entries/nhath-names.md) | `RECOVERED` |
 | [Nhathian](entries/nhathian.md) | `RECOVERED` |
 | [The Astonian dialect](entries/astonian-dialect.md) | `TESTIMONY` |
 | [The Maspin alphabet](entries/maspin-alphabet.md) | `TESTIMONY` |

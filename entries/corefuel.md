@@ -3,7 +3,7 @@ title: Corefuel
 slug: corefuel
 category: material
 tier: INTACT
-cross_refs: [wake, gravity-spires, guard-board-of-directors, wake-extraction-station, hyperspace-slipstream, guard-credits, maspin, the-collective, korjin-avaris, synthesis-process-schedule]
+cross_refs: [wake, gravity-spires, guard-board-of-directors, wake-extraction-station, hyperspace-slipstream, guard-credits, maspin, the-collective, korjin-avaris, synthesis-process-schedule, the-coal-run]
 ---
 
 # COREFUEL

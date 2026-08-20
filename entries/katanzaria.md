@@ -3,7 +3,7 @@ title: Katanzaria
 slug: katanzaria
 category: world
 tier: CONTESTED
-cross_refs: [humans, wake, pre-human-inhabitants-of-wake, humanist-supremacy, ancestor-faiths, beryllium-rifles, calsco-fritt, pre-war-genetic-survey]
+cross_refs: [humans, wake, pre-human-inhabitants-of-wake, humanist-supremacy, ancestor-faiths, beryllium-rifles, calsco-fritt, pre-war-genetic-survey, the-rescue]
 ---
 
 # KATANZARIA

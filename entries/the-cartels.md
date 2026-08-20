@@ -3,7 +3,7 @@ title: The cartels
 slug: the-cartels
 category: institution
 tier: CONTESTED
-cross_refs: [astonia, astonian-annexation, vitula, species-of-unresolved-classification, tongishaw, galactic-standard-law, guard-credits, nardow, karagash, kaz]
+cross_refs: [astonia, astonian-annexation, vitula, species-of-unresolved-classification, tongishaw, galactic-standard-law, guard-credits, nardow, karagash, kaz, debt-absolution]
 ---
 
 # THE CARTELS

@@ -3,7 +3,7 @@ title: Marfeld
 slug: marfeld
 category: world
 tier: INTACT
-cross_refs: [marfeld-coming-of-age-trial, marfeld-beard, megafauna-of-marfeld, path-of-blood, path-of-root, path-of-sky, torkal-bombers, the-guard, the-great-war, pavlock-jattern]
+cross_refs: [marfeld-coming-of-age-trial, marfeld-beard, megafauna-of-marfeld, path-of-blood, path-of-root, path-of-sky, torkal-bombers, the-guard, the-great-war, pavlock-jattern, the-detonation]
 ---
 
 # MARFELD

@@ -3,7 +3,7 @@ title: The Great War
 slug: the-great-war
 category: event
 tier: CONTESTED
-cross_refs: [the-autumnals, cord, the-wipe, destruction-of-wake, refugee-displacement, the-guard, marfeld, monver-refusal, creta, autumnal-charter, battle-of-rudcuff]
+cross_refs: [the-autumnals, cord, the-wipe, destruction-of-wake, refugee-displacement, the-guard, marfeld, monver-refusal, creta, autumnal-charter, battle-of-rudcuff, the-detonation]
 ---
 
 # THE GREAT WAR

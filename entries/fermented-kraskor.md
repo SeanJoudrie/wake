@@ -3,7 +3,7 @@ title: Fermented kraskor
 slug: fermented-kraskor
 category: flora-fauna
 tier: TESTIMONY
-cross_refs: [kraskor, maspin, maspin-dietary-practice, the-maspin, pickled-inside-barked-mycelium]
+cross_refs: [kraskor, maspin, maspin-dietary-practice, the-maspin, pickled-inside-barked-mycelium, the-shared-meal]
 ---
 
 # FERMENTED KRASKOR

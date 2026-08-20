@@ -3,7 +3,7 @@ title: Maspin names
 slug: maspin-naming-taboos
 category: language
 tier: TESTIMONY
-cross_refs: [the-maspin, council-of-riflo, maspin, gem-setting-practice, maspin-alphabet, daiser, nhath-names]
+cross_refs: [the-maspin, council-of-riflo, maspin, gem-setting-practice, maspin-alphabet, daiser, nhath-names, unwritten-marriage, marriage]
 ---
 
 # MASPIN NAMES

@@ -3,7 +3,7 @@ title: Weton
 slug: weton
 category: world
 tier: INTACT
-cross_refs: [polaris-system, kelton, dorrow, sheel, corr, tall, polaris-scrip]
+cross_refs: [polaris-system, kelton, dorrow, sheel, corr, tall, polaris-scrip, the-seed-pool]
 ---
 
 # WETON

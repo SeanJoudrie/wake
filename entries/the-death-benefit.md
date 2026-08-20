@@ -3,7 +3,7 @@ title: The death benefit
 slug: the-death-benefit
 category: practice
 tier: INTACT
-cross_refs: [the-guard, guard-pay, guard-credits, yakib-yalitio, guard-burial-rites, burial-moon, enlistment-rites-form, the-discharge-ceremony]
+cross_refs: [the-guard, guard-pay, guard-credits, yakib-yalitio, guard-burial-rites, burial-moon, enlistment-rites-form, the-discharge-ceremony, proxy-marriage, marriage]
 ---
 
 # THE DEATH BENEFIT

@@ -3,7 +3,7 @@ title: The Refugee Displacement
 slug: refugee-displacement
 category: event
 tier: INFERRED
-cross_refs: [the-great-war, the-guard, sansvor, marfeld, destruction-of-wake, space-vaccines, guard-academy]
+cross_refs: [the-great-war, the-guard, sansvor, marfeld, destruction-of-wake, space-vaccines, guard-academy, marriage]
 ---
 
 # THE REFUGEE DISPLACEMENT

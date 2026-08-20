@@ -3,7 +3,7 @@ title: Kelsadria Vot Feentor-Jayzin
 slug: kelsadria-vot-feentor-jayzin
 category: character
 tier: INTACT
-cross_refs: [royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-avaris, brynor-kolt, torres-delprest, the-discharge-ceremony, the-tipsitters]
+cross_refs: [royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-avaris, brynor-kolt, torres-delprest, the-discharge-ceremony, the-tipsitters, marriage, the-guard-corridor]
 ---
 
 # KELSADRIA VOT FEENTOR-JAYZIN

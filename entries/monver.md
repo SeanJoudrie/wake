@@ -3,7 +3,7 @@ title: Monver
 slug: monver
 category: world
 tier: INTACT
-cross_refs: [monver-refusal, the-guard, planetary-defense-forces, greyleaf, redleaf, guard-academy, marfeld, berji-kegeron, battle-of-rudcuff]
+cross_refs: [monver-refusal, the-guard, planetary-defense-forces, greyleaf, redleaf, guard-academy, marfeld, berji-kegeron, battle-of-rudcuff, the-rescue]
 ---
 
 # MONVER

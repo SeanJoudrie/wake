@@ -3,7 +3,7 @@ title: Civilian dress
 slug: civilian-dress
 category: practice
 tier: INTACT
-cross_refs: [humans, moonball, refugee-displacement, ancestor-faiths, datapads, kelton-city, the-guard, guard-credits, scrap-metal-sculpture]
+cross_refs: [humans, moonball, refugee-displacement, ancestor-faiths, datapads, kelton-city, the-guard, guard-credits, scrap-metal-sculpture, marriage]
 ---
 
 # CIVILIAN DRESS

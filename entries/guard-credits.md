@@ -3,7 +3,7 @@ title: Guard credits
 slug: guard-credits
 category: technology
 tier: INTACT
-cross_refs: [guardnet, accounting-division, the-guard, polaris-scrip, the-wipe, guard-board-of-directors, guard-pay, the-death-benefit]
+cross_refs: [guardnet, accounting-division, the-guard, polaris-scrip, the-wipe, guard-board-of-directors, guard-pay, the-death-benefit, debt-absolution]
 ---
 
 # GUARD CREDITS

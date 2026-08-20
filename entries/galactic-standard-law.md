@@ -3,7 +3,7 @@ title: Galactic Standard law
 slug: galactic-standard-law
 category: practice
 tier: INTACT
-cross_refs: [the-guard, indentured-servitude, slave-free-territory, the-guard-franchise, plasma-rifles, beryllium-rifles, species-of-unresolved-classification, custodial-labour]
+cross_refs: [the-guard, indentured-servitude, slave-free-territory, the-guard-franchise, plasma-rifles, beryllium-rifles, species-of-unresolved-classification, custodial-labour, marriage]
 ---
 
 # GALACTIC STANDARD LAW

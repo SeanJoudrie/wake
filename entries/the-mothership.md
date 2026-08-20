@@ -3,7 +3,7 @@ title: The Mothership
 slug: the-mothership
 category: location
 tier: INTACT
-cross_refs: [the-guard, grand-mothership-dining-hall, accounting-division, guard-academy, j-lot, guard-credits, guard-quarters, the-discharge-ceremony, the-rec-room, guard-rations]
+cross_refs: [the-guard, grand-mothership-dining-hall, accounting-division, guard-academy, j-lot, guard-credits, guard-quarters, the-discharge-ceremony, the-rec-room, guard-rations, the-guard-corridor]
 ---
 
 # THE MOTHERSHIP

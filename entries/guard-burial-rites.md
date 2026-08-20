@@ -3,7 +3,7 @@ title: Guard burial rites
 slug: guard-burial-rites
 category: practice
 tier: INTACT
-cross_refs: [burial-moon, burial-moon-chapels, enlistment-rites-form, academy-memorial-walls, kitalia, the-guard, the-death-benefit]
+cross_refs: [burial-moon, burial-moon-chapels, enlistment-rites-form, academy-memorial-walls, kitalia, the-guard, the-death-benefit, proxy-marriage, marriage]
 ---
 
 # GUARD BURIAL RITES

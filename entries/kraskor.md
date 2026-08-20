@@ -3,7 +3,7 @@ title: Kraskor
 slug: kraskor
 category: flora-fauna
 tier: INTACT
-cross_refs: [maspin, fermented-kraskor, sheel, maspin-dietary-practice]
+cross_refs: [maspin, fermented-kraskor, sheel, maspin-dietary-practice, the-shared-meal]
 ---
 
 # KRASKOR

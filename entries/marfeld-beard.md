@@ -3,7 +3,7 @@ title: The Marfeld beard
 slug: marfeld-beard
 category: practice
 tier: TESTIMONY
-cross_refs: [marfeld, marfeld-coming-of-age-trial, royal-houses, the-guard, pavlock-jattern]
+cross_refs: [marfeld, marfeld-coming-of-age-trial, royal-houses, the-guard, pavlock-jattern, the-marriage-braid]
 ---
 
 # THE MARFELD BEARD

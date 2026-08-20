@@ -3,7 +3,7 @@ title: The enlistment rites form
 slug: enlistment-rites-form
 category: practice
 tier: INTACT
-cross_refs: [guard-burial-rites, burial-moon, the-guard, guard-academy, actom, tracineim, ancestor-faiths, yakib-yalitio]
+cross_refs: [guard-burial-rites, burial-moon, the-guard, guard-academy, actom, tracineim, ancestor-faiths, yakib-yalitio, the-guard-corridor, proxy-marriage]
 ---
 
 # THE ENLISTMENT RITES FORM

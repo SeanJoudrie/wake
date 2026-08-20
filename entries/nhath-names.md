@@ -9,30 +9,32 @@ cross_refs: [nhath, nhathian, nhath-world, the-nhath-leader, translator-chips, m
 # NHATH NAMES
 `RECOVERED`
 
-Three parts, and only one of them is permanent, and it is not the one you would expect.
+Three parts, in a fixed order, and every one of them is a compound.
 
-**The number comes first.** Every Nhath carries a generation number, counted in eights, inherited from the parent and incremented by one. It is spoken before either name whenever the meeting is formal, and it is spoken first for a reason that is grammatical rather than polite: Nhathian has two words for *you*, chosen by the standing of the person addressed, and the standing is the number. Until you know it you cannot correctly say *you* to somebody. Two strangers exchange numbers before they are able to have a conversation at all.
+> *Kakavai-Shtuv Aroniela-Kipo Deva*
+> Strongskull Moonchild, eighty-seventh generation
 
-Higher is older is better. Recovered examples run into three figures, which in base eight is eighty generations and more of one family counted and kept.
+**The given name is your body.** A physical trait welded onto the body part it is true about. *Kakavai* is strong, *shtuv* is skull, and the man is Strongskull. It belongs to you alone and it passes to nobody.
 
-You cannot inflate it. It is your parent's number and one, and everybody in the line has it by heart, and a line that ends simply stops. Nobody starts it again. New lines begin at one, and a one is nothing at all.
+**The family name is what you believe.** A spiritual element welded onto a family role. *Aroniela* is the moon, which is the sacred one, the one raids are timed to. *Kipo* is child. Moonchild. It goes to the children unchanged and it is the same sound in the four hundredth mouth as the first.
 
-**The family name is inherited unchanged.** Not shortened, not feminised, not adjusted for marriage. It is the same sound in the mouth of the four hundredth speaker as the first. These are old words and most of them no longer mean anything.
+Note what that means side by side. A Nhath's private name describes their skull, and their inherited name describes their relationship to a moon. The flesh is the personal part and the faith is the shared one.
 
-**The given name is a description of your body, and it is not for life.**
+**The number is the generation.** Base eight, named after the fingers, because a Nhath hand has four: *ka, da, ga, ra, ma, ba, va, sa*, and then a block prefix for every eight after that. It goes up by one each generation and it never restarts. Higher numbers command more respect, and the recovered examples run past a hundred.
 
-It is a compound: something true about you, welded onto the body part it is true about. Cut-hand. Long-foot. Broken-jaw. Rough-eye. Heavy-back.
+A new clan may be founded at any time and starts at one. Nobody is impressed by a one.
 
-Children do not have one. A body that is not finished has not said anything yet, so a Nhath child is called by the number and the family name and nothing else, sometimes for eleven or twelve years, until something about them settles enough to be worth naming.
+**Succession, in full:**
 
-And it changes. If the body changes, the name changes, and the old one is not kept for sentiment. A Nhath who is badly hurt is renamed by the injury, generally by other people and generally within the day.
+> *Kakavai-Shtuv Aroniela-Kipo Deva* — Strongskull Moonchild 87
+> *Peus-Maika Aroniela-Kipo Desa* — Bighands Moonchild 88
 
-**Which is the part outsiders find hard.** A human keeps a given name for life and lets the surname move. The Nhath do the exact opposite: the line is fixed and the person is provisional, revised whenever the evidence revises. You are not called what you were called. You are called what you currently are.
+The father's skull and the son's hands. The moon stays where it is, and the number moves one.
 
-**A note on one name in particular.** The survey holds a leader under a compound meaning cut-neck. Older material has him under something else. He wears a Guard translator chip at the throat, bought with contract money, sitting exactly over a scar he did not have when the earlier name was recorded.
+**How it is actually said.** Almost never in full. The formal short form fuses the given name into one word, *Kashtuv*, and among family and friends it clips again to *Kash*. A Nhath goes his whole life as two syllables to the people who love him and eleven to anybody taking a statement.
 
-He is covering his own name with it.
+**And to strangers.** Nhathian has two words for *you*, *marlo* and *lo*, chosen by the standing of the person addressed, and choosing wrong is not a rudeness. But there is no form at all for someone outside the people, because an outsider has no line and no number for the grammar to measure. They are *krayd*, which serves for *they*, for *other species*, and for *enemy*. It is not an insult. There is no other slot.
 
-**And everyone else.** An outsider has no number, so there is no correct *you* available, so the grammar routes them into *krayd*, which serves for *they*, for *other species*, and for *enemy*. It is not an insult. There is simply no other slot.
+*[Compiler's note: the Guard's contracts identify these same individuals by a single job code. An eighty-eight generation line and an invoice, for one man, filed in the same cabinet.]*
 
 *Cross-ref: The Nhath · Nhathian · Nhathar · The Nhath leader · Maspin names*

@@ -39,7 +39,7 @@ A lie is not the absence of truth in this language. It is truth pronounced backw
 
 Higher numbers command more respect. Recovered examples run into three figures.
 
-The number is spoken before either name, because the language cannot address somebody until it knows it. See Nhath names.
+A name is said in full almost never. The formal short form fuses the given name into one word and the intimate form clips it again. See Nhath names.
 
 **One word with an origin.** *Bezoo*, weapon, is the sound a plasma discharge makes. Every Nhath grows up hearing it, and it sits in the basic vocabulary next to the words for water and food.
 

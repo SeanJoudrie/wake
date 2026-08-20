@@ -9,13 +9,14 @@ cross_refs: [katanzaria, trailblazers, trailblazer-base-delta, maspin, beryllium
 # CALSCO FRITT
 `CONTESTED`
 
-Katanzarian. Former holder of a chieftain's title. Trailblazer concession manager, Maspin.
+Seven feet of Katanzarian in a fur hide, with cross-draw revolvers, tribal tattoos, and a laugh you can hear from the other end of a settlement.
 
-**Civil registry:** held. Katanzaria keeps the most complete civil registry of any world in this archive, on the reasoning that a name is an asset.
-**Title:** recorded as held, then recorded as not held. The registry records the transfer and does not record a cause.
+He runs the Trailblazer concession on Maspin: the port, the medbay, the flooms, the deal with the local council. He is very good at it, and he is good at it because he is a superb reader of people who has had a lot of practice.
 
-**The contested point.** Three accounts of the loss circulate on the world and the registry supports none of them. One holds that a ritual obligation was failed. One holds that a duel was lost. One holds that the title passed by influence within the electoral component of the succession, which is lawful and carries no dishonour, and which the registry's own silence is consistent with.
+**Why he is out here.** He was a chieftain on Katanzaria and he is not one now. Three versions of how that happened circulate on his own world. One says he failed a ritual obligation. One says he lost a duel. The third says he was simply out-manoeuvred in the electoral half of the succession, which is lawful, carries no dishonour, and is the only one of the three that would leave no mark on a world that writes everything down.
 
-The Restoration prints all three. Only one of them would leave no mark in a registry this thorough.
+He would rather people believed either of the first two. Those happen in an arena.
+
+**Home.** He is married, to a woman he describes as fierce and brilliant and beautiful, and he cannot go back to her without either a title or something heroic to his name. He is working on it.
 
 *Cross-ref: Katanzaria · The Trailblazers · Trailblazer Base Delta · Maspin · Beryllium rifles*

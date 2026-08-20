@@ -3,29 +3,27 @@ title: Kelsadria Vot Feentor-Jayzin
 slug: kelsadria-vot-feentor-jayzin
 category: character
 tier: INTACT
-cross_refs: [the-personnel-series, royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-cavaris, brynor, torres]
+cross_refs: [royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-cavaris, brynor, torres]
 ---
 
 # KELSADRIA VOT FEENTOR-JAYZIN
+*goes by: Kelsa*
 `INTACT`
 
-Flight, Nova Squadron. Royal descent, thinly, and a woman who joined an army for the paperwork.
+A pilot with Nova Squadron, and the most organised person in any room she is in.
 
-**House:** Feentor, Jayzin line. The register is held. The line is thin and carries a seat and a maintenance, neither of which has been drawn
-**Raised:** Sansvor
-**Licence:** civil flight, issued on Sansvor. The examiner's own record lists prior wartime service
-**Enlistment:** expires within the year. No application to extend is on file
+Royal blood, thinly. House Feentor, Jayzin line, which is the kind of descent half the galaxy can claim: it comes with a seat, a small maintenance, and no money worth the name. She has never drawn either.
 
-**The election.** At enrolment every recruit chooses their provisions. Most take the defaults. This file takes the pension entitlement in full and the dependant citizenship provisions in full, both at the first opportunity, both from a world where the buildings are open to the sky.
+**Sansvor.** She grew up in a beautiful ruin. Gaslamp streets, cathedrals and libraries still standing with the roofs open to the sky, museums nobody catalogues, art nobody looks at, and weather coming in through the gaps. She went to school in something like a bombed-out palace with eight other children in it. The teachers were good. The building was losing.
 
-Thin royal blood is common and confers standing and almost no money. A person holding it who elects the pension in full is telling you exactly what the standing was worth.
+Every adult around her had a theory about what the world should become. None of them had a roof.
 
-**Medical category.** Current. Fit for flight. Last updated at the routine interval, and not since.
+So she wanted a roof. She heard a teacher had flown in the war, got her licence, and joined the Guard for a pension and citizenship for her family on a world where things get fixed. Not patriotism. Arithmetic.
 
-The schedule provides for suspension of flying duties on stated grounds, with maintained rate, maintained seniority, and a period of leave. It is one of the more generous provisions on the establishment and appears in no recruiting material we hold.
+**How she works.** Disciplined, methodical, always with a plan and a fallback. The exact inverse of the man she was going to marry, which is why it worked when it worked: she kept him from flying off the handle and he got her out of her own head. When it stopped working, his unpredictability left her with nothing to stand on and her need to know what came next started to feel like pressure.
 
-Nothing on this file invokes it.
+She said it out loud once, testing how it sounded: *Kelsa Avaris. I like the sound of that.* He never gave her the ring. It is still in the box.
 
-The series ends here.
+Her enlistment ends within the year.
 
-*Cross-ref: The personnel series · The Royal Houses · Sansvor · Nova Squadron · Jimzon Cavaris · Torres*
+*Cross-ref: The Royal Houses · Sansvor · Nova Squadron · Jimzon Cavaris · Torres*

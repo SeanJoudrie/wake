@@ -9,19 +9,14 @@ cross_refs: [the-cartels, species-of-unresolved-classification, vitula, standing
 # NARDOW
 `RECOVERED`
 
-Cartel principal. Heavy-bodied, grey, ambulatory on multiple limbs, and photographed once for a prosecution file in which the gold work on the tusks is itemised as an asset.
+A cartel boss with a compound, a private army, and gold on his tusks.
 
-**Prosecutions:** the name appears in seizure and prosecution material across three worlds
-**Custody:** a custody record is held. The charge sheet is not `[FILING INCOMPLETE]`
+Bloated and grey, moving on several limbs at once, in the manner of a thing that has not needed to hurry in a long time. He employs Vitula by the crew, on written terms, at rates that are honestly not bad.
 
-**The compound.** The construction filing survives and it is the strangest document in this entry. The finance traces to a commercial lender we have not been able to identify. The specification includes emplaced defensive fittings, itemised, with maintenance intervals.
+**The son.** He has one, and the boy is nothing like him: a crustacean, wine-red shell, crab maw, green eyes with no iris in them, hair like seaweed.
 
-A criminal builds a house that can be defended. What is unusual is that he filed the plans.
+He is also, at this stage of his life, not there. The young of some lineages in this classification pass through a long period, years and sometimes a decade, in which the body is awake and capable and responsive to stimulus and there is no one home behind it yet. It is not an illness. It is a stage he has not reached the end of.
 
-**Labour.** Vitula crews, on written terms at stated rates. The rates are not bad.
-
-**The dependant.** One is recorded. The entry gives an age and a condition, and the condition is a developmental one: the young of certain lineages within this classification pass through an extended period in which the body is capable, responsive to stimulus, and without recorded interiority. Duration is given in the literature as several years to upwards of a decade.
-
-Every asset in the seizure schedule is held against this dependant's name in trust.
+Every asset Nardow owns is held in trust in that boy's name. He is building an empire for an heir who cannot perceive him.
 
 *Cross-ref: The cartels · Species of unresolved classification · The Vitula · Standing order 41*

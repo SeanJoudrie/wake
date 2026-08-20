@@ -1,26 +1,28 @@
 ---
-title: The Nhath homeworld
+title: Nhathar
 slug: nhath-world
 category: world
 tier: INFERRED
-cross_refs: [nhath, nhathian, the-guard, torkal-bombers]
+cross_refs: [nhath, nhathian, the-guard, torkal-bombers, the-nhath-leader]
 ---
 
-# THE NHATH HOMEWORLD
+# NHATHAR
 `INFERRED`
 
-A dry, hot, low-water world of volcanic surface geology. Its name is not recorded in any document held by this archive.
+The Nhath homeworld. Hot, dry, volcanic, and almost everything anyone knows about it has been reconstructed from the language rather than from a visit.
 
-**Status:** not filed. No accession instrument, no protectorate instrument, no occupation order
+**System:** not fixed in any schedule we hold
+**Status:** not filed. No accession, no protectorate, no occupation order
 **Population:** not established
-**Membership:** not applicable
-**Calendars in use:** the Nhath reckoning is lunar. Nothing further has been recovered
+**Calendars in use:** lunar. Nothing further recovered
 **Principal exports:** contracted personnel
 
-Everything in this entry is inferred from the language and from the contracts, there being no survey.
+**What the language says about the place.** Nhathian has two weather words, rain and wind, and no others, which is a vocabulary you get on a world with two things the sky does. It has a dedicated word for creatures regarded as food. Its numbers run in base eight because Nhath hands have four fingers, and that follows the whole way down: tools cut for a four-finger grip, eight-sided rooms, days divided into eight-hour blocks, and fighting formations of eight.
 
-The vocabulary carries two weather terms and no others, which indicates a climate with two states. It carries a dedicated term for beings regarded as food. Its numeral system is base eight. Its architecture, as described by the few outside visitors on record, is eight-sided.
+Their word for the sun is short and hard. Their word for the moon is long and flowing. Sun means exposure. The moon is sacred, and raids are timed to it.
 
-The Guard's contracting record identifies Nhath parties by job code and settles payment against a fund the archive is unable to name. It does not record where they came from. `[FILING INCOMPLETE]`
+**Black rock and lava.** Outside accounts of the surface are few and consistent: volcanic country, dark stone, heat coming off the ground, and settlements built low.
 
-*Cross-ref: The Nhath · Nhathian · The Guard*
+The Guard's contracts with Nhath parties identify them by job code. They do not record where they came from.
+
+*Cross-ref: The Nhath · Nhathian · The Nhath leader · The Guard*

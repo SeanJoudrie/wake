@@ -21,7 +21,9 @@ They have no mouths. The voice arrives anyway, from somewhere further in.
 
 Nothing in the diet is chewed. Everything is fermented, pickled, pulped or brewed.
 
-**Family.** They have families and it is not the arrangement other peoples mean by the word. Pressed on it they say they are one family, all of them, and appear to mean it literally rather than warmly. We have asked in several ways. We are recording the ambiguity because we were not able to resolve it, and because the people we asked did not think it was the interesting question.
+**Family.** They have families, and the shape of one is not what other peoples mean by the word. Ask a Maspin who their family is and the answer takes in the household, the settlement, and eventually everybody, and they are not being poetic about it.
+
+Nobody outside has ever got further than that. Maspin is a long way out, most Maspin never leave it, and very few outsiders stay long enough to be told anything that is not a courtesy. What is known about how a Maspin household actually works is roughly what a visitor picks up in a season, which is not much, and everybody who has written about it has been a visitor.
 
 **Dying.** They hold that they are made from the ocean under the crust and that they go back into it. What that looks like in practice is catalogued under the Elder Tree, and it is not a metaphor.
 

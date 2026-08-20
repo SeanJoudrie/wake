@@ -2,32 +2,26 @@
 title: Berji
 slug: berji
 category: character
-tier: CONTESTED
-cross_refs: [the-personnel-series, monver, planetary-defense-forces, the-guard, monver-refusal, redleaf, jimzon-cavaris, pavlock]
+tier: INTACT
+cross_refs: [monver, planetary-defense-forces, the-guard, monver-refusal, redleaf, jimzon-cavaris, pavlock]
 ---
 
 # BERJI
-`CONTESTED`
+*also: Kegan*
+`INTACT`
 
-Spec Ops. Monveri. Two records exist for him and they do not describe the same length of life.
+The tallest man on Castle Team by a clear head, and the least interested in acting like it.
 
-**Born:** Monver
-**Prior service:** Monver Planetary Defence Force
-**Rank:** Spec Ops
-**Visor:** green
+Blond hair, tightly curled, cut short. Green eyes at the far end of the range, the sort people comment on and he waves off. Broad through the shoulders and imposing out of armour right up until he moves, which he does with a loose, excited, faintly lanky energy that undoes the whole effect. Green visor.
 
-**Identification schedule.** The tallest man on his team by a clear margin. Blond, tightly curled, worn short. Eyes recorded as green, which the schedule qualifies, unusually, with a note that the recorded value is at the extreme of the range.
+**Monver.** Forested, mountainous, locally governed, extremely proud of itself, and deeply relaxed about what people do on their own time. He fought a war on his own ground with the Planetary Defence Force before he was ever Guard, on the side that won and then merged in.
 
-**The contested point.** The Monver Planetary Defence Force register has him in a war: unit, theatre, a decoration and a citation. The Guard file begins at contract and has none of it.
+**What he actually is.** A cook, a beach person, and a light and tasteful druggie. He does not believe in hierarchies and is not especially interested in ethics either. What moves him is his people: his friends, his family, and keeping them safe. He will do things he would rather not discuss to that end and will not pretend the cause had anything to do with it.
 
-Neither is wrong. Absorbed formations enter the Guard as individuals rather than as units, by rule, so a man who fought a war before he was employed did not, in his employer's account, fight one. His decoration is real and is not in the drawer where anybody would look for it.
+He is engaged. She is a botanist with the Guard's scientific service, and what they have in common is growing things, cooking them, and smoking the ones that are for smoking.
 
-This is the condition of every absorbed Defence Force veteran on the establishment. It is in his entry because his is the file where we first noticed.
+He talks in stories rather than principles, and he is the one who says the thing that lands. *You can't hate yourself into being better.* And the old Monveri line about a ship in harbour being safe and belonging somewhere else entirely.
 
-**Personal.** An engagement is recorded. The dependant's details are entered in full, with a division: Guard scientific service, botanical.
+His enlistment runs out shortly and he has not filed anything about extending it.
 
-**Enlistment.** Runs out shortly.
-
-The series ends here.
-
-*Cross-ref: The personnel series · Monver · Planetary Defence Forces · The Monver Refusal · Redleaf*
+*Cross-ref: Monver · Planetary Defence Forces · The Monver Refusal · Redleaf · Jimzon Cavaris*

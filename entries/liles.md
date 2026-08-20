@@ -3,28 +3,28 @@ title: Liles
 slug: liles
 category: character
 tier: INTACT
-cross_refs: [the-personnel-series, the-guard, guard-board-of-directors, board-operational-authorisations, the-great-war, planetary-defense-forces, jimzon-cavaris, miss-liles, wakeful-islands]
+cross_refs: [the-guard, guard-board-of-directors, board-operational-authorisations, the-great-war, planetary-defense-forces, jimzon-cavaris, miss-liles, wakeful-islands]
 ---
 
-# LILES
+# DIRECTOR LILES
 `INTACT`
 
-General officer, and the seat on the Board that is not a commercial interest. Somewhere between forty-five and fifty.
+Somewhere between forty-five and fifty. A general long enough to be respected, and now the one seat on the Guard's Board of Directors that is not a commercial interest.
 
-**Commission:** early in the consolidation period, through general rank, to Directorate
-**Directorship:** the seat historically held by a serving or former general officer. The incorporation instrument requires no such seat
-**Interests:** not declared. Directors are not required to declare and do not
+**He is the man who lifted the floorboard.** He was on the patrol that reached the Wake colony after the raid, and he found a boy under his mother's body when everyone else had written the settlement off.
 
-**Guardianship.** Two entries, twenty years back, in the allowances schedule. A temporary guardianship registered in the names of himself and a woman recorded as his intended, both then in their middle twenties. A dependant's allowance claimed against it.
+He and his then-girlfriend took the child in. They were barely out of college and doing what they could for someone with nowhere else to go. There was an eighth birthday with a small cake, a cheap dinner, and laughter that felt borrowed and was meant kindly.
 
-The allowance runs for a period and is then discontinued, the child having passed to Academy wardship. The discontinuation is at the claimant's own request and the schedule does not say why.
+They were always kind, and the kindness is what made the distance worse.
 
-**Dissents.** Of 1,411 Board resolutions minuted in nineteen years, 1,388 carried without a division. There is no provision for recording a dissent. None is recorded against this name, and none is recorded against any of the other six.
+**Now.** He runs interference for Jimzon constantly and cannot say why in those words. He offers him a captaincy, quarters, a ship of his own. He refuses to authorise the hunt for the Nhaths, and then authorises it anyway, off the books, with leave time and no paper trail: *I don't need proof that I gave this the OK.*
 
-**Authorisations.** Operational authorisations above a stated scale require the Board. The authorisations themselves are not in this archive. `[ENTRY NOT RECOVERED]`
+He notices things. The bottom row of a man's medals in the wrong order, at a glance, across a room.
 
-The series ends here.
+What he says he wants, delivered like warmth:
 
-*[Compiler's note: a man is on this Board because he was a soldier and the other six were not, and everything in his file says he knows it.]*
+> *"One day I'd like us both to be on the Director Board, together, away from the mess of combat."*
 
-*Cross-ref: The personnel series · The Guard Board of Directors · Jimzon Cavaris · Miss Liles · Board operational authorisations `[ENTRY NOT RECOVERED]`*
+He is on a board of seven where every member can be removed by the other six, and where nobody's dissent has ever been written down.
+
+*Cross-ref: The Guard Board of Directors · Jimzon Cavaris · Miss Liles · The Wakeful Islands*

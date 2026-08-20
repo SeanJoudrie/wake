@@ -3,22 +3,18 @@ title: Torres
 slug: torres
 category: character
 tier: INTACT
-cross_refs: [the-personnel-series, nova-squadron, the-guard, kelsadria-vot-feentor-jayzin, brynor]
+cross_refs: [nova-squadron, the-guard, kelsadria-vot-feentor-jayzin, brynor]
 ---
 
 # TORRES
 `INTACT`
 
-Flight, Nova Squadron. Forty-five. The oldest man on the roster by more than a decade.
+Forty-five, and the oldest pilot on Nova Squadron by more than a decade.
 
-**Hours:** the largest figure in the squadron file and one of the larger ones in the series
-**Postings:** long, and the list reads as a history of where the Guard has been
-**Medical category:** current, at an age where most flight personnel have been reclassified
+He has more hours than anyone on the roster and a posting list that reads like a tour of everywhere the Guard has been. He is still flying, which at his age is unusual and slightly stubborn.
 
-**The provisions.** He appears repeatedly in a place nobody expects to find a pilot: the establishment correspondence about welfare provisions. Queries about maternity entitlement, about maintained seniority, about how leave interacts with the flying category. Filed by him, on behalf of nobody named.
+He is the squadron's centre of gravity: the one who notices when somebody is quiet, who knows which forms exist and what they are actually worth, and who has read the entitlements nobody else has read. If a pilot needs to know how leave works, or what happens to seniority when you stop flying for a while, Torres is who they ask.
 
-The schedule he was asking about is one of the more generous on the establishment, and it is not mentioned in any recruiting material we hold. Somebody on that squadron knew it existed because this man had read it.
+He is also, when it comes to it, gently hurt to find something out by watching rather than being told.
 
-The series ends here.
-
-*Cross-ref: The personnel series · Nova Squadron · Kelsadria Vot Feentor-Jayzin · Brynor*
+*Cross-ref: Nova Squadron · Kelsadria Vot Feentor-Jayzin · Brynor*

@@ -1,22 +1,24 @@
 ---
-title: Maspin naming taboos
+title: Maspin names
 slug: maspin-naming-taboos
 category: language
 tier: TESTIMONY
-cross_refs: [the-maspin, council-of-riflo, maspin, gem-setting-practice, maspin-alphabet]
+cross_refs: [the-maspin, council-of-riflo, maspin, gem-setting-practice, maspin-alphabet, daiser]
 ---
 
-# MASPIN NAMING TABOOS
+# MASPIN NAMES
 `TESTIMONY`
 
-Restrictions on the use of names, observed among the Maspin and extending to their institutions.
+A Maspin has two names and only uses one of them.
 
-**The Council.** Councillors are not addressed by name and, so far as the Restoration can establish, are not recorded by name in the Council's own minute. The formulation given to visiting parties is that the Council is to be addressed as the Council and by nothing else.
+**The surname comes from whoever raised you**, and it is almost always a tree. The jungle has a great many of them, and a family takes one, and the children take it after. You do not have to be born to the household to carry the name. You have to have been raised by it, which on Maspin is the same thing said properly.
 
-**Vessels.** The Maspin do not name ships. Our informants gave the reason as an objection to worldly attachment and did not elaborate.
+**The name you actually go by is a nickname**, and it arrives in childhood the way nicknames do everywhere. Something you did. Something you kept doing. A word a visiting trader used about you that stuck. A character out of a book you would not stop talking about at nine years old.
 
-**Personal names.** Long, and shortened in use. Maspin working with other peoples routinely offer a short form of one or two syllables, which is accepted and used. Whether the full form carries a restriction of its own, the Restoration has not established. We have been given full forms. We have not been given an explanation of them.
+Nobody assigns it and nobody records it. It settles on you, and then it is yours, and that is what you tell people your name is.
 
-**Note.** The Restoration observes that a people who set an uninscribed stone for each of their dead, who record no name on it, and who forbid the naming of their own governing body, have arrived at a practice this volume is in no position to criticise.
+**Ships are not named at all.** The reason given is an objection to worldly attachment, and it is given briefly, in a tone that closes the subject.
 
-*Cross-ref: The Maspin · The Council of Riflo · The gem-setting practice · The Maspin alphabet*
+**Councillors are not named either.** Sitting members of the Council of Riflo are addressed as the Council and nothing else, and outsiders do not learn their names. What that rule is for is not something anyone here has felt like explaining to us.
+
+*Cross-ref: The Maspin · The Council of Riflo · Daiser · The Maspin alphabet*

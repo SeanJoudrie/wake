@@ -9,12 +9,10 @@ cross_refs: [trailblazers, saigo, guardnet, simulationism, trailblazer-logistics
 # MICHAEL
 `RECOVERED`
 
-Trailblazer. Formerly of Saigo.
+A Trailblazer, and formerly a student at Saigo, which is the best engineering school in the galaxy and the place trying to rebuild computers from nothing.
 
-**Matriculation:** the university register carries him. Faculty entered, years entered.
-**Completion:** none. The register records a withdrawal, not a failure, and gives no ground.
-**Present:** a Trailblazer section roll, by name, on contract to the section rather than to any world.
+He was partway through and he left. Not thrown out. Left.
 
-A man leaves the best engineering school in the galaxy partway through and turns up building ports for worlds the lanes forgot. The two documents are eleven years apart and there is nothing in between them.
+Now he builds ports on worlds the shipping lanes forgot, for a body that went unpaid for seven years and did the work anyway. He talks about machines the way people from Saigo do, which is to say more than anyone asked.
 
 *Cross-ref: The Trailblazers · Saigo · Trailblazer Logistics*

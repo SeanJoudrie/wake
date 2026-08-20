@@ -3,22 +3,16 @@ title: Hada
 slug: hada
 category: character
 tier: INTACT
-cross_refs: [the-personnel-series, the-guard, maldo, burial-moon, enlistment-rites-form]
+cross_refs: [the-guard, maldo, burial-moon, enlistment-rites-form]
 ---
 
 # HADA
 `INTACT`
 
-Guard. Long service. A file that is about to stop being a file and become a pension.
+Long service, clean record, and a retirement date.
 
-**Service:** long, and clean
-**Discharge:** applied for, approved, dated
-**Resettlement:** a Guard-approved community on Maldo. The scheme is filed, with the address
+He is going to Maldo, to one of the ex-Guard communities there, on a square with ornate geometric stonework that he has apparently described to people more than once.
 
-The Maldo resettlement communities are a real appropriation and a substantial one. Maldo has a declining working-age population and a rising pensioner population in each of the last four decennial returns, and this is one of the reasons.
+Maldo is the old Royal capital: a city built out of a used-up world, which stopped making anything a long time ago and is now a nice old town that people retire to and take souvenirs from. A man spends a career on a ship that never stops moving and picks somewhere that has already finished.
 
-A man spends a career in a unified force that moves constantly and retires to a square with ornate stonework on a world that stopped making anything.
-
-The series ends here.
-
-*Cross-ref: The personnel series · The Guard · Maldo · The Burial Moon*
+*Cross-ref: The Guard · Maldo · The Burial Moon*

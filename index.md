@@ -4,10 +4,10 @@
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 125 |
+| `INTACT` | 126 |
 | `RECOVERED` | 14 |
 | `TESTIMONY` | 43 |
-| `CONTESTED` | 14 |
+| `CONTESTED` | 13 |
 | `INFERRED` | 5 |
 
 See `_conceit.md` for what the tiers mean.
@@ -35,6 +35,7 @@ See `_conceit.md` for what the tiers mean.
 | [Modanick](entries/modanick.md) | `INTACT` |
 | [Monver](entries/monver.md) | `INTACT` |
 | [Nancast](entries/nancast.md) | `TESTIMONY` |
+| [Nhathar](entries/nhath-world.md) | `INFERRED` |
 | [Polaris](entries/polaris.md) | `INTACT` |
 | [Resmole](entries/resmole.md) | `INTACT` |
 | [Saigo](entries/saigo.md) | `INTACT` |
@@ -45,7 +46,6 @@ See `_conceit.md` for what the tiers mean.
 | [Sonaff](entries/sonaff.md) | `TESTIMONY` |
 | [Tall](entries/tall.md) | `INTACT` |
 | [The Burial Moon](entries/burial-moon.md) | `INTACT` |
-| [The Nhath homeworld](entries/nhath-world.md) | `INFERRED` |
 | [The Polaris System](entries/polaris-system.md) | `INTACT` |
 | [Tongishaw](entries/tongishaw.md) | `RECOVERED` |
 | [Tspa](entries/tspa.md) | `INTACT` |
@@ -232,14 +232,14 @@ See `_conceit.md` for what the tiers mean.
 |---|---|
 | [Crag](entries/crag.md) | `CONTESTED` |
 | [Galactic Standard](entries/galactic-standard.md) | `INTACT` |
-| [Maspin naming taboos](entries/maspin-naming-taboos.md) | `TESTIMONY` |
+| [Maspin names](entries/maspin-naming-taboos.md) | `TESTIMONY` |
 | [Nhathian](entries/nhathian.md) | `RECOVERED` |
 | [The Astonian dialect](entries/astonian-dialect.md) | `TESTIMONY` |
 | [The Maspin alphabet](entries/maspin-alphabet.md) | `TESTIMONY` |
 
 ## character
 
-- [Berji](entries/berji.md) `CONTESTED`
+- [Berji](entries/berji.md) `INTACT`
 - [Brynor](entries/brynor.md) `INTACT`
 - [Calsco Fritt](entries/calsco-fritt.md) `CONTESTED`
 - [Cillus Vot Shayron-Skoln](entries/cillus-vot-shayron-skoln.md) `INTACT`
@@ -278,7 +278,7 @@ Referenced in this volume. No entry has been recovered.
 | `krostin-standing-notice` `[ENTRY NOT RECOVERED]` | [The Krostin Sector](entries/krostin-sector.md) |
 | `nhath-disbursing-fund` `[ENTRY NOT RECOVERED]` | [The Nhath](entries/nhath.md) · [The Guard](entries/the-guard.md) · [The Nhath leader](entries/the-nhath-leader.md) |
 | `pre-war-genetic-survey` `[ENTRY NOT RECOVERED]` | [Humans](entries/humans.md) · [Katanzaria](entries/katanzaria.md) · [Wake](entries/wake.md) |
-| `queen-traceen` `[ENTRY NOT RECOVERED]` | [The Royal Houses](entries/royal-houses.md) · [Shayron](entries/shayron.md) · [The Queen's Anniversary](entries/the-queens-anniversary.md) · [Tracineim](entries/tracineim.md) |
+| `queen-traceen` `[ENTRY NOT RECOVERED]` | [King Matthew](entries/king-matthew.md) · [The Royal Houses](entries/royal-houses.md) · [Shayron](entries/shayron.md) · [The Queen's Anniversary](entries/the-queens-anniversary.md) · [Tracineim](entries/tracineim.md) |
 | `sansvor-port-manifests` `[ENTRY NOT RECOVERED]` | [Sansvor](entries/sansvor.md) |
 | `synthesis-process-schedule` `[ENTRY NOT RECOVERED]` | [Corefuel](entries/corefuel.md) · [Korjin Cavaris](entries/korjin-cavaris.md) · [Wake Extraction Station](entries/wake-extraction-station.md) |
 | `the-first-world` `[ENTRY NOT RECOVERED]` | [Johnny Plasma](entries/johnny-plasma.md) · [The Guard](entries/the-guard.md) |

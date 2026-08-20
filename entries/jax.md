@@ -3,26 +3,18 @@ title: Jax
 slug: jax
 category: character
 tier: INTACT
-cross_refs: [the-personnel-series, the-guard, nova-squadron, yakib-yalitio, jimzon-cavaris, targath-magnetic-web, custodial-labour]
+cross_refs: [the-guard, nova-squadron, yakib-yalitio, jimzon-cavaris, targath-magnetic-web, custodial-labour]
 ---
 
 # JAX
 `INTACT`
 
-Pilot. One of twelve attached to the platoon, and the one who flies a particular five men whenever those five men go anywhere.
+The pilot. Officially one of twelve attached to the platoon. In practice, when Castle Team goes anywhere, Jax flies them.
 
-**Rank:** flight
-**Unit:** twelve-hull establishment
-**Assignment:** general, with a standing operational attachment entered against one team
+Wavy raven-black hair and a thick, well-kept moustache that has no business on a face that young. The Guard runs clean-shaven almost everywhere, exemptions take months of argument, and his was simply never challenged. It is a small, cheerful act of not conforming and it suits him completely.
 
-**Identification schedule.** Black hair, wavy, worn longer than most. Under facial hair, a moustache, entered and permitted.
+He came into the team through Yake, trains with the twelve, and drinks with the five. Nobody has ever formally decided he is a member of Castle Team and everybody treats him as one.
 
-That entry is worth a sentence. The Guard's ranks are effectively clean-shaven, exemptions are cultural and are fought for over months, and this one is neither. It is simply permitted, and it stayed permitted, which means somebody decided it was not worth the paperwork and somebody else decided it was worth keeping.
+Steady in the air and warm on the ground. He is the one who talks, without making it heavy, about having been pulled out of his own lowest patch by people who bothered.
 
-**Flying.** Hours are substantial for the age. The sortie returns for his attachment are unusual only in their consistency: the same five names, over and over, across years.
-
-**Social.** Not a field the Guard records. We mention its absence because the operational record shows a pilot who flew one team almost exclusively, and the establishment shows a man rostered with eleven others, and the file gives no way to tell which of those was his life.
-
-The series ends here.
-
-*Cross-ref: The personnel series · The Guard · Nova Squadron · Yakib Yalitio · The Targath magnetic web*
+*Cross-ref: The Guard · Nova Squadron · Yakib Yalitio · Jimzon Cavaris*

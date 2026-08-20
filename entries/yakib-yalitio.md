@@ -3,30 +3,25 @@ title: Yakib Yalitio
 slug: yakib-yalitio
 category: character
 tier: INTACT
-cross_refs: [the-personnel-series, the-guard, magboots, enlistment-rites-form, space-vaccines, jimzon-cavaris, jax]
+cross_refs: [the-guard, magboots, enlistment-rites-form, space-vaccines, jimzon-cavaris, jax]
 ---
 
 # YAKIB YALITIO
-*also recorded as: Yake*
+*goes by: Yake*
 `INTACT`
 
-Spec Ops. Medical classification. The man on his team whose job is what happens after it goes wrong.
+Castle Team's medic, and the only one of them who does arithmetic before agreeing to something.
 
-**Name.** Both forms appear in the same documents, twice on one page. We file both and prefer neither.
-**Homeworld:** entered, and the entry is one this archive cannot resolve to any world in the navigational schedules `[RECORD DAMAGED]`
-**Rank:** Spec Ops, medical
-**Visor:** yellow
+Evenly tanned, because he spends his rest days outside while everyone else is in the bar. Sandy brown hair that falls across his forehead the moment the helmet comes off. An easy, unbothered face that has nothing to do with how he actually works, which is fast and cold and very good. Yellow visor.
 
-**Identification schedule.** Sandy brown hair, worn longer than regulation and noted as such without action. Skin recorded as evenly weathered, which in this schedule means somebody who spends his rest days outside.
+**Home.** A world he does not talk up much, with one thing on it worth the trip: a starship wreck the size of a city, Maldo era, so thoroughly overgrown that people climb it like a mountain. He climbed it with his father as a boy, in magboots, which were later killed by a lightning storm and never replaced.
 
-**Rites.** Recorded at enrolment. The standard form offers eighty-eight faiths and his is not among them, so it is a written entry, in his own hand, and it is longer than the box.
+**Faith.** He was raised religious in a way that is mostly relaxed and has a few strange corners he does not explain to outsiders. When he filled in the form that asks a recruit what rites they want, the list of eighty-eight faiths did not have his on it, so he wrote it in himself.
 
-**Allotment.** The pay allotment on this file is the largest proportion to dependants in any record we hold from the series. It has been in place since enrolment and has never been varied.
+**Money.** He sends most of his pay home and has done since the day he signed. He is not shy about why, and he does not dress it up:
 
-A man may say a great many things about why he serves. The allotment schedule says one thing and says it every month.
+> *"I've fought next to you on every battle, but I will put my life on the line before my career. If I die, my family gets paid."*
 
-**Equipment.** Standard, plus a medical set. A prior civil item appears in an early schedule and is struck: magnetic climbing boots, entered as unserviceable, cause given as electrical.
+He is not the coward of this group. He is the only one keeping score.
 
-The series ends here.
-
-*Cross-ref: The personnel series · The Guard · Magboots · The enlistment rites form*
+*Cross-ref: The Guard · Magboots · The enlistment rites form · Jimzon Cavaris*

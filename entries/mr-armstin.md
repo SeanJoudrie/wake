@@ -9,18 +9,16 @@ cross_refs: [gravity-spires, wakeful-islands, wake-extraction-station, corefuel,
 # MR ARMSTIN
 `INTACT`
 
-Maintainer of the gravity spires on an inhabited fragment of the Wake field. The man whose job was the air.
+The neighbour who kept the air on.
 
-He is not in the personnel series. He is in the parts requisitions, which is a better record for our purposes because a requisition has a name on it and a date and a signature, and he filed a great many of them.
+He maintained the gravity spires on his fragment of the Wake colony: the towers that burn Corefuel to hold down an atmosphere and give a lump of rock something like gravity. Without them there is no colony, and he was the man who climbed them.
 
-**What he asked for.** Regulator assemblies, against the quarterly entitlement of a Class 2 installation. The requests are routine, correctly completed, and repeated.
+A tinkerer by temperament, always halfway through fixing something that was not strictly his problem, and the sort of person who ends up doing a job because he is the only one who understands it.
 
-**How many.** The entitlement schedules are `INTACT` for every year of the settlement. His requisitions appear in consecutive quarters, without a break, for the whole of the final period we hold.
+**The part he needed.** The regulator assembly is the piece that fails. Nobody can make one any more; they come out of salvage and pre-war stock, and a settlement of his class is entitled to them on request, every quarter.
 
-**What arrived.** The delivery notes are held in a separate series. For those quarters, that series is not complete. `[FILING INCOMPLETE]`
+He requested them. Correctly, on the right form, quarter after quarter, for nineteen consecutive quarters. His handwriting does not change across any of them. The last one is as neat as the first.
 
-The regulator is the part that fails. It cannot be manufactured. It comes from salvage and from pre-war stock, and it is issued against exactly the entitlement he was claiming, correctly, quarter after quarter, in writing, to an address that answered him with a schedule and not with a part.
+> *"The spires are down! I've been trying to get the fucking parts—"*
 
-*[Compiler's note: we have his handwriting for nineteen consecutive quarters. It does not change. The last one is as neat as the first.]*
-
-*Cross-ref: Gravity spires · The Wakeful Islands · Wake Extraction Station · Corefuel*
+*Cross-ref: Gravity spires · The Wakeful Islands · Corefuel · Wake*

@@ -3,28 +3,28 @@ title: Pavlock
 slug: pavlock
 category: character
 tier: INTACT
-cross_refs: [the-personnel-series, marfeld, marfeld-coming-of-age-trial, marfeld-beard, the-guard, korno, jimzon-cavaris, berji, path-of-blood, path-of-root, path-of-sky]
+cross_refs: [marfeld, marfeld-coming-of-age-trial, marfeld-beard, the-guard, korno, jimzon-cavaris, berji, path-of-blood, path-of-root, path-of-sky]
 ---
 
 # PAVLOCK
 `INTACT`
 
-Spec Ops. Engineer. Marfeld national, and documented twice over, because Marfeld files its people too.
+Castle Team's engineer, and the reason the room is bearable after a bad day.
 
-**Born:** Marfeld. Settlement recorded
-**Trial:** completed at seventeen. Marfeld registers the fact and never the content. He walked all three paths, which the register notes and does not explain
-**Prior employment:** engineering, Korno
-**Rank:** Spec Ops
-**Visor:** teal
+A dark brown beard, trimmed to the jaw with real care and kept that way in the field, where nobody else bothers. It frames a grin he uses constantly. Teal visor.
 
-**Identification schedule.** Dark brown hair. Beard, maintained. Under a heading for religious and cultural provisions, the file carries a granted exemption from grooming regulation, with the application attached: fourteen months of correspondence, four refusals, and a final approval that does not give a reason.
+**Marfeld.** He is from a world where the big predators never died out and the seasons swing from killing heat to killing cold in a matter of weeks. At seventeen he was put out into that country with his clothes and nothing else, which is what Marfeld does to its boys. Three paths: Blood, Root, Sky. He walked all three.
 
-On Marfeld they say hair remembers. What the beard measures is how long a boy was out there alone, which is why shaving it is not a haircut but the renunciation of a bloodline, and which is why fourteen months of paperwork was the cheaper option.
+He drew summer. Heat, insects that never let up, and blisters. The first thing he made out there was a knife barely worth the word, a sharpened stick jammed into split wood, and he kept his pockets full of dry kindling like it was money.
 
-**Disciplinary.** Two entries, both minor, both for the same category of thing, both closed without action. The category is not one this archive would have expected on the record of a senior engineer and we mention it only because the file is otherwise spotless.
+That is where he decided to be an engineer. Building the thing you need out of whatever is lying near you turns out to be a career.
 
-**Technical.** Certification across six systems. The reading of it is that he can build most things out of most things, which is a skill people learn in exactly one way.
+No man who finishes the trial may speak about it. He never has.
 
-The series ends here.
+**The beard.** It grew on him out there, and on Marfeld they say hair remembers. You may shape it, trim it, dye it. You do not shave, and shaving means renouncing your family. He spent fourteen months fighting Guard paperwork for the exemption rather than pick up a razor.
 
-*Cross-ref: The personnel series · Marfeld · The Marfeld coming-of-age trial · The Marfeld beard · Korno · Jimzon Cavaris*
+**The rest of him.** Business-minded in a way that surprises people. Face-blind. Hopeless with directions. Warmer toward non-humans than anyone else on his team, without making a thing of it.
+
+His grandfather's question was never what job do you want. It was what kind of person do you want to be, and Pav is the one who says it out loud when somebody needs to hear it.
+
+*Cross-ref: Marfeld · The Marfeld coming-of-age trial · The Marfeld beard · Korno · Jimzon Cavaris*

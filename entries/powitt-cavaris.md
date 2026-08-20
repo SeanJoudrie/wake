@@ -9,12 +9,10 @@ cross_refs: [wakeful-islands, korjin-cavaris, spara-cavaris, jimzon-cavaris]
 # POWITT CAVARIS
 `TESTIMONY`
 
-A headstone on a rock in the Wake field carries this name and an age of five years.
+Jimzon's older brother. He died at five.
 
-There is no birth record and no death record. There was no charter under which either could have been filed, so there is no office that failed and no clerk who was careless. The paperwork does not exist because the paperwork was never possible.
+There is a headstone on the colony that reads **POWITT CAVARIS, 5 Years Old**, and that is the whole of the record, because the fragment settlements had no charter under which a birth or a death could be filed.
 
-He is in this volume on the strength of a stone and one person who read it.
+His brother decided at eight that he would name his ship after him one day, and did not say so out loud for twenty years.
 
-Attributed to J.
-
-*Cross-ref: The Wakeful Islands · Korjin Cavaris · Spara Cavaris*
+*Cross-ref: The Wakeful Islands · Korjin Cavaris · Spara Cavaris · Jimzon Cavaris*

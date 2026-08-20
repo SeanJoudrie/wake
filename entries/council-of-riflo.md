@@ -11,9 +11,11 @@ cross_refs: [maspin, riflo, council-chamber-of-riflo, palace-of-riflo, the-maspi
 
 Governing council of the settled belt, Maspin. Composition is by seat rather than by election, and the Restoration has not established how a seat is filled.
 
-**Address.** Councillors are addressed as the Council. Names are not used and are not, so far as we can establish, recorded. Our informants were consistent that this is a rule of the body and not a courtesy.
+**Address.** Councillors are addressed as the Council and by nothing else. They do not give their names to outsiders and they do not appear to use them with each other in session. This is a rule of the body, not a courtesy, and no visitor has ever been given the reason for it.
 
-**Seats.** Number not published. One seat is held by a representative of the Trailblazers and has been since GC 4451. That representative is human.
+**Seats.** Nobody outside Maspin knows how many there are or how you get one. Seats are not elected in any sense a visitor would recognise, are not obviously inherited, and are not explained. What is known is that one of them belongs to the Trailblazers, has since GC 4451, and is held by a human, which suggests the body can add a seat when it decides to.
+
+This is a remote world that has had very few long-term visitors and no interest in being surveyed. Almost everything in this entry comes from people who were guests.
 
 **Proceedings.** Catalogued under the Council Chamber. Decision is expressed through the councillors' flames. Unanimity is described as their merging to a single white.
 

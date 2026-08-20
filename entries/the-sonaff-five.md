@@ -9,18 +9,14 @@ cross_refs: [moon-of-sonaff-incident, sonaff, quinn-domnall, cillus-vot-shayron-
 # THE SONAFF FIVE
 `RECOVERED`
 
-The five persons named on the assignment order to static security at a sealed installation, Sonaff.
+Five people sent to stand outside a sealed hangar on a frozen moon.
 
-The order is held. It lists five by service number and parent division. The divisions recorded are accounting, cyberbiological research, ministerial media, royal press attachment, and one entry that is illegible.
+Not one of them is infantry. There is an accountant, a cyberbiology scientist, a propagandist, a royal press attaché, and one more whose name did not survive on our copy of the order.
 
-Two of the five are catalogued separately in this volume. Of the remaining three:
+**Oren.** Cyberbiology. A researcher, sent to hold a perimeter in a blizzard.
+**Vick.** Ministerial media. A man whose job was making the Guard look good.
+**The fifth.** The oldest of them, by one account. We have not been able to recover a name.
 
-**Oren.** Cyberbiological research. Certification number legible, institution `[RECORD DAMAGED]`.
-**Vick.** Ministerial media. Nothing further recovered.
-**[Name not recovered].** Division illegible. The Restoration has been told by one informant that this was the oldest of the five. We have not been able to confirm it and we have not been able to establish a name.
+Two of the five have entries of their own in this volume. The other three are a division and a service number, which is not a life, and is what there is.
 
-None of the five held an infantry classification.
-
-*[Compiler's note: three of these people are a division and a service number. We are aware that this is not a life. It is what the order says, and the order is what survived.]*
-
-*Cross-ref: The Moon of Sonaff Incident · Sonaff · Quinn Domnall · Cillus Vot Shayron-Skoln*
+*Cross-ref: Sonaff · The Moon of Sonaff Incident · Quinn Domnall · Cillus Vot Shayron-Skoln*

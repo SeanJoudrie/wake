@@ -3,37 +3,28 @@ title: Jimzon Cavaris
 slug: jimzon-cavaris
 category: character
 tier: INTACT
-cross_refs: [the-personnel-series, guard-academy, wakeful-islands, wake, corefuel, korjin-cavaris, spara-cavaris, powitt-cavaris, the-guard, liles, kelsadria-vot-feentor-jayzin, pavlock, berji, yakib-yalitio, jax, modanick, crag, tiam]
+cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-cavaris, spara-cavaris, powitt-cavaris, the-guard, liles, kelsadria-vot-feentor-jayzin, pavlock, berji, yakib-yalitio, jax, modanick, crag, tiam, the-personnel-series]
 ---
 
 # JIMZON CAVARIS
 `INTACT`
 
-Spec Ops Staff Sergeant. Twenty-six or twenty-seven. In Guard custody since he was eight and in Guard employment since long before that was lawful.
+Twenty-six. Spec Ops Staff Sergeant, and the man the rest of Castle Team follows without anyone ever having decided that.
 
-**Born:** Modanick. Residence there: none recorded, at any point.
-**Raised:** an extraction settlement in the Wake debris field, to age eight
-**Taken up:** wardship, following the loss of the settlement. The incident reference is entered. It resolves to no file this archive holds `[FILING INCOMPLETE]`
-**Rank:** Spec Ops Staff Sergeant
-**Promotion:** to Captain, pending. Recorded as offered and not returned
+Short brown hair. Stubble he never quite gets on top of. He thinks he looks like nobody in particular, and he is wrong about how much that is true.
 
-**Identification and medical schedule.** Brown hair, worn short. Build unremarkable. Two entries under distinguishing marks:
+Two marks he cannot walk past a mirror without finding. His nose was broken in a fistfight that got away from everybody and set crooked, because nobody thought to have it fixed. There is a thin burn line across his left cheek where the hair does not grow, from too much to drink, a handful of fireworks and the certainty of being twenty and finished with the Academy. Nobody else notices either one.
 
-> *Nasal bridge, healed fracture, malunion. Not surgically corrected.*
-> *Left cheek, linear burn scar approx. 40mm, follicular loss.*
+His armour is black and deliberately unshined, with a blue visor. He paints it himself, by hand, every time.
 
-The first is a fistfight. The second is fireworks the night he passed out of the Academy. Neither is operationally significant and both are in the file forever.
+**Where he is from, and where he is from.** Born on Modanick and has never once set foot on it. What he knows about his own birthworld is a bedtime story his mother told him: always warm, always daytime, trees taller than houses. She was describing a place she had loved as a student to a boy sitting on a rock, and she made it better than it is.
 
-**Equipment issue.** Armour, personal, matt black, non-reflective. Visor, blue. The armour is recorded as owner-finished, which is a schedule entry meaning he paints it himself.
+He grew up on the Corefuel colony in the wreckage of Wake, where his father ran the station. The family was two months from moving to Creta.
 
-**Commendations.** Extensive. The list runs to a page and a half and we have not reproduced it here because it does not tell you anything the length of it does not already.
+**What he carries.** A grey stone he picked up on the colony road when he was eight. He has had it for twenty years and it is smooth because he rubs it. His mother's service pistol, cleaned since he was old enough to be shown how.
 
-**Leave.** A period of leave is entered near the end of the series. Purpose: not stated. Authorising officer: entered, and legible.
+**What he is like.** Impulsive to the point of recklessness, and funnier in private than anyone outside the team would believe. Table impressions. A napkin moustache. A microwave that went out of a window. He reads his own silence as steadiness and does not notice that everyone around him reads it as absence.
 
-There is no other leave in the file with the purpose field empty.
+He also uses *Crag* the way everyone he grew up with uses it, and thinks nothing about it at all.
 
-The series ends here.
-
-*[Compiler's note: the wardship register is one of the more complete series we hold. It is exact about the taking and silent about everything after it, and then this file is exact about everything after and silent about the taking. Between the two of them there is a boy on a rock and no account of what happened to him.]*
-
-*Cross-ref: The personnel series · The Guard Academy · The Wakeful Islands · Korjin Cavaris · Spara Cavaris · Powitt Cavaris · Liles · Modanick*
+*Cross-ref: The Wakeful Islands · Korjin Cavaris · Spara Cavaris · Powitt Cavaris · Liles · Modanick · "Crag"*

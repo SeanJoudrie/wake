@@ -30,6 +30,6 @@ The world now supplies more trained physicians to the member worlds than any oth
 
 **Defence.** None. Modanick has never had a military. Its accession instrument settles the personnel obligation in cash, one of four such instruments in the register: it pays 3.9 per cent of member revenue and sends nobody.
 
-**A note on the weather.** Guard tourism material issued between GC 4440 and GC 4455 describes Modanick as warm and bright the year round. The municipal weather returns for the same years describe something else. We hold the returns.
+**A note on the weather.** Guard tourism material issued between GC 4440 and GC 4455 describes Modanick as warm and bright the year round. Anybody who has actually wintered there describes something else entirely, at length, and with feeling.
 
 *Cross-ref: The Guard · Space vaccines · The Guard Academy · Moonball · Jimzon Avaris*

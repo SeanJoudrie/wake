@@ -15,6 +15,6 @@ Monver taxes it like anything else and enforces nothing, and the line you will h
 
 That is mostly true.
 
-The health returns record, every year, a minority for whom it stopped being recreation a long time ago. Nobody has proposed a statute. It is the one subject on that world where a direct question gets a change of topic.
+The health there is, every year, a minority for whom it stopped being recreation a long time ago. Nobody has proposed a statute. It is the one subject on that world where a direct question gets a change of topic.
 
 *Cross-ref: Monver · Greyleaf · Berji Kegeron*

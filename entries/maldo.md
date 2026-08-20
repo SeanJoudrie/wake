@@ -22,7 +22,7 @@ They did not build the capital on a beautiful world. They built it on a used-up 
 
 **The city.** Built in a documented order, and the building registers survive complete for all sixty-one years of it: capital, then parliament, then monuments, then embassies, then houses spreading outward from all four. 3,308 principal structures.
 
-**The catch.** All of it is Maldo steel, and there is no more Maldo steel. The ore body is worked out. Every repair to a Royal building anywhere is made in some other alloy, and the maintenance returns record the difference, structure by structure, as a falling percentage of original material.
+**The catch.** All of it is Maldo steel, and there is no more Maldo steel. The ore body is worked out. Every repair to a Royal building anywhere is made in some other alloy, and the maintenance you can walk a street and watch it happen, building by building, as less and less of what you are looking at is original.
 
 **Now.** Population has fallen in each of the last four decennial returns. Working-age people leave; pensioners arrive. The largest single category of registered business on the world is the sale of antiques and reproductions to visitors.
 

@@ -3,22 +3,24 @@ title: Hyperspace slipstream
 slug: hyperspace-slipstream
 category: technology
 tier: INTACT
-cross_refs: [corefuel, schedule-of-unreplaceable-classes, sun-worship, krostin-sector, j-lot, guardnet]
+cross_refs: [corefuel, schedule-of-unreplaceable-classes, sun-worship, krostin-sector, j-lot, guardnet, space-airbags, the-wipe]
 ---
 
 # HYPERSPACE SLIPSTREAM
 `INTACT`
 
-The principal means of interstellar travel. Not motion through space in the ordinary sense.
+You do not go to the place. The place is brought to you.
 
-**Principle.** The vessel does not traverse the distance. The space behind the vessel is drawn toward it. The standard illustration in the navigational primers is that one does not walk to the object; the object is brought.
+That is not a metaphor and it is how every navigational primer in the galaxy opens. A vessel under slipstream does not cross the distance; the space behind it is drawn toward it, and the ship arrives without ever having travelled. What the crew experience is the g-force slamming them into their seats, the stars outside stretching first to white streaks and then to a rush of blue, and then a lurch.
 
-**Aboard, it is just the hypercharge.** A gauge climbing toward a hundred while somebody shouts the number out loud, because on a small vessel the difference between seventy per cent and ninety-nine per cent is the difference between an argument and an escape.
+**Aboard, it is just the hypercharge.** A gauge climbing toward a hundred while somebody reads the number out loud, because on a small vessel the difference between seventy per cent and ninety-nine is the difference between an argument and an escape.
 
-**Drives.** Classes 1 to 7 are in service. Classes above 4 appear in the underwriters' schedule of unreplaceable classes and no facility for their manufacture is known to survive. Classes 1 to 4 are in production, at three facilities, at a combined annual output the returns record as insufficient to replace annual losses.
+**The drives.** Seven classes in service. Anything above class four is on the unreplaceable schedule, which means what exists is what exists and there is no facility left anywhere that knows how to build another. Classes one through four are still made, at three plants, at a rate that does not keep up with the ships being lost.
 
-**Lanes.** The pre-war lane archive was lost with everything else in GC 4401. The present lanes were re-surveyed by hand over approximately thirty years, at a cost in vessels and crews which the survey authority publishes and which the Restoration has verified against the loss returns.
+Which is the quiet fact underneath every schedule in this volume: the galaxy is getting slower, by a little, every year, and has been for decades.
 
-**Restricted volumes.** The navigational schedules carry standing advisories against transit of certain volumes. Reasons are given for most.
+**The lanes.** Every route on record died with everything else. The ones in use now were re-flown by hand over about thirty years by crews going out into unsurveyed dark to find out whether it worked. The survey authority publishes what that cost. It is a long document.
 
-*Cross-ref: Corefuel · The Schedule of unreplaceable classes · Sun worship · The Krostin Sector · J.LOT*
+**And some volumes you do not enter.** The schedules carry standing advisories against transit of certain regions. Reasons are given for most of them.
+
+*Cross-ref: Corefuel · The schedule of unreplaceable classes · The Krostin Sector*

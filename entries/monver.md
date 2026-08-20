@@ -26,7 +26,7 @@ Most of that service is a trade school with a rifle in it. The certificates issu
 
 **The permissiveness.** Redleaf is lawful here and taxed like anything else. The line, given to us more or less identically by nine people, is that men who fight hard should be allowed to relax hard, and that it helps with what fighting does to you. Mostly that is true.
 
-The health returns record, annually, a minority for whom it is not recreation any more. No local statute addresses them. No local politician has proposed one. It is the only subject on this world where a straight question gets a change of topic.
+The health there is, every year, a minority for whom it is not recreation any more. No local statute addresses them. No local politician has proposed one. It is the only subject on this world where a straight question gets a change of topic.
 
 **The Force.** Monver kept its Planetary Defence Force under the accession terms and did not dissolve it. Monveri units fought at [...] before the merger. `[RECORD DAMAGED]`
 

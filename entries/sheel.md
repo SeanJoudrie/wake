@@ -19,7 +19,7 @@ Grassland and vat towers, and the smell of the rendering yards, which the wind t
 
 **Output, GC 4461:** 40,116,200 tonnes carcass weight. 18,904,700 tonnes of rendered fertiliser.
 
-The second figure is the one that matters. Weton's soil runs on what comes out of these yards, and Weton's yields follow Sheel's rendering volume by about eighteen months. You can see it in the returns of both bodies, year against year, and it is stated in no contract between them.
+The second figure is the one that matters. Weton's soil runs on what comes out of these yards, and Weton's yields follow Sheel's rendering volume by about eighteen months. You can see it in the books of both worlds, year against year, and it is written into no contract between them.
 
 Ask on Sheel and they know. Ask three jumps away and the meat moon is the meat moon.
 

@@ -9,14 +9,14 @@ cross_refs: [polaris, polaris-system, royal-houses, kelton, weton, guard-credits
 # HOUSE POLARIS
 `INTACT`
 
-Royal house. Named for the star of the agricultural system. Holds the senior licensing interest in the Polaris harvest.
+The family that took a star's name, and now owns what grows under it.
 
-**Antiquity.** The house predates its own royalty by approximately a millennium. Its earliest instruments are commercial, and record a family taking the name of a star in a system it was then working. It has not held land in that system for a very long time.
+They were working that system a thousand years before they were royal. The oldest instruments are commercial and show a family adopting the name of the sun they happened to be under. They have not held land there in a very long time and they hold the licence on everything the system produces.
 
-**Interest.** The harvest licensing instruments name the house as beneficiary. Receipts are filed. Royalty income from the Polaris harvest, GC 4461: 411,880,600 credits.
+Royalty on the Polaris harvest last year: 411,880,600 credits. That is more than the entire assessed revenue of nine member worlds.
 
-**Standing.** Among the wealthiest houses on any measure this archive can apply. Its receipts are larger than the assessed revenue of nine member worlds.
+**The bit that bothers people.** The star, the system, the shared calendar across ten inhabited bodies, and the family collecting on all of it carry the same word. Nobody in the breadbasket can name the sun that feeds them without naming the house that owns the shelf it sits on.
 
-**Note.** The star, the system, the shared calendar of ten inhabited bodies, and the house all carry the same word. A resident of the system cannot name the sun without naming the licensee.
+Out on the moons the older common word for the sun is still in use in daily speech. It appears in no contract, no ledger and no filing, and three separate people told us the same thing about it: you do not use it in front of buyers.
 
 *Cross-ref: Polaris · The Polaris System · The Royal Houses · Kelton · Weton*

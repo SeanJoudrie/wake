@@ -3,26 +3,22 @@ title: The Guard Board of Directors
 slug: guard-board-of-directors
 category: institution
 tier: INTACT
-cross_refs: [the-guard, corefuel, the-guard-franchise, guard-credits, ministry-of-propaganda, johnny-plasma, board-operational-authorisations, liles, miss-liles]
+cross_refs: [the-guard, corefuel, the-guard-franchise, guard-credits, ministry-of-propaganda, johnny-plasma, liles, board-operational-authorisations, miss-liles]
 ---
 
 # THE GUARD BOARD OF DIRECTORS
 `INTACT`
 
-Governing body of the Guard. Seven members.
+Seven people run the galaxy. They elected each other, and any of them can be removed by the other six.
 
-**Constitution.** Members are elected by the Board. A member may be removed by resolution of the remaining six. There is no external appointment, no confirmation by any member world, no fixed term, and no appeal.
+That is the whole constitution and it has never been amended. No member world confirms them. No citizen votes on them. There is no term, no appeal, and nobody outside the room to appeal to.
 
-The instrument has not been amended since incorporation.
+**What they hold.** The money. Every exclusive licence the Guard owns, including Corefuel. Every senior appointment. Authorisation of any operation above a certain size. Standing orders. And the power to strike any law on any member world.
 
-**Powers, as filed.** Appropriation. Licensing, including the Corefuel extraction licence and every other exclusive licence held by the Guard. Appointment to all senior offices. Authorisation of operations above a stated scale. Amendment of standing orders. Strike-down of planetary law.
+**Who they are.** People with commercial interests, undeclared, because nothing requires them to declare and nothing requires Guard contracts to be advertised. One seat has always gone to a general, which the founding document does not require and which has happened every time anyway.
 
-**Composition.** Directorships are held by holders of commercial interests. One seat has historically been held by a serving or former general officer, the instrument requiring no such thing. The Restoration notes the practice and not a rule, there being no rule.
+**What the minutes look like.** In nineteen years, 1,411 resolutions. 1,388 of them carried without a division, which means nobody asked for a count. There is no way to record a dissent on the form and nobody has ever asked for one to be added.
 
-**Proceedings.** Minutes are filed. They are brief. Resolutions are recorded as carried or not carried, with the numbers. Dissents are not recorded and there is no provision for recording one. Of 1,411 resolutions minuted over nineteen years, 1,388 are recorded as carried without a division.
+Seven people who can each be fired by the other six will agree with each other about almost everything. Not because they are told to. Because none of them wants to be the one who objected.
 
-**Interests.** Directors' commercial interests are not required to be declared and are not declared. Guard contracting is not required to be advertised and is not advertised.
-
-*[Compiler's note: seven people, each of whom may be removed by the other six. We record this without further comment because we cannot think of one that improves it.]*
-
-*Cross-ref: The Guard · Corefuel · The Guard franchise · Guard credits · Board operational authorisations `[ENTRY NOT RECOVERED]`*
+*Cross-ref: The Guard · Corefuel · Liles · The Guard franchise · Board operational authorisations `[ENTRY NOT RECOVERED]`*

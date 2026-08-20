@@ -9,16 +9,16 @@ cross_refs: [the-wipe, guardnet, creta, accounting-division, the-personnel-serie
 # THE RESTORATION
 `INTACT`
 
-The compiling body of this volume. A civilian reclamation society. Not chartered by any authority and holding no powers.
+Us. The people who put this volume together.
 
-**Establishment.** GC 4443, by nineteen persons, at [...].
+A civilian society with no charter, no powers, and no authority to make anybody do anything. Founded in GC 4443 by nineteen people who thought somebody ought to be collecting what was left.
 
-**Personnel.** 411 registered volunteers across all worlds, of whom between 60 and 80 are active in any given year. Eleven paid staff.
+Four hundred and eleven registered volunteers, of whom perhaps sixty to eighty do anything in a given year. Eleven paid staff. Funded by subscriptions and two endowments.
 
-**Funding.** Subscription, and two endowments, one Cretan.
+**What we have.** 1,411,206 catalogued pages. 88,400 more transcribed off damaged media. 4,206 recorded testimonies. Three rooms.
 
-**Holdings, current:** 1,411,206 catalogued pages. 88,400 pages transcribed from damaged media. 4,206 recorded testimonies. Three rooms.
+**What we do not have.** Access. Between GC 4443 and now we have made 219 written applications to institutions holding material. We have had 61 replies. Nine of those granted access to anything.
 
-**Access.** Applications for access to institutional holdings are made in writing. Between GC 4443 and GC 4462 the society made 219 such applications and received 61 replies, of which 9 granted access in whole or in part.
+We are not historians and we do not issue findings. We print what we have, we mark how we came by it, and we say plainly when we are guessing.
 
-*Cross-ref: The Wipe · Guardnet · The accounting division*
+*Cross-ref: The Wipe · Guardnet · The accounting division · The personnel series*

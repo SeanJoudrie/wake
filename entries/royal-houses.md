@@ -3,26 +3,24 @@ title: The Royal Houses
 slug: royal-houses
 category: institution
 tier: INTACT
-cross_refs: [maldo, shayron, house-polaris, house-kafkee, high-council, tracineim, astonia, astonian-annexation, maldo-steel, the-great-war, queen-traceen, cillus-vot-shayron-skoln, kelsadria-vot-feentor-jayzin, king-matthew]
+cross_refs: [maldo, shayron, house-polaris, house-kafkee, high-council, tracineim, astonia, astonian-annexation, maldo-steel, the-great-war, king-matthew, cillus-vot-shayron-skoln, kelsadria-vot-feentor-jayzin]
 ---
 
 # THE ROYAL HOUSES
 `INTACT`
 
-The reigning order of the Royal systems. Two capitals: Maldo, administrative; Shayron, ceremonial. Neutral in the Great War.
+They started as metalworkers.
 
-**Origin.** The senior house began as a metalworking guild. The guild instruments survive: articles, apprenticeship indentures, oaths of secrecy on process, and schedules of charges. The progression from trade body to landed interest to sovereign house is documented at every stage and is a matter of commercial record rather than of legend.
+A guild with trade secrets got rich, and then powerful, and then crowned. There is no divine right anywhere in the story and no conquest either. The progression is in the commercial record at every step: articles, apprentice indentures, oaths of secrecy about process, schedules of charges. You can watch a trade body turn into a landed interest turn into a monarchy by reading its invoices.
 
-The vocabulary of the court retains it. Titles, ensigns, orders and the ceremonial of investiture use foundry terms, in several cases for objects and acts that have no metalworking function whatever.
+The court still speaks foundry. Titles, ensigns, the ceremonial of investiture, all of it is forge language, and a good deal of it is applied to objects and acts that have nothing to do with metal any more.
 
-**Naming.** Persons of royal descent are styled given name, the particle Vot, then house and line. Royal blood is widely distributed, thinly, across a large number of houses. It confers a seat, a maintenance, and standing.
+**Two capitals.** Maldo works. Shayron is where the crown lives and where the ceremonies happen. Parliament, ministries, embassies and the High Council are all on Maldo, on purpose, so the beautiful one never has to host the galaxy.
 
-**Government.** Parliament and ministries sit on Maldo. The crown sits on Shayron. The High Council sits on Maldo and is catalogued separately.
+**Names.** Given name, then *Vot*, then house and line. Royal blood is spread very thin across a very large number of houses, and it comes with a seat and a small maintenance and not much else. Half the galaxy can claim some.
 
-**The war.** The Royal systems did not enter it. Their own account is that this was prudence. Neighbouring worlds use other words. Neither account is a document, and the Restoration records the survival of the Royal fleet and archive intact as the only relevant fact it can establish.
+**The war.** They stayed out of it. Their account is prudence, the neighbours use other words, and neither is a document. What is certain is that the Royal fleet and the Royal archive both came through intact, which is why this volume knows more about a Royal childhood than about most worlds.
 
-**Military.** A large fleet of small hulls, the traditional basis of the houses' power. A competent defensive army trained for occupation and perimeter. Special forces are constituted for defence and possess no offensive infiltration establishment. The order of battle is published annually.
+**Money.** Taxes from their own systems, dues from protectorates, and royalties from arrangements with third parties. The largest of those is Astonia, and it pays them by the head.
 
-**Revenue.** Assessed taxation from the Royal systems, dues from protectorates, and royalty income from instruments with third parties, of which the Astonian instrument is the largest. Receipts are filed and are precise. Disbursements to protectorates are also filed.
-
-*Cross-ref: Maldo · Shayron · House Polaris · The High Council · Tracineim · Astonia · Queen Traceen `[ENTRY NOT RECOVERED]`*
+*Cross-ref: Maldo · Shayron · House Polaris · The High Council · Tracineim · Astonia · King Matthew*

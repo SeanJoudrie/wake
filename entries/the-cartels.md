@@ -9,16 +9,18 @@ cross_refs: [astonia, astonian-annexation, vitula, species-of-unresolved-classif
 # THE CARTELS
 `CONTESTED`
 
-The organised criminal economy of the post-war period. Not a single body. The term is used in Guard material as though it were.
+Not one organisation. Between nineteen and thirty of any size, depending on what you count, operating wherever the Guard's reach runs out.
 
-**Character.** Between nine and thirty organisations of significance, by the Restoration's count from prosecution returns, operating where enforcement is thin. Business recorded in the returns: substances, weapons, transit, protection, labour supply, and licensing fraud.
+Substances, weapons, transit, protection, labour supply, licensing fraud. The usual list, at scale.
 
-**Method on Astonia.** The best-documented case, because it ended in annexation and the papers were produced. Entry through nightlife and property; then lending; then the purchase of municipal and finally territorial office. No armed seizure appears in the record at any stage. The transactions are documented because they were transactions.
+**How they took Astonia**, which is the case everyone knows because it ended in an annexation and the papers came out. They came in through the nightlife, then the property, then the lending, and then they bought the municipal offices and eventually the territorial government.
 
-Conduct on Astonia through this period is recorded as orderly. Conduct attributed to the same organisations elsewhere is not. The Restoration notes the difference and offers no account of it beyond the observation that Astonia was where the revenue was.
+Not one shot was fired at any stage. It was all transactions, which is why there is a paper trail.
 
-**Labour.** Vitula crews appear extensively in cartel employment records, engaged on written terms at stated rates.
+And they behaved themselves at home. Astonia under the cartels was orderly, because Astonia was where the money came from. What the same organisations did elsewhere was not orderly at all.
 
-**The contested point.** Guard material describes the cartels as an external threat to the member worlds. The prosecution returns record that the substances, weapons and transit involved were in the majority of prosecuted instances of Guard manufacture or Guard licence, having passed out of Guard holding at some prior point. The returns do not record how.
+**The contested part.** Guard material presents the cartels as an outside threat to the member worlds. The prosecution returns show that most of the substances, weapons and transit involved were Guard-made or Guard-licensed at some earlier point, and had left Guard hands somewhere along the way.
 
-*Cross-ref: Astonia · The Astonian Annexation · The Vitula · Tongishaw · Galactic Standard law*
+The returns do not record how.
+
+*Cross-ref: Astonia · The Astonian Annexation · The Vitula · Nardow · Tongishaw*

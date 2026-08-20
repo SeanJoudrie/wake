@@ -3,24 +3,22 @@ title: The Ministry of Propaganda
 slug: ministry-of-propaganda
 category: institution
 tier: INTACT
-cross_refs: [the-guard, guardnet, simulationism, tracineim, foundation-day, the-restoration]
+cross_refs: [the-guard, guardnet, simulationism, tracineim, foundation-day, the-restoration, cillus-vot-shayron-skoln]
 ---
 
 # THE MINISTRY OF PROPAGANDA
 `INTACT`
 
-Guard division responsible for public information, morale material, and broadcast.
+That is its actual name, in its own paperwork, since incorporation. The Guard has never seen anything to apologise for in the word.
 
-**Name.** The division is so titled in its own establishment returns and has been since incorporation. The Restoration notes that the word carries no pejorative sense in Guard usage and is not treated as requiring one.
+It makes the educational material for member worlds, the morale material for the service, and the coverage of ceremonies, and then it puts all of it out.
 
-**Function.** Production of educational material for member worlds, morale material for the service, ceremonial coverage, and the broadcast of both.
+**The catch.** It does not own the transmitters.
 
-**Broadcast access.** The interstellar relay network is not owned by the Guard. It was built by religious organisations to carry sermons, was defended by them through the collapse of central authority, and remains in their hands. The Ministry purchases airtime.
+The interstellar relay network was built by religious organisations to carry sermons. When central government collapsed they defended those towers, hard, and they still own every one of them. So the most powerful information organ in the galaxy buys airtime, by the hour, from eleven separate proprietors, at rates that vary by proprietor and by what is in the broadcast.
 
-The purchase agreements are filed. Airtime is bought by the hour from eleven separate proprietors, at rates that vary by proprietor and by content. Two of the eleven refuse categories of material outright, and the refusals are recorded in the correspondence.
+Two of the eleven refuse whole categories of material outright, and the refusals are in the correspondence.
 
-Ministry expenditure on airtime, GC 4461: 61,440,800 credits, being the division's largest single line.
-
-**Personnel.** Ministerial media personnel hold service contracts, service numbers, and service liabilities on the same terms as any other division, and are subject to assignment on the same terms.
+Airtime is the Ministry's single largest expense: 61,440,800 credits last year.
 
 *Cross-ref: The Guard · Guardnet · Foundation Day · The Restoration*

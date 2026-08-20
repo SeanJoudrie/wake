@@ -9,16 +9,14 @@ cross_refs: [wake, katanzaria, pre-human-inhabitants-of-wake, crag, humanist-sup
 # HUMANS
 `CONTESTED`
 
-The most numerous population in the galaxy. Approximately eighty per cent of all recorded persons. Present on every inhabited world in this archive except eleven.
+Four out of every five people alive. Present on every inhabited world in this volume except eleven.
 
-**Origin.** Held by general account to originate on Wake. The claim rests on pre-war genetic sampling, of which this archive holds summaries and not methods. The sampling is not reproducible, the technique having been lost, and at least one populous world rejects the finding outright. The entry is filed as contested on that basis and not because the Restoration considers the matter open.
+**Where from.** Wake, by general account, on the strength of pre-war genetic sampling that we have the conclusions of and not the method. The technique is lost, so the finding cannot be checked, and at least one very populous world rejects it outright. That is why this entry is filed as contested and not because the question is genuinely open.
 
-**Physical variation.** Wide, continuous, and of no recorded social consequence anywhere in our holdings. Colouring, stature and feature vary across and within every human population surveyed. No world in this archive has been found to organise status by it, and no statute in this archive refers to it.
+**Colour does not matter here.** Human populations vary continuously in colouring, height and feature, everywhere, and no world in this archive organises status around it. No statute anywhere in our holdings mentions it. Every planet is mixed and nobody thinks about it.
 
-Human populations organise instead by world, by lineage, by profession and by service. Those distinctions are enforced, sometimes at law.
+What humans sort each other by instead is world, bloodline, profession and service, and those they enforce, sometimes at law. A Modanicker will not let you hold municipal office. Katanzaria will not give you standing without lineage. Marfeld will not call you a man until you have walked into the country alone.
 
-**Distribution and occupation.** Human populations appear in every economic category recorded, in proportions that vary by world and not by anything else. Farmers on Weton, clerks on Kelton, physicians on Modanick, bankers on Creta, soldiers on Marfeld, scholars on Shayron, salvagers on Sansvor.
+**The word.** *Crag*, for anyone who is not human, is a human coinage in general human use, and it is universal for exactly the reason the first line of this entry gives. When four fifths of everyone is one thing, that thing stops noticing itself.
 
-**Note on language.** The pejorative catalogued in this volume under `crag` is a human coinage, in general human use, applied to every non-human population without distinction. Its universality is a function of the demographic figure above. It is catalogued separately.
-
-*Cross-ref: Wake · Katanzaria · Pre-human inhabitants of Wake · "Crag" · Humanist supremacy · Galactic Standard · The pre-war genetic survey `[ENTRY NOT RECOVERED]`*
+*Cross-ref: Wake · Katanzaria · Pre-human inhabitants of Wake · "Crag" · Humanist supremacy*

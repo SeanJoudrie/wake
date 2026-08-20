@@ -3,22 +3,20 @@ title: The High Council
 slug: high-council
 category: institution
 tier: INTACT
-cross_refs: [maldo, royal-houses, shayron, high-castle]
+cross_refs: [maldo, royal-houses, shayron, high-castle, king-matthew]
 ---
 
 # THE HIGH COUNCIL
 `INTACT`
 
-Standing council of the Royal systems. Sits on Maldo. Composed of the senior ministers, the service chiefs, and the heads of the principal houses.
+The senior ministers, the service chiefs, and the heads of the great houses, sitting on Maldo. Ordinarily they advise. They do not legislate and they do not command.
 
-**Ordinary function.** Advisory to the crown and to parliament. It does not legislate and does not command.
+**Except.** The High Emergency Council Act says that if the sovereign proclaims an emergency, everything the crown and parliament hold passes to this Council.
 
-**The Emergency Act.** The High Emergency Council Act provides that on the sovereign's proclamation of an emergency, the powers of the crown and of parliament vest in the High Council. The Act specifies the proclamation, the vesting, and the composition of the Council at the moment of vesting.
+The Act is precise about the proclamation and precise about the transfer. It says nothing about how long it lasts, how it ends, who reviews it, or what would revoke it. Parliament on Maldo has noticed this out loud four times, most recently in GC 4438, and amended it none.
 
-It does not specify a term. It does not specify a mechanism of return. It does not provide for review, for expiry, or for revocation. This has been remarked on in the Maldo parliamentary record on four occasions, most recently GC 4438, on each occasion without amendment following.
+**And the geography.** The Act moves power to a body sitting on Maldo. The sovereign proclaims from Shayron. Those are not in the same system.
 
-**Location.** The Act vests power in a body sitting on Maldo. The sovereign proclaims from Shayron. The two are not in the same system.
+It has never been invoked.
 
-**Invocation.** The Act has never been invoked.
-
-*Cross-ref: Maldo · The Royal Houses · Shayron · The High Castle*
+*Cross-ref: Maldo · The Royal Houses · Shayron · King Matthew*

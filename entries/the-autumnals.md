@@ -11,18 +11,20 @@ cross_refs: [the-great-war, cord, destruction-of-wake, sansvor, maldo, the-wipe,
 
 `[ENTRY NOT RECOVERED]`
 
-A belligerent party to the Great War. The name is attested widely in speech, on every world the Restoration has visited, in the mouths of people who were not born when hostilities ended. It is attested nowhere in surviving documentation produced by the party itself.
+One side of the war that ended the old world, and we cannot tell you a single thing they believed.
 
-**No primary Autumnal record has been recovered in any form.** No charter, no proclamation, no order of battle, no requisition, no letter, no ledger. The Restoration has issued three separate appeals for material and received none.
+Everyone knows the name. It is spoken on every world we have visited, mostly as an accusation, by people who were not born when the fighting stopped. Say it in a bar on the rim and somebody will tell you they started it and we are the ones cleaning up the mess.
 
-What physically survives, in full:
+**Nothing they wrote survives.** No charter, no proclamation, no orders, no requisitions, no letters, no ledgers. Not one page produced by that party is held anywhere we have been able to reach. We have appealed publicly three times and received nothing.
 
-- One hull section, unpowered, held in the salvage yards at [...]
-- One banner, museum holding, Sansvor. Catalogued as "captured colours." Provenance `[FILING INCOMPLETE]`
-- One uniform tunic, private collection, Maldo. Two sleeves, no insignia, no maker's mark
+**What physically exists, in full:**
 
-All three are dark, in shades running from orange to brown. We are unable to state whether this was their colour or the result of sixty years.
+One hull section, unpowered, in a salvage yard.
+One banner in a museum on Sansvor, catalogued as captured colours, with no provenance attached.
+One uniform tunic in a private collection on Maldo. Two sleeves, no insignia, no maker's mark.
 
-Guard-held summaries describe the party's aims. Those summaries were written after the fact by the surviving side and are catalogued separately under `cord` and `the-great-war`. We do not reproduce them here, because they are not Autumnal sources and printing them under this heading would suggest that they are.
+All three are dark, in shades between orange and brown. Nobody can tell us whether that was their colour or whether that is what sixty years does to cloth.
 
-*Cross-ref: The Great War · C.O.R.D. · The Destruction of Wake · Sansvor · The Autumnal charter `[ENTRY NOT RECOVERED]`*
+**A name.** They chose it themselves, which is unusual. The other side used an acronym. A civilisation that names itself after the end of a season has already decided something about where it thinks it is.
+
+*Cross-ref: The Great War · C.O.R.D. · The Destruction of Wake · The Autumnal charter `[ENTRY NOT RECOVERED]`*

@@ -3,24 +3,22 @@ title: Species of unresolved classification
 slug: species-of-unresolved-classification
 category: people
 tier: CONTESTED
-cross_refs: [the-cartels, crag, galactic-standard-law, humans]
+cross_refs: [the-cartels, crag, galactic-standard-law, humans, nardow]
 ---
 
 # SPECIES OF UNRESOLVED CLASSIFICATION
 `CONTESTED`
 
-A population, or a group of populations, of the outer trade worlds, whose classification under Galactic Standard is disputed and has been referred three times without resolution.
+A family of peoples on the outer trade worlds where nobody can agree how many peoples it is.
 
-**The dispute.** Two surviving surveys treat the same lineages differently. One classes them as a single people of extreme morphological variation. The other classes them as between four and nine distinct peoples with a shared range.
+**The problem.** One survey says a single species with extraordinary variation in body plan. Another says between four and nine separate species sharing a range.
 
-The evidence for the first is documentary and strong. Kinship, inheritance and marriage records from three worlds establish direct parentage between individuals of grossly different body plan: in the best-attested case, a heavy-bodied ambulatory parent of one form and a hard-shelled offspring of another, with the parentage recorded contemporaneously by a port registrar with no interest in the question.
+The evidence for one species is uncomfortable and strong. Marriage and inheritance records from three worlds show direct parentage between individuals who look nothing alike: in the best case a heavy grey ambulatory parent on several limbs and a hard-shelled offspring with a crab's mouth, recorded at the time by a port registrar who had no stake in the argument.
 
-**Development.** The surviving material records an extended pre-conscious period in the young of at least some lineages, during which the individual is physically capable, responsive to stimulus, and without recorded interiority. Duration is given variously as several years to upwards of a decade. It is described in the literature as a developmental stage and not as an impairment.
+**Growing up.** The young of at least some of these lineages go through a long stretch where the body is awake and capable and responsive and there is nobody home behind it. It runs from a few years to more than a decade. It is not an illness and it is not a disability. It is a stage, and it ends.
 
-**Economy.** Trade, shipping, moneylending, protection, and the licit and illicit halves of the same business, principally on the outer worlds where Guard writ is thin. Also, in the same records, harbour pilots, chandlers and two registered physicians.
+**Why it matters legally.** Galactic Standard law assigns rights by species and requires that a species be named. Where nobody can name it, the code has no answer, and the practical outcome in the port registers is that these people hold whatever status the clerk on duty wrote down.
 
-**Note on classification.** Galactic Standard law assigns rights by species and requires that a species be identified. Where the identification is unresolved, the law provides no answer, and the practical effect recorded in the port registers is that these persons hold whichever status the registrar of the day assigned.
+*[Compiler's note: the word catalogued elsewhere in this volume as `crag` covers every population in this entry with one syllable. People who use it in our hearing can usually tell nine kinds of grain apart by sight.]*
 
-*[Compiler's note: the term catalogued elsewhere in this volume as `crag` flattens every population in this entry into one word. Persons who use it in our hearing are frequently able to distinguish nine kinds of grain.]*
-
-*Cross-ref: The cartels · "Crag" · Galactic Standard law · Humans*
+*Cross-ref: The cartels · Nardow · "Crag" · Galactic Standard law*

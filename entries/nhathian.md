@@ -3,54 +3,44 @@ title: Nhathian
 slug: nhathian
 category: language
 tier: RECOVERED
-cross_refs: [nhath, nhath-world, galactic-standard, translator-chips, crag, the-guard]
+cross_refs: [nhath, nhath-world, galactic-standard, translator-chips, crag, the-guard, the-nhath-leader]
 ---
 
 # NHATHIAN
 `RECOVERED`
 
-The language of the Nhath. Recovered from a partial survey, from two word-lists, and from testimony. No native text has been recovered. `[NO SURVIVING PRIMARY SOURCE]`
+The Nhath language, pieced together from a partial survey, two word lists, and people who remembered some of it. No native text has ever been recovered.
 
-The material below is the whole of what the Restoration can establish. It is printed at length because it is the only substantial evidence about this people that was not produced by a party contracting with them.
+We print it at length because it is the only substantial evidence about this people that was not produced by somebody who was paying them.
 
-**Structure.** Verbs conjugate by subject. Continuous aspect is marked by a prefix, past perfect by another. Word order is not fixed. Two registers of the second person are distinguished by the status of the addressee, and our informants state that the wrong choice carries consequences the language itself does not soften.
+**How it sounds.** Dry and deliberate, one syllable placed after another, with the strangeness carried in the vowels rather than in clusters. Consonants bite, vowels run long.
 
-**Person.** The first person plural is *nhath*. It is also the people's name for themselves. Every other population addresses them by their word for *us*.
+**Us and everyone else.** Their word for themselves is their word for *we*. Every other people in the galaxy calls them by it, which means the entire galaxy addresses them, without noticing, as *us*.
 
-There is one third-person form for all persons outside the people, *krayd*, which serves equally for *they*, *other species*, and *enemy*. The language provides no neutral term for a stranger.
+For everybody outside there is one word, *krayd*. It does duty for *they*, for *other species*, and for *enemy*. There is nothing neutral in the language for a stranger.
 
-**Numerals.** Base eight. The units are named for the fingers, of which the Nhath have four to a hand. Counting proceeds by prefix to 64 and by compound prefix beyond 136. The system is regular and extends without limit.
+**Counting.** Base eight, named after the fingers, because a Nhath hand has four. It goes all the way down: tools cut for that grip, eight-sided rooms, eight-hour periods, formations of eight.
 
-Downstream effects are visible in the surviving material culture: tools cut for a four-finger grip, eight-sided building, periods of eight hours, and formations of eight.
+**Colour.** There are no abstract colour words at all. Every one is built off a thing. Red is blood-colour, white is clean-colour, black is night-colour, silver is weapon-colour. Two of them have no equivalent anywhere else: one means the colouring of a healthy prey animal, and one means the colour enemies bleed, which changes depending on who you are fighting.
 
-**Colour.** There are no abstract colour words. Every colour is derived from a source noun by a prefix. Red is blood-colour, white is clean-colour, black is night-colour, blue is water-colour, yellow is sun-colour, green is alive-colour, grey is dirty-colour, silver is weapon-colour. Intensity is a further prefix.
+**Opposites are the same word backwards.** This is the part that matters.
 
-Two derived terms have no equivalent elsewhere in this archive. One denotes the natural colouring of a healthy prey animal. The other denotes the colour that enemies bleed, and is therefore a colour word whose referent changes depending on whom the speaker is fighting.
-
-**Paired opposites.** The most striking feature of the language, and the one the Restoration considers dispositive as to the character of the people who speak it. Opposed concepts are formed as sound-mirrors of one another.
-
-| Pair | Words | Relation |
+| meaning | word | and its opposite |
 |---|---|---|
-| truth and lie | *ver* and *rev* | exact reversal |
-| trust and suspicion | *falo* and *olaf* | exact reversal |
-| respect and contempt | *keen* and *neek* | exact reversal |
-| memory and forgetting | *kan* and *naka* | reversal with vowel change |
-| honour and shame | *kargo* and *kaffe* | shared root, consonant change |
-| many and few | *aka* and *oko* | vowel change |
-| clean and dirty | *tipsta* and *kipsta* | consonant change |
+| truth / lie | *ver* | *rev* |
+| trust / suspicion | *falo* | *olaf* |
+| respect / contempt | *keen* | *neek* |
+| memory / forgetting | *kan* | *naka* |
+| honour / shame | *kargo* | *kaffe* |
 
-A lie in this language is not the absence of truth. It is truth pronounced backwards, and a speaker hearing both in one sentence hears a relation that cannot be carried into Galactic Standard.
+A lie is not the absence of truth in this language. It is truth pronounced backwards. Hearing both in one sentence is a joke no translation can carry.
 
-**Names.** Three elements. A given name describing a physical trait, compounded with a body part, and not inherited. A surname of spiritual or clan reference, inherited unchanged. And a lineage number, counted in base eight, incremented each generation.
+**Names.** Three parts. A given name describing something physical about you, compounded with a body part, not inherited. A family name, inherited unchanged. And a generation number, counted in eights, going up each time.
 
-Higher lineage numbers command greater standing. New clans may be founded at any time and begin at one. A formal short form fuses the given name; an intimate form shortens it further.
+Higher numbers command more respect. Recovered examples run into three figures.
 
-Recovered examples run into three figures, which is to say that the surviving Nhath genealogical record is longer and more complete than that of most human worlds in this archive.
+**One word with an origin.** *Bezoo*, weapon, is the sound a plasma discharge makes. Every Nhath grows up hearing it, and it sits in the basic vocabulary next to the words for water and food.
 
-**Sound.** Dry and deliberate. Diphthongs carry the character of it. Consonant clusters are simple. Our informants describe the delivery as slow and each syllable as separately placed.
+*[Compiler's note: the contracts call these people raiders with no political organisation. We have set the contracts and the grammar side by side. We are not going to say the rest of it.]*
 
-**Onomatopoeia.** The word for weapon, *bezoo*, is the sound of a plasma discharge. It sits in the basic vocabulary at the level of the words for water and food.
-
-*[Compiler's note: the contracting files describe these people as raiders without political organisation. We have set the files and the grammar side by side and we invite the reader to do the same. We do not draw the conclusion here.]*
-
-*Cross-ref: The Nhath · The Nhath homeworld · Galactic Standard · Translator chips*
+*Cross-ref: The Nhath · Nhathar · Translator chips · Galactic Standard*

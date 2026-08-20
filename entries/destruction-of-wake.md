@@ -9,16 +9,16 @@ cross_refs: [wake, the-autumnals, the-great-war, corefuel, refugee-displacement,
 # THE DESTRUCTION OF WAKE
 `CONTESTED`
 
-Loss of the planet Wake during the Great War. The single most widely attested event in the surviving record and the one on which the record least agrees.
+The most talked-about event in living memory, and the one nobody can agree on.
 
-**The Guard account.** Filed as settled history in all Guard educational and ministerial material. A single ordnance deployment by Autumnal forces, GC 4394. Duration given as under one hour. Responsibility stated without qualification. The account cites no source and names no unit.
+**What the Guard says.** One ordnance deployment, Autumnal forces, GC 4394. Over in under an hour. Responsibility stated flatly, with no source cited and no unit named. It appears as settled fact in every piece of Guard educational material.
 
-**The testimony.** Collected by this archive across eleven settlements on six worlds, from thirty-eight informants, all of whom were children at the time or are relating a parent's account. Every one of them describes a process rather than an event. Reported durations range from two days to nine. Six informants describe the sky changing colour before anything was heard. Four describe evacuation orders. One describes evacuation orders being countermanded.
+**What the people say.** We collected thirty-eight accounts across eleven settlements and six worlds, all of them from people who were children then or repeating a parent. Every single one describes something that took days. Two to nine of them. Six say the sky changed colour before anything was heard. Four describe evacuation orders. One describes those orders being cancelled.
 
-The accounts cannot both be correct.
+An hour and nine days are not two versions of one event.
 
-The Restoration notes, without drawing a conclusion from it, that the Guard account was published by the party that subsequently received the exclusive extraction licence for the remains, and that no Autumnal source exists to answer it.
+We note, and draw nothing from it, that the account was published by the party that later received the exclusive licence to mine the remains, and that there is nobody left on the other side to answer it.
 
-**Casualties.** Not established. The lower estimate in circulation is 900 million. The upper is 4 billion. Neither is supported by a document. Both are supported by people.
+**How many died.** Between 900 million and 4 billion. Neither number rests on a document. Both rest on people.
 
-*Cross-ref: Wake · The Autumnals · The Great War · Corefuel · The Refugee Displacement · The Wake census `[ENTRY NOT RECOVERED]`*
+*Cross-ref: Wake · The Autumnals · The Great War · Corefuel · The Wake census `[ENTRY NOT RECOVERED]`*

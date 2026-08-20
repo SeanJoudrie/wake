@@ -3,7 +3,7 @@ title: Jimzon Cavaris
 slug: jimzon-cavaris
 category: character
 tier: INTACT
-cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-cavaris, spara-cavaris, powitt-cavaris, the-guard, liles, kelsadria-vot-feentor-jayzin, pavlock, berji, yakib-yalitio, jax, modanick, crag, tiam, the-personnel-series]
+cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-cavaris, spara-cavaris, powitt-cavaris, the-guard, liles-ninzin, kelsadria-vot-feentor-jayzin, pavlock-jattern, berji-keggit, yakib-yalitio, jax-sheel, modanick, crag, tiam-tinoppel, the-personnel-series]
 ---
 
 # JIMZON CAVARIS
@@ -36,4 +36,4 @@ He is casually bigoted about non-humans in the ordinary, unexamined way of someb
 
 He also uses *Crag* the way everyone he grew up with uses it, and thinks nothing about it at all.
 
-*Cross-ref: The Wakeful Islands · Korjin Cavaris · Spara Cavaris · Powitt Cavaris · Liles · Modanick · "Crag"*
+*Cross-ref: The Wakeful Islands · Korjin Cavaris · Spara Cavaris · Powitt Cavaris · Liles Ninzin · Modanick · "Crag"*

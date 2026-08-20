@@ -3,7 +3,7 @@ title: The Marfeld coming-of-age trial
 slug: marfeld-coming-of-age-trial
 category: practice
 tier: TESTIMONY
-cross_refs: [marfeld, path-of-blood, path-of-root, path-of-sky, marfeld-beard, megafauna-of-marfeld, gift-of-memory, pavlock]
+cross_refs: [marfeld, path-of-blood, path-of-root, path-of-sky, marfeld-beard, megafauna-of-marfeld, gift-of-memory, pavlock-jattern]
 ---
 
 # THE MARFELD COMING-OF-AGE TRIAL
@@ -23,4 +23,4 @@ We asked forty-one Marfeld men about it. All forty-one declined. Two of them apo
 
 The original version killed boys. You do not talk about it because some of the ones who walked out with you did not walk back, and the ones who did came home carrying something they had no words for. The silence started as grief and hardened into a rule.
 
-*Cross-ref: Marfeld · The Path of Blood · The Path of Root · The Path of Sky · The Marfeld beard · Pavlock*
+*Cross-ref: Marfeld · The Path of Blood · The Path of Root · The Path of Sky · The Marfeld beard · Pavlock Jattern*

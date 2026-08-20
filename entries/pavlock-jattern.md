@@ -1,12 +1,12 @@
 ---
-title: Pavlock
-slug: pavlock
+title: Pavlock Jattern
+slug: pavlock-jattern
 category: character
 tier: INTACT
-cross_refs: [marfeld, marfeld-coming-of-age-trial, marfeld-beard, the-guard, korno, jimzon-cavaris, berji, path-of-blood, path-of-root, path-of-sky, ranzi, maspin-children]
+cross_refs: [marfeld, marfeld-coming-of-age-trial, marfeld-beard, the-guard, korno, jimzon-cavaris, berji-keggit, path-of-blood, path-of-root, path-of-sky, ranzi, maspin-children]
 ---
 
-# PAVLOCK
+# PAVLOCK JATTERN
 `INTACT`
 
 Castle Team's engineer, and the reason the room is bearable after a bad day.

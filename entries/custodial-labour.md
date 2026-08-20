@@ -3,7 +3,7 @@ title: Custodial labour
 slug: custodial-labour
 category: practice
 tier: INTACT
-cross_refs: [galactic-standard-law, targath, targath-magnetic-web, indentured-servitude, slave-free-territory, the-guard, jax, crag]
+cross_refs: [galactic-standard-law, targath, targath-magnetic-web, indentured-servitude, slave-free-territory, the-guard, jax-sheel, crag]
 ---
 
 # CUSTODIAL LABOUR
@@ -19,4 +19,4 @@ A sentence can be extended by administrative decision on grounds set out in a sc
 
 **Why it is defended.** Guard material puts it in terms of the bigger picture: the work needs doing, the sentences exist anyway, and member states that fall behind on their obligations can be reminded that both of those things are true.
 
-*Cross-ref: Galactic Standard law · The Targath · Indentured servitude · Jax*
+*Cross-ref: Galactic Standard law · The Targath · Indentured servitude · Jax Sheel*

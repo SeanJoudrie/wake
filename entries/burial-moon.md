@@ -3,7 +3,7 @@ title: The Burial Moon
 slug: burial-moon
 category: world
 tier: INTACT
-cross_refs: [guard-burial-rites, enlistment-rites-form, burial-moon-chapels, kitalia, the-guard, academy-memorial-walls, tiam]
+cross_refs: [guard-burial-rites, enlistment-rites-form, burial-moon-chapels, kitalia, the-guard, academy-memorial-walls, tiam-tinoppel]
 ---
 
 # THE BURIAL MOON
@@ -27,4 +27,4 @@ Which means that somewhere there is a form where an eighteen-year-old ticked a b
 
 It has been used. The return for its use records attendance as a figure and the number of people commemorated as a range.
 
-*Cross-ref: Guard burial rites · The enlistment rites form · The Burial Moon chapels · The Academy memorial walls · Kitalia · Tiam*
+*Cross-ref: Guard burial rites · The enlistment rites form · The Burial Moon chapels · The Academy memorial walls · Kitalia · Tiam Tinoppel*

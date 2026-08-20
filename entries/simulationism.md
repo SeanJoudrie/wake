@@ -3,7 +3,7 @@ title: Simulationism
 slug: simulationism
 category: practice
 tier: INTACT
-cross_refs: [saigo, guardnet, the-wipe, datapads, ministry-of-propaganda, michael]
+cross_refs: [saigo, guardnet, the-wipe, datapads, ministry-of-propaganda, michael-vousin]
 ---
 
 # SIMULATIONISM

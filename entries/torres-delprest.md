@@ -1,12 +1,12 @@
 ---
-title: Torres
-slug: torres
+title: Torres Delprest
+slug: torres-delprest
 category: character
 tier: INTACT
-cross_refs: [nova-squadron, the-guard, kelsadria-vot-feentor-jayzin, brynor]
+cross_refs: [nova-squadron, the-guard, kelsadria-vot-feentor-jayzin, brynor-kolt]
 ---
 
-# TORRES
+# TORRES DELPREST
 `INTACT`
 
 Forty-five, and the oldest pilot on Nova Squadron by more than a decade.
@@ -21,4 +21,4 @@ He is also, when it comes to it, gently hurt to find something out by watching r
 
 
 
-*Cross-ref: Nova Squadron · Kelsadria Vot Feentor-Jayzin · Brynor*
+*Cross-ref: Nova Squadron · Kelsadria Vot Feentor-Jayzin · Brynor Kolt*

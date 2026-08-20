@@ -1,12 +1,12 @@
 ---
-title: Michael
-slug: michael
+title: Michael Vousin
+slug: michael-vousin
 category: character
 tier: RECOVERED
 cross_refs: [trailblazers, saigo, guardnet, simulationism, trailblazer-logistics]
 ---
 
-# MICHAEL
+# MICHAEL VOUSIN
 `RECOVERED`
 
 A Trailblazer, and formerly a student at Saigo, which is the best engineering school in the galaxy and the place trying to rebuild computers from nothing.

@@ -1,12 +1,12 @@
 ---
-title: Tiam
-slug: tiam
+title: Tiam Tinoppel
+slug: tiam-tinoppel
 category: character
 tier: INTACT
 cross_refs: [resmole, academy-memorial-walls, guard-academy, burial-moon, greyleaf, jimzon-cavaris]
 ---
 
-# TIAM
+# TIAM TINOPPEL
 `INTACT`
 
 Sixteen. Killed on Resmole.

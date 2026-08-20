@@ -1,12 +1,12 @@
 ---
-title: Berji
-slug: berji
+title: Berji Keggit
+slug: berji-keggit
 category: character
 tier: INTACT
-cross_refs: [monver, planetary-defense-forces, the-guard, monver-refusal, redleaf, jimzon-cavaris, pavlock, captain-medarco]
+cross_refs: [monver, planetary-defense-forces, the-guard, monver-refusal, redleaf, jimzon-cavaris, pavlock-jattern, captain-medarco]
 ---
 
-# BERJI
+# BERJI KEGGIT
 *also: Kegan*
 `INTACT`
 

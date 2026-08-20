@@ -3,7 +3,7 @@ title: The colony recovery detail
 slug: the-colony-recovery-detail
 category: character
 tier: RECOVERED
-cross_refs: [wakeful-islands, destruction-of-wake, korjin-cavaris, spara-cavaris, powitt-cavaris, dead-moon-raiders, corefuel, liles, the-guard]
+cross_refs: [wakeful-islands, destruction-of-wake, korjin-cavaris, spara-cavaris, powitt-cavaris, dead-moon-raiders, corefuel, liles-ninzin, the-guard]
 ---
 
 # THE COLONY RECOVERY DETAIL
@@ -19,4 +19,4 @@ The Guard element that walked the Corefuel colony after the raid, and the two me
 
 He was wrong about one of them.
 
-*Cross-ref: The Wakeful Islands · The Destruction of Wake · Korjin Cavaris · Director Liles*
+*Cross-ref: The Wakeful Islands · The Destruction of Wake · Korjin Cavaris · Director Liles Ninzin*

@@ -1,12 +1,12 @@
 ---
-title: Hada
-slug: hada
+title: Hada Mariner
+slug: hada-mariner
 category: character
 tier: INTACT
-cross_refs: [the-guard, maldo, burial-moon, enlistment-rites-form, mead-cards, brynor, kelsadria-vot-feentor-jayzin]
+cross_refs: [the-guard, maldo, burial-moon, enlistment-rites-form, mead-cards, brynor-kolt, kelsadria-vot-feentor-jayzin]
 ---
 
-# HADA
+# HADA MARINER
 `INTACT`
 
 Long service, clean record, and a retirement date.

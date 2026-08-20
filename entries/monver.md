@@ -3,7 +3,7 @@ title: Monver
 slug: monver
 category: world
 tier: INTACT
-cross_refs: [monver-refusal, the-guard, planetary-defense-forces, greyleaf, redleaf, guard-academy, marfeld, berji]
+cross_refs: [monver-refusal, the-guard, planetary-defense-forces, greyleaf, redleaf, guard-academy, marfeld, berji-keggit]
 ---
 
 # MONVER
@@ -30,4 +30,4 @@ The health returns record, annually, a minority for whom it is not recreation an
 
 **The Force.** Monver kept its Planetary Defence Force under the accession terms and did not dissolve it. Monveri units fought at [...] before the merger. `[RECORD DAMAGED]`
 
-*Cross-ref: The Monver Refusal · The Guard · Planetary Defence Forces · Redleaf · Berji*
+*Cross-ref: The Monver Refusal · The Guard · Planetary Defence Forces · Redleaf · Berji Keggit*

@@ -2,42 +2,209 @@
   "horizon": 6,
   "note": "The archive is compiled to roughly the opening of the story. Citations past that point are the reader's key, not the compilers' knowledge: they say where in the manuscript a thing is seen, not when the Restoration learned it.",
   "chapters": [
-    { "n": 1,  "pov": "Jimzy",    "where": "The Wakeful Islands",            "what": "Bedtime on the porch, the walk to the station, the quota, the raid." },
-    { "n": 2,  "pov": "Jimzon",   "where": "Nardow's compound",              "what": "Night raid twenty years later. The Vitula, the looting, the Nhath file." },
-    { "n": 3,  "pov": "Jimzon",   "where": "The Mothership",                 "what": "Castle Team out of armour. Liles offers Captain and is handed the file." },
-    { "n": 4,  "pov": "Quinn",    "where": "Accounting division",            "what": "Twenty years of ledger retyped by hand. The transfer order lands." },
-    { "n": 5,  "pov": "Jimzon",   "where": "His quarters",                   "what": "Kelsa returns his things. The ring goes at the wall." },
-    { "n": 6,  "pov": "Quinn",    "where": "Sonaff",                         "what": "Five personnel at a closed hangar. The raiders come out of the storm." },
-    { "n": 7,  "pov": "Jimzon",   "where": "Mothership patio, above Creta",  "what": "The impression, the railing, the bottle, the breakdown." },
-    { "n": 8,  "pov": "Quinn",    "where": "Mothership medbay",              "what": "He wakes. He works out that they were meant to die, and that he now owes fees." },
-    { "n": 9,  "pov": "Jimzon",   "where": "The Nhath world",                "what": "The massacre. The leader speaks Galactic Standard. The translator chip." },
-    { "n": 10, "pov": "Berji",    "where": "His dorm",                       "what": "The scanned terminal, the paper trail, the skeleton key, Yake's objection." },
-    { "n": 11, "pov": "Jimzon",   "where": "His quarters",                   "what": "The Castle Team tattoo, and the ask wrapped in a lie." },
-    { "n": 12, "pov": "Jimzon",   "where": "Liles's office",                 "what": "Kelsa at the desk. The key fails to light. The Powitt gets its name." },
-    { "n": 13, "pov": "Jimzon",   "where": "Bay 23",                         "what": "The ship. The key handed back. Berji goes quiet." },
-    { "n": 14, "pov": "Jimzon",   "where": "The hangar",                     "what": "The file, in full. The watch. Liles in the hangar. The escape." },
-    { "n": 15, "pov": "Jimzon",   "where": "The Powitt, pursued",            "what": "Three fighters, the bluff, and the Krostin Sector." },
-    { "n": 16, "pov": "Jimzon",   "where": "Unknown, far future",            "what": "REDACTED. Three mushroom clouds, a steel hand, a violet eye. Kaz. Sears." },
-    { "n": 17, "pov": "Jimzon",   "where": "Maspin, crash site",             "what": "Berji cut out of the cockpit. Yake and the med kit gone." },
-    { "n": 18, "pov": "Jimzon",   "where": "Maspin jungle",                  "what": "The argument, the rock, the punch. Flimmity, then Calsco." },
-    { "n": 20, "pov": "Jimzon",   "where": "Trailblazer Base Delta",         "what": "The hurricane question. The bounty on the wall." },
-    { "n": 21, "pov": "Jimzon",   "where": "The bungalow",                   "what": "Calsco names the price. Pav has to shave." },
-    { "n": 22, "pov": "Pavlock",  "where": "The bathroom",                   "what": "Marfeld. Hair remembers. Blood, Root and Sky, and the knife he built first." },
-    { "n": 23, "pov": "Jimzon",   "where": "Base Delta and the Elder Tree",  "what": "The tour, the word Crag, and an interment he does not understand." },
-    { "n": 24, "pov": "Pavlock",  "where": "The Council of Riflo",           "what": "The Prince act. The grievance. Ten million in one solar rotation." },
-    { "n": 26, "pov": "Jimzon",   "where": "The bungalow",                   "what": "They read the drive properly and find Operation Thorn Crown." },
-    { "n": 27, "pov": "alternating", "where": "The festival",                "what": "The Gift of Memory. The floom egg and the oath never to kill." },
-    { "n": 28, "pov": "Jimzon",   "where": "The desert",                     "what": "No dialogue. The seed, the storm, the tree, the hollow in the trunk." },
-    { "n": 29, "pov": "Jimzon",   "where": "Base Delta medbay",              "what": "The run through the forest. The box tied with white string. Room 416." },
-    { "n": 30, "pov": "Jimzon",   "where": "The bungalow, the Elder Tree",   "what": "Calsco's wife. The gem wall, the brass wall, Tiam. Go to Wake." },
-    { "n": 31, "pov": "ensemble", "where": "The new ship",                   "what": "Naming it. Seven Tier 1 planets. Katanzaria is not Wake. End of Act 2." },
-    { "n": 32, "pov": "Jimzon",   "where": "Wake, the asteroid colony",      "what": "Twenty years on. The study, the safe, the drive, the mailbox." },
-    { "n": 33, "pov": "Jimzon",   "where": "The desert",                     "what": "Kaspian. Where humans came from, and what was left in them." }
+    {
+      "n": 1,
+      "pov": "Jimzy",
+      "where": "The Wakeful Islands",
+      "what": "Bedtime on the porch, the walk to the station, the quota, the raid."
+    },
+    {
+      "n": 2,
+      "pov": "Jimzon",
+      "where": "Nardow's compound",
+      "what": "Night raid twenty years later. The Vitula, the looting, the Nhath file."
+    },
+    {
+      "n": 3,
+      "pov": "Jimzon",
+      "where": "The Mothership",
+      "what": "Castle Team out of armour. Liles offers Captain and is handed the file."
+    },
+    {
+      "n": 4,
+      "pov": "Quinn",
+      "where": "Accounting division",
+      "what": "Twenty years of ledger retyped by hand. The transfer order lands."
+    },
+    {
+      "n": 5,
+      "pov": "Jimzon",
+      "where": "His quarters",
+      "what": "Kelsa returns his things. The ring goes at the wall."
+    },
+    {
+      "n": 6,
+      "pov": "Quinn",
+      "where": "Sonaff",
+      "what": "Five personnel at a closed hangar. The raiders come out of the storm."
+    },
+    {
+      "n": 7,
+      "pov": "Jimzon",
+      "where": "Mothership patio, above Creta",
+      "what": "The impression, the railing, the bottle, the breakdown."
+    },
+    {
+      "n": 8,
+      "pov": "Quinn",
+      "where": "Mothership medbay",
+      "what": "He wakes. He works out that they were meant to die, and that he now owes fees."
+    },
+    {
+      "n": 9,
+      "pov": "Jimzon",
+      "where": "The Nhath world",
+      "what": "The massacre. The leader speaks Galactic Standard. The translator chip."
+    },
+    {
+      "n": 10,
+      "pov": "Berji",
+      "where": "His dorm",
+      "what": "The scanned terminal, the paper trail, the skeleton key, Yake's objection."
+    },
+    {
+      "n": 11,
+      "pov": "Jimzon",
+      "where": "His quarters",
+      "what": "The Castle Team tattoo, and the ask wrapped in a lie."
+    },
+    {
+      "n": 12,
+      "pov": "Jimzon",
+      "where": "Liles's office",
+      "what": "Kelsa at the desk. The key fails to light. The Powitt gets its name."
+    },
+    {
+      "n": 13,
+      "pov": "Jimzon",
+      "where": "Bay 23",
+      "what": "The ship. The key handed back. Berji goes quiet."
+    },
+    {
+      "n": 14,
+      "pov": "Jimzon",
+      "where": "The hangar",
+      "what": "The file, in full. The watch. Liles in the hangar. The escape."
+    },
+    {
+      "n": 15,
+      "pov": "Jimzon",
+      "where": "The Powitt, pursued",
+      "what": "Three fighters, the bluff, and the Krostin Sector."
+    },
+    {
+      "n": 16,
+      "pov": "Jimzon",
+      "where": "Unknown, far future",
+      "what": "REDACTED. Three mushroom clouds, a steel hand, a violet eye. Kaz. Sears."
+    },
+    {
+      "n": 17,
+      "pov": "Jimzon",
+      "where": "Maspin, crash site",
+      "what": "Berji cut out of the cockpit. Yake and the med kit gone."
+    },
+    {
+      "n": 18,
+      "pov": "Jimzon",
+      "where": "Maspin jungle",
+      "what": "The argument, the rock, the punch. Flimmity, then Calsco."
+    },
+    {
+      "n": 20,
+      "pov": "Jimzon",
+      "where": "Trailblazer Base Delta",
+      "what": "The hurricane question. The bounty on the wall."
+    },
+    {
+      "n": 21,
+      "pov": "Jimzon",
+      "where": "The bungalow",
+      "what": "Calsco names the price. Pav has to shave."
+    },
+    {
+      "n": 22,
+      "pov": "Pavlock",
+      "where": "The bathroom",
+      "what": "Marfeld. Hair remembers. Blood, Root and Sky, and the knife he built first."
+    },
+    {
+      "n": 23,
+      "pov": "Jimzon",
+      "where": "Base Delta and the Elder Tree",
+      "what": "The tour, the word Crag, and an interment he does not understand."
+    },
+    {
+      "n": 24,
+      "pov": "Pavlock",
+      "where": "The Council of Riflo",
+      "what": "The Prince act. The grievance. Ten million in one solar rotation."
+    },
+    {
+      "n": 26,
+      "pov": "Jimzon",
+      "where": "The bungalow",
+      "what": "They read the drive properly and find Operation Thorn Crown."
+    },
+    {
+      "n": 27,
+      "pov": "alternating",
+      "where": "The festival",
+      "what": "The Gift of Memory. The floom egg and the oath never to kill."
+    },
+    {
+      "n": 28,
+      "pov": "Jimzon",
+      "where": "The desert",
+      "what": "No dialogue. The seed, the storm, the tree, the hollow in the trunk."
+    },
+    {
+      "n": 29,
+      "pov": "Jimzon",
+      "where": "Base Delta medbay",
+      "what": "The run through the forest. The box tied with white string. Room 416."
+    },
+    {
+      "n": 30,
+      "pov": "Jimzon",
+      "where": "The bungalow, the Elder Tree",
+      "what": "Calsco's wife. The gem wall, the brass wall, Tiam. Go to Wake."
+    },
+    {
+      "n": 31,
+      "pov": "ensemble",
+      "where": "The new ship",
+      "what": "Naming it. Seven Tier 1 planets. Katanzaria is not Wake. End of Act 2."
+    },
+    {
+      "n": 32,
+      "pov": "Jimzon",
+      "where": "Wake, the asteroid colony",
+      "what": "Twenty years on. The study, the safe, the drive, the mailbox."
+    },
+    {
+      "n": 33,
+      "pov": "Jimzon",
+      "where": "The desert",
+      "what": "Kaspian. Where humans came from, and what was left in them."
+    }
   ],
-  "missing": [19, 25],
+  "missing": [
+    19,
+    25
+  ],
   "fragments": [
-    { "id": "kelsa", "what": "The Kelsa chapters. Nova squadron's night out. Torres works it out." },
-    { "id": "ajax",  "what": "The AJAX story. Two house droids on a desert planet, and a battery pack." },
-    { "id": "shayron", "what": "Arrival at Shayron. Two minutes to touchdown, and the crate." }
+    {
+      "id": "kelsa",
+      "what": "The Kelsa chapters. Nova squadron's night out. Torres works it out."
+    },
+    {
+      "id": "ajax",
+      "what": "The AJAX story. Two house droids on a desert planet, and a battery pack."
+    },
+    {
+      "id": "shayron",
+      "what": "Arrival at Shayron. Two minutes to touchdown, and the crate."
+    }
   ]
 }

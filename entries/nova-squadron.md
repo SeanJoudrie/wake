@@ -3,7 +3,7 @@ title: Nova Squadron
 slug: nova-squadron
 category: institution
 tier: INTACT
-cross_refs: [the-guard, the-mothership, planetary-defense-forces, kelsadria-vot-feentor-jayzin, torres, brynor]
+cross_refs: [the-guard, the-mothership, planetary-defense-forces, kelsadria-vot-feentor-jayzin, torres-delprest, brynor-kolt]
 ---
 
 # NOVA SQUADRON

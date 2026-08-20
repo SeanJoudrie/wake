@@ -1,12 +1,12 @@
 ---
-title: Brynor
-slug: brynor
+title: Brynor Kolt
+slug: brynor-kolt
 category: character
 tier: INTACT
-cross_refs: [nova-squadron, the-guard, torres, kelsadria-vot-feentor-jayzin, mead-cards, hada]
+cross_refs: [nova-squadron, the-guard, torres-delprest, kelsadria-vot-feentor-jayzin, mead-cards, hada-mariner]
 ---
 
-# BRYNOR
+# BRYNOR KOLT
 `INTACT`
 
 A pilot with Nova Squadron, and the squadron's worst comedian. He tells jokes constantly. Roughly one in three lands, which he takes as encouragement.
@@ -17,4 +17,4 @@ By his own admission he only asked because he thought she was cool and was fairl
 
 She said yes.
 
-*Cross-ref: Nova Squadron · Kelsadria Vot Feentor-Jayzin · Torres*
+*Cross-ref: Nova Squadron · Kelsadria Vot Feentor-Jayzin · Torres Delprest*

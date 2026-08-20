@@ -242,30 +242,30 @@ See `_conceit.md` for what the tiers mean.
 ## character
 
 - [Barris](entries/barris.md) `RECOVERED`
-- [Berji](entries/berji.md) `INTACT`
-- [Brynor](entries/brynor.md) `INTACT`
+- [Berji Keggit](entries/berji-keggit.md) `INTACT`
+- [Brynor Kolt](entries/brynor-kolt.md) `INTACT`
 - [Calsco Fritt](entries/calsco-fritt.md) `CONTESTED`
 - [Captain Medarco](entries/captain-medarco.md) `CONTESTED`
 - [Cillus Vot Shayron-Skoln](entries/cillus-vot-shayron-skoln.md) `INTACT`
 - [Daiser](entries/daiser.md) `INTACT`
 - [Dan](entries/dan.md) `TESTIMONY`
 - [Graves](entries/graves.md) `RECOVERED`
-- [Hada](entries/hada.md) `INTACT`
-- [Jax](entries/jax.md) `INTACT`
+- [Hada Mariner](entries/hada-mariner.md) `INTACT`
+- [Jax Sheel](entries/jax-sheel.md) `INTACT`
 - [Jimzon Cavaris](entries/jimzon-cavaris.md) `INTACT`
 - [Kelsadria Vot Feentor-Jayzin](entries/kelsadria-vot-feentor-jayzin.md) `INTACT`
 - [King Matthew](entries/king-matthew.md) `INTACT`
 - [Korjin Cavaris](entries/korjin-cavaris.md) `INTACT`
-- [Liles](entries/liles.md) `INTACT`
+- [Liles Ninzin](entries/liles-ninzin.md) `INTACT`
 - [Maspin children](entries/maspin-children.md) `TESTIMONY`
-- [Michael](entries/michael.md) `RECOVERED`
+- [Michael Vousin](entries/michael-vousin.md) `RECOVERED`
 - [Miss Jaley](entries/miss-jaley.md) `TESTIMONY`
 - [Miss Liles](entries/miss-liles.md) `INTACT`
 - [Mister Flimmity Dimmity](entries/mister-flimmity-dimmity.md) `TESTIMONY`
 - [Mr Armstin](entries/mr-armstin.md) `INTACT`
 - [Nardow](entries/nardow.md) `RECOVERED`
 - [Oren](entries/oren.md) `RECOVERED`
-- [Pavlock](entries/pavlock.md) `INTACT`
+- [Pavlock Jattern](entries/pavlock-jattern.md) `INTACT`
 - [Powitt Cavaris](entries/powitt-cavaris.md) `TESTIMONY`
 - [Quinn Domnall](entries/quinn-domnall.md) `INTACT`
 - [Ranzi](entries/ranzi.md) `TESTIMONY`
@@ -289,8 +289,8 @@ See `_conceit.md` for what the tiers mean.
 - [The old Maspin veteran](entries/the-old-maspin-veteran.md) `TESTIMONY`
 - [The palace staff](entries/the-palace-staff.md) `TESTIMONY`
 - [The screaming man](entries/the-screaming-man.md) `RECOVERED`
-- [Tiam](entries/tiam.md) `INTACT`
-- [Torres](entries/torres.md) `INTACT`
+- [Tiam Tinoppel](entries/tiam-tinoppel.md) `INTACT`
+- [Torres Delprest](entries/torres-delprest.md) `INTACT`
 - [Vando](entries/vando.md) `TESTIMONY`
 - [Vick](entries/vick.md) `RECOVERED`
 - [Yakib Yalitio](entries/yakib-yalitio.md) `INTACT`
@@ -302,7 +302,7 @@ Referenced in this volume. No entry has been recovered.
 | Reference | Pointed to from |
 |---|---|
 | `autumnal-charter` `[ENTRY NOT RECOVERED]` | [C.O.R.D.](entries/cord.md) · [The Autumnals](entries/the-autumnals.md) · [The Great War](entries/the-great-war.md) |
-| `board-operational-authorisations` `[ENTRY NOT RECOVERED]` | [The Guard Board of Directors](entries/guard-board-of-directors.md) · [Liles](entries/liles.md) |
+| `board-operational-authorisations` `[ENTRY NOT RECOVERED]` | [The Guard Board of Directors](entries/guard-board-of-directors.md) · [Liles Ninzin](entries/liles-ninzin.md) |
 | `kitalia-platform-roll` `[ENTRY NOT RECOVERED]` | [Kitalia](entries/kitalia.md) · [The Kitalia Platform Collapse](entries/kitalia-platform-collapse.md) |
 | `krostin-standing-notice` `[ENTRY NOT RECOVERED]` | [The Krostin Sector](entries/krostin-sector.md) |
 | `nhath-disbursing-fund` `[ENTRY NOT RECOVERED]` | [The Nhath](entries/nhath.md) · [The Guard](entries/the-guard.md) · [The Nhath leader](entries/the-nhath-leader.md) |

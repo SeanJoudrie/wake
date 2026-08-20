@@ -3,7 +3,7 @@ title: The Guard Board of Directors
 slug: guard-board-of-directors
 category: institution
 tier: INTACT
-cross_refs: [the-guard, corefuel, the-guard-franchise, guard-credits, ministry-of-propaganda, johnny-plasma, liles, board-operational-authorisations, miss-liles]
+cross_refs: [the-guard, corefuel, the-guard-franchise, guard-credits, ministry-of-propaganda, johnny-plasma, liles-ninzin, board-operational-authorisations, miss-liles]
 ---
 
 # THE GUARD BOARD OF DIRECTORS
@@ -21,4 +21,4 @@ That is the whole constitution and it has never been amended. No member world co
 
 Seven people who can each be fired by the other six will agree with each other about almost everything. Not because they are told to. Because none of them wants to be the one who objected.
 
-*Cross-ref: The Guard · Corefuel · Liles · The Guard franchise · Board operational authorisations `[ENTRY NOT RECOVERED]`*
+*Cross-ref: The Guard · Corefuel · Liles Ninzin · The Guard franchise · Board operational authorisations `[ENTRY NOT RECOVERED]`*

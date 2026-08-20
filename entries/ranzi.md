@@ -3,7 +3,7 @@ title: Ranzi
 slug: ranzi
 category: character
 tier: TESTIMONY
-cross_refs: [pavlock, the-guard, gift-of-memory, monver, marfeld]
+cross_refs: [pavlock-jattern, the-guard, gift-of-memory, monver, marfeld]
 ---
 
 # RANZI
@@ -19,4 +19,4 @@ He was shouting when it happened.
 
 The sentence does not finish. Nobody who was there can tell you what the rest of it was, and Pavlock has never guessed out loud.
 
-*Cross-ref: Pavlock · The Gift of Memory · The Guard*
+*Cross-ref: Pavlock Jattern · The Gift of Memory · The Guard*

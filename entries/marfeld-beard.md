@@ -3,7 +3,7 @@ title: The Marfeld beard
 slug: marfeld-beard
 category: practice
 tier: TESTIMONY
-cross_refs: [marfeld, marfeld-coming-of-age-trial, royal-houses, the-guard, pavlock]
+cross_refs: [marfeld, marfeld-coming-of-age-trial, royal-houses, the-guard, pavlock-jattern]
 ---
 
 # THE MARFELD BEARD
@@ -21,4 +21,4 @@ Which is why Marfeld men in foreign service spend months arguing with grooming r
 
 **One complication.** The Royal court requires its household and its blood to go clean-shaven, by long ceremonial rule. Nobody has ever reconciled the two.
 
-*Cross-ref: Marfeld · The Marfeld coming-of-age trial · Pavlock · The Royal Houses*
+*Cross-ref: Marfeld · The Marfeld coming-of-age trial · Pavlock Jattern · The Royal Houses*

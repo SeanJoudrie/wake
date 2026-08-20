@@ -3,7 +3,7 @@ title: The palace staff
 slug: the-palace-staff
 category: character
 tier: TESTIMONY
-cross_refs: [palace-of-riflo, daiser, the-maspin, maspin, council-of-riflo, pavlock]
+cross_refs: [palace-of-riflo, daiser, the-maspin, maspin, council-of-riflo, pavlock-jattern]
 ---
 
 # THE PALACE STAFF

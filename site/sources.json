@@ -1,417 +1,417 @@
 {
- "academy-memorial-walls": [
-  30
- ],
- "accounting-division": [
-  4
- ],
- "asteroid-colony-docking-pad": [
-  1
- ],
- "astrovin": [
-  1
- ],
- "berji": [
-  3,
-  7,
-  10
- ],
- "beryllium-rifles": [
-  30
- ],
- "burial-moon": [
-  30
- ],
- "calsco-fritt": [
-  18,
-  21,
-  30
- ],
- "cillus-vot-shayron-skoln": [
-  6,
-  8
- ],
- "corefuel": [
-  1,
-  31
- ],
- "council-chamber-of-riflo": [
-  24
- ],
- "council-of-riflo": [
-  24
- ],
- "crag": [
-  23
- ],
- "creta": [
-  1,
-  7
- ],
- "daiser": [
-  30
- ],
- "dead-moon-raiders": [
-  6
- ],
- "dreamwalking": [
-  16,
-  28,
-  33
- ],
- "elder-tree": [
-  23
- ],
- "elder-tree-interment-rite": [
-  23
- ],
- "fermented-kraskor": [
-  24
- ],
- "floom-eggs": [
-  27
- ],
- "flooms": [
-  18,
-  27
- ],
- "gem-mosaic-wall": [
-  23,
-  30
- ],
- "gem-setting-practice": [
-  23
- ],
- "gift-of-memory": [
-  24,
-  27
- ],
- "grand-mothership-dining-hall": [
-  3
- ],
- "gravity-spires": [
-  1
- ],
- "greyleaf": [
-  30
- ],
- "guard-academy": [
-  14,
-  30
- ],
- "guard-board-of-directors": [
-  3,
-  14
- ],
- "guardnet": [
-  4
- ],
- "high-castle": [
-  26
- ],
- "high-council": [
-  26
- ],
- "house-kafkee": [
-  24
- ],
- "house-polaris": [
-  18,
-  24
- ],
- "humanist-supremacy": [
-  31
- ],
- "humans": [
-  31,
-  33
- ],
- "hyperspace-slipstream": [
-  15
- ],
- "indentured-servitude": [
-  8,
-  24
- ],
- "jax": [
-  2,
-  7
- ],
- "jimzon-cavaris": [
-  1,
-  2,
-  3,
-  5
- ],
- "katanzaria": [
-  18,
-  31
- ],
- "kelsadria-vot-feentor-jayzin": [
-  5,
-  12
- ],
- "king-matthew": [
-  26
- ],
- "kitalia": [
-  14
- ],
- "kitalia-platform-collapse": [
-  14
- ],
- "korjin-cavaris": [
-  1
- ],
- "krostin-sector": [
-  15
- ],
- "liles": [
-  3,
-  12,
-  14
- ],
- "magboots": [
-  17
- ],
- "maldo-steel": [
-  26
- ],
- "marfeld": [
-  22
- ],
- "marfeld-beard": [
-  21,
-  22
- ],
- "marfeld-coming-of-age-trial": [
-  22
- ],
- "maspin": [
-  17,
-  24
- ],
- "maspin-alphabet": [
-  24
- ],
- "maspin-dietary-practice": [
-  24
- ],
- "maspin-naming-taboos": [
-  31
- ],
- "michael": [
-  27
- ],
- "miss-jaley": [
-  1
- ],
- "miss-liles": [
-  12
- ],
- "modanick": [
-  1,
-  20
- ],
- "monver": [
-  7,
-  31
- ],
- "moon-of-sonaff-incident": [
-  6
- ],
- "mr-armstin": [
-  1
- ],
- "nardow": [
-  2
- ],
- "nhath": [
-  9
- ],
- "nhath-world": [
-  9
- ],
- "nhathian": [
-  9
- ],
- "nova-squadron": [
-  5
- ],
- "palace-of-riflo": [
-  24
- ],
- "path-of-blood": [
-  22
- ],
- "path-of-root": [
-  22
- ],
- "path-of-sky": [
-  22
- ],
- "pavlock": [
-  2,
-  3,
-  7,
-  22
- ],
- "pickled-inside-barked-mycelium": [
-  24
- ],
- "planetary-defense-forces": [
-  7
- ],
- "plasma-rifles": [
-  2,
-  9
- ],
- "polaris": [
-  24
- ],
- "polaris-system": [
-  24
- ],
- "powitt-cavaris": [
-  1
- ],
- "pre-human-inhabitants-of-wake": [
-  33
- ],
- "quantum-thread-armor": [
-  9
- ],
- "quinn-domnall": [
-  4,
-  6,
-  8
- ],
- "resmole": [
-  30
- ],
- "riflo": [
-  24
- ],
- "royal-houses": [
-  24
- ],
- "scrap-metal-sculpture": [
-  1
- ],
- "sensory-tanks": [
-  17,
-  29
- ],
- "shayron": [
-  26
- ],
- "skeleton-keys": [
-  10,
-  12,
-  13
- ],
- "sonaff": [
-  6
- ],
- "space-vaccines": [
-  8
- ],
- "spara-cavaris": [
-  1
- ],
- "species-of-unresolved-classification": [
-  2
- ],
- "standing-order-41": [
-  2
- ],
- "targath": [
-  12
- ],
- "targath-magnetic-web": [
-  12
- ],
- "the-abyss": [
-  23
- ],
- "the-autumnals": [
-  24
- ],
- "the-cartels": [
-  2
- ],
- "the-collective": [
-  6,
-  8
- ],
- "the-great-war": [
-  24
- ],
- "the-guard": [
-  14
- ],
- "the-maspin": [
-  23,
-  24,
-  27
- ],
- "the-mothership": [
-  3,
-  7
- ],
- "the-nhath-leader": [
-  9
- ],
- "the-queens-anniversary": [
-  26
- ],
- "the-sonaff-five": [
-  6,
-  8
- ],
- "the-wipe": [
-  4
- ],
- "tiam": [
-  30
- ],
- "tracineim": [
-  14
- ],
- "trailblazer-base-delta": [
-  20,
-  23
- ],
- "trailblazers": [
-  18,
-  24
- ],
- "translator-chips": [
-  9
- ],
- "vitula": [
-  2
- ],
- "wake": [
-  1,
-  31,
-  32
- ],
- "wake-extraction-station": [
-  1
- ],
- "wakeful-islands": [
-  1,
-  32
- ],
- "wingsuits": [
-  9
- ],
- "yakib-yalitio": [
-  10,
-  17
- ],
- "yinmelon": [
-  27
- ]
+  "academy-memorial-walls": [
+    30
+  ],
+  "accounting-division": [
+    4
+  ],
+  "asteroid-colony-docking-pad": [
+    1
+  ],
+  "astrovin": [
+    1
+  ],
+  "beryllium-rifles": [
+    30
+  ],
+  "burial-moon": [
+    30
+  ],
+  "calsco-fritt": [
+    18,
+    21,
+    30
+  ],
+  "cillus-vot-shayron-skoln": [
+    6,
+    8
+  ],
+  "corefuel": [
+    1,
+    31
+  ],
+  "council-chamber-of-riflo": [
+    24
+  ],
+  "council-of-riflo": [
+    24
+  ],
+  "crag": [
+    23
+  ],
+  "creta": [
+    1,
+    7
+  ],
+  "daiser": [
+    30
+  ],
+  "dead-moon-raiders": [
+    6
+  ],
+  "dreamwalking": [
+    16,
+    28,
+    33
+  ],
+  "elder-tree": [
+    23
+  ],
+  "elder-tree-interment-rite": [
+    23
+  ],
+  "fermented-kraskor": [
+    24
+  ],
+  "floom-eggs": [
+    27
+  ],
+  "flooms": [
+    18,
+    27
+  ],
+  "gem-mosaic-wall": [
+    23,
+    30
+  ],
+  "gem-setting-practice": [
+    23
+  ],
+  "gift-of-memory": [
+    24,
+    27
+  ],
+  "grand-mothership-dining-hall": [
+    3
+  ],
+  "gravity-spires": [
+    1
+  ],
+  "greyleaf": [
+    30
+  ],
+  "guard-academy": [
+    14,
+    30
+  ],
+  "guard-board-of-directors": [
+    3,
+    14
+  ],
+  "guardnet": [
+    4
+  ],
+  "high-castle": [
+    26
+  ],
+  "high-council": [
+    26
+  ],
+  "house-kafkee": [
+    24
+  ],
+  "house-polaris": [
+    18,
+    24
+  ],
+  "humanist-supremacy": [
+    31
+  ],
+  "humans": [
+    31,
+    33
+  ],
+  "hyperspace-slipstream": [
+    15
+  ],
+  "indentured-servitude": [
+    8,
+    24
+  ],
+  "jimzon-cavaris": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "katanzaria": [
+    18,
+    31
+  ],
+  "kelsadria-vot-feentor-jayzin": [
+    5,
+    12
+  ],
+  "king-matthew": [
+    26
+  ],
+  "kitalia": [
+    14
+  ],
+  "kitalia-platform-collapse": [
+    14
+  ],
+  "korjin-cavaris": [
+    1
+  ],
+  "krostin-sector": [
+    15
+  ],
+  "magboots": [
+    17
+  ],
+  "maldo-steel": [
+    26
+  ],
+  "marfeld": [
+    22
+  ],
+  "marfeld-beard": [
+    21,
+    22
+  ],
+  "marfeld-coming-of-age-trial": [
+    22
+  ],
+  "maspin": [
+    17,
+    24
+  ],
+  "maspin-alphabet": [
+    24
+  ],
+  "maspin-dietary-practice": [
+    24
+  ],
+  "maspin-naming-taboos": [
+    31
+  ],
+  "miss-jaley": [
+    1
+  ],
+  "miss-liles": [
+    12
+  ],
+  "modanick": [
+    1,
+    20
+  ],
+  "monver": [
+    7,
+    31
+  ],
+  "moon-of-sonaff-incident": [
+    6
+  ],
+  "mr-armstin": [
+    1
+  ],
+  "nardow": [
+    2
+  ],
+  "nhath": [
+    9
+  ],
+  "nhath-world": [
+    9
+  ],
+  "nhathian": [
+    9
+  ],
+  "nova-squadron": [
+    5
+  ],
+  "palace-of-riflo": [
+    24
+  ],
+  "path-of-blood": [
+    22
+  ],
+  "path-of-root": [
+    22
+  ],
+  "path-of-sky": [
+    22
+  ],
+  "pickled-inside-barked-mycelium": [
+    24
+  ],
+  "planetary-defense-forces": [
+    7
+  ],
+  "plasma-rifles": [
+    2,
+    9
+  ],
+  "polaris": [
+    24
+  ],
+  "polaris-system": [
+    24
+  ],
+  "powitt-cavaris": [
+    1
+  ],
+  "pre-human-inhabitants-of-wake": [
+    33
+  ],
+  "quantum-thread-armor": [
+    9
+  ],
+  "quinn-domnall": [
+    4,
+    6,
+    8
+  ],
+  "resmole": [
+    30
+  ],
+  "riflo": [
+    24
+  ],
+  "royal-houses": [
+    24
+  ],
+  "scrap-metal-sculpture": [
+    1
+  ],
+  "sensory-tanks": [
+    17,
+    29
+  ],
+  "shayron": [
+    26
+  ],
+  "skeleton-keys": [
+    10,
+    12,
+    13
+  ],
+  "sonaff": [
+    6
+  ],
+  "space-vaccines": [
+    8
+  ],
+  "spara-cavaris": [
+    1
+  ],
+  "species-of-unresolved-classification": [
+    2
+  ],
+  "standing-order-41": [
+    2
+  ],
+  "targath": [
+    12
+  ],
+  "targath-magnetic-web": [
+    12
+  ],
+  "the-abyss": [
+    23
+  ],
+  "the-autumnals": [
+    24
+  ],
+  "the-cartels": [
+    2
+  ],
+  "the-collective": [
+    6,
+    8
+  ],
+  "the-great-war": [
+    24
+  ],
+  "the-guard": [
+    14
+  ],
+  "the-maspin": [
+    23,
+    24,
+    27
+  ],
+  "the-mothership": [
+    3,
+    7
+  ],
+  "the-nhath-leader": [
+    9
+  ],
+  "the-queens-anniversary": [
+    26
+  ],
+  "the-sonaff-five": [
+    6,
+    8
+  ],
+  "the-wipe": [
+    4
+  ],
+  "tracineim": [
+    14
+  ],
+  "trailblazer-base-delta": [
+    20,
+    23
+  ],
+  "trailblazers": [
+    18,
+    24
+  ],
+  "translator-chips": [
+    9
+  ],
+  "vitula": [
+    2
+  ],
+  "wake": [
+    1,
+    31,
+    32
+  ],
+  "wake-extraction-station": [
+    1
+  ],
+  "wakeful-islands": [
+    1,
+    32
+  ],
+  "wingsuits": [
+    9
+  ],
+  "yakib-yalitio": [
+    10,
+    17
+  ],
+  "yinmelon": [
+    27
+  ],
+  "berji-keggit": [
+    3,
+    7,
+    10
+  ],
+  "jax-sheel": [
+    2,
+    7
+  ],
+  "liles-ninzin": [
+    3,
+    12,
+    14
+  ],
+  "michael-vousin": [
+    27
+  ],
+  "pavlock-jattern": [
+    2,
+    3,
+    7,
+    22
+  ],
+  "tiam-tinoppel": [
+    30
+  ]
 }

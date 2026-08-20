@@ -3,7 +3,7 @@ title: Kelsadria Vot Feentor-Jayzin
 slug: kelsadria-vot-feentor-jayzin
 category: character
 tier: INTACT
-cross_refs: [royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-cavaris, brynor, torres]
+cross_refs: [royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-cavaris, brynor-kolt, torres-delprest]
 ---
 
 # KELSADRIA VOT FEENTOR-JAYZIN
@@ -32,4 +32,4 @@ She said it out loud once, testing how it sounded: *Kelsa Cavaris. I like the so
 
 Her enlistment ends within the year.
 
-*Cross-ref: The Royal Houses · Sansvor · Nova Squadron · Jimzon Cavaris · Torres*
+*Cross-ref: The Royal Houses · Sansvor · Nova Squadron · Jimzon Cavaris · Torres Delprest*

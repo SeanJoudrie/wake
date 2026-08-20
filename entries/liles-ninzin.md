@@ -1,12 +1,12 @@
 ---
-title: Liles
-slug: liles
+title: Liles Ninzin
+slug: liles-ninzin
 category: character
 tier: INTACT
 cross_refs: [the-guard, guard-board-of-directors, board-operational-authorisations, the-great-war, planetary-defense-forces, jimzon-cavaris, miss-liles, wakeful-islands, sergeant-cotts]
 ---
 
-# DIRECTOR LILES
+# DIRECTOR LILES NINZIN
 `INTACT`
 
 Somewhere between forty-five and fifty. A general long enough to be respected, and now the one seat on the Guard's Board of Directors that is not a commercial interest.

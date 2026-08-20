@@ -3,7 +3,7 @@ title: Mead cards
 slug: mead-cards
 category: practice
 tier: INTACT
-cross_refs: [hada, brynor, kelsadria-vot-feentor-jayzin, torres, nova-squadron, moonball, the-mothership]
+cross_refs: [hada-mariner, brynor-kolt, kelsadria-vot-feentor-jayzin, torres-delprest, nova-squadron, moonball, the-mothership]
 ---
 
 # MEAD CARDS
@@ -17,4 +17,4 @@ It travels well because it needs a deck and a flat surface, and a mothership is 
 
 The universal breach of etiquette is narrating your own hand. Everybody knows it is a breach. Everybody does it eventually.
 
-*Cross-ref: Hada · Brynor · Nova Squadron · Moonball*
+*Cross-ref: Hada Mariner · Brynor Kolt · Nova Squadron · Moonball*

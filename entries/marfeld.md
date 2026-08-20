@@ -3,7 +3,7 @@ title: Marfeld
 slug: marfeld
 category: world
 tier: INTACT
-cross_refs: [marfeld-coming-of-age-trial, marfeld-beard, megafauna-of-marfeld, path-of-blood, path-of-root, path-of-sky, torkal-bombers, the-guard, the-great-war, pavlock]
+cross_refs: [marfeld-coming-of-age-trial, marfeld-beard, megafauna-of-marfeld, path-of-blood, path-of-root, path-of-sky, torkal-bombers, the-guard, the-great-war, pavlock-jattern]
 ---
 
 # MARFELD
@@ -34,4 +34,4 @@ They rebuilt each time. Their own account of it is not grief and not defiance. I
 
 *[Compiler's note: we asked forty-one men from this world to describe the trial. Every one of them declined. Two apologised.]*
 
-*Cross-ref: The Marfeld coming-of-age trial · The Marfeld beard · Megafauna of Marfeld · Torkal bombers · Pavlock · The Great War*
+*Cross-ref: The Marfeld coming-of-age trial · The Marfeld beard · Megafauna of Marfeld · Torkal bombers · Pavlock Jattern · The Great War*

@@ -3,7 +3,7 @@ title: The Guard
 slug: the-guard
 category: institution
 tier: INTACT
-cross_refs: [guard-board-of-directors, johnny-plasma, the-guard-franchise, galactic-standard-law, guard-credits, guardnet, guard-academy, the-mothership, accounting-division, ministry-of-propaganda, foundation-day, crag, refugee-displacement, the-great-war, liles, standing-order-41, nhath-disbursing-fund, the-first-world, the-personnel-series, sergeant-cotts, sergeant-aren, the-medbay-doctor]
+cross_refs: [guard-board-of-directors, johnny-plasma, the-guard-franchise, galactic-standard-law, guard-credits, guardnet, guard-academy, the-mothership, accounting-division, ministry-of-propaganda, foundation-day, crag, refugee-displacement, the-great-war, liles-ninzin, standing-order-41, nhath-disbursing-fund, the-first-world, the-personnel-series, sergeant-cotts, sergeant-aren, the-medbay-doctor]
 ---
 
 # THE GUARD
@@ -35,4 +35,4 @@ Nobody is assigned. Everybody applies.
 
 The laws are not there to be applied. They are there to be available.
 
-*Cross-ref: The Guard Board of Directors · The Guard franchise · Galactic Standard law · Standing order 41 · Guard credits · The Guard Academy · Liles · The first world `[ENTRY NOT RECOVERED]`*
+*Cross-ref: The Guard Board of Directors · The Guard franchise · Galactic Standard law · Standing order 41 · Guard credits · The Guard Academy · Liles Ninzin · The first world `[ENTRY NOT RECOVERED]`*

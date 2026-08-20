@@ -212,7 +212,15 @@ main tbody tr:nth-child(even) { background: color-mix(in srgb, var(--paper-deep)
 
 .listing { list-style: none; margin: 0 0 var(--sp-7); padding: 0; }
 .listing li { display: flex; justify-content: space-between; gap: var(--sp-4); padding: var(--sp-2) 0; border-bottom: var(--hair); }
-.listing .tier { font: 400 10px/1.8 var(--data); letter-spacing: 0.02em; text-transform: lowercase; color: var(--tier-ink); white-space: nowrap; }
+/* Source-tier labels, everywhere they appear. Markers, not headlines. */
+.tier {
+  flex: none;
+  font: 400 10px/1.8 var(--data);
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
+  color: var(--tier-ink);
+  white-space: nowrap;
+}
 .listing a { color: var(--seal); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 
 .gap-item { padding: var(--sp-4) 0; border-bottom: var(--hair); }
@@ -444,18 +452,16 @@ body.title-page .drawer-toggle, body.title-page .skip { display: none; }
 }
 .cat-count {
   flex: none;
-  text-transform: lowercase;
   font: 400 10px/1.8 var(--data);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--ink-soft);
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
+  color: var(--tier-ink);
 }
 .cat-contested {
   flex: none;
-  text-transform: lowercase;
   font: 400 10px/1.8 var(--data);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
+  text-transform: lowercase;
+  letter-spacing: 0.02em;
   color: var(--absence);
 }
 

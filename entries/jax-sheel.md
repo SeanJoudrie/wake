@@ -3,7 +3,7 @@ title: Jax Sheel
 slug: jax-sheel
 category: character
 tier: INTACT
-cross_refs: [the-guard, nova-squadron, yakib-yalitio, jimzon-avaris, targath-magnetic-web, custodial-labour]
+cross_refs: [the-guard, nova-squadron, yakib-yalitio, jimzon-avaris, targath-magnetic-web, custodial-labour, magboots]
 ---
 
 # JAX SHEEL

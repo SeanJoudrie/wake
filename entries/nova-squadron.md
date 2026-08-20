@@ -3,18 +3,29 @@ title: Nova Squadron
 slug: nova-squadron
 category: institution
 tier: INTACT
-cross_refs: [the-guard, the-mothership, planetary-defense-forces, kelsadria-vot-feentor-jayzin, torres-delprest, brynor-kolt]
+cross_refs: [the-guard, torres-delprest, brynor-kolt, hada-mariner, kelsadria-vot-feentor-jayzin, the-mothership, the-tipsitters, mead-cards, jax-sheel, the-rec-room]
 ---
 
 # NOVA SQUADRON
 `INTACT`
 
-Guard flight formation, embarked. Twelve hulls establishment.
+A fighter squadron off the mothership, and one of the better places in the Guard to spend four years.
 
-Squadron records are filed to the standard of all Guard flight formations: establishment, hull state, flying hours, sortie returns, and personnel by name, service number, rate and medical category.
+They fly the morning patrols: a few laps of the hull, a slow pass over the thrusters to eyeball the plating, and back in. Routine to the point of boredom, which is exactly what a squadron wants and exactly what the youngest pilot on it complains about every single time.
 
-Medical category is the relevant field for personnel administration and is updated on notification. The schedule provides for suspension of flying duties on stated grounds, of which pregnancy is one, with a maintained rate and a maintained seniority, and for a period of leave whose length is set out in the schedule.
+**On the net they are Nova, and the lead is Nova 01 Actual.** When the squadron speaks with one voice, it is the oldest man aboard doing the speaking.
 
-The schedule is `INTACT`. It is one of the more generous provisions in the establishment and is not mentioned in any recruiting material this archive holds.
+**The cheer**, which nobody can trace and which they do standing up, with shots in hand:
 
-*Cross-ref: The Guard · The Mothership · Planetary Defence Forces*
+> *Nova, Nova, burn so bright.*
+> *Nova Squad owns the night.*
+> *Through the void, we lead the way.*
+> *Nova Squad wins the day.*
+
+Then everybody drinks it and pulls a face, because rockroot mead is not for enjoying.
+
+**What they actually are.** Four or five people who share a locker room and a morning, who know which one of them is hungover and cover for it, who tape their sunglasses back together, and who stick a decal from home on somebody else's helmet as a way of saying something they have no other way to say.
+
+The helmets are the record. Every engraving on them is a mission that went well and a place somebody has been.
+
+*Cross-ref: Torres Delprest · Brynor Kolt · Hada Mariner · The Mothership*

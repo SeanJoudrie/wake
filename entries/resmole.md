@@ -3,27 +3,24 @@ title: Resmole
 slug: resmole
 category: world
 tier: INTACT
-cross_refs: [the-guard, greyleaf, galactic-standard-law, hyperspace-slipstream, tiam-rockstead-tinoppel, sakasin]
+cross_refs: [the-guard, greyleaf, galactic-standard-law, tiam-rockstead-tinoppel, jimzon-avaris, guard-training, sakasin, academy-memorial-walls, burial-moon]
 ---
 
 # RESMOLE
 `INTACT`
 
-Dust, a river, a clock tower and a fuel depot. Occupied because of where it is and for no other reason anyone has written down.
+Dust, a river, a clock tower and a fuel depot. Occupied because of where it is and for no other reason anybody has written down.
 
-**System:** Resmole (single star, seven bodies, one habitable)
-**Status:** Guard occupation. No accession instrument. No referendum has been held
-**Population:** between 4 million and 40 million
-**Membership:** not determinable. Authority here is settlement-level and appears in no register we hold
-**Calendars in use:** Galactic Calendar in the port. Local reckonings are not filed
-**Principal exports:** none. The world imports everything, including water
+The town sits along the water between two mountain ranges, low buildings the colour of the ground, and it is held because it has enough flat land for airstrips and sits between two places that matter. That is the entire strategic case and nobody has ever pretended otherwise.
 
-**Position, and nothing else.** Resmole sits on the shortest surveyed lane between two sectors that matter, and it has one river, one usable plain, and enough flat ground for airstrips. The basing schedule lists a shipport, two strips, a fuel depot and a transit function. It lists no other purpose, because there is no other purpose.
+**The rhythm of it.** In daylight the streets are empty and the heat comes off the stone. At night the local militias come out and take shots from the dark, and the shots almost never land. A round cracks into a potted plant on a third-storey roof and brings the whole thing down into the street in a spray of soil, and nobody on the gate so much as looks up.
 
-**The civil programme.** Chartered on occupation and funded for four years. Its final report is held. Every appropriation after that is nil.
+That is the thing about Resmole. The gunfire becomes furniture. Boys sit on munitions crates scraping dried mud off their boots and sharing a greyleaf cigarette while the town shoots at them, and after a few weeks they stop flinching, and after a few months they stop noticing.
 
-**The fighting.** Continuous and low-intensity, for long enough that nobody flinches. Local combatants work out of a tunnel network that appears on no map in this archive. Garrison casualties run eleven to nineteen a year and are filed by name.
+**Which is exactly how it kills you.** Nothing about Resmole is a battle. There is no line, no objective, and nothing to take. There is only a long stretch of not much happening, and then one round out of thousands finds somebody, usually because they went somewhere they did not need to go.
 
-Local casualties are not filed at all.
+**The garrison.** Casualties run eleven to nineteen a year and are filed by name. Some of those names belong to sixteen-year-olds. The local dead are not filed at all.
 
-*Cross-ref: The Guard · Greyleaf · Galactic Standard law · Tiam Rockstead Tinoppel*
+The civil reconstruction programme was chartered on occupation, funded for four years, and filed its final report. Every appropriation after that is nil.
+
+*Cross-ref: Greyleaf · Tiam Rockstead Tinoppel · The Guard · The Academy memorial walls*

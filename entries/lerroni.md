@@ -3,18 +3,20 @@ title: Lerroni
 slug: lerroni
 category: world
 tier: INTACT
-cross_refs: [guard-academy, zonar, the-guard]
+cross_refs: [guard-academy, zonar, the-guard, astrovin, moonball, kelsadria-vot-feentor-jayzin]
 ---
 
 # LERRONI
 `INTACT`
 
-Guard member state. Coastal recreation economy.
+Warm water, cheap rooms, and eleven days a year when it is the loudest place in the galaxy.
 
-**Status:** Guard member state
-**Population:** between 10 million and 60 million
-**Principal exports:** hospitality
+The coast is the whole economy. Long shallow bays, sand that goes on for miles, bars built out of whatever washed up, and an entire service industry that exists to separate very young people from money they have just been paid.
 
-Arrival returns show a single annual peak of eleven days, coinciding exactly with the Guard Academy recess. Peak arrivals GC 4461: 411,206.
+**The eleven days.** Lerroni's arrival figures are flat all year and then vertical. Four hundred thousand people in a week and a half, and the peak lines up exactly with the Guard Academy recess, because of course it does.
 
-*Cross-ref: The Guard Academy · Zonar*
+For most Guardsmen it is the first place they ever went that nobody ordered them to. Which is why grown men still say the name with a particular tone, and why somebody, somewhere, is always trying to get a ship pointed back at it.
+
+The name is also, for reasons nobody has adequately explained, extremely difficult for some people to pronounce.
+
+*Cross-ref: The Guard Academy · Zonar · Astrovin*

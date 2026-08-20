@@ -3,7 +3,7 @@ title: Kelton
 slug: kelton
 category: world
 tier: INTACT
-cross_refs: [polaris-system, weton, kelton-city, polaris-scrip, house-polaris, guard-credits, tall, corr]
+cross_refs: [polaris-system, weton, kelton-city, polaris-scrip, house-polaris, guard-credits, tall, corr, tspa, baline]
 ---
 
 # KELTON

@@ -3,7 +3,7 @@ title: The Royal Houses
 slug: royal-houses
 category: institution
 tier: INTACT
-cross_refs: [maldo, shayron, house-polaris, house-kafkee, high-council, tracineim, astonia, astonian-annexation, maldo-steel, the-great-war, king-matthew, cillus-vot-shayron-skoln, kelsadria-vot-feentor-jayzin, royal-shayron-defence-force]
+cross_refs: [maldo, shayron, house-polaris, house-kafkee, high-council, tracineim, astonia, astonian-annexation, maldo-steel, the-great-war, king-matthew, cillus-vot-shayron-skoln, kelsadria-vot-feentor-jayzin, royal-shayron-defence-force, tongishaw]
 ---
 
 # THE ROYAL HOUSES

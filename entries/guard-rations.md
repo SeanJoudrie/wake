@@ -3,7 +3,7 @@ title: Guard rations
 slug: guard-rations
 category: practice
 tier: INTACT
-cross_refs: [grand-mothership-dining-hall, the-guard, guard-training, tiam-rockstead-tinoppel, rockroot, spireleaf, glazberries, yinmelon, astrovin, trailblazers]
+cross_refs: [grand-mothership-dining-hall, the-guard, guard-training, tiam-rockstead-tinoppel, rockroot, spireleaf, glazberries, yinmelon, astrovin, trailblazers, tspa, kinton]
 ---
 
 # GUARD RATIONS

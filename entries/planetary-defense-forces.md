@@ -3,18 +3,22 @@ title: Planetary Defence Forces
 slug: planetary-defense-forces
 category: institution
 tier: INTACT
-cross_refs: [monver, the-guard, monver-refusal, creta, the-great-war, berji-kegeron]
+cross_refs: [monver, the-guard, monver-refusal, creta, berji-kegeron, royal-shayron-defence-force, guard-rank-structure, the-great-war, battle-of-rudcuff]
 ---
 
 # PLANETARY DEFENCE FORCES
 `INTACT`
 
-Local armed establishments retained by member worlds under their accession terms. Not part of the Guard and not commanded by it.
+Twenty-two member worlds keep their own soldiers, and the Guard does not command a single one of them.
 
-**Prevalence.** 22 member worlds retain a Planetary Defence Force. In every case the retention is expressly reserved in the accession instrument, and in every case the instrument limits the force to territorial defence.
+The right is written into the accession terms in every case, and in every case it is limited to defending the ground you are standing on. Which suits both sides: the world keeps its army and its pride, and the Guard keeps the bill.
 
-**Merger.** Where a Planetary Defence Force has been absorbed into the Guard, the absorption is recorded as a transfer of persons and not of the formation. Personnel enter as individuals at assessed rank. No absorbed formation retains its name, its colours, or its battle honours, and the Guard's own establishment returns record no formation older than the Guard.
+**What they actually are.** Local. A Planetary Defence Force is people from the world defending the world, often the same families across generations, with their own colours, their own songs, and their own wars behind them. On some worlds it is the most respected institution there is.
 
-**Prior service.** Service in a Planetary Defence Force before accession, including service in a conflict against a party that later acceded, does not appear in Guard personnel records. The record begins at contract.
+**And then a world accedes.** When a Defence Force is absorbed, the paperwork records a transfer of *persons*, never of the formation. Everybody comes across as an individual, at an assessed rank, into the Guard's own seniority list. The formation does not come with them. Not the name, not the colours, not the battle honours.
 
-*Cross-ref: Monver · The Guard · The Monver Refusal · Creta*
+That is why no unit in the Guard establishment is older than the Guard itself. It is not a coincidence and it is not an accident of record-keeping. It is the design.
+
+**What it costs a man.** Service before accession does not appear in his Guard file, including service in a war he fought and won. The record begins at contract. A soldier who spent years defending his own forests, on the side that came out on top, joins the Guard as a private with no history, and everything he did before is a thing he can talk about and never prove.
+
+*Cross-ref: Monver · The Monver Refusal · Berji Kegeron · The Royal Shayron Defence Force*

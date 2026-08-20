@@ -3,7 +3,7 @@ title: The scrap-metal sculpture
 slug: scrap-metal-sculpture
 category: location
 tier: TESTIMONY
-cross_refs: [wakeful-islands, asteroid-colony-docking-pad, wake]
+cross_refs: [wakeful-islands, asteroid-colony-docking-pad, wake, torkal-bombers]
 ---
 
 # THE SCRAP-METAL SCULPTURE

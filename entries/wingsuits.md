@@ -3,16 +3,20 @@ title: Wingsuits
 slug: wingsuits
 category: technology
 tier: INTACT
-cross_refs: [quantum-thread-armor, the-guard, magboots, atmospheric-masks]
+cross_refs: [quantum-thread-armor, the-guard, magboots, jimzon-avaris, atmospheric-masks, plasma-rifles]
 ---
 
 # WINGSUITS
 `INTACT`
 
-Personal atmospheric descent equipment. Permits controlled entry to a surface from a vessel in atmosphere without a landing.
+Not a garment. A function of the armour, folded flat until you need it.
 
-In current manufacture and in general service. The equipment is simple, the materials are producible, and the loss returns record failure rates that the Guard's own safety schedule describes as within tolerance and does not otherwise characterise.
+Strike the chestplate and sheets of material snap taut between the limbs, turning a falling man into something with a wing loading. The suit's temperature regulators take over at the same moment, which matters more than people expect, because the interesting places to do this are interesting for a reason.
 
-Employment in weather is governed by a standing order which sets limits and provides for those limits to be exceeded on the authority of the officer commanding.
+**What it is actually like.** The wind screams past the helmet at a pitch that gets into the teeth. Rain hits the visor and streaks off sideways in trails. The suit fights the air for the first few seconds and then stops fighting it, and after that you are cutting rather than falling, and it is entirely possible to forget what you came down here to do.
 
-*Cross-ref: Quantum-thread armour · The Guard · Magboots*
+**The landing is the part nobody practises enough.** You flare, you extend, and the ground arrives with more authority than the training tower ever managed. A good landing is a hard skid onto one knee. A bad one is the same thing with a longer skid.
+
+Then you hit the panel and the material folds itself back into the armour, and there is no evidence you ever had it.
+
+*Cross-ref: Quantum-thread armour · Magboots · Atmospheric masks*

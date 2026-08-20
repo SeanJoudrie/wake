@@ -3,7 +3,7 @@ title: The Ministry of Propaganda
 slug: ministry-of-propaganda
 category: institution
 tier: INTACT
-cross_refs: [the-guard, guardnet, simulationism, tracineim, foundation-day, the-restoration, cillus-vot-shayron-skoln]
+cross_refs: [the-guard, guardnet, simulationism, tracineim, foundation-day, the-restoration, cillus-vot-shayron-skoln, squad-412]
 ---
 
 # THE MINISTRY OF PROPAGANDA

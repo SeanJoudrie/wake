@@ -3,20 +3,20 @@ title: Actom
 slug: actom
 category: world
 tier: INTACT
-cross_refs: [guard-academy, the-guard, enlistment-rites-form]
+cross_refs: [guard-academy, the-guard, guard-training, enlistment-rites-form, quinn-domnall, wedear, guard-rations]
 ---
 
 # ACTOM
 `INTACT`
 
-Guard installation world. Basic training.
+Where the Guard makes soldiers, and where a hundred and forty thousand people a year find out what they are.
 
-**Status:** Guard installation. No civil administration of consequence
-**Population:** not published. Throughput is
-**Principal exports:** none
+There is nothing else on it. No cities worth the name, no industry, no reason for anybody to be there who was not sent. Just training grounds running to the horizon, ranges, obstacle country, and barracks laid out in rows that go on long enough to be visible from orbit.
 
-Recorded training throughput, GC 4461: 141,880 entrants, 128,204 completions.
+**Fort Actom** is the name everybody actually uses, and it is the first line of every service record in the Guard. *Basic at Fort Actom.* Say it in a bar and half the table nods.
 
-The intake returns are filed by name, age, parent world and prior status. They are among the most complete civil records in this archive, and they are not civil records.
+**What it is like.** Loud. Everything is loud. And it is where the sorting happens: the ones who came out of the Scout Corps at fourteen, the sixteen-year-olds off poor worlds who signed because it was that or nothing, and the occasional accountant who has never held a rifle and is about to.
 
-*Cross-ref: The Guard Academy · The Guard · The enlistment rites form*
+**The intake register** is kept by name, age, parent world and prior status, and it is the most complete civil record of a generation that exists anywhere in the galaxy. It was not built to be one. Nobody was counting people. They were counting throughput.
+
+*Cross-ref: The Guard Academy · Guard training · Wedear · The enlistment rites form*

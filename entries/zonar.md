@@ -3,21 +3,18 @@ title: Zonar
 slug: zonar
 category: world
 tier: INTACT
-cross_refs: [the-guard, astonia, greyleaf]
+cross_refs: [the-guard, astonia, lerroni, field-aliases, astrovin, comet-caps, guard-credits, berji-kegeron]
 ---
 
 # ZONAR
 `INTACT`
 
-Guard member state. Licensed entertainment and hospitality economy.
+Four thousand one hundred and eighteen licensed premises, and fewer residents than eleven member worlds that have none.
 
-**System:** Zonar
-**Status:** Guard member state
-**Population:** between 20 million and 90 million
-**Membership:** residence and rate
-**Calendars in use:** Galactic Calendar
-**Principal exports:** hospitality, licensed entertainment
+Nobody is from Zonar. Everybody is currently on Zonar. The principal city is a strip of light that does not go dark, licensed to within an inch of its life, and enormously profitable.
 
-Municipal licensing returns for the principal city record 4,118 premises licensed for public entertainment and a resident population smaller than that of eleven member worlds with none.
+**What it is for.** Going all out. Forgetting a rotation. Getting so comprehensively wrecked that the following two days do not exist. It is where a squad goes when one of them has had something bad happen and nobody knows what to say about it, on the theory that a loud enough room is a kind of answer.
 
-*Cross-ref: The Guard · Astonia*
+**It is also where people practise being somebody else.** A false name on Zonar costs nothing and means nothing, and a good many aliases that later turned out to matter were invented at a bar there by somebody who thought he was being funny.
+
+*Cross-ref: Lerroni · Astonia · Field aliases*

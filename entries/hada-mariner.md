@@ -3,7 +3,7 @@ title: Hada Mariner
 slug: hada-mariner
 category: character
 tier: INTACT
-cross_refs: [the-guard, maldo, burial-moon, enlistment-rites-form, mead-cards, brynor-kolt, kelsadria-vot-feentor-jayzin, the-discharge-ceremony]
+cross_refs: [the-guard, maldo, burial-moon, enlistment-rites-form, mead-cards, brynor-kolt, kelsadria-vot-feentor-jayzin, the-discharge-ceremony, nova-squadron]
 ---
 
 # HADA MARINER

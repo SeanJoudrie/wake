@@ -3,18 +3,22 @@ title: The Targath magnetic web
 slug: targath-magnetic-web
 category: technology
 tier: TESTIMONY
-cross_refs: [targath, the-guard, torkal-bombers, indentured-servitude, galactic-standard-law, jax-sheel]
+cross_refs: [targath, battle-of-rudcuff, the-guard, torkal-bombers, liles-ninzin, quantum-thread-armor, the-great-war, planetary-defense-forces]
 ---
 
 # THE TARGATH MAGNETIC WEB
 `TESTIMONY`
 
-A construction attributed to the Targath, placed beneath a planetary crust, generating a field of great strength across a wide area.
+The reason the Guard stopped underestimating a species that burrows.
 
-**The account.** A fleet made planetfall over ground beneath which the web had been laid. The field drew down armour, weapons and personnel. No part of the force withdrew and no member of it survived.
+**How it works.** Targaths dig. Not trenches, and not tunnels in the ordinary sense, but a lattice laid down slowly through the crust of a whole colony over months or years, built in the dark, undetectable from orbit and undetectable from the surface. It draws no power while it sits. It reads as geology.
 
-**Status of the account.** It originates within the Guard officer corps and is repeated there. The Restoration has traced it to no document and to no named witness. That no one survived is asserted in the same account that describes what happened, and the Restoration is obliged to note that the two statements cannot both be sourced to the same place.
+Then somebody switches it on.
 
-**The material.** Whatever the account is worth, the ore is real. It is mined, principally by custodial labour, at two Guard installations. Extraction returns are filed by tonnage. The purpose to which the extracted material is put is not filed. `[FILING INCOMPLETE]`
+**What that does.** Everything ferrous within its reach is pulled straight down. Ships in low orbit lose the argument first, and come out of the sky in numbers. On the ground it is worse and slower: a soldier's armour, his rifle, his helmet, every plate and fastening on him, all of it dragged flat against the dirt with him inside. He is not injured. He is pinned, awake, in the open.
 
-*Cross-ref: The Targath · The Guard · Torkal bombers · Indentured servitude*
+**What happens next** is a matter for the people who arrive afterwards, and the accounts of Rudcuff are consistent that nobody was left to say.
+
+The web has not been used since. Whether that is because the Targath cannot build another or because they have not yet needed to is a question the Guard's schedules do not raise.
+
+*Cross-ref: The Targath · The Battle of Rudcuff · Torkal bombers*

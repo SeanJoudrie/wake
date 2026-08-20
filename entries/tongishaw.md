@@ -3,23 +3,20 @@ title: Tongishaw
 slug: tongishaw
 category: world
 tier: RECOVERED
-cross_refs: [royal-houses, galactic-standard-law, the-cartels]
+cross_refs: [royal-houses, galactic-standard-law, the-cartels, shayron, refugee-displacement, indentured-servitude, field-aliases, guard-credits]
 ---
 
 # TONGISHAW
 `RECOVERED`
 
-Royal territory. No Guard patrol presence. No warrant of any authority is currently enforced on the world.
+Royal on paper. Nothing on the ground.
 
-**System:** Tongishaw
-**Status:** Royal territory in name. No administration is recorded as functioning
-**Population:** between 1 million and 20 million
-**Membership:** none recorded
-**Calendars in use:** `[FILING INCOMPLETE]`
-**Principal exports:** `[...]`
+The Royal register lists the world. The Royal treasury has recorded no receipt from it in nineteen years. The Guard has no presence there and no plans for one, which is not an oversight, because there is nothing on Tongishaw worth the cost of going.
 
-The Royal register lists the world. The Royal treasury records no receipt from it in nineteen years. The Guard basing schedule records no presence and no planned presence.
+**What that produces.** No patrols, no warrants enforced, no extradition, and no bounty register, because a bounty register requires somebody to keep it. A man wanted across four systems can walk down a street on Tongishaw and the worst thing that happens to him is the weather.
 
-There is no bounty register for Tongishaw because there is no authority to keep one. Informants across four systems describe the world in identical terms as a place to go when there is nowhere else.
+**Which is the whole appeal, and the whole problem.** Informants in four separate systems describe it in almost identical words: *somewhere to go when there is nowhere else.* Nobody has ever described it as somewhere to go.
+
+Work is available. It is the kind of work available in a place with no law, at the rates you would expect, and people take it, because they are there.
 
 *Cross-ref: The Royal Houses · Galactic Standard law · The cartels*

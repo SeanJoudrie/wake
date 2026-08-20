@@ -3,7 +3,7 @@ title: The Targath
 slug: targath
 category: people
 tier: CONTESTED
-cross_refs: [targath-magnetic-web, torkal-bombers, the-guard, crag, indentured-servitude, custodial-labour]
+cross_refs: [targath-magnetic-web, torkal-bombers, the-guard, crag, indentured-servitude, custodial-labour, battle-of-rudcuff]
 ---
 
 # THE TARGATH

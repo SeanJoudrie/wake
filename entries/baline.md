@@ -3,23 +3,18 @@ title: Baline
 slug: baline
 category: world
 tier: INTACT
-cross_refs: [polaris-system, kelton, corr, dorrow]
+cross_refs: [polaris-system, kelton, corr, dorrow, tspa, weton, polaris-scrip, guard-credits]
 ---
 
 # BALINE
 `INTACT`
 
-Worked moon of the Polaris system. Cold storage and freight.
+A cold moon that grows nothing, and the place where the food of ten worlds stops being food.
 
-**System:** Polaris
-**Status:** operated under licence from Kelton. No independent local government
-**Population:** between 200,000 and 2 million, substantially rotational
-**Membership:** contract. Residence is tied to a posting
-**Calendars in use:** Polaris Harvest Reckoning
-**Principal exports:** storage capacity, freight handling
+Orbital rings of storage and mile after mile of refrigerated warehousing on the surface. Four hundred and eleven million tonnes under cold at any given moment, held between the harvest that produced it and the sale that will move it.
 
-Orbital rings and surface warehousing. Filed capacity: 411,000,000 tonnes under refrigeration.
+**What that actually means.** Everything grown in the Polaris system passes through here, and while it sits in the dark on Baline it is not a crop any more. It is a position. It is held, valued, borrowed against and traded, sometimes several times, without a single sack of it moving.
 
-Baline holds the system's stock between harvest and sale and is therefore the point at which the system's food is a commodity rather than a crop. The registrar records no third-generation residents.
+**Nobody is from here.** The population is measured in postings rather than families, everybody's residence is tied to their contract, and the registrar has never recorded a third-generation resident. People come, work a rotation in the cold, and go.
 
-*Cross-ref: The Polaris System · Kelton · Corr · Dorrow*
+*Cross-ref: The Polaris System · Kelton · Tspa · Corr*

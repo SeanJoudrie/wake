@@ -1,13 +1,13 @@
 # INDEX OF ENTRIES
 
-*259 entries. Compiled to GC 4462. Incomplete.*
+*262 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
 | `INTACT` | 146 |
 | `RECOVERED` | 27 |
-| `TESTIMONY` | 58 |
-| `CONTESTED` | 22 |
+| `TESTIMONY` | 59 |
+| `CONTESTED` | 24 |
 | `INFERRED` | 6 |
 
 See `_conceit.md` for what the tiers mean.
@@ -113,6 +113,7 @@ See `_conceit.md` for what the tiers mean.
 | [Planetary Defence Forces](entries/planetary-defense-forces.md) | `INTACT` |
 | [Royal Shayron Defence Force](entries/royal-shayron-defence-force.md) | `INTACT` |
 | [Shayron Port Authority](entries/shayron-port-authority.md) | `INTACT` |
+| [Squad 412](entries/squad-412.md) | `CONTESTED` |
 | [The Autumnals](entries/the-autumnals.md) | `RECOVERED` |
 | [The Council of Riflo](entries/council-of-riflo.md) | `TESTIMONY` |
 | [The Guard](entries/the-guard.md) | `INTACT` |
@@ -135,6 +136,7 @@ See `_conceit.md` for what the tiers mean.
 | Entry | Tier |
 |---|---|
 | [The Astonian Annexation](entries/astonian-annexation.md) | `INTACT` |
+| [The Battle of Rudcuff](entries/battle-of-rudcuff.md) | `TESTIMONY` |
 | [The Destruction of Wake](entries/destruction-of-wake.md) | `CONTESTED` |
 | [The Great War](entries/the-great-war.md) | `CONTESTED` |
 | [The Kitalia Platform Collapse](entries/kitalia-platform-collapse.md) | `INFERRED` |
@@ -202,7 +204,7 @@ See `_conceit.md` for what the tiers mean.
 | [Holocloaks](entries/holocloaks.md) | `CONTESTED` |
 | [Hoverboards](entries/hoverboards.md) | `INTACT` |
 | [Hyperspace slipstream](entries/hyperspace-slipstream.md) | `INTACT` |
-| [Magboots](entries/magboots.md) | `INTACT` |
+| [Magboots](entries/magboots.md) | `CONTESTED` |
 | [Plasma knives](entries/plasma-knives.md) | `INTACT` |
 | [Plasma rifles](entries/plasma-rifles.md) | `INTACT` |
 | [Polaris scrip](entries/polaris-scrip.md) | `INTACT` |
@@ -211,6 +213,7 @@ See `_conceit.md` for what the tiers mean.
 | [Schedule of unreplaceable classes](entries/schedule-of-unreplaceable-classes.md) | `INTACT` |
 | [Sensory tanks](entries/sensory-tanks.md) | `TESTIMONY` |
 | [Skeleton keys](entries/skeleton-keys.md) | `RECOVERED` |
+| [Space airbags](entries/space-airbags.md) | `INTACT` |
 | [Space vaccines](entries/space-vaccines.md) | `INTACT` |
 | [The Targath magnetic web](entries/targath-magnetic-web.md) | `TESTIMONY` |
 | [The breaching kit](entries/breaching-kit.md) | `INTACT` |

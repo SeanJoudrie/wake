@@ -3,7 +3,7 @@ title: The Guard Academy
 slug: guard-academy
 category: institution
 tier: INTACT
-cross_refs: [the-guard, academy-memorial-walls, actom, wedear, enlistment-rites-form, johnny-plasma, crag, refugee-displacement, jimzon-avaris, tiam-rockstead-tinoppel, guard-training, guard-rank-structure]
+cross_refs: [the-guard, academy-memorial-walls, actom, wedear, enlistment-rites-form, johnny-plasma, crag, refugee-displacement, jimzon-avaris, tiam-rockstead-tinoppel, guard-training, guard-rank-structure, lerroni]
 ---
 
 # THE GUARD ACADEMY

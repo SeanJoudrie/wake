@@ -9,6 +9,8 @@ cross_refs: [royal-houses, tracineim, high-castle, abandoned-monastic-quarters, 
 # SHAYRON
 `INTACT`
 
+**Getting around.** The capital is walked, not driven. Sidor Avenue, then Alvion Street, then Park Square, in that order, because that is the order a bored port guard has recited it in forty times a day for years. Garnwood meets Rivern at a cafe. Atton's Astrovin sells wine on Tongishaw. The streets are cobblestone, laid by hand, and the imperfections in them are the reason the place looks the way it does.
+
 Jasmine, cut stone, and an afternoon that seems to last all day. No industry, no exhaust, and a city built in four eras stacked on top of each other, any of which you can reach by digging eleven metres in more or less any direction.
 
 **System:** Shayron (single star, seven bodies, one habitable)

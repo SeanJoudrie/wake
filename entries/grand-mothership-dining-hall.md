@@ -3,7 +3,7 @@ title: The Grand Mothership Dining Hall
 slug: grand-mothership-dining-hall
 category: location
 tier: INTACT
-cross_refs: [the-mothership, the-guard, foundation-day, guard-quarters, spireleaf, moonball, jimzon-avaris]
+cross_refs: [the-mothership, the-guard, foundation-day, guard-quarters, spireleaf, moonball, jimzon-avaris, guard-rations]
 ---
 
 # THE GRAND MOTHERSHIP DINING HALL

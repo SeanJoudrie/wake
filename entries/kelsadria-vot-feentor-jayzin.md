@@ -3,7 +3,7 @@ title: Kelsadria Vot Feentor-Jayzin
 slug: kelsadria-vot-feentor-jayzin
 category: character
 tier: INTACT
-cross_refs: [royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-avaris, brynor-kolt, torres-delprest, the-discharge-ceremony]
+cross_refs: [royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-avaris, brynor-kolt, torres-delprest, the-discharge-ceremony, the-tipsitters]
 ---
 
 # KELSADRIA VOT FEENTOR-JAYZIN
@@ -16,7 +16,7 @@ Pale blonde, worn up in a bun nearly always. Very fit, in the unremarkable way o
 
 She reads stern for about a minute. She is not. She laughs softly and easily once she has decided you are worth the trouble, and after that she is one of the most expressive people on the flight line.
 
-The hair comes down almost never. Underneath, behind the ears, it is dyed a soft light purple, and there is no version of a duty day in which anybody sees it.
+Underneath, behind the ears, it is dyed a soft light purple. Pinned up in a hurry you might catch a streak of it. Down, which is almost never, it is the whole story.
 
 Royal blood, thinly. House Feentor, Jayzin line, which is the kind of descent half the galaxy can claim: it comes with a seat, a small maintenance, and no money worth the name. She has never drawn either.
 

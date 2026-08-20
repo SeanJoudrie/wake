@@ -3,7 +3,7 @@ title: The Friend
 slug: the-friend
 category: character
 tier: TESTIMONY
-cross_refs: [maspin, the-maspin, council-of-riflo, floom-eggs, flooms, trailblazer-base-delta, the-trailblazer-doctor, dreamwalking]
+cross_refs: [maspin, the-maspin, council-of-riflo, floom-eggs, flooms, trailblazer-base-delta, the-trailblazer-doctor, dreamwalking, kaspian]
 ---
 
 # THE FRIEND

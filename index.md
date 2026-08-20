@@ -1,13 +1,13 @@
 # INDEX OF ENTRIES
 
-*248 entries. Compiled to GC 4462. Incomplete.*
+*259 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 141 |
-| `RECOVERED` | 25 |
-| `TESTIMONY` | 57 |
-| `CONTESTED` | 19 |
+| `INTACT` | 146 |
+| `RECOVERED` | 27 |
+| `TESTIMONY` | 58 |
+| `CONTESTED` | 22 |
 | `INFERRED` | 6 |
 
 See `_conceit.md` for what the tiers mean.
@@ -39,6 +39,7 @@ See `_conceit.md` for what the tiers mean.
 | [Polaris](entries/polaris.md) | `INTACT` |
 | [Resmole](entries/resmole.md) | `INTACT` |
 | [Saigo](entries/saigo.md) | `INTACT` |
+| [Sakasin](entries/sakasin.md) | `RECOVERED` |
 | [Sansvor](entries/sansvor.md) | `CONTESTED` |
 | [Schriggé](entries/schrigge.md) | `INTACT` |
 | [Shayron](entries/shayron.md) | `INTACT` |
@@ -79,6 +80,7 @@ See `_conceit.md` for what the tiers mean.
 | [The abandoned monastic quarters](entries/abandoned-monastic-quarters.md) | `INTACT` |
 | [The asteroid colony docking pad](entries/asteroid-colony-docking-pad.md) | `INTACT` |
 | [The gem mosaic wall](entries/gem-mosaic-wall.md) | `TESTIMONY` |
+| [The rec room](entries/the-rec-room.md) | `INTACT` |
 | [The scrap-metal sculpture](entries/scrap-metal-sculpture.md) | `TESTIMONY` |
 | [Trailblazer Base Delta](entries/trailblazer-base-delta.md) | `INTACT` |
 | [Wake Extraction Station](entries/wake-extraction-station.md) | `INTACT` |
@@ -151,10 +153,12 @@ See `_conceit.md` for what the tiers mean.
 | [Civilian dress](entries/civilian-dress.md) | `INTACT` |
 | [Custodial labour](entries/custodial-labour.md) | `INTACT` |
 | [Dreamwalking](entries/dreamwalking.md) | `TESTIMONY` |
+| [Field aliases](entries/field-aliases.md) | `TESTIMONY` |
 | [Foundation Day](entries/foundation-day.md) | `INTACT` |
 | [Galactic Standard law](entries/galactic-standard-law.md) | `INTACT` |
 | [Guard burial rites](entries/guard-burial-rites.md) | `INTACT` |
 | [Guard pay](entries/guard-pay.md) | `INTACT` |
+| [Guard rations](entries/guard-rations.md) | `INTACT` |
 | [Guard training](entries/guard-training.md) | `INTACT` |
 | [Humanist supremacy](entries/humanist-supremacy.md) | `TESTIMONY` |
 | [Indentured servitude](entries/indentured-servitude.md) | `INTACT` |
@@ -178,6 +182,7 @@ See `_conceit.md` for what the tiers mean.
 | [The Path of Sky](entries/path-of-sky.md) | `TESTIMONY` |
 | [The Queen's Anniversary](entries/the-queens-anniversary.md) | `INTACT` |
 | [The Season of Long Nights](entries/season-of-long-nights.md) | `TESTIMONY` |
+| [The Tipsitters](entries/the-tipsitters.md) | `INTACT` |
 | [The death benefit](entries/the-death-benefit.md) | `INTACT` |
 | [The discharge ceremony](entries/the-discharge-ceremony.md) | `INTACT` |
 | [The enlistment rites form](entries/enlistment-rites-form.md) | `INTACT` |
@@ -194,17 +199,21 @@ See `_conceit.md` for what the tiers mean.
 | [Gravity spires](entries/gravity-spires.md) | `INTACT` |
 | [Guard credits](entries/guard-credits.md) | `INTACT` |
 | [Guardnet](entries/guardnet.md) | `INTACT` |
+| [Holocloaks](entries/holocloaks.md) | `CONTESTED` |
 | [Hoverboards](entries/hoverboards.md) | `INTACT` |
 | [Hyperspace slipstream](entries/hyperspace-slipstream.md) | `INTACT` |
 | [Magboots](entries/magboots.md) | `INTACT` |
+| [Plasma knives](entries/plasma-knives.md) | `INTACT` |
 | [Plasma rifles](entries/plasma-rifles.md) | `INTACT` |
 | [Polaris scrip](entries/polaris-scrip.md) | `INTACT` |
+| [Portaboards](entries/portaboards.md) | `CONTESTED` |
 | [Quantum-thread armour](entries/quantum-thread-armor.md) | `INTACT` |
 | [Schedule of unreplaceable classes](entries/schedule-of-unreplaceable-classes.md) | `INTACT` |
 | [Sensory tanks](entries/sensory-tanks.md) | `TESTIMONY` |
 | [Skeleton keys](entries/skeleton-keys.md) | `RECOVERED` |
 | [Space vaccines](entries/space-vaccines.md) | `INTACT` |
 | [The Targath magnetic web](entries/targath-magnetic-web.md) | `TESTIMONY` |
+| [The breaching kit](entries/breaching-kit.md) | `INTACT` |
 | [Torkal bombers](entries/torkal-bombers.md) | `INTACT` |
 | [Translator chips](entries/translator-chips.md) | `INTACT` |
 | [Wingsuits](entries/wingsuits.md) | `INTACT` |
@@ -223,6 +232,7 @@ See `_conceit.md` for what the tiers mean.
 | [Astonian coral](entries/astonian-coral.md) | `INTACT` |
 | [Astonian milk](entries/astonian-milk.md) | `INTACT` |
 | [Astrovin](entries/astrovin.md) | `INTACT` |
+| [Comet caps](entries/comet-caps.md) | `RECOVERED` |
 | [Dragon's blood trees](entries/dragons-blood-trees.md) | `INTACT` |
 | [Fermented kraskor](entries/fermented-kraskor.md) | `TESTIMONY` |
 | [Floom eggs](entries/floom-eggs.md) | `TESTIMONY` |
@@ -253,7 +263,7 @@ See `_conceit.md` for what the tiers mean.
 ## character
 
 - [Barris](entries/barris.md) `RECOVERED`
-- [Berji Keggit](entries/berji-keggit.md) `INTACT`
+- [Berji Kegeron](entries/berji-kegeron.md) `INTACT`
 - [Brynor Kolt](entries/brynor-kolt.md) `INTACT`
 - [Calsco Fritt](entries/calsco-fritt.md) `CONTESTED`
 - [Captain Medarco](entries/captain-medarco.md) `CONTESTED`
@@ -265,6 +275,7 @@ See `_conceit.md` for what the tiers mean.
 - [Jax Sheel](entries/jax-sheel.md) `INTACT`
 - [Jimzon Avaris](entries/jimzon-avaris.md) `INTACT`
 - [Karagash](entries/karagash.md) `RECOVERED`
+- [Kaspian](entries/kaspian.md) `CONTESTED`
 - [Kaz](entries/kaz.md) `CONTESTED`
 - [Kelsadria Vot Feentor-Jayzin](entries/kelsadria-vot-feentor-jayzin.md) `INTACT`
 - [King Matthew](entries/king-matthew.md) `INTACT`
@@ -305,7 +316,7 @@ See `_conceit.md` for what the tiers mean.
 - [The old Maspin veteran](entries/the-old-maspin-veteran.md) `TESTIMONY`
 - [The palace staff](entries/the-palace-staff.md) `TESTIMONY`
 - [The screaming man](entries/the-screaming-man.md) `RECOVERED`
-- [Tiam Tinoppel](entries/tiam-tinoppel.md) `INTACT`
+- [Tiam Rockstead Tinoppel](entries/tiam-rockstead-tinoppel.md) `INTACT`
 - [Torres Delprest](entries/torres-delprest.md) `INTACT`
 - [Vance](entries/vance.md) `RECOVERED`
 - [Vando](entries/vando.md) `TESTIMONY`

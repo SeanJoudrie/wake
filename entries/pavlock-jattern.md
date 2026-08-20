@@ -3,7 +3,7 @@ title: Pavlock Jattern
 slug: pavlock-jattern
 category: character
 tier: INTACT
-cross_refs: [marfeld, marfeld-coming-of-age-trial, marfeld-beard, the-guard, korno, jimzon-avaris, berji-keggit, path-of-blood, path-of-root, path-of-sky, ranzi, maspin-children, guard-quarters]
+cross_refs: [marfeld, marfeld-coming-of-age-trial, marfeld-beard, the-guard, korno, jimzon-avaris, berji-kegeron, path-of-blood, path-of-root, path-of-sky, ranzi, maspin-children, guard-quarters, portaboards, breaching-kit, field-aliases]
 ---
 
 # PAVLOCK JATTERN

@@ -3,7 +3,7 @@ title: Yinmelon
 slug: yinmelon
 category: flora-fauna
 tier: INTACT
-cross_refs: [kinton, monver, the-cartels, trailblazers, vando]
+cross_refs: [kinton, monver, the-cartels, trailblazers, vando, guard-rations]
 ---
 
 # YINMELON

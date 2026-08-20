@@ -3,7 +3,7 @@ title: Yakib Yalitio
 slug: yakib-yalitio
 category: character
 tier: INTACT
-cross_refs: [the-guard, magboots, enlistment-rites-form, space-vaccines, jimzon-avaris, jax-sheel, the-death-benefit, guard-pay]
+cross_refs: [the-guard, magboots, enlistment-rites-form, space-vaccines, jimzon-avaris, jax-sheel, the-death-benefit, guard-pay, comet-caps, portaboards]
 ---
 
 # YAKIB YALITIO

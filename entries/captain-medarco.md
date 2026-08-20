@@ -3,7 +3,7 @@ title: Captain Medarco
 slug: captain-medarco
 category: character
 tier: CONTESTED
-cross_refs: [berji-keggit, the-guard, jimzon-avaris, pavlock-jattern, yakib-yalitio]
+cross_refs: [berji-kegeron, the-guard, jimzon-avaris, pavlock-jattern, yakib-yalitio]
 ---
 
 # CAPTAIN MEDARCO
@@ -17,4 +17,4 @@ Berji invented him at a bar, mid-impression, because the bit needed a name and t
 
 The impression works because everyone in the room has met him. Not him specifically. The other one, on their first posting, with a different name.
 
-*Cross-ref: Berji Keggit · The Guard*
+*Cross-ref: Berji Kegeron · The Guard*

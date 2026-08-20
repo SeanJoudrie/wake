@@ -13,6 +13,8 @@ The principal means of interstellar travel. Not motion through space in the ordi
 
 **Principle.** The vessel does not traverse the distance. The space behind the vessel is drawn toward it. The standard illustration in the navigational primers is that one does not walk to the object; the object is brought.
 
+**Aboard, it is just the hypercharge.** A gauge climbing toward a hundred while somebody shouts the number out loud, because on a small vessel the difference between seventy per cent and ninety-nine per cent is the difference between an argument and an escape.
+
 **Drives.** Classes 1 to 7 are in service. Classes above 4 appear in the underwriters' schedule of unreplaceable classes and no facility for their manufacture is known to survive. Classes 1 to 4 are in production, at three facilities, at a combined annual output the returns record as insufficient to replace annual losses.
 
 **Lanes.** The pre-war lane archive was lost with everything else in GC 4401. The present lanes were re-surveyed by hand over approximately thirty years, at a cost in vessels and crews which the survey authority publishes and which the Restoration has verified against the loss returns.

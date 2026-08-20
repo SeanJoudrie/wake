@@ -3,7 +3,7 @@ title: Starfruit
 slug: starfruit
 category: flora-fauna
 tier: INTACT
-cross_refs: [kinton, maspin, creta]
+cross_refs: [kinton, maspin, creta, the-rec-room]
 ---
 
 # STARFRUIT

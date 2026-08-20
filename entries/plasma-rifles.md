@@ -3,7 +3,7 @@ title: Plasma rifles
 slug: plasma-rifles
 category: technology
 tier: INTACT
-cross_refs: [schedule-of-unreplaceable-classes, galactic-standard-law, the-guard, beryllium-rifles, guard-credits]
+cross_refs: [schedule-of-unreplaceable-classes, galactic-standard-law, the-guard, beryllium-rifles, guard-credits, plasma-knives, breaching-kit]
 ---
 
 # PLASMA RIFLES

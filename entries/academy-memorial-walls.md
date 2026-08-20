@@ -3,7 +3,7 @@ title: The Academy memorial walls
 slug: academy-memorial-walls
 category: location
 tier: INTACT
-cross_refs: [guard-academy, burial-moon, guard-burial-rites, gem-mosaic-wall, the-guard, tiam-tinoppel]
+cross_refs: [guard-academy, burial-moon, guard-burial-rites, gem-mosaic-wall, the-guard, tiam-rockstead-tinoppel]
 ---
 
 # THE ACADEMY MEMORIAL WALLS
@@ -17,4 +17,4 @@ There are 2,140,880 of them across forty-one walls.
 
 Every plate is perfectly legible and nobody has ever read them all. Three people from this archive have tried. The furthest anyone got was the eleventh wall.
 
-*Cross-ref: The Guard Academy · The Burial Moon · The gem mosaic wall · Tiam Tinoppel*
+*Cross-ref: The Guard Academy · The Burial Moon · The gem mosaic wall · Tiam Rockstead Tinoppel*

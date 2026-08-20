@@ -3,7 +3,7 @@ title: The discharge ceremony
 slug: the-discharge-ceremony
 category: practice
 tier: INTACT
-cross_refs: [the-guard, the-mothership, hada-mariner, kelsadria-vot-feentor-jayzin, berji-keggit, quinn-domnall, guard-pay, the-death-benefit, maldo]
+cross_refs: [the-guard, the-mothership, hada-mariner, kelsadria-vot-feentor-jayzin, berji-kegeron, quinn-domnall, guard-pay, the-death-benefit, maldo]
 ---
 
 # THE DISCHARGE CEREMONY

@@ -3,7 +3,7 @@ title: Brynor Kolt
 slug: brynor-kolt
 category: character
 tier: INTACT
-cross_refs: [nova-squadron, the-guard, torres-delprest, kelsadria-vot-feentor-jayzin, mead-cards, hada-mariner]
+cross_refs: [nova-squadron, the-guard, torres-delprest, kelsadria-vot-feentor-jayzin, mead-cards, hada-mariner, the-tipsitters]
 ---
 
 # BRYNOR KOLT

@@ -3,7 +3,7 @@ title: Rockroot
 slug: rockroot
 category: flora-fauna
 tier: INTACT
-cross_refs: [marfeld, path-of-root, resmole, weton, megafauna-of-marfeld]
+cross_refs: [marfeld, path-of-root, resmole, weton, megafauna-of-marfeld, guard-rations]
 ---
 
 # ROCKROOT

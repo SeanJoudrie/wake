@@ -3,7 +3,7 @@ title: Spireleaf
 slug: spireleaf
 category: flora-fauna
 tier: INTACT
-cross_refs: [gravity-spires, wakeful-islands, corefuel]
+cross_refs: [gravity-spires, wakeful-islands, corefuel, guard-rations]
 ---
 
 # SPIRELEAF

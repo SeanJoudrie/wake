@@ -3,7 +3,7 @@ title: Hoverboards
 slug: hoverboards
 category: technology
 tier: INTACT
-cross_refs: [schedule-of-unreplaceable-classes, saigo, moonball]
+cross_refs: [schedule-of-unreplaceable-classes, saigo, moonball, portaboards]
 ---
 
 # HOVERBOARDS

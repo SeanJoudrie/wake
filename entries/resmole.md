@@ -3,7 +3,7 @@ title: Resmole
 slug: resmole
 category: world
 tier: INTACT
-cross_refs: [the-guard, greyleaf, galactic-standard-law, hyperspace-slipstream, tiam-tinoppel]
+cross_refs: [the-guard, greyleaf, galactic-standard-law, hyperspace-slipstream, tiam-rockstead-tinoppel, sakasin]
 ---
 
 # RESMOLE
@@ -26,4 +26,4 @@ Dust, a river, a clock tower and a fuel depot. Occupied because of where it is a
 
 Local casualties are not filed at all.
 
-*Cross-ref: The Guard · Greyleaf · Galactic Standard law · Tiam Tinoppel*
+*Cross-ref: The Guard · Greyleaf · Galactic Standard law · Tiam Rockstead Tinoppel*

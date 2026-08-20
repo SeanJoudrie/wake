@@ -3,7 +3,7 @@ title: Mead cards
 slug: mead-cards
 category: practice
 tier: INTACT
-cross_refs: [hada-mariner, brynor-kolt, kelsadria-vot-feentor-jayzin, torres-delprest, nova-squadron, moonball, the-mothership]
+cross_refs: [hada-mariner, brynor-kolt, kelsadria-vot-feentor-jayzin, torres-delprest, nova-squadron, moonball, the-mothership, the-rec-room, the-tipsitters]
 ---
 
 # MEAD CARDS

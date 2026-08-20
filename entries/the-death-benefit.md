@@ -13,7 +13,7 @@ cross_refs: [the-guard, guard-pay, guard-credits, yakib-yalitio, guard-burial-ri
 
 It is paid to whoever is named on the contract, it is paid in full, and it is paid on schedule. The Guard is scrupulous about this in the way it is scrupulous about all of its commercial obligations, which is to say completely and without warmth.
 
-That is the figure printed on the schedule. Whether the schedule is honoured is a separate question, and one the archive is not able to answer, because the people best placed to say are the ones it would have been paid for.
+That is the figure for a man of rank on a second or later contract. Further down the establishment it is smaller, and it is subject to the same instalment machinery as everything else, which means a widow on a poor world inherits a filing obligation along with the grief.
 
 The estate goes with it. Personal effects, retained materiel, whatever is in the cabin, crated and shipped to the named address.
 

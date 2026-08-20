@@ -3,7 +3,7 @@ title: Greyleaf
 slug: greyleaf
 category: flora-fauna
 tier: INTACT
-cross_refs: [monver, resmole, the-guard, galactic-standard-law, redleaf, tiam-tinoppel]
+cross_refs: [monver, resmole, the-guard, galactic-standard-law, redleaf, tiam-rockstead-tinoppel, comet-caps]
 ---
 
 # GREYLEAF
@@ -15,4 +15,4 @@ Grown on forty-one worlds, sold everywhere by the packet, legal in every jurisdi
 
 It also turns up in the cause-of-death column on every member world that keeps one.
 
-*Cross-ref: Monver · Resmole · Redleaf · Tiam Tinoppel*
+*Cross-ref: Monver · Resmole · Redleaf · Tiam Rockstead Tinoppel*

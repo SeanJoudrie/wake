@@ -3,7 +3,7 @@ title: Wake
 slug: wake
 category: world
 tier: CONTESTED
-cross_refs: [corefuel, destruction-of-wake, the-wipe, gravity-spires, wakeful-islands, wake-extraction-station, the-autumnals, guard-board-of-directors, pre-human-inhabitants-of-wake, humans, pre-war-genetic-survey, wake-census]
+cross_refs: [corefuel, destruction-of-wake, the-wipe, gravity-spires, wakeful-islands, wake-extraction-station, the-autumnals, guard-board-of-directors, pre-human-inhabitants-of-wake, humans, pre-war-genetic-survey, wake-census, kaspian]
 ---
 
 # WAKE

@@ -3,7 +3,7 @@ title: Quantum-thread armour
 slug: quantum-thread-armor
 category: technology
 tier: INTACT
-cross_refs: [schedule-of-unreplaceable-classes, plasma-rifles, the-guard, wingsuits, magboots]
+cross_refs: [schedule-of-unreplaceable-classes, plasma-rifles, the-guard, wingsuits, magboots, plasma-knives, holocloaks]
 ---
 
 # QUANTUM-THREAD ARMOUR

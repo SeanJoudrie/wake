@@ -3,7 +3,7 @@ title: The Guard Academy
 slug: guard-academy
 category: institution
 tier: INTACT
-cross_refs: [the-guard, academy-memorial-walls, actom, wedear, enlistment-rites-form, johnny-plasma, crag, refugee-displacement, jimzon-avaris, tiam-tinoppel, guard-training, guard-rank-structure]
+cross_refs: [the-guard, academy-memorial-walls, actom, wedear, enlistment-rites-form, johnny-plasma, crag, refugee-displacement, jimzon-avaris, tiam-rockstead-tinoppel, guard-training, guard-rank-structure]
 ---
 
 # THE GUARD ACADEMY
@@ -19,4 +19,4 @@ They get a real education, better than most worlds manage, plus service instruct
 
 Ordinary entrants join the service at a rate of about six in ten. Wardship entrants join at ninety-four in a hundred, which is not surprising, because the Academy is the only home they have.
 
-*Cross-ref: The Guard · The Academy memorial walls · Jimzon Avaris · Tiam Tinoppel · The enlistment rites form*
+*Cross-ref: The Guard · The Academy memorial walls · Jimzon Avaris · Tiam Rockstead Tinoppel · The enlistment rites form*

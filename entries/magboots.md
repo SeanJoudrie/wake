@@ -3,7 +3,7 @@ title: Magboots
 slug: magboots
 category: technology
 tier: INTACT
-cross_refs: [schedule-of-unreplaceable-classes, quantum-thread-armor, wingsuits, yakib-yalitio]
+cross_refs: [schedule-of-unreplaceable-classes, quantum-thread-armor, wingsuits, yakib-yalitio, portaboards]
 ---
 
 # MAGBOOTS

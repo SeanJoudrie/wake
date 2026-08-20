@@ -3,7 +3,7 @@ title: Guard quarters
 slug: guard-quarters
 category: location
 tier: INTACT
-cross_refs: [the-mothership, the-guard, jimzon-avaris, berji-keggit, guard-pay, grand-mothership-dining-hall, guard-rank-structure, redleaf, standing-order-41, guard-credits]
+cross_refs: [the-mothership, the-guard, jimzon-avaris, berji-kegeron, guard-pay, grand-mothership-dining-hall, guard-rank-structure, redleaf, standing-order-41, guard-credits]
 ---
 
 # GUARD QUARTERS
@@ -31,4 +31,4 @@ Cluttered, but lived in. Messy, but intentional.
 
 The room the team gathers in is the second one. Nobody ever decided that either.
 
-*Cross-ref: The Mothership · Jimzon Avaris · Berji Keggit · Guard pay · Standing order 41*
+*Cross-ref: The Mothership · Jimzon Avaris · Berji Kegeron · Guard pay · Standing order 41*

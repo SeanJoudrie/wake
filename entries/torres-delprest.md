@@ -3,7 +3,7 @@ title: Torres Delprest
 slug: torres-delprest
 category: character
 tier: INTACT
-cross_refs: [nova-squadron, the-guard, kelsadria-vot-feentor-jayzin, brynor-kolt]
+cross_refs: [nova-squadron, the-guard, kelsadria-vot-feentor-jayzin, brynor-kolt, the-tipsitters]
 ---
 
 # TORRES DELPREST

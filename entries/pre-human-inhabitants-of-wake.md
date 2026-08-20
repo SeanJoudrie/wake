@@ -3,7 +3,7 @@ title: Pre-human inhabitants of Wake
 slug: pre-human-inhabitants-of-wake
 category: people
 tier: TESTIMONY
-cross_refs: [wake, humans, katanzaria, corefuel, the-collective, dreamwalking]
+cross_refs: [wake, humans, katanzaria, corefuel, the-collective, dreamwalking, kaspian]
 ---
 
 # PRE-HUMAN INHABITANTS OF WAKE

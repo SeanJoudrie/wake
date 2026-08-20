@@ -3,7 +3,7 @@ title: Planetary Defence Forces
 slug: planetary-defense-forces
 category: institution
 tier: INTACT
-cross_refs: [monver, the-guard, monver-refusal, creta, the-great-war, berji-keggit]
+cross_refs: [monver, the-guard, monver-refusal, creta, the-great-war, berji-kegeron]
 ---
 
 # PLANETARY DEFENCE FORCES

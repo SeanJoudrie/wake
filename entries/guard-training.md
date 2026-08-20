@@ -3,7 +3,7 @@ title: Guard training
 slug: guard-training
 category: practice
 tier: INTACT
-cross_refs: [guard-academy, the-guard, guard-rank-structure, enlistment-rites-form, jimzon-avaris, quinn-domnall, actom, tiam-tinoppel, guard-quarters]
+cross_refs: [guard-academy, the-guard, guard-rank-structure, enlistment-rites-form, jimzon-avaris, quinn-domnall, actom, tiam-rockstead-tinoppel, guard-quarters, guard-rations, the-rec-room]
 ---
 
 # GUARD TRAINING

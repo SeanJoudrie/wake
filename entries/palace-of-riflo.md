@@ -3,7 +3,7 @@ title: The Palace of Riflo
 slug: palace-of-riflo
 category: location
 tier: TESTIMONY
-cross_refs: [riflo, council-of-riflo, council-chamber-of-riflo, maspin, daiser, indentured-servitude, the-palace-staff]
+cross_refs: [riflo, council-of-riflo, council-chamber-of-riflo, maspin, daiser, indentured-servitude, the-palace-staff, kaspian]
 ---
 
 # THE PALACE OF RIFLO

@@ -56,7 +56,7 @@ structural holes; hedge counts find undecided worldbuilding. Output feeds
 
 ## Single-file build
 
-`node build-artifact.mjs` (with `SITE_BASE='#'`) packages all 182 routes into one
+`node build-artifact.mjs` (with `SITE_BASE='#'`) packages all 250 routes into one
 self-contained `../wake-encyclopedia.html`: same templates, same tokens, hash routing,
 fonts inlined as data URIs. It opens from a file:// URL with no server and makes no
 network request. Useful for sharing a copy or reading offline.

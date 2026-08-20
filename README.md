@@ -82,21 +82,21 @@ and whether the Guard broke the Sansvor blockade or caused it. The last is print
 
 ## Current state
 
-173 entries, ~35,000 words, compiled to GC 4462.
+241 entries, ~38,000 words, compiled to GC 4462.
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 105 |
-| `TESTIMONY` | 41 |
-| `CONTESTED` | 12 |
-| `RECOVERED` | 11 |
-| `INFERRED` | 4 |
+| `INTACT` | 134 |
+| `TESTIMONY` | 57 |
+| `RECOVERED` | 25 |
+| `CONTESTED` | 19 |
+| `INFERRED` | 6 |
 
 The skew toward `INTACT` is deliberate and is the argument. Commercial and administrative
 paper survived in bulk; almost everything about people did not. The second-largest tier is
 `TESTIMONY`, and it is where the faiths and the non-human peoples live.
 
-Twelve cross-references resolve to nothing. They are listed at the foot of `index.md`. The
+Fifteen cross-references resolve to nothing. They are listed at the foot of `index.md`. The
 load-bearing one is `queen-traceen`: the reigning sovereign of the Royal systems has no entry,
 because the archive has no document that would let it write one.
 
@@ -105,7 +105,7 @@ Run `python3 tools/build_index.py` after adding or editing entries.
 ## The site
 
 `site/` builds the corpus into a browsable reference volume. Eleventy, no client-side
-framework, no CSS framework, self-hosted fonts, 182 pages.
+framework, no CSS framework, self-hosted fonts, 250 pages.
 
 ```
 cd site && npm install && npm run serve

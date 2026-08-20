@@ -1,10 +1,10 @@
 # INDEX OF ENTRIES
 
-*240 entries. Compiled to GC 4462. Incomplete.*
+*241 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 133 |
+| `INTACT` | 134 |
 | `RECOVERED` | 25 |
 | `TESTIMONY` | 57 |
 | `CONTESTED` | 19 |
@@ -239,6 +239,7 @@ See `_conceit.md` for what the tiers mean.
 | [Maspin names](entries/maspin-naming-taboos.md) | `TESTIMONY` |
 | [Nhath names](entries/nhath-names.md) | `RECOVERED` |
 | [Nhathian](entries/nhathian.md) | `RECOVERED` |
+| [Place names](entries/place-names.md) | `INTACT` |
 | [The Astonian dialect](entries/astonian-dialect.md) | `TESTIMONY` |
 | [The Maspin alphabet](entries/maspin-alphabet.md) | `TESTIMONY` |
 
@@ -316,6 +317,7 @@ Referenced in this volume. No entry has been recovered.
 | `gashi-homeworld` `[ENTRY NOT RECOVERED]` | [The Gashi](entries/gashi.md) |
 | `kitalia-platform-roll` `[ENTRY NOT RECOVERED]` | [Kitalia](entries/kitalia.md) · [The Kitalia Platform Collapse](entries/kitalia-platform-collapse.md) |
 | `krostin-standing-notice` `[ENTRY NOT RECOVERED]` | [The Krostin Sector](entries/krostin-sector.md) |
+| `name-survey-correspondence` `[ENTRY NOT RECOVERED]` | [Place names](entries/place-names.md) |
 | `nhath-disbursing-fund` `[ENTRY NOT RECOVERED]` | [The Nhath](entries/nhath.md) · [The Guard](entries/the-guard.md) · [The Nhath leader](entries/the-nhath-leader.md) |
 | `pre-war-genetic-survey` `[ENTRY NOT RECOVERED]` | [Humans](entries/humans.md) · [Katanzaria](entries/katanzaria.md) · [Wake](entries/wake.md) |
 | `queen-traceen` `[ENTRY NOT RECOVERED]` | [King Matthew](entries/king-matthew.md) · [Shayron](entries/shayron.md) · [The Queen's Anniversary](entries/the-queens-anniversary.md) · [Tracineim](entries/tracineim.md) |
@@ -323,5 +325,5 @@ Referenced in this volume. No entry has been recovered.
 | `strategic-covert-operations-division` `[ENTRY NOT RECOVERED]` | [Vesk Iradin](entries/vesk-iradin.md) |
 | `synthesis-process-schedule` `[ENTRY NOT RECOVERED]` | [Corefuel](entries/corefuel.md) · [Korjin Cavaris](entries/korjin-cavaris.md) |
 | `the-first-world` `[ENTRY NOT RECOVERED]` | [Johnny Plasma](entries/johnny-plasma.md) · [The Guard](entries/the-guard.md) |
-| `wake-census` `[ENTRY NOT RECOVERED]` | [The Destruction of Wake](entries/destruction-of-wake.md) · [Wake](entries/wake.md) |
+| `wake-census` `[ENTRY NOT RECOVERED]` | [The Destruction of Wake](entries/destruction-of-wake.md) · [Place names](entries/place-names.md) · [Wake](entries/wake.md) |
 | `wakeful-islands-settlement-roll` `[ENTRY NOT RECOVERED]` | [The Wakeful Islands](entries/wakeful-islands.md) |

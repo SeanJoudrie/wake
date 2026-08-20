@@ -3,7 +3,7 @@ title: Tiam Tinoppel
 slug: tiam-tinoppel
 category: character
 tier: INTACT
-cross_refs: [resmole, academy-memorial-walls, guard-academy, burial-moon, greyleaf, jimzon-cavaris]
+cross_refs: [resmole, academy-memorial-walls, guard-academy, burial-moon, greyleaf, jimzon-avaris]
 ---
 
 # TIAM TINOPPEL

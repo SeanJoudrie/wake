@@ -1,9 +1,9 @@
 ---
-title: Spara Cavaris
-slug: spara-cavaris
+title: Spara Avaris
+slug: spara-avaris
 category: character
 tier: INTACT
-cross_refs: [royal-houses, korjin-cavaris, jimzon-cavaris, wakeful-islands, planetary-defense-forces, nhath, translator-chips, powitt-cavaris, royal-shayron-defence-force]
+cross_refs: [royal-houses, korjin-avaris, jimzon-avaris, wakeful-islands, planetary-defense-forces, nhath, translator-chips, powitt-avaris, royal-shayron-defence-force]
 ---
 
 # SPARA CAVARIS
@@ -21,4 +21,4 @@ He believed all of it.
 
 She fell across a floorboard, which turned out to matter.
 
-*Cross-ref: The Royal Houses · Korjin Cavaris · Jimzon Cavaris · Powitt Cavaris · The Wakeful Islands*
+*Cross-ref: The Royal Houses · Korjin Avaris · Jimzon Avaris · Powitt Avaris · The Wakeful Islands*

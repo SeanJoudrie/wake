@@ -3,7 +3,7 @@ title: Guard rank structure
 slug: guard-rank-structure
 category: institution
 tier: INTACT
-cross_refs: [the-guard, guard-training, the-military-police, guard-board-of-directors, jimzon-cavaris, quinn-domnall, vesk-iradin, the-mothership, guard-pay]
+cross_refs: [the-guard, guard-training, the-military-police, guard-board-of-directors, jimzon-avaris, quinn-domnall, vesk-iradin, the-mothership, guard-pay]
 ---
 
 # GUARD RANK STRUCTURE

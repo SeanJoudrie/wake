@@ -3,7 +3,7 @@ title: Liles Ninzin
 slug: liles-ninzin
 category: character
 tier: INTACT
-cross_refs: [the-guard, guard-board-of-directors, board-operational-authorisations, the-great-war, planetary-defense-forces, jimzon-cavaris, miss-liles, wakeful-islands, sergeant-cotts, the-military-police]
+cross_refs: [the-guard, guard-board-of-directors, board-operational-authorisations, the-great-war, planetary-defense-forces, jimzon-avaris, miss-liles, wakeful-islands, sergeant-cotts, the-military-police]
 ---
 
 # DIRECTOR LILES NINZIN
@@ -29,4 +29,4 @@ What he says he wants, delivered like warmth:
 
 He is on a board of seven where every member can be removed by the other six, and where nobody's dissent has ever been written down.
 
-*Cross-ref: The Guard Board of Directors · Jimzon Cavaris · Miss Liles · The Wakeful Islands*
+*Cross-ref: The Guard Board of Directors · Jimzon Avaris · Miss Liles · The Wakeful Islands*

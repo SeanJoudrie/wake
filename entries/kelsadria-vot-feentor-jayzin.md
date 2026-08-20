@@ -3,7 +3,7 @@ title: Kelsadria Vot Feentor-Jayzin
 slug: kelsadria-vot-feentor-jayzin
 category: character
 tier: INTACT
-cross_refs: [royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-cavaris, brynor-kolt, torres-delprest, the-discharge-ceremony]
+cross_refs: [royal-houses, sansvor, nova-squadron, the-guard, creta, jimzon-avaris, brynor-kolt, torres-delprest, the-discharge-ceremony]
 ---
 
 # KELSADRIA VOT FEENTOR-JAYZIN
@@ -28,8 +28,8 @@ So she wanted a roof. She heard a teacher had flown in the war, got her licence,
 
 **How she works.**  She dumps her shots on the floor at the bar and pulls the disgusted face along with everybody else. She sings karaoke under protest and then sings it properly.Disciplined, methodical, always with a plan and a fallback. The exact inverse of the man she was going to marry, which is why it worked when it worked: she kept him from flying off the handle and he got her out of her own head. When it stopped working, his unpredictability left her with nothing to stand on and her need to know what came next started to feel like pressure.
 
-She said it out loud once, testing how it sounded: *Kelsa Cavaris. I like the sound of that.* He never gave her the ring. It is still in the box.
+She said it out loud once, testing how it sounded: *Kelsa Avaris. I like the sound of that.* He never gave her the ring. It is still in the box.
 
 Her enlistment ends within the year.
 
-*Cross-ref: The Royal Houses · Sansvor · Nova Squadron · Jimzon Cavaris · Torres Delprest*
+*Cross-ref: The Royal Houses · Sansvor · Nova Squadron · Jimzon Avaris · Torres Delprest*

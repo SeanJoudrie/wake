@@ -3,7 +3,7 @@ title: Jax Sheel
 slug: jax-sheel
 category: character
 tier: INTACT
-cross_refs: [the-guard, nova-squadron, yakib-yalitio, jimzon-cavaris, targath-magnetic-web, custodial-labour]
+cross_refs: [the-guard, nova-squadron, yakib-yalitio, jimzon-avaris, targath-magnetic-web, custodial-labour]
 ---
 
 # JAX SHEEL
@@ -17,4 +17,4 @@ He came into the team through Yake, trains with the twelve, and drinks with the 
 
 Steady in the air and warm on the ground. He is the one who talks, without making it heavy, about having been pulled out of his own lowest patch by people who bothered.
 
-*Cross-ref: The Guard · Nova Squadron · Yakib Yalitio · Jimzon Cavaris*
+*Cross-ref: The Guard · Nova Squadron · Yakib Yalitio · Jimzon Avaris*

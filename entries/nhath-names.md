@@ -3,7 +3,7 @@ title: Nhath names
 slug: nhath-names
 category: language
 tier: RECOVERED
-cross_refs: [nhath, nhathian, nhath-world, the-nhath-leader, translator-chips, maspin-naming-taboos, crag, spara-cavaris]
+cross_refs: [nhath, nhathian, nhath-world, the-nhath-leader, translator-chips, maspin-naming-taboos, crag, spara-avaris]
 ---
 
 # NHATH NAMES

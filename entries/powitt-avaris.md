@@ -1,9 +1,9 @@
 ---
-title: Powitt Cavaris
-slug: powitt-cavaris
+title: Powitt Avaris
+slug: powitt-avaris
 category: character
 tier: TESTIMONY
-cross_refs: [wakeful-islands, korjin-cavaris, spara-cavaris, jimzon-cavaris]
+cross_refs: [wakeful-islands, korjin-avaris, spara-avaris, jimzon-avaris]
 ---
 
 # POWITT CAVARIS
@@ -15,4 +15,4 @@ There is a headstone on the colony that reads **POWITT CAVARIS, 5 Years Old**, a
 
 His brother decided at eight that he would name his ship after him one day, and did not say so out loud for twenty years.
 
-*Cross-ref: The Wakeful Islands · Korjin Cavaris · Spara Cavaris · Jimzon Cavaris*
+*Cross-ref: The Wakeful Islands · Korjin Avaris · Spara Avaris · Jimzon Avaris*

@@ -3,7 +3,7 @@ title: Berji Keggit
 slug: berji-keggit
 category: character
 tier: INTACT
-cross_refs: [monver, planetary-defense-forces, the-guard, monver-refusal, redleaf, jimzon-cavaris, pavlock-jattern, captain-medarco, guard-quarters, the-discharge-ceremony]
+cross_refs: [monver, planetary-defense-forces, the-guard, monver-refusal, redleaf, jimzon-avaris, pavlock-jattern, captain-medarco, guard-quarters, the-discharge-ceremony]
 ---
 
 # BERJI KEGGIT

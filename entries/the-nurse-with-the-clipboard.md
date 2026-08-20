@@ -3,7 +3,7 @@ title: The nurse with the clipboard
 slug: the-nurse-with-the-clipboard
 category: character
 tier: TESTIMONY
-cross_refs: [trailblazer-base-delta, the-trailblazer-doctor, the-little-girl, jimzon-cavaris]
+cross_refs: [trailblazer-base-delta, the-trailblazer-doctor, the-little-girl, jimzon-avaris]
 ---
 
 # THE NURSE WITH THE CLIPBOARD

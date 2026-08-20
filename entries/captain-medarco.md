@@ -3,7 +3,7 @@ title: Captain Medarco
 slug: captain-medarco
 category: character
 tier: CONTESTED
-cross_refs: [berji-keggit, the-guard, jimzon-cavaris, pavlock-jattern, yakib-yalitio]
+cross_refs: [berji-keggit, the-guard, jimzon-avaris, pavlock-jattern, yakib-yalitio]
 ---
 
 # CAPTAIN MEDARCO

@@ -1,9 +1,9 @@
 ---
-title: Korjin Cavaris
-slug: korjin-cavaris
+title: Korjin Avaris
+slug: korjin-avaris
 category: character
 tier: INTACT
-cross_refs: [corefuel, wake-extraction-station, wake, guard-board-of-directors, synthesis-process-schedule, creta, wakeful-islands, spara-cavaris, jimzon-cavaris, gravity-spires]
+cross_refs: [corefuel, wake-extraction-station, wake, guard-board-of-directors, synthesis-process-schedule, creta, wakeful-islands, spara-avaris, jimzon-avaris, gravity-spires]
 ---
 
 # KORJIN CAVARIS
@@ -25,4 +25,4 @@ His contract paid on completion of the full year's quota and not a tonne before,
 
 The family was two months from moving to Creta.
 
-*Cross-ref: Corefuel · Wake Extraction Station · Gravity spires · Spara Cavaris · The Wakeful Islands*
+*Cross-ref: Corefuel · Wake Extraction Station · Gravity spires · Spara Avaris · The Wakeful Islands*

@@ -263,12 +263,12 @@ See `_conceit.md` for what the tiers mean.
 - [Graves](entries/graves.md) `RECOVERED`
 - [Hada Mariner](entries/hada-mariner.md) `INTACT`
 - [Jax Sheel](entries/jax-sheel.md) `INTACT`
-- [Jimzon Cavaris](entries/jimzon-cavaris.md) `INTACT`
+- [Jimzon Avaris](entries/jimzon-avaris.md) `INTACT`
 - [Karagash](entries/karagash.md) `RECOVERED`
 - [Kaz](entries/kaz.md) `CONTESTED`
 - [Kelsadria Vot Feentor-Jayzin](entries/kelsadria-vot-feentor-jayzin.md) `INTACT`
 - [King Matthew](entries/king-matthew.md) `INTACT`
-- [Korjin Cavaris](entries/korjin-cavaris.md) `INTACT`
+- [Korjin Avaris](entries/korjin-avaris.md) `INTACT`
 - [Liles Ninzin](entries/liles-ninzin.md) `INTACT`
 - [Maspin children](entries/maspin-children.md) `TESTIMONY`
 - [Meram Kest](entries/meram-kest.md) `CONTESTED`
@@ -280,14 +280,14 @@ See `_conceit.md` for what the tiers mean.
 - [Nardow](entries/nardow.md) `RECOVERED`
 - [Oren](entries/oren.md) `RECOVERED`
 - [Pavlock Jattern](entries/pavlock-jattern.md) `INTACT`
-- [Powitt Cavaris](entries/powitt-cavaris.md) `TESTIMONY`
+- [Powitt Avaris](entries/powitt-avaris.md) `TESTIMONY`
 - [Prodar](entries/prodar.md) `CONTESTED`
 - [Quinn Domnall](entries/quinn-domnall.md) `INTACT`
 - [Ranzi](entries/ranzi.md) `TESTIMONY`
 - [Sears](entries/sears.md) `CONTESTED`
 - [Sergeant Aren](entries/sergeant-aren.md) `INTACT`
 - [Sergeant Cotts](entries/sergeant-cotts.md) `INTACT`
-- [Spara Cavaris](entries/spara-cavaris.md) `INTACT`
+- [Spara Avaris](entries/spara-avaris.md) `INTACT`
 - [The Friend](entries/the-friend.md) `TESTIMONY`
 - [The Guard nurses](entries/the-guard-nurses.md) `RECOVERED`
 - [The Halgo family](entries/the-halgo-family.md) `TESTIMONY`
@@ -329,7 +329,7 @@ Referenced in this volume. No entry has been recovered.
 | `queen-traceen` `[ENTRY NOT RECOVERED]` | [King Matthew](entries/king-matthew.md) · [Shayron](entries/shayron.md) · [The Queen's Anniversary](entries/the-queens-anniversary.md) · [Tracineim](entries/tracineim.md) |
 | `sansvor-port-manifests` `[ENTRY NOT RECOVERED]` | [Sansvor](entries/sansvor.md) |
 | `strategic-covert-operations-division` `[ENTRY NOT RECOVERED]` | [Vesk Iradin](entries/vesk-iradin.md) |
-| `synthesis-process-schedule` `[ENTRY NOT RECOVERED]` | [Corefuel](entries/corefuel.md) · [Korjin Cavaris](entries/korjin-cavaris.md) |
+| `synthesis-process-schedule` `[ENTRY NOT RECOVERED]` | [Corefuel](entries/corefuel.md) · [Korjin Avaris](entries/korjin-avaris.md) |
 | `the-first-world` `[ENTRY NOT RECOVERED]` | [Johnny Plasma](entries/johnny-plasma.md) · [The Guard](entries/the-guard.md) |
 | `wake-census` `[ENTRY NOT RECOVERED]` | [The Destruction of Wake](entries/destruction-of-wake.md) · [Wake](entries/wake.md) |
 | `wakeful-islands-settlement-roll` `[ENTRY NOT RECOVERED]` | [The Wakeful Islands](entries/wakeful-islands.md) |

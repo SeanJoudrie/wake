@@ -3,7 +3,7 @@ title: Wake Extraction Station
 slug: wake-extraction-station
 category: location
 tier: INTACT
-cross_refs: [corefuel, wake, wakeful-islands, gravity-spires, guard-board-of-directors, korjin-cavaris, mr-armstin]
+cross_refs: [corefuel, wake, wakeful-islands, gravity-spires, guard-board-of-directors, korjin-avaris, mr-armstin]
 ---
 
 # WAKE EXTRACTION STATION
@@ -19,4 +19,4 @@ The final year on record came in at 443.6 tonnes over.
 
 **Class 2.** That rating entitles the station to point-defence parts every quarter, on request. The entitlements are all on file. The delivery notes are kept somewhere else and that series has gaps in it.
 
-*Cross-ref: Corefuel · Wake · The Wakeful Islands · Gravity spires · Korjin Cavaris · Mr Armstin*
+*Cross-ref: Corefuel · Wake · The Wakeful Islands · Gravity spires · Korjin Avaris · Mr Armstin*

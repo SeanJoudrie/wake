@@ -3,7 +3,7 @@ title: Miss Liles
 slug: miss-liles
 category: character
 tier: INTACT
-cross_refs: [liles-ninzin, the-guard, guard-board-of-directors, jimzon-cavaris]
+cross_refs: [liles-ninzin, the-guard, guard-board-of-directors, jimzon-avaris]
 ---
 
 # MISS LILES
@@ -15,4 +15,4 @@ Twenty years ago she was his girlfriend, they were both barely out of college, a
 
 She is currently off sick with ulcers, and somebody else is covering her desk. A pilot, as it happens, who is very good at diaries and did not ask for the job.
 
-*Cross-ref: Liles Ninzin · The Guard Board of Directors · Jimzon Cavaris*
+*Cross-ref: Liles Ninzin · The Guard Board of Directors · Jimzon Avaris*

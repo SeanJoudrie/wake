@@ -3,7 +3,7 @@ title: "Crag"
 slug: crag
 category: language
 tier: CONTESTED
-cross_refs: [humans, galactic-standard, nhath, vitula, targath, splendoorians, species-of-unresolved-classification, the-guard, jimzon-cavaris]
+cross_refs: [humans, galactic-standard, nhath, vitula, targath, splendoorians, species-of-unresolved-classification, the-guard, jimzon-avaris]
 ---
 
 # "CRAG"
@@ -21,4 +21,4 @@ It is not a word for a species. It is a word for a category, and it gets used id
 
 Non-humans are about a fifth of everyone alive. They are 0.8 per cent of the Guard.
 
-*Cross-ref: Humans · The Nhath · The Vitula · The Targath · Jimzon Cavaris*
+*Cross-ref: Humans · The Nhath · The Vitula · The Targath · Jimzon Avaris*

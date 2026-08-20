@@ -3,7 +3,7 @@ title: Guard training
 slug: guard-training
 category: practice
 tier: INTACT
-cross_refs: [guard-academy, the-guard, guard-rank-structure, enlistment-rites-form, jimzon-cavaris, quinn-domnall, actom]
+cross_refs: [guard-academy, the-guard, guard-rank-structure, enlistment-rites-form, jimzon-avaris, quinn-domnall, actom, tiam-tinoppel, guard-quarters]
 ---
 
 # GUARD TRAINING
@@ -12,6 +12,16 @@ cross_refs: [guard-academy, the-guard, guard-rank-structure, enlistment-rites-fo
 There are two of these and they are not the same experience at all.
 
 **The short one.** Sixteen-year-olds off poor worlds with no schooling behind them and no particular aptitude in front of them, run through in the minimum time the schedule allows. They are taught to hold a rifle, follow an order, and stand where they are put. It is ordinary infantry training and it produces ordinary infantry, and the Guard needs a great many of them and is not pretending otherwise.
+
+**Before either of them, the Scout Corps.** A summer programme for cadets with nowhere to go between academic years. Which is to say: for orphans.
+
+They clean their uniforms and their bunks until the whole billet smells of starch and metal polish, pack a bag, and march across country in formation. Rain or shine. Some days they fire at distant targets, and the cheer when somebody actually hits one is louder than the rifle was. When it rains, the drumming on the ponchos makes the world feel far away and almost safe. When the heat is bad they pass canisters between them like contraband.
+
+Thirty minutes a night are set aside for writing letters home. Most of the children draw, or scrawl messages from families they have invented. Nobody comes to collect the post.
+
+They are not beds, only frame cots and thin mats, and it does not matter, because the insects outside hum like a lullaby and every child there is tired enough to forget what is supposed to come next.
+
+It is where most of them meet the first friend they ever have.
 
 **The long one**, which is most of the establishment and everything above it.
 

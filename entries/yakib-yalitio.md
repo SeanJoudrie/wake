@@ -3,7 +3,7 @@ title: Yakib Yalitio
 slug: yakib-yalitio
 category: character
 tier: INTACT
-cross_refs: [the-guard, magboots, enlistment-rites-form, space-vaccines, jimzon-cavaris, jax-sheel, the-death-benefit, guard-pay]
+cross_refs: [the-guard, magboots, enlistment-rites-form, space-vaccines, jimzon-avaris, jax-sheel, the-death-benefit, guard-pay]
 ---
 
 # YAKIB YALITIO
@@ -24,4 +24,4 @@ Evenly tanned, because he spends his rest days outside while everyone else is in
 
 He is not the coward of this group. He is the only one keeping score.
 
-*Cross-ref: The Guard · Magboots · The enlistment rites form · Jimzon Cavaris*
+*Cross-ref: The Guard · Magboots · The enlistment rites form · Jimzon Avaris*

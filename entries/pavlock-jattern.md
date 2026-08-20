@@ -3,7 +3,7 @@ title: Pavlock Jattern
 slug: pavlock-jattern
 category: character
 tier: INTACT
-cross_refs: [marfeld, marfeld-coming-of-age-trial, marfeld-beard, the-guard, korno, jimzon-cavaris, berji-keggit, path-of-blood, path-of-root, path-of-sky, ranzi, maspin-children, guard-quarters]
+cross_refs: [marfeld, marfeld-coming-of-age-trial, marfeld-beard, the-guard, korno, jimzon-avaris, berji-keggit, path-of-blood, path-of-root, path-of-sky, ranzi, maspin-children, guard-quarters]
 ---
 
 # PAVLOCK JATTERN
@@ -33,4 +33,4 @@ Maspin children bounce with excitement when he walks past. He straightens his ba
 
 He also carries something he has never said aloud, about the man he follows and the man he wishes were standing there instead, and he hates himself for thinking it, and he cannot make it not be true.
 
-*Cross-ref: Marfeld · The Marfeld coming-of-age trial · The Marfeld beard · Korno · Jimzon Cavaris*
+*Cross-ref: Marfeld · The Marfeld coming-of-age trial · The Marfeld beard · Korno · Jimzon Avaris*

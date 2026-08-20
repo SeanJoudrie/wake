@@ -3,7 +3,7 @@ title: Modanick
 slug: modanick
 category: world
 tier: INTACT
-cross_refs: [the-guard, space-vaccines, guard-academy, the-guard-franchise, galactic-standard-law, moonball, glazberries, jimzon-cavaris]
+cross_refs: [the-guard, space-vaccines, guard-academy, the-guard-franchise, galactic-standard-law, moonball, glazberries, jimzon-avaris]
 ---
 
 # MODANICK
@@ -32,4 +32,4 @@ The world now supplies more trained physicians to the member worlds than any oth
 
 **A note on the weather.** Guard tourism material issued between GC 4440 and GC 4455 describes Modanick as warm and bright the year round. The municipal weather returns for the same years describe something else. We hold the returns.
 
-*Cross-ref: The Guard · Space vaccines · The Guard Academy · Moonball · Jimzon Cavaris*
+*Cross-ref: The Guard · Space vaccines · The Guard Academy · Moonball · Jimzon Avaris*

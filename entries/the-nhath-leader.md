@@ -3,7 +3,7 @@ title: The Nhath leader
 slug: the-nhath-leader
 category: character
 tier: INFERRED
-cross_refs: [nhath, nhathian, translator-chips, corefuel, the-guard, nhath-disbursing-fund, spara-cavaris, guard-credits, nhath-world, nhath-names]
+cross_refs: [nhath, nhathian, translator-chips, corefuel, the-guard, nhath-disbursing-fund, spara-avaris, guard-credits, nhath-world, nhath-names]
 ---
 
 # THE NHATH LEADER
@@ -19,4 +19,4 @@ He speaks flawless Galactic Standard, and enjoys the effect that has on people w
 
 **Who paid.** Eleven separate Guard engagements over nineteen years, paid in full, on time, every time, out of a fund identified in the paperwork only by an internal reference nobody has been able to resolve.
 
-*Cross-ref: The Nhath · Nhathar · Translator chips · Corefuel · Spara Cavaris*
+*Cross-ref: The Nhath · Nhathar · Translator chips · Corefuel · Spara Avaris*

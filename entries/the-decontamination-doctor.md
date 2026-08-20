@@ -3,7 +3,7 @@ title: The decontamination doctor
 slug: the-decontamination-doctor
 category: character
 tier: TESTIMONY
-cross_refs: [maspin, trailblazer-base-delta, quarantine-authority, space-vaccines, jimzon-cavaris]
+cross_refs: [maspin, trailblazer-base-delta, quarantine-authority, space-vaccines, jimzon-avaris]
 ---
 
 # THE DECONTAMINATION DOCTOR

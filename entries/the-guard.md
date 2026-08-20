@@ -15,6 +15,8 @@ A police force on a small world with a port, which is now the largest thing in t
 
 It constitutes the body as a chartered corporation selling security to subscribing worlds. That is what it is. Everything since has been growth.
 
+**The mark.** A skinny blue trident. It is painted on the hull of every station and outpost the Guard has ever touched, stitched onto the chest of every polo, and stamped on the crates that come off the supply run. On a good many worlds it is the only piece of galactic government anybody has ever actually seen.
+
 The first world is not named in the instrument, and we have not been able to establish it.
 
 **What you get for joining.** Defence, and free movement of persons between every member world.

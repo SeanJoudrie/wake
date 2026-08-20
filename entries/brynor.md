@@ -3,22 +3,18 @@ title: Brynor
 slug: brynor
 category: character
 tier: INTACT
-cross_refs: [the-personnel-series, nova-squadron, the-guard, torres, kelsadria-vot-feentor-jayzin]
+cross_refs: [nova-squadron, the-guard, torres, kelsadria-vot-feentor-jayzin]
 ---
 
 # BRYNOR
 `INTACT`
 
-Flight, Nova Squadron. An unremarkable file with one entry in it that this archive enjoys.
+A pilot with Nova Squadron, and the squadron's worst comedian. He tells jokes constantly. Roughly one in three lands, which he takes as encouragement.
 
-**Rank and hours:** entered, adequate, unexceptional
+Squadron nights are a real fixture on a mothership, and somebody has to put a name down for the stage. He put his down for a song called *Dark Holiday*, and put Kelsa's next to it.
 
-**Recreation returns.** Guard establishments file their organised recreation, because organised recreation is an appropriation and appropriations are accounted. The returns for his squadron list the programme for each evening put on.
+By his own admission he only asked because he thought she was cool and was fairly confident she would say no.
 
-His name appears on one, against a musical item, paired with another name from the same roster.
+She said yes.
 
-That is the whole of it. The Guard recorded two people intending to sing, in a ledger kept for money, and that ledger is why we know it happened.
-
-The series ends here.
-
-*Cross-ref: The personnel series · Nova Squadron · Torres · Kelsadria Vot Feentor-Jayzin*
+*Cross-ref: Nova Squadron · Kelsadria Vot Feentor-Jayzin · Torres*

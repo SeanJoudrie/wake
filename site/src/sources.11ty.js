@@ -20,7 +20,7 @@ export function render() {
       const fed = (byChapter.get(c.n) || [])
         .map((s) => bySlug.get(s))
         .filter(Boolean)
-        .sort((a, b) => a.title.localeCompare(b.title));
+        .sort((a, b) => a.title.replace(/^(the|a|an)\s+/i, "").localeCompare(b.title.replace(/^(the|a|an)\s+/i, "")));
       const links = fed.length
         ? fed
             .map((e) => `<a href="${u(`/entry/${e.slug}/`)}">${escapeHtml(e.title)}</a>`)

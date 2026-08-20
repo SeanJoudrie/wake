@@ -43,6 +43,11 @@ export const CHAPTERS = JSON.parse(
 const FIELD = /^\*\*([^*]+?):\*\* +(.+)$/;
 const GAP = /\[(?:…|\.\.\.|[A-Z][A-Z' -]{3,})\]/g;
 
+// Alphabetise on the word that matters. "The Elder Tree" files under E.
+export function sortKey(title) {
+  return title.replace(/^(the|a|an)\s+/i, "").toLowerCase();
+}
+
 export function escapeHtml(s) {
   return String(s).replace(/[&<>"]/g, (c) =>
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])
@@ -192,7 +197,7 @@ export function loadEntries() {
     .readdirSync(ENTRY_DIR)
     .filter((f) => f.endsWith(".md"))
     .map((f) => parseEntry(f.slice(0, -3), fs.readFileSync(path.join(ENTRY_DIR, f), "utf8")))
-    .sort((a, b) => a.title.localeCompare(b.title));
+    .sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title)));
 
   const bySlug = new Map(entries.map((e) => [e.slug, e]));
 
@@ -210,9 +215,9 @@ export function loadEntries() {
     .map(([slug, from]) => ({
       slug,
       name: GHOST_NAMES[slug] || slug.replace(/-/g, " "),
-      from: from.sort((a, b) => a.title.localeCompare(b.title)),
+      from: from.sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title))),
     }))
-    .sort((a, b) => b.from.length - a.from.length || a.name.localeCompare(b.name));
+    .sort((a, b) => b.from.length - a.from.length || sortKey(a.name).localeCompare(sortKey(b.name)));
 
   cache = { entries, bySlug, gaps: gapList };
   return cache;

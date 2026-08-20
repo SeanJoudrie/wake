@@ -3,7 +3,7 @@ title: Galactic Standard
 slug: galactic-standard
 category: language
 tier: INTACT
-cross_refs: [the-guard, translator-chips, astonian-dialect, crag, galactic-standard-law, nhathian, humans]
+cross_refs: [the-guard, translator-chips, astonian-dialect, crag, galactic-standard-law, nhathian, humans, scarg]
 ---
 
 # GALACTIC STANDARD

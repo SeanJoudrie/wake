@@ -3,7 +3,7 @@ title: Mr Armstin
 slug: mr-armstin
 category: character
 tier: INTACT
-cross_refs: [gravity-spires, wakeful-islands, wake-extraction-station, corefuel, wake]
+cross_refs: [gravity-spires, wakeful-islands, wake-extraction-station, corefuel, wake, housing]
 ---
 
 # MR ARMSTIN

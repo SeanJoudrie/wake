@@ -3,7 +3,7 @@ title: Magboots
 slug: magboots
 category: technology
 tier: CONTESTED
-cross_refs: [portaboards, yakib-yalitio, schedule-of-unreplaceable-classes, jax-sheel, the-wipe, standing-order-41, quantum-thread-armor]
+cross_refs: [portaboards, yakib-yalitio, schedule-of-unreplaceable-classes, jax-sheel, the-wipe, standing-order-41, quantum-thread-armor, the-scarg-moon]
 ---
 
 # MAGBOOTS

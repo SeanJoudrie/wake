@@ -3,7 +3,7 @@ title: Sansvor
 slug: sansvor
 category: world
 tier: CONTESTED
-cross_refs: [the-great-war, the-guard, dragons-blood-trees, refugee-displacement, the-autumnals, kelsadria-vot-feentor-jayzin, sansvor-port-manifests, the-detonation]
+cross_refs: [the-great-war, the-guard, dragons-blood-trees, refugee-displacement, the-autumnals, kelsadria-vot-feentor-jayzin, sansvor-port-manifests, the-detonation, housing]
 ---
 
 # SANSVOR

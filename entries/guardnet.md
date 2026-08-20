@@ -3,7 +3,7 @@ title: Guardnet
 slug: guardnet
 category: technology
 tier: INTACT
-cross_refs: [the-wipe, the-guard, guard-credits, saigo, ministry-of-propaganda, datapads, accounting-division]
+cross_refs: [the-wipe, the-guard, guard-credits, saigo, ministry-of-propaganda, datapads, accounting-division, the-relay-network]
 ---
 
 # GUARDNET

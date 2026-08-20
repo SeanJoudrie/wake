@@ -3,7 +3,7 @@ title: Ancestor faiths
 slug: ancestor-faiths
 category: practice
 tier: TESTIMONY
-cross_refs: [the-collective, nancast, katanzaria, burial-moon-chapels, guard-burial-rites]
+cross_refs: [the-collective, nancast, katanzaria, burial-moon-chapels, guard-burial-rites, the-relay-network]
 ---
 
 # ANCESTOR FAITHS

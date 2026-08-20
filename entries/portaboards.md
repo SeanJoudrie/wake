@@ -3,7 +3,7 @@ title: Portaboards
 slug: portaboards
 category: technology
 tier: CONTESTED
-cross_refs: [hoverboards, schedule-of-unreplaceable-classes, magboots, pavlock-jattern, yakib-yalitio, the-wipe, saigo, michael-vousin]
+cross_refs: [hoverboards, schedule-of-unreplaceable-classes, magboots, pavlock-jattern, yakib-yalitio, the-wipe, saigo, michael-vousin, the-scarg-moon]
 ---
 
 # PORTABOARDS

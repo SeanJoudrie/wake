@@ -3,7 +3,7 @@ title: Guard pay
 slug: guard-pay
 category: practice
 tier: INTACT
-cross_refs: [the-guard, guard-credits, standing-order-41, the-death-benefit, jimzon-avaris, yakib-yalitio, kelsadria-vot-feentor-jayzin, quinn-domnall, guard-rank-structure, guard-quarters, accounting-division, moon-of-sonaff-incident]
+cross_refs: [the-guard, guard-credits, standing-order-41, the-death-benefit, jimzon-avaris, yakib-yalitio, kelsadria-vot-feentor-jayzin, quinn-domnall, guard-rank-structure, guard-quarters, accounting-division, moon-of-sonaff-incident, apprenticeship]
 ---
 
 # GUARD PAY

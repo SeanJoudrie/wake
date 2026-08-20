@@ -3,7 +3,7 @@ title: Korno
 slug: korno
 category: world
 tier: INTACT
-cross_refs: [saigo, the-guard, pavlock-jattern, michael-vousin, guard-credits, marfeld]
+cross_refs: [saigo, the-guard, pavlock-jattern, michael-vousin, guard-credits, marfeld, apprenticeship]
 ---
 
 # KORNO

@@ -3,7 +3,7 @@ title: Indentured servitude
 slug: indentured-servitude
 category: practice
 tier: INTACT
-cross_refs: [slave-free-territory, maspin, council-of-riflo, galactic-standard-law, targath, the-guard, guard-credits, daiser, custodial-labour, debt-absolution]
+cross_refs: [slave-free-territory, maspin, council-of-riflo, galactic-standard-law, targath, the-guard, guard-credits, daiser, custodial-labour, debt-absolution, apprenticeship]
 ---
 
 # INDENTURED SERVITUDE

@@ -3,7 +3,7 @@ title: Schedule of unreplaceable classes
 slug: schedule-of-unreplaceable-classes
 category: technology
 tier: INTACT
-cross_refs: [the-great-war, plasma-rifles, hoverboards, space-vaccines, quantum-thread-armor, guard-credits, standing-order-41, saigo, maldo-steel, portaboards, holocloaks]
+cross_refs: [the-great-war, plasma-rifles, hoverboards, space-vaccines, quantum-thread-armor, guard-credits, standing-order-41, saigo, maldo-steel, portaboards, holocloaks, the-scarg-moon, housing]
 ---
 
 # SCHEDULE OF UNREPLACEABLE CLASSES

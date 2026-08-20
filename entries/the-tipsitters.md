@@ -3,7 +3,7 @@ title: The Tipsitters
 slug: the-tipsitters
 category: practice
 tier: INTACT
-cross_refs: [brynor-kolt, kelsadria-vot-feentor-jayzin, nova-squadron, the-mothership, torres-delprest, the-rec-room, greyleaf]
+cross_refs: [brynor-kolt, kelsadria-vot-feentor-jayzin, nova-squadron, the-mothership, torres-delprest, the-rec-room, greyleaf, the-relay-network]
 ---
 
 # THE TIPSITTERS

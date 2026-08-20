@@ -1,10 +1,10 @@
 # INDEX OF ENTRIES
 
-*276 entries. Compiled to GC 4462. Incomplete.*
+*281 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 148 |
+| `INTACT` | 153 |
 | `RECOVERED` | 27 |
 | `TESTIMONY` | 71 |
 | `CONTESTED` | 24 |
@@ -48,6 +48,7 @@ See `_conceit.md` for what the tiers mean.
 | [Tall](entries/tall.md) | `INTACT` |
 | [The Burial Moon](entries/burial-moon.md) | `INTACT` |
 | [The Polaris System](entries/polaris-system.md) | `INTACT` |
+| [The Scarg Moon](entries/the-scarg-moon.md) | `INTACT` |
 | [Tongishaw](entries/tongishaw.md) | `RECOVERED` |
 | [Tspa](entries/tspa.md) | `INTACT` |
 | [Wake](entries/wake.md) | `CONTESTED` |
@@ -129,6 +130,7 @@ See `_conceit.md` for what the tiers mean.
 | [The military police](entries/the-military-police.md) | `INTACT` |
 | [The personnel series](entries/the-personnel-series.md) | `INTACT` |
 | [The quarantine authority](entries/quarantine-authority.md) | `INTACT` |
+| [The relay network](entries/the-relay-network.md) | `INTACT` |
 | [Trailblazer Logistics](entries/trailblazer-logistics.md) | `INTACT` |
 
 ## Events and history
@@ -150,6 +152,7 @@ See `_conceit.md` for what the tiers mean.
 | Entry | Tier |
 |---|---|
 | [Ancestor faiths](entries/ancestor-faiths.md) | `TESTIMONY` |
+| [Apprenticeship](entries/apprenticeship.md) | `INTACT` |
 | [Aster](entries/aster.md) | `TESTIMONY` |
 | [Cargo cults](entries/cargo-cults.md) | `TESTIMONY` |
 | [Civilian dress](entries/civilian-dress.md) | `INTACT` |
@@ -162,6 +165,7 @@ See `_conceit.md` for what the tiers mean.
 | [Guard pay](entries/guard-pay.md) | `INTACT` |
 | [Guard rations](entries/guard-rations.md) | `INTACT` |
 | [Guard training](entries/guard-training.md) | `INTACT` |
+| [Housing](entries/housing.md) | `INTACT` |
 | [Humanist supremacy](entries/humanist-supremacy.md) | `TESTIMONY` |
 | [Indentured servitude](entries/indentured-servitude.md) | `INTACT` |
 | [Johnny Plasma](entries/johnny-plasma.md) | `TESTIMONY` |
@@ -260,6 +264,7 @@ See `_conceit.md` for what the tiers mean.
 | [Maspin names](entries/maspin-naming-taboos.md) | `TESTIMONY` |
 | [Nhath names](entries/nhath-names.md) | `RECOVERED` |
 | [Nhathian](entries/nhathian.md) | `RECOVERED` |
+| [Scarg](entries/scarg.md) | `INTACT` |
 | [The Astonian dialect](entries/astonian-dialect.md) | `TESTIMONY` |
 | [The Maspin alphabet](entries/maspin-alphabet.md) | `TESTIMONY` |
 

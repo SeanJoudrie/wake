@@ -3,7 +3,7 @@ title: Gravity spires
 slug: gravity-spires
 category: technology
 tier: INTACT
-cross_refs: [corefuel, wakeful-islands, wake-extraction-station, atmospheric-masks, mr-armstin]
+cross_refs: [corefuel, wakeful-islands, wake-extraction-station, atmospheric-masks, mr-armstin, housing]
 ---
 
 # GRAVITY SPIRES

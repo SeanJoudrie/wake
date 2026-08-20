@@ -3,7 +3,7 @@ title: Michael Vousin
 slug: michael-vousin
 category: character
 tier: RECOVERED
-cross_refs: [trailblazers, saigo, guardnet, simulationism, trailblazer-logistics, portaboards]
+cross_refs: [trailblazers, saigo, guardnet, simulationism, trailblazer-logistics, portaboards, apprenticeship]
 ---
 
 # MICHAEL VOUSIN

@@ -9,12 +9,14 @@ cross_refs: [the-guard, guard-academy, foundation-day, guard-board-of-directors,
 # JOHNNY PLASMA
 `TESTIMONY`
 
-Founding figure of the Guard in popular and educational account. Not a historical person.
+The man who founded the Guard, who never existed.
 
-**The account.** A lone man of no rank and no property who walked from world to world in the years after the war, settling quarrels, disarming warlords, teaching the keeping of order, and moving on without payment. He is credited with the founding of the Guard, is said to have refused every office in it, and is said in most versions to be still walking.
+The story: after the war, one man with no rank and no property walked from world to world settling quarrels, facing down warlords, teaching people how to keep order, and moving on without taking payment. He founded the Guard and refused every office in it. In most versions he is still out there walking.
 
-**Standing.** The account is not held to be true by anyone the Restoration has interviewed, including the children to whom it is taught, including the instructors who teach it. It is nonetheless universal across the member worlds and appears in the standard curriculum at two points.
+**Nobody believes it.** Not the children who are taught it, not the instructors teaching it. Everybody knows. It is in the standard curriculum at two points and it is universal across the member worlds anyway.
 
-**The record.** The Guard's incorporation instrument is `INTACT`. It names nine founders by name and prior title. Four were general officers. Five held commercial interests in shipping, insurance and salvage. It is filed three entries from this one.
+**Why bother.** Because the alternative is the incorporation instrument, which survives, and names nine actual founders: four generals of armies that no longer existed and five men with money in shipping, insurance and salvage.
 
-*Cross-ref: The Guard · The Guard Academy · Foundation Day · The Guard Board of Directors · The first world `[ENTRY NOT RECOVERED]`*
+A founding myth makes you a nation. That document makes you a company.
+
+*Cross-ref: The Guard · The Guard Academy · Foundation Day · The first world `[ENTRY NOT RECOVERED]`*

@@ -9,16 +9,16 @@ cross_refs: [the-guard, johnny-plasma, guard-board-of-directors, season-of-long-
 # FOUNDATION DAY
 `INTACT`
 
-Annual observance of the incorporation of the Guard. Galactic Calendar, fixed date, GC 4406 and every year since. A corporate observance. It is not a religious one and is not described as one in any Guard material.
+The Guard's birthday, and the best-documented event in this volume by an enormous margin.
 
-**Documentation.** Complete. The Restoration holds the incorporation instrument, the register of the first fifty-six observances, the parade orders for each, the licensing paperwork for the vendors, the municipal road-closure notices, the catering invoices, and 4,192 photographic plates.
+Same date every year since GC 4406. Assembly at nine, an address by whichever Director is nearest, a parade, a flyover if there is a fleet in the system, food for everybody, and a broadcast in the evening. It is not a religious holiday and the Guard is clear about that.
 
-**Observance.** Fixed programme: assembly at 0900 local, address by the ranking Director present, parade, fleet flyover where a fleet is in the system, public feeding, evening broadcast. Attendance figures are filed by ticketed entry and are precise. Attendance at the GC 4461 principal observance is filed at 218,406.
+It is also observed almost everywhere. Twelve member worlds hold it on a different local date, for harvest or weather reasons, each by a written dispensation, each of which we have.
 
-**Member worlds.** Observance is not compulsory and is near-universal. Twelve member worlds hold the day on their own local date for reasons of harvest or climate, each by specific written dispensation, each dispensation held in this archive.
+**Why we hold so much of it.** Because the Guard photographed itself. We have the incorporation papers, the register of all fifty-six observances, the parade orders, the vendor licences, the road closures, the catering invoices, and 4,192 photographic plates.
 
-The Restoration notes that Guard ministerial material of the last two decades characterises the religious observances of member and non-member peoples as impediments to scheduling. That material is `INTACT` and extensive.
+Attendance at the main event last year: 218,406, counted at the gate.
 
-*[Compiler's note: this entry was assembled in an afternoon. The entry that follows it in this volume took nine years and is four sentences long.]*
+*[Compiler's note: this entry took an afternoon. The one after it in this volume took nine years and is four sentences long.]*
 
-*Cross-ref: The Guard · Johnny Plasma · Guard Board of Directors · The Season of Long Nights*
+*Cross-ref: The Guard · Johnny Plasma · The Season of Long Nights*

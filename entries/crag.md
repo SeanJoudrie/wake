@@ -3,26 +3,22 @@ title: "Crag"
 slug: crag
 category: language
 tier: CONTESTED
-cross_refs: [humans, galactic-standard, nhath, vitula, targath, splendoorians, species-of-unresolved-classification, the-guard]
+cross_refs: [humans, galactic-standard, nhath, vitula, targath, splendoorians, species-of-unresolved-classification, the-guard, jimzon-cavaris]
 ---
 
 # "CRAG"
 `CONTESTED`
 
-A term of abuse in Galactic Standard, applied to non-human persons.
+The slur. It means non-human, all of them, any of them.
 
-**Attested usage.** General, across every human population in this archive. In speech at every social level, in service messes, in commerce, and in the home. It is not a regional term and is not a class term.
+It is not a word for a species. It is a word for a category, and it gets used identically on peoples who have nothing whatsoever to do with each other. A Nhath and a Vitula and a Targath share no biology, no history and no language, and one syllable covers all three.
 
-**Range.** The term does not denote a species. It denotes the category of non-human persons entire, and is applied without distinction to peoples of no relation to one another.
+**Where it came from.** Nobody knows. There is no first use, no derivation, and nobody who can tell you. It shows up in the recovered material already in general circulation, with no gloss, as though it never needed one.
 
-**Exemption.** The Restoration records, because the usage returns show it consistently, that speakers frequently exempt particular individuals or particular peoples from the term while continuing to apply it to the category. The exemption is offered as a compliment and is understood as one. It does not reduce the use of the term and appears to sustain it.
+**The exemption.** People who use it will very often exempt somebody. This one is different. This one is all right. It is offered as a compliment and taken as one, and it does not reduce how often the word gets used. It is what lets everyone go on using it.
 
-We record this and do not comment on it.
+**Where it sits.** It is not in Galactic Standard law. Nothing prohibits it. Guard notices discourage it in the messes, which are the only official documents anywhere that admit the word exists, and they are notices about language rather than about people.
 
-**Origin.** Not established. `[NO SURVIVING PRIMARY SOURCE]` The Restoration has found no first attestation, no derivation, and no informant with an account of where the word came from. It appears in the recovered material already in general use, without gloss, as though it required none.
+Non-humans are about a fifth of everyone alive. They are 0.8 per cent of the Guard.
 
-**Institutional position.** The term does not appear in Galactic Standard law and is not prohibited by it. Guard personnel notices discourage its use in the messes. Those notices are the only official documents in this archive that acknowledge the word exists, and they are notices about language rather than about persons.
-
-Non-human personnel as a proportion of Guard establishment: 0.8 per cent. Non-human persons as a proportion of galactic population: approximately 20 per cent.
-
-*Cross-ref: Humans · Galactic Standard · The Nhath · The Vitula · The Targath · Splendoorians*
+*Cross-ref: Humans · The Nhath · The Vitula · The Targath · Jimzon Cavaris*

@@ -9,16 +9,16 @@ cross_refs: [burial-moon, burial-moon-chapels, enlistment-rites-form, academy-me
 # GUARD BURIAL RITES
 `INTACT`
 
-The disposal of the Guard dead. Administered from the enrolment record.
+Whatever you wrote on the form when you signed, the Guard does. That is the promise and it is kept.
 
-**Entitlement.** Every person under contract is entitled to interment or cremation according to the rites recorded on their enrolment form, a standard plot on the Burial Moon, transport of the remains, and the attendance of two family members at Guard expense.
+Cremation or burial, your faith or none of them, a plot on the Burial Moon at no cost, your remains transported, and two family members brought out at the Guard's expense to stand there.
 
-**Chargeable.** Custom monument. Custom plot. Attendance beyond two. Repatriation to a world other than the Burial Moon. The schedule of charges is filed and is itemised.
+Anything beyond that is chargeable: a custom stone, a particular plot, a third relative, or sending you home to your own world instead.
 
-**Performance.** Where remains are not recovered, the entitlement is discharged by a service without interment and the name is added to the memorial walls at the ordinary annual addition.
+**When there are no remains.** The obligation is discharged with a service and no interment, and the name goes onto the memorial walls at the annual addition like everyone else.
 
-**Mass service.** The establishment provides for individual services. Where the number of dead exceeds the capacity of the establishment, the schedule permits a combined service, at the discretion of the caretaker establishment, with one service conducted for all.
+**When there are too many.** One paragraph in the schedule permits a single combined service, at the caretakers' discretion, when the numbers are past what the moon can handle.
 
-The provision is one paragraph. It has been used. The return for its use records attendance as a figure and the number commemorated as a range.
+It has been used.
 
-*Cross-ref: The Burial Moon · The Burial Moon chapels · The enlistment rites form · The Academy memorial walls · Kitalia*
+*Cross-ref: The Burial Moon · The Burial Moon chapels · The enlistment rites form · Kitalia*

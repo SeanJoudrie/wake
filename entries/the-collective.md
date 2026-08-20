@@ -7,19 +7,19 @@ cross_refs: [ancestor-faiths, maspin, elder-tree-interment-rite, dead-moon-raide
 ---
 
 # THE COLLECTIVE
-*the faith has no name recorded in any source. The heading is the Restoration's*
+*the faith has no name of its own. This heading is ours*
 `TESTIMONY`
 
-Faith holding that the soul on death joins all other souls, and that the accumulation of them is God.
+When you die your soul joins every other soul, and that accumulation is God.
 
-**Doctrine, as reported.** God is not prior to the dead and is not separate from them. God is what the dead have made and is still making. Prayer is therefore addressed to the whole history of one's own kind.
+Not a god who was there first and made everything. God is what the dead have built, is still being built, and you are going to be part of it.
 
-The moral consequence is the substance of the faith and is stated by adherents before anything else. If people are bad, God becomes a bad God, and a cruel one, and the living will be absorbed into it. Conduct is therefore urgent, and is urgent as a matter of construction rather than of obedience. Adherents describe their obligation in the language of building and maintenance.
+**Which makes being good urgent.** If people are cruel, God becomes cruel, and then everyone who dies afterwards goes into a cruel God. Adherents do not talk about this in terms of sin or reward. They talk about it the way an engineer talks about a structure that everybody is adding to whether they mean to or not.
 
-**Distribution.** Widely scattered and not organised. Attested on the cold outer moons, among the raider populations of the same sector, and in forms the Restoration is not certain are the same faith on several inner worlds. Missionary transmission from Sonaff accounts for part of the distribution.
+Praying means addressing the entire dead history of your own kind. Not asking. Contributing.
 
-**Note.** The Maspin account of return to the subterranean ocean is not this faith and is held by our informants to be a description of a physical fact rather than of an afterlife. The Restoration records the resemblance and the distinction.
+**Where you find it.** Scattered, unorganised, out on the cold moons, and among raider populations that will not accept contact of any other kind. Missionaries carried it from Sonaff. Versions of it turn up on inner worlds and we are not certain they are the same faith.
 
-**Naming.** The faith has no name in any of our sources. Adherents refer to it descriptively or not at all. The heading used here is ours and should not be taken as attested.
+**A distinction.** The Maspin returning to the ocean under their crust is not this. They are describing something they consider a physical fact, not an afterlife.
 
-*Cross-ref: Ancestor faiths · Maspin · The Elder Tree interment rite · The Dead Moon raiders*
+*Cross-ref: Ancestor faiths · The Elder Tree interment rite · The Dead Moon raiders · Sonaff*

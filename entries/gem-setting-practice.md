@@ -3,16 +3,16 @@ title: The gem-setting practice
 slug: gem-setting-practice
 category: practice
 tier: TESTIMONY
-cross_refs: [gem-mosaic-wall, elder-tree-interment-rite, elder-tree, academy-memorial-walls, the-maspin]
+cross_refs: [gem-mosaic-wall, elder-tree-interment-rite, elder-tree, academy-memorial-walls, the-maspin, maspin-naming-taboos]
 ---
 
 # THE GEM-SETTING PRACTICE
 `TESTIMONY`
 
-The setting of a stone into the wall of the Elder Tree chamber following an interment. One stone, one person.
+Every Maspin wears a stone. When they die, it goes into the wall.
 
-The stone is taken from a necklace worn in life. It is set by a member of the household or the Council, in a space where there is room. There is no inscription, no date, and no order.
+It is taken off the necklace they wore in life and set by somebody from the household, or by a councillor, wherever there happens to be room. No inscription, no date, nothing written at all.
 
-Asked how a family finds a particular stone afterward, our informants said that they do not, and that this is not what the wall is for.
+Asked how a family finds their own stone afterwards, they said that they do not, and looked mildly puzzled that anyone would want to.
 
 *Cross-ref: The gem mosaic wall · The Elder Tree interment rite · The Academy memorial walls*

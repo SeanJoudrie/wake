@@ -3,22 +3,22 @@ title: Galactic Standard law
 slug: galactic-standard-law
 category: practice
 tier: INTACT
-cross_refs: [the-guard, indentured-servitude, slave-free-territory, the-guard-franchise, plasma-rifles, beryllium-rifles, species-of-unresolved-classification]
+cross_refs: [the-guard, indentured-servitude, slave-free-territory, the-guard-franchise, plasma-rifles, beryllium-rifles, species-of-unresolved-classification, custodial-labour]
 ---
 
 # GALACTIC STANDARD LAW
 `INTACT`
 
-The universal legal code of the member worlds. Binding everywhere the Guard's writ runs. Coexists with planetary law, which is local, subordinate, and rarely disturbed.
+The code that runs everywhere, sitting on top of whatever your own world does.
 
-**The two tiers.** A member world legislates freely for itself. The Guard may strike any planetary statute at any time by resolution. In fifty-three years it has done so on 41 occasions, of which 38 concerned taxation or port dues.
+A member world writes its own statutes and the Guard leaves them alone. It can strike any of them at any time and in fifty-three years has done so forty-one times, thirty-eight of which were about tax or port dues, because that is what the Guard actually minds about.
 
-**Universality of the code.** The code applies everywhere. Enforcement does not. Nothing in the code or in any standing order requires uniform enforcement, provides for a complaint of selective enforcement, or establishes a body to receive one.
+**The part that matters.** The code applies everywhere. Enforcement does not, and nothing in the code requires it to. There is no provision for complaining that a law was applied to you and not your neighbour, and no body that would hear it.
 
-The practical consequence is documented across the prosecution returns. Conduct lawful in practice on one world for decades has, on other worlds and in particular years, supported charge and conviction. The most frequently cited provisions in the returns are those governing automatic plasma weapons, unlicensed transit, and materiel possession, all three of which are lawful under planetary statute somewhere.
+So automatic plasma weapons are lawful under local statute on nineteen worlds and unlawful under the code on all of them, and both facts sit there until somebody needs one of them. A world can run for decades doing something openly and then find out it was illegal the whole time, on the day that becomes useful.
 
-**Slavery.** Prohibited absolutely, in the strongest language in the code. The prohibition has no enforcement schedule, no inspectorate, and no penalty provision. Related arrangements, including indenture, are catalogued separately and are lawful.
+The laws are not there to be applied. They are there to be available.
 
-**Sentencing.** Custodial terms may be extended by administrative decision on stated grounds. The grounds are set out in the schedule. Custodial labour returns and sentence-extension returns are filed and are precise.
+**Slavery.** Prohibited absolutely, in the strongest language in the entire code. There is no inspectorate, no penalty schedule, and no enforcement mechanism attached to it.
 
-*Cross-ref: The Guard · Indentured servitude · "Slave-free territory" · The Guard franchise · Beryllium rifles*
+*Cross-ref: The Guard · Indentured servitude · "Slave-free territory" · Custodial labour · Beryllium rifles*

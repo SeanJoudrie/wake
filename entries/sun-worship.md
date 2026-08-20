@@ -3,20 +3,20 @@ title: Sun worship
 slug: sun-worship
 category: practice
 tier: TESTIMONY
-cross_refs: [polaris, hyperspace-slipstream, ancestor-faiths, corefuel]
+cross_refs: [polaris, hyperspace-slipstream, ancestor-faiths, corefuel, polaris-system]
 ---
 
 # SUN WORSHIP
 `TESTIMONY`
 
-A class of practice, older than spaceflight, holding that a star communicates and may be answered.
+Older than spaceflight. It holds that a star talks, and that you can answer it.
 
-**Doctrine, as reported.** A star is the point toward which all energy in its system falls, and is therefore a collection of everything that occurs on the worlds around it. What it receives it returns. The returned signal is held to be patterned rather than continuous, and to be readable with training.
+**The reasoning, which is better than people expect.** A star is the point everything in its system falls toward. Light, heat, matter, all of it ends up there. So a star is a collection of everything that has happened on every world around it, and what it takes in, it sends back out. The signal is held to be patterned rather than constant, and readable with training.
 
-Some traditions hold further that the slipstream lanes are dictated by this signal, and that a lane exists where a star has consented to one.
+Some traditions go further and say the slipstream lanes are its doing. A lane exists where a star has agreed to one.
 
-**Standing.** Widespread, ancient, and in most places residual. It survives most strongly in agricultural systems and in the outer settlements.
+**Where it survives.** Everywhere, thinly, and strongly in farming systems and out on the rim.
 
-**Note.** In the Polaris system the star, the system, the calendar and the licensing house all carry one name. The Restoration has not been able to establish whether the practice in that system is directed at the star or at anything else, and our informants there did not welcome the question.
+**A note about Polaris.** In that system the star, the system, the shared calendar and the family holding the licence on the harvest all carry one name. We have not been able to establish what the practice there is actually addressed to, and the people we asked did not enjoy the question.
 
-*Cross-ref: Polaris · Hyperspace slipstream · Ancestor faiths*
+*Cross-ref: Polaris · The Polaris System · Hyperspace slipstream · Ancestor faiths*

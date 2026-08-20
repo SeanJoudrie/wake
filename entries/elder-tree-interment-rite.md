@@ -9,16 +9,20 @@ cross_refs: [elder-tree, the-abyss, gem-mosaic-wall, gem-setting-practice, the-m
 # THE ELDER TREE INTERMENT RITE
 `TESTIMONY`
 
-The funerary rite of the settled belt, Maspin. Conducted in the chamber at the base of the Elder Tree.
+How the Maspin bury their dead, which is not burial.
 
-**Sequence, as described by witnesses.** The chamber fills. Singing begins and is taken up. The person to be interred stands at the edge of the opening and sings over it. The hood is lowered. A necklace is removed and set down. The person steps backward into the opening.
+The chamber fills. Somebody starts singing and the room takes it up. The person being interred walks to the edge of the opening in the floor and sings over it. Then the hood comes down, the necklace comes off and is set on the ground, and they step backward into the hole.
 
-Blue vapour rises afterward and is described as being taken up by the tree.
+Blue steam comes up afterwards and the tree takes it in.
 
-The stone from the necklace is set into the chamber wall.
+The stone from the necklace goes into the wall.
 
-**Participation.** The rite is not restricted. Humans and other peoples attend and are not separated. Two of the three witnesses who described the rite to this archive were human, and neither had been told in advance what they would see.
+**Everyone attends.** Humans, Maspin, anybody who is there. Nothing is arranged differently for outsiders and nobody is warned in advance what they are about to watch. Two of the three visitors who described this to us had no idea what was happening until it had happened.
 
-**Volition.** Every account describes the person as walking to the opening unassisted. The Restoration has asked, in the plainest terms it could manage, whether the timing of the rite is chosen by the person interred. Our informants understood the question and did not regard it as an important one.
+**They walk.** Every account has the person going to the edge unassisted and stepping back on their own. We asked, as plainly as we could manage, whether the timing is chosen by the person being interred. They understood the question perfectly well. They did not think it was an important one.
 
-*Cross-ref: The Elder Tree · The Abyss · The gem mosaic wall · The gem-setting practice · The Collective*
+> *Even graves grow flowers, I may sink like a stone,*
+> *For what we know, for what we know,*
+> *But you'll never be alone.*
+
+*Cross-ref: The Elder Tree · The Abyss · The gem mosaic wall · The gem-setting practice*

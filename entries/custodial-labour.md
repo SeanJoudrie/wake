@@ -9,20 +9,14 @@ cross_refs: [galactic-standard-law, targath, targath-magnetic-web, indentured-se
 # CUSTODIAL LABOUR
 `INTACT`
 
-Work performed under sentence. Lawful, extensively documented, and the third of the three arrangements that a slave-free declaration does not cover.
+Prison work. Not a camp exactly, and not a prison exactly either.
 
-**Extension.** A custodial term may be lengthened by administrative decision on grounds set out in the schedule. The schedule is held. The grounds are broad and the decision is not appealable.
+A sentence can be extended by administrative decision on grounds set out in a schedule. The grounds are broad, the decision is not appealable, and the numbers are unambiguous: 41,206 terms extended over twenty years, against 88 reduced.
 
-Terms extended, GC 4442 to GC 4461: 41,206. Terms reduced in the same period: 88.
+**Where.** Two Guard installations take most of it. One of them mines magnetic ore. What that ore is for does not appear anywhere.
 
-**Where it is done.** Two Guard installations account for most of it. One of them mines magnetic ore, extraction returns filed by tonnage, purpose of the extracted material not filed at all.
+**Who.** The rolls are kept by species. Non-humans are about a fifth of everyone alive and about three fifths of these rolls. Targath turn up at a rate the population numbers cannot account for.
 
-**Who does it.** The rolls are filed by name and by species. Non-human persons make up approximately 20 per cent of the galactic population and 61 per cent of these rolls. Targath appear at a rate the population figures cannot explain.
+**Why it is defended.** Guard material puts it in terms of the bigger picture: the work needs doing, the sentences exist anyway, and member states that fall behind on their obligations can be reminded that both of those things are true.
 
-The rolls have been filed this way, in this format, with this column, every year since GC 4431.
-
-**The justification.** Guard ministerial material puts it in terms of the bigger picture: labour is needed, sentences exist, and member states that fall behind on obligations can be reminded of both. That formulation appears in the material itself and is not ours.
-
-*[Compiler's note: we requested the species column totals from the division and were sent them without comment, by return, in nine days. It is the fastest answer we have ever had to anything.]*
-
-*Cross-ref: Galactic Standard law · The Targath · Indentured servitude · "Slave-free territory" · Jax · "Crag"*
+*Cross-ref: Galactic Standard law · The Targath · Indentured servitude · Jax*

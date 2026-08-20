@@ -3,18 +3,16 @@ title: Aster
 slug: aster
 category: practice
 tier: TESTIMONY
-cross_refs: [shayron, tracineim, royal-houses]
+cross_refs: [shayron, tracineim, royal-houses, cillus-vot-shayron-skoln]
 ---
 
 # ASTER
 `TESTIMONY`
 
-A goddess of the Shayron tradition. Held to act indirectly and by means not apparent to the petitioner.
+A goddess of the Shayron tradition, who is held to act sideways.
 
-Devotion is personal and domestic. The characteristic formulation, given to us in nearly identical words by four informants, is that Aster works in ways that are not to be understood at the time.
+The devotion is personal and domestic rather than congregational, and the phrase everyone uses is close to identical: Aster works in ways you are not meant to understand at the time. It is what people say when something has gone badly and they are not ready to call it meaningless.
 
-Whether Aster is a distinct figure or an aspect of Tracine is disputed among our informants and is not a question the Restoration is competent to settle. Both accounts are held.
+Whether she is her own figure or an aspect of Tracine is argued about by the people who observe her, and we are not qualified to settle it. Both accounts are held here.
 
-Attributed to K., Shayron, and to three others.
-
-*Cross-ref: Shayron · Tracineim*
+*Cross-ref: Shayron · Tracineim · Cillus Vot Shayron-Skoln*

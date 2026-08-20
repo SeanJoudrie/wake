@@ -9,14 +9,14 @@ cross_refs: [the-maspin, maspin, fermented-kraskor, pickled-inside-barked-myceli
 # MASPIN DIETARY PRACTICE
 `TESTIMONY`
 
-The Maspin take the greater part of their sustenance by absorption, drawing byproduct from plant life in the manner that other peoples take oxygen, with a higher proportion of water vapour.
+Mostly they do not eat. They stand among plants and take what comes off them, the way everyone else takes oxygen, with a good deal more water vapour in it.
 
-**Eating.** Where food is taken, it is liquid or near-liquid. Fruit is pulped, watered and drunk, which is to say absorbed into the vapour of the body. Most substances can be taken this way provided they are broken down sufficiently first.
+When they do eat it is liquid, or close enough. Fruit gets pulped and watered down and drunk, which for a body made of smoke means absorbed rather than swallowed. Most things can be taken that way if they are broken down far enough first.
 
-Nothing in the Maspin diet is chewed. Every recorded preparation is fermented, pickled, pulped, brewed or reduced.
+**Nothing is chewed.** Everything in the cuisine is fermented, pickled, pulped, brewed or reduced, and the good stuff takes years.
 
-**Recorded dishes.** Fermented kraskor. Pickled inside-barked mycelium. A local wine. The first two are described in the Council's own submissions as staple delicacies of the cuisine, which is the only occasion in this archive on which a Maspin document describes food.
+There is a wine. There is fermented kraskor and there is pickled inside-barked mycelium, and those two are what the Council names when it wants to impress somebody.
 
-**Export.** Kraskor is exported in a form the Maspin do not themselves eat, and the fruits for which the world is known offworld are shipped whole to buyers who chew them.
+The strange part is what they sell. Kraskor go out live and whole to worlds that will chew them, and the famous Maspin fruits get shipped intact to people who bite into them.
 
 *Cross-ref: The Maspin · Fermented kraskor · Pickled inside-barked mycelium · Kraskor*

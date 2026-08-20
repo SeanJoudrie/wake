@@ -9,18 +9,18 @@ cross_refs: [the-maspin, maspin, council-of-riflo, season-of-long-nights, marfel
 # THE GIFT OF MEMORY
 `TESTIMONY`
 
-Maspin rite. A memory is given rather than described.
+You do not tell a Maspin what happened to you. You give them a tear and they feel it.
 
-**Form.** The giver is collected at the festival by an appointed member of the people. The memory is not spoken. It is carried in a single tear, which is taken.
+> *Do not tell. Share a tear.*
 
-The formulation given to us, in these words, by every informant who would discuss it at all: *Do not tell. Share a tear.*
+At the festival someone comes to collect it. You hold a memory, a real one, whatever moves you, and it goes into a single tear, and that is taken. Love, grief, joy, the worst thing you have ever seen. The kind does not matter.
 
-**Requirement.** The memory must be true and must be one that moves the giver. Love, grief, joy or pain are all acceptable. A memory selected for effect is described by our informants as detectable and as an insult, and no informant would tell us how it is detected.
+**It has to be true.** A memory picked for effect is detectable, is an insult, and the Maspin will not explain how they know.
 
-**Function.** The rite is how the Maspin come to feel what another person has felt. Understanding among them is not assumed and is not asked for. It is given, once, and it costs something.
+**What it is for.** It is how they come to understand another person. They do not assume understanding and they do not ask for it. It is given once, deliberately, and it costs the giver something to hand over.
 
-**Use.** The rite appears in the Council's dealings with outside parties as a term. Where the Council concludes an agreement with a foreign party, a Gift of Memory may be required of the party's representative alongside the material terms, and is recorded in the Council's minute in the same list.
+The Council asks for one from foreign parties. It sits in the minutes alongside credits and shipping like any other term of an agreement, because to the Maspin it is one.
 
-**Note for readers of other worlds.** Several cultures in this volume forbid the speaking of certain experiences. Where such a person gives this gift, they have not found a way around their own rule. They have broken it.
+Several cultures in this volume forbid a person from ever speaking about certain things. When someone from one of those worlds gives this gift, they have not found a clever way around their own rule. They have broken it.
 
-*Cross-ref: The Maspin · Maspin · The Council of Riflo · The Season of Long Nights · The Marfeld coming-of-age trial*
+*Cross-ref: The Maspin · The Council of Riflo · The Season of Long Nights · The Marfeld coming-of-age trial*

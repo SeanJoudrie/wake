@@ -3,18 +3,20 @@ title: Neo-alchemy
 slug: neo-alchemy
 category: practice
 tier: RECOVERED
-cross_refs: [hyperspace-slipstream, simulationism, corefuel]
+cross_refs: [hyperspace-slipstream, simulationism, corefuel, cargo-cults]
 ---
 
 # NEO-ALCHEMY
 `RECOVERED`
 
-An esoteric practice claiming the manipulation of dark matter. Few practitioners. Secretive by rule.
+Secret books, small meetings, and a claim to manipulate dark matter.
 
-The Restoration holds four documents, all partial, all in private hands and examined under condition. They are notational rather than doctrinal, and the notation is not one we can read. `[RECORD DAMAGED]`
+There are very few practitioners and they are organised the way this sort of thing is always organised: closed groups, initiation, degrees, and a great deal of ceremony around not telling anyone.
 
-Practitioners are organised in small closed groups with initiation and degrees. Membership appears from the surviving correspondence to overlap substantially with wealth and hardly at all with the engineering professions, which distinguishes the practice from Simulationism, with which it is sometimes confused.
+We hold four documents, all partial, all in private hands and examined under conditions. They are notation rather than doctrine and it is not a notation we can read.
 
-No claim made by the practice has been tested by anyone.
+**Who is in it.** From the correspondence, membership tracks wealth closely and engineering hardly at all, which is the clearest line between this and Simulationism, with which it gets confused by people who have met neither.
+
+Nothing it claims has ever been tested by anyone.
 
 *Cross-ref: Hyperspace slipstream · Simulationism*

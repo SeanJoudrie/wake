@@ -9,12 +9,14 @@ cross_refs: [humans, crag, the-guard, katanzaria, guard-academy]
 # HUMANIST SUPREMACY
 `TESTIMONY`
 
-A tenet holding that humans are of a superior order, that their spread through the stars is proper and destined, and that acts performed in service of it require no further justification, including acts against one another.
+That humans are a superior order of thing, that spreading through the stars is theirs by right, and that whatever was done to get here needed no excuse.
 
-**Standing.** It is not organised. It has no body, no clergy, no rite, no text and no register. It is nonetheless the most widely expressed doctrine in this volume, appearing unprompted in testimony from every human world the Restoration has surveyed, generally in the mouths of people who would deny holding a religious position of any kind.
+**It is not a religion anyone joins.** There is no body, no clergy, no rite, no text, no register. There is nothing to sign.
 
-**Characteristic expressions,** recorded verbatim across unconnected worlds: that the species is a near-perfect design; that the stars were left for us; that whatever was done, it got us here.
+It is also the single most widely expressed belief in this volume. It turns up unprompted in testimony from every human world we have surveyed, almost always from people who would tell you flatly that they hold no religious position of any kind.
 
-**Institutional position.** No institution in this archive professes it. No institution in this archive contradicts it. Guard educational material describes human achievement in terms the Restoration finds difficult to distinguish from the doctrine, and describes it as history.
+**How it sounds.** Recorded word for word, on worlds with no contact with one another: that we are a near-perfect design. That the stars were left for us. That whatever happened, it got us here.
+
+**Nobody teaches it and nobody argues with it.** No institution in this archive professes it. No institution in this archive contradicts it. Guard educational material describes human achievement in terms we have difficulty telling apart from the doctrine, and files it under history.
 
 *Cross-ref: Humans · "Crag" · The Guard · Katanzaria*

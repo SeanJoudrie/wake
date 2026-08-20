@@ -10,16 +10,16 @@ cross_refs: [the-guard, schedule-of-unreplaceable-classes, guard-credits, the-ca
 *recovery of materiel*
 `INTACT`
 
-Guard standing order governing the removal of property from cleared objectives.
+The looting rule.
 
-**Provision.** Materiel of value at a cleared objective is to be recovered rather than destroyed. Recovered materiel is accounted to the Guard, except for items falling within the retention schedule, which may be retained by the recovering personnel.
+When an objective is cleared, anything of value is to be recovered rather than destroyed, and most of it is accounted to the Guard. But there is a schedule of things the people who did the clearing may simply keep: personal effects, currency under a threshold, jewellery, watches, small arms below a class, food, and anything with no assessed strategic value.
 
-**The retention schedule.** Personal effects. Currency below a stated value. Ornament and jewellery. Timepieces. Small arms below a stated class. Consumables. Items of no assessed strategic value.
+That last category is doing a great deal of work.
 
-**Amendment.** Twice, GC 4431 and GC 4447. On both occasions the retention schedule was widened. The Restoration holds both amending instruments and the memoranda accompanying them. Both memoranda give the reason as the reduction of destruction at objectives.
+**It has been widened twice**, in GC 4431 and GC 4447, both times with a memorandum explaining that this will reduce destruction at objectives.
 
-**Accounting.** Retained items are not accounted. The order provides that items within the retention schedule need not be entered, on the stated ground that entering them would be administratively disproportionate.
+**Nothing kept under the schedule is written down.** The order says entering it would be administratively disproportionate.
 
-**Consequence for the record.** The Restoration observes, as an archival rather than a legal matter, that the effect of the order is that the contents of a cleared objective are dispersed among individuals and are not inventoried, and that no reconstruction of what was present at such a site is possible afterward from Guard documents.
+Which means that after a Guard unit has been through a place, the contents of that place have been distributed among individuals and no inventory exists. Nobody can reconstruct what was there. That is not an oversight in the order. It is a clause of it.
 
-*Cross-ref: The Guard · The Schedule of unreplaceable classes · Guard credits · The cartels*
+*Cross-ref: The Guard · The Schedule of unreplaceable classes · The cartels*

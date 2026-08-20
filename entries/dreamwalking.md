@@ -9,16 +9,16 @@ cross_refs: [floom-eggs, sensory-tanks, maspin, the-collective, pre-human-inhabi
 # DREAMWALKING
 `TESTIMONY`
 
-A body of belief holding that the soul is tethered to the body rather than contained by it, and that in deep sleep or unconsciousness the tether slackens.
+The belief that the soul is tied to the body rather than kept inside it, and that in deep sleep or unconsciousness the tie goes slack.
 
-**Doctrine, as reported.** The soul may be moved while the body is unoccupied, including across time. Adherents describe consciousness as possessing something like weight, which draws it back to its body, and hold that the draw can be overcome.
+While it is slack the soul can be moved. Including, adherents say, through time.
 
-The practical claims made by informants are specific and are recorded here as claims. That a period of unconsciousness in early life leaves the body unoccupied for that duration, and that the duration remains available afterward. That a person restored in this way returns at the age they then were. That the practice was once instrumented, and that a device existed for directing the soul rather than merely loosening it.
+**The mechanics they describe.** Consciousness has something like weight, and that weight pulls it back toward its body. Overcome the pull and it goes elsewhere. A stretch of unconsciousness earlier in your life leaves the body unoccupied for that long, and that unoccupied time stays available afterwards. Two days in a coma at twenty buys you two days at forty, and while you are using them you are twenty.
 
-**Distribution.** Scattered. Attested among Maspin practitioners in connection with floom preparations, among two monastic traditions on Shayron, and in the folk medicine of four unconnected worlds.
+They also hold that this was once done with instruments rather than by accident, and that a device existed for pointing a soul somewhere rather than merely loosening it.
 
-**Assessment.** The Restoration takes no view. We note that the accounts we have collected are unusually consistent in their mechanics and unusually inconsistent in everything else, which is the reverse of the pattern we see in most religious testimony, and that we do not know what to make of it.
+**Where it turns up.** Among Maspin practitioners working with floom preparations, in two monastic traditions on Shayron, and in the folk medicine of four worlds with no connection to each other.
 
-Attributed to eleven informants across six worlds.
+**Why we have not dismissed it.** Religious testimony is normally consistent about meaning and wildly inconsistent about mechanism. This is the other way round. The accounts agree in detail about how it is supposed to work and disagree about what it is for, and we do not know what to make of that.
 
-*Cross-ref: Floom eggs · Sensory tanks · Maspin · The Collective*
+*Cross-ref: Floom eggs · Sensory tanks · The Collective · Pre-human inhabitants of Wake*

@@ -3,7 +3,7 @@ title: Liles Ninzin
 slug: liles-ninzin
 category: character
 tier: INTACT
-cross_refs: [the-guard, guard-board-of-directors, board-operational-authorisations, the-great-war, planetary-defense-forces, jimzon-cavaris, miss-liles, wakeful-islands, sergeant-cotts]
+cross_refs: [the-guard, guard-board-of-directors, board-operational-authorisations, the-great-war, planetary-defense-forces, jimzon-cavaris, miss-liles, wakeful-islands, sergeant-cotts, the-military-police]
 ---
 
 # DIRECTOR LILES NINZIN

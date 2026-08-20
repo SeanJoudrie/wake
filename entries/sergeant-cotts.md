@@ -3,7 +3,7 @@ title: Sergeant Cotts
 slug: sergeant-cotts
 category: character
 tier: INTACT
-cross_refs: [the-guard, the-mothership, standing-order-41, sergeant-aren, liles-ninzin]
+cross_refs: [the-guard, the-mothership, standing-order-41, sergeant-aren, liles-ninzin, the-military-police]
 ---
 
 # SERGEANT COTTS

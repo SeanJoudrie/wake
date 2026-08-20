@@ -3,7 +3,7 @@ title: Sergeant Aren
 slug: sergeant-aren
 category: character
 tier: INTACT
-cross_refs: [the-guard, the-mothership, sergeant-cotts]
+cross_refs: [the-guard, the-mothership, sergeant-cotts, the-military-police]
 ---
 
 # SERGEANT AREN

@@ -3,7 +3,7 @@ title: Jimzon Cavaris
 slug: jimzon-cavaris
 category: character
 tier: INTACT
-cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-cavaris, spara-cavaris, powitt-cavaris, the-guard, liles-ninzin, kelsadria-vot-feentor-jayzin, pavlock-jattern, berji-keggit, yakib-yalitio, jax-sheel, modanick, crag, tiam-tinoppel, the-personnel-series]
+cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-cavaris, spara-cavaris, powitt-cavaris, the-guard, liles-ninzin, kelsadria-vot-feentor-jayzin, pavlock-jattern, berji-keggit, yakib-yalitio, jax-sheel, modanick, crag, tiam-tinoppel, the-personnel-series, guard-quarters, guard-pay, guard-rank-structure]
 ---
 
 # JIMZON CAVARIS

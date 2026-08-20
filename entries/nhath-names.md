@@ -26,8 +26,8 @@ A new clan may be founded at any time and starts at one. Nobody is impressed by 
 
 **Succession, in full:**
 
-> *Kakavai-Shtuv Aroniela-Kipo Deva* — Strongskull Moonchild 87
-> *Peus-Maika Aroniela-Kipo Desa* — Bighands Moonchild 88
+> *Kakavai-Shtuv Aroniela-Kipo Deva* · Strongskull Moonchild 87
+> *Peus-Maika Aroniela-Kipo Desa* · Bighands Moonchild 88
 
 The father's skull and the son's hands. The moon stays where it is, and the number moves one.
 

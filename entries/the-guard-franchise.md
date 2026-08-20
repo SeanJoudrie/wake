@@ -3,7 +3,7 @@ title: The Guard franchise
 slug: the-guard-franchise
 category: practice
 tier: INTACT
-cross_refs: [the-guard, guard-board-of-directors, galactic-standard-law, guard-credits]
+cross_refs: [the-guard, guard-board-of-directors, galactic-standard-law, guard-credits, civilian-dress]
 ---
 
 # THE GUARD FRANCHISE

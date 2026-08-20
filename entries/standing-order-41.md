@@ -3,7 +3,7 @@ title: Standing order 41
 slug: standing-order-41
 category: practice
 tier: INTACT
-cross_refs: [the-guard, schedule-of-unreplaceable-classes, guard-credits, the-cartels, guard-board-of-directors]
+cross_refs: [the-guard, schedule-of-unreplaceable-classes, guard-credits, the-cartels, guard-board-of-directors, guard-pay]
 ---
 
 # STANDING ORDER 41

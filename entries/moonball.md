@@ -3,7 +3,7 @@ title: Moonball
 slug: moonball
 category: practice
 tier: INTACT
-cross_refs: [modanick, hoverboards, lerroni, zonar]
+cross_refs: [modanick, hoverboards, lerroni, zonar, civilian-dress]
 ---
 
 # MOONBALL

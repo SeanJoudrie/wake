@@ -1,10 +1,10 @@
 # INDEX OF ENTRIES
 
-*240 entries. Compiled to GC 4462. Incomplete.*
+*248 entries. Compiled to GC 4462. Incomplete.*
 
 | Tier | Entries |
 |---|---|
-| `INTACT` | 133 |
+| `INTACT` | 141 |
 | `RECOVERED` | 25 |
 | `TESTIMONY` | 57 |
 | `CONTESTED` | 19 |
@@ -58,6 +58,7 @@ See `_conceit.md` for what the tiers mean.
 
 | Entry | Tier |
 |---|---|
+| [Guard quarters](entries/guard-quarters.md) | `INTACT` |
 | [J.LOT](entries/j-lot.md) | `INTACT` |
 | [Kelton City](entries/kelton-city.md) | `INTACT` |
 | [Riflo](entries/riflo.md) | `INTACT` |
@@ -103,6 +104,7 @@ See `_conceit.md` for what the tiers mean.
 | Entry | Tier |
 |---|---|
 | [C.O.R.D.](entries/cord.md) | `RECOVERED` |
+| [Guard rank structure](entries/guard-rank-structure.md) | `INTACT` |
 | [House Kafkee](entries/house-kafkee.md) | `RECOVERED` |
 | [House Polaris](entries/house-polaris.md) | `INTACT` |
 | [Nova Squadron](entries/nova-squadron.md) | `INTACT` |
@@ -121,6 +123,7 @@ See `_conceit.md` for what the tiers mean.
 | [The Trailblazers](entries/trailblazers.md) | `INTACT` |
 | [The accounting division](entries/accounting-division.md) | `INTACT` |
 | [The cartels](entries/the-cartels.md) | `CONTESTED` |
+| [The military police](entries/the-military-police.md) | `INTACT` |
 | [The personnel series](entries/the-personnel-series.md) | `INTACT` |
 | [The quarantine authority](entries/quarantine-authority.md) | `INTACT` |
 | [Trailblazer Logistics](entries/trailblazer-logistics.md) | `INTACT` |
@@ -145,11 +148,14 @@ See `_conceit.md` for what the tiers mean.
 | [Ancestor faiths](entries/ancestor-faiths.md) | `TESTIMONY` |
 | [Aster](entries/aster.md) | `TESTIMONY` |
 | [Cargo cults](entries/cargo-cults.md) | `TESTIMONY` |
+| [Civilian dress](entries/civilian-dress.md) | `INTACT` |
 | [Custodial labour](entries/custodial-labour.md) | `INTACT` |
 | [Dreamwalking](entries/dreamwalking.md) | `TESTIMONY` |
 | [Foundation Day](entries/foundation-day.md) | `INTACT` |
 | [Galactic Standard law](entries/galactic-standard-law.md) | `INTACT` |
 | [Guard burial rites](entries/guard-burial-rites.md) | `INTACT` |
+| [Guard pay](entries/guard-pay.md) | `INTACT` |
+| [Guard training](entries/guard-training.md) | `INTACT` |
 | [Humanist supremacy](entries/humanist-supremacy.md) | `TESTIMONY` |
 | [Indentured servitude](entries/indentured-servitude.md) | `INTACT` |
 | [Johnny Plasma](entries/johnny-plasma.md) | `TESTIMONY` |
@@ -172,6 +178,8 @@ See `_conceit.md` for what the tiers mean.
 | [The Path of Sky](entries/path-of-sky.md) | `TESTIMONY` |
 | [The Queen's Anniversary](entries/the-queens-anniversary.md) | `INTACT` |
 | [The Season of Long Nights](entries/season-of-long-nights.md) | `TESTIMONY` |
+| [The death benefit](entries/the-death-benefit.md) | `INTACT` |
+| [The discharge ceremony](entries/the-discharge-ceremony.md) | `INTACT` |
 | [The enlistment rites form](entries/enlistment-rites-form.md) | `INTACT` |
 | [The gem-setting practice](entries/gem-setting-practice.md) | `TESTIMONY` |
 | [Tracineim](entries/tracineim.md) | `TESTIMONY` |

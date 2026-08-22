@@ -7,6 +7,7 @@ working from paper after **The Wipe**.
 ## Layout
 
 ```
+manuscript/         The draft the corpus was compiled from. See manuscript/README.md.
 site/               Eleventy build of the browsable site. See site/README.md.
 design/PLAN.md      The design plan: palette, faces, wireframe, decisions.
 title.md            The epigraph page. One line.

@@ -25,7 +25,7 @@ ${inlineEntry(e, resolveRefs(e, bySlug, gaps))}
       )
       .join("\n");
 
-    return `<details class="cat" open>
+    return `<details class="cat">
 <summary>
 <h2>${label}</h2>
 <span class="cat-count">${rows.length} entries</span>

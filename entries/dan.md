@@ -1,13 +1,12 @@
 ---
-title: Dan
+title: Diontesheempluntornskalla (Dan)
 slug: dan
 category: character
 tier: TESTIMONY
 cross_refs: [council-of-riflo, the-maspin, maspin, gift-of-memory, maspin-naming-taboos, riflo]
 ---
 
-# DAN
-*full name: Diontesheempluntornskalla*
+# DIONTESHEEMPLUNTORNSKALLA (DAN)
 `TESTIMONY`
 
 A councillor of Riflo, and the one who will actually talk to you.

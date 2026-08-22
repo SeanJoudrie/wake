@@ -17,6 +17,4 @@ A Trailblazer in logistics, and the man at the festival table who does the intro
 
 He is also the one who calls for the Yinmelon story, and he has heard it before.
 
-*[Compiler's note: a Guard corporal of the same name appears in an unrelated action, wounded and evacuated. We have not established whether these are one man or two, and we are not going to assume.]*
-
 *Cross-ref: The Trailblazers · Vando · Michael Vousin · Riflo*

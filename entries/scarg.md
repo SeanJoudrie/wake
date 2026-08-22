@@ -3,7 +3,7 @@ title: "Scarg"
 slug: scarg
 category: language
 tier: INTACT
-cross_refs: [the-scarg-moon, galactic-standard, crag, guard-credits, refugee-displacement]
+cross_refs: [the-scarg-moon, galactic-standard, crag, guard-credits, refugee-displacement, profanity]
 ---
 
 # "SCARG"

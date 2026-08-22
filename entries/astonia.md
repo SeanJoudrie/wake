@@ -3,7 +3,7 @@ title: Astonia
 slug: astonia
 category: world
 tier: INTACT
-cross_refs: [astonian-annexation, astonian-dialect, astonian-coral, astonian-milk, astonians, the-cartels, royal-houses, the-guard, guard-academy]
+cross_refs: [astonian-annexation, astonian-dialect, astonian-coral, astonian-milk, astonians, the-cartels, royal-houses, the-guard, guard-academy, royal-scrip]
 ---
 
 # ASTONIA

@@ -3,7 +3,7 @@ title: Polaris scrip
 slug: polaris-scrip
 category: technology
 tier: INTACT
-cross_refs: [polaris-system, kelton, weton, guard-credits, kelton-city, dorrow]
+cross_refs: [polaris-system, kelton, weton, guard-credits, kelton-city, dorrow, royal-scrip]
 ---
 
 # POLARIS SCRIP

@@ -3,7 +3,7 @@ title: The Astonian Annexation
 slug: astonian-annexation
 category: event
 tier: INTACT
-cross_refs: [astonia, astonians, astonian-dialect, royal-houses, the-cartels, the-guard, astonian-milk]
+cross_refs: [astonia, astonians, astonian-dialect, royal-houses, the-cartels, the-guard, astonian-milk, royal-scrip]
 ---
 
 # THE ASTONIAN ANNEXATION

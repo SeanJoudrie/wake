@@ -3,7 +3,7 @@ title: Maspin
 slug: maspin
 category: world
 tier: INTACT
-cross_refs: [the-maspin, council-of-riflo, elder-tree, flooms, kraskor, indentured-servitude, slave-free-territory, trailblazers, gift-of-memory, maspin-dietary-practice, riflo, beryllium-rifles, season-of-long-nights, daiser, the-old-maspin-veteran, maspin-children, the-friend, the-decontamination-doctor]
+cross_refs: [royal-scrip, the-maspin, council-of-riflo, elder-tree, flooms, kraskor, indentured-servitude, slave-free-territory, trailblazers, gift-of-memory, maspin-dietary-practice, riflo, beryllium-rifles, season-of-long-nights, daiser, the-old-maspin-veteran, maspin-children, the-friend, the-decontamination-doctor]
 ---
 
 # MASPIN
@@ -26,7 +26,7 @@ Jungle to the horizon in every direction, and under it an ocean nobody has seen.
 
 Survey material confirms a large subsurface body of water. It says nothing else at all.
 
-**What it costs to be here.** Maspin remits to the Royal houses, and the figure is filed to the credit: **10,000,000 royal credits** in the most recent solar rotation returned.
+**What it costs to be here.** Maspin remits to the Royal houses, and the figure is filed to the credit: **10,000,000 in Royal scrip** in the most recent solar rotation returned.
 
 Against that we can set no disbursement, no relief, and no acknowledgement of receipt. The Council's file records fourteen requests for assistance across nineteen years. We hold no reply to any of them, and the Council says none came.
 

@@ -3,7 +3,7 @@ title: Field aliases
 slug: field-aliases
 category: practice
 tier: TESTIMONY
-cross_refs: [jimzon-avaris, pavlock-jattern, berji-kegeron, calsco-fritt, royal-houses, house-polaris, maspin-naming-taboos, zonar, trailblazer-base-delta]
+cross_refs: [smelvin, dometre-polaris, grugg-treeleaf, guard-nicknames, royal-houses, house-polaris, house-kafkee, maspin-naming-taboos, zonar, trailblazer-base-delta, council-of-riflo]
 ---
 
 # FIELD ALIASES
@@ -13,12 +13,12 @@ The names men use when their own have become a problem, and the reliable comedy 
 
 A good alias is boring. It sounds like somebody's cousin. It survives being said out loud to a customs officer who is not listening. The ones that get used are almost never the ones that get chosen carefully.
 
-**Smelvin Klombo.** Invented years earlier for a drinking trip on Zonar, retired, and then brought back into service because it was the only one its owner could remember. It works, in the sense that nobody has ever repeated it back without pausing first.
+**Smelvin.** Nobody has ever repeated it back without pausing first, which is a failure of the first rule and has never once been a problem, because a customs officer who pauses over a name is a customs officer thinking about the name.
 
-**Dometré Polaris.** Arrived after a failed first attempt at *James Predator*, which was abandoned mid-sentence. Polaris is a Royal surname and reasonably common on Shayron, which is either excellent cover or an extremely expensive mistake depending on who is checking.
+**Dometré Polaris.** Polaris is a Royal surname and reasonably common on Shayron, which is either excellent cover or an extremely expensive mistake depending entirely on who happens to be checking. On the one recorded occasion, the person checking was a governing council that had been waiting nine years for somebody from that family to turn up.
 
 **Grugg Treeleaf.** Assigned to a man who was unconscious at the time and had no say in it whatsoever. Nobody has yet had the heart to tell him under what circumstances it was decided.
 
 **The rule everybody forgets.** The alias is the easy part. The hard part is the story attached to it, and the story is where people die: a farmer with plasma scars, a prince with a beard, a native of a world that has not had a hurricane in two hundred years describing this year's hurricanes.
 
-*Cross-ref: The Royal Houses · Calsco Fritt · Maspin names*
+*Cross-ref: Smelvin · Dometré Polaris · Grugg Treeleaf · Guard nicknames · The Royal Houses · Maspin names*

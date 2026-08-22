@@ -3,7 +3,7 @@ title: The Council of Riflo
 slug: council-of-riflo
 category: institution
 tier: TESTIMONY
-cross_refs: [maspin, riflo, council-chamber-of-riflo, palace-of-riflo, the-maspin, trailblazers, indentured-servitude, gift-of-memory, season-of-long-nights, daiser, dan]
+cross_refs: [maspin, riflo, council-chamber-of-riflo, palace-of-riflo, the-maspin, trailblazers, indentured-servitude, gift-of-memory, season-of-long-nights, daiser, dan, royal-scrip]
 ---
 
 # THE COUNCIL OF RIFLO

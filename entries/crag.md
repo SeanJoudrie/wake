@@ -3,7 +3,7 @@ title: "Crag"
 slug: crag
 category: language
 tier: CONTESTED
-cross_refs: [humans, galactic-standard, nhath, vitula, targath, splendoorians, species-of-unresolved-classification, the-guard, jimzon-avaris, scarg]
+cross_refs: [humans, galactic-standard, nhath, vitula, targath, splendoorians, species-of-unresolved-classification, the-guard, jimzon-avaris, scarg, profanity]
 ---
 
 # "CRAG"

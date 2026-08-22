@@ -3,7 +3,7 @@ title: House Kafkee
 slug: house-kafkee
 category: institution
 tier: RECOVERED
-cross_refs: [royal-houses, maldo, tracineim]
+cross_refs: [royal-houses, maldo, tracineim, dometre-polaris]
 ---
 
 # HOUSE KAFKEE

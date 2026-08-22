@@ -6,7 +6,7 @@ tier: INTACT
 cross_refs: [corefuel, wake-extraction-station, wake, guard-board-of-directors, synthesis-process-schedule, creta, wakeful-islands, spara-avaris, jimzon-avaris, gravity-spires]
 ---
 
-# KORJIN CAVARIS
+# KORJIN AVARIS
 `INTACT`
 
 Chemist, engineer, and the man who worked out how to turn the core of a dead planet into fuel.

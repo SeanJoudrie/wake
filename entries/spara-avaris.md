@@ -6,7 +6,7 @@ tier: INTACT
 cross_refs: [royal-houses, korjin-avaris, jimzon-avaris, wakeful-islands, planetary-defense-forces, nhath, translator-chips, powitt-avaris, royal-shayron-defence-force]
 ---
 
-# SPARA CAVARIS
+# SPARA AVARIS
 `INTACT`
 
 A decorated Royal Space Force pilot who left the service, married a chemist, and raised two boys on an asteroid.

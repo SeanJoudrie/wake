@@ -7,8 +7,8 @@ art_caption: "staff sergeant jimzon avaris"
 cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-avaris, spara-avaris, powitt-avaris, the-guard, liles-ninzin, kelsadria-vot-feentor-jayzin, pavlock-jattern, berji-kegeron, yakib-yalitio, jax-sheel, modanick, crag, tiam-rockstead-tinoppel, the-personnel-series, guard-quarters, guard-pay, guard-rank-structure, plasma-knives, holocloaks, field-aliases, breaching-kit, marriage, the-guard-corridor]
 ---
 
-# JIMZON CAVARIS
-*also: Jim · Jimzy · Jimz · Jimzo · Jimbo · Jimmy*
+# JIMZON AVARIS
+*also: Jim · Jimzy · Jimz · Jimmy · Jimzo · Jimbo · Jizzbo · Jizzin*
 `INTACT`
 
 Twenty-six. Spec Ops Staff Sergeant, and the man the rest of Castle Team follows without anyone ever having decided that.
@@ -21,7 +21,13 @@ His armour is black and deliberately unshined, with a blue visor. He paints it h
 
 He wears glasses some of the time, and there is no pattern to when.
 
-Everyone who likes him has a different name for him, and none of them agreed on one. Calsco Fritt calls him something else entirely, on purpose, and waits every single time for the correction that never comes.
+**What he gets called.** Everyone who likes him has a different name for him and not one of them agreed with any other.
+
+*Jimzy* is the colony name. Two people used it and both of them were on that rock: his mother, pointing at a star and telling him it was where he was born, and the neighbour with the sweets. Nobody has called him that since he was eight.
+
+*Jim* comes from the people who knew him before he was anybody, and it is what he gets in the sentences that are about to be difficult. *Jimz* is his own team, and it is the one used when somebody has noticed he has gone quiet. *Jimmy* is the radio.
+
+And then there is Calsco Fritt, who has called him Jimzo, Jimbo, Jizzbo and Jizzin, on four separate occasions, and has not once used the right one. He waits every time for the correction. It has never come.
 
 A promotion to Captain is sitting on somebody's desk. He failed officer school once already, years ago, and has not mentioned that in a while.
 

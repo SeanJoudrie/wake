@@ -1,5 +1,7 @@
 # The Wake Encyclopedia
 
+### **[Read it here → seanjoudrie.github.io/wake](https://seanjoudrie.github.io/wake/)**
+
 The in-world archive for the novel *WAKE*: the artifact the fictional world produced, not a
 companion guide. Compiled by **The Restoration**, an underfunded civilian reclamation body
 working from paper after **The Wipe**.

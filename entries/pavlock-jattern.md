@@ -21,6 +21,8 @@ He drew summer. Heat, insects that never let up, and blisters. The first thing h
 
 That is where he decided to be an engineer. Building the thing you need out of whatever is lying near you turns out to be a career.
 
+**Which is not the job he has.** He is a combat engineer, which is that skill with a deadline and people shooting. What he wants is astral engineering, on the civilian side, where the thing you build is meant to last and nobody is timing you. He can describe it in detail. He has never filed anything about it.
+
 No man who finishes the trial may speak about it. He never has.
 
 **The beard.** It grew on him out there, and on Marfeld they say hair remembers. You may shape it, trim it, dye it. You do not shave, and shaving means renouncing your family. He spent fourteen months fighting Guard paperwork for the exemption rather than pick up a razor.

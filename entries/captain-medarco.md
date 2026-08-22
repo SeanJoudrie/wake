@@ -9,7 +9,7 @@ cross_refs: [jimzon-avaris, berji-kegeron, yakib-yalitio, guard-training, actom,
 # CAPTAIN MEDARCO
 `TESTIMONY`
 
-He ran their training, he was a bastard about it, and the only reason this archive knows his name is that one of them still does the impression.
+An officer they served under years ago who was a bastard the entire time, and the only reason this archive knows his name is that one of them still does the impression.
 
 **What survives.** Not a service record, not a posting history, not a photograph. A posture: shoulders back, chin up, and a voice pitched into the flat bark of a man reading out an announcement he did not write.
 
@@ -21,7 +21,7 @@ It is performed standing on a table, drunk, with a crumpled napkin held under th
 
 Every item on that list is something the men in the room did, which is why the bit works and why it has survived a decade of telling.
 
-**The thing about him.** Nobody performing this is being cruel about a man they hated. They are quoting somebody who shaped all of them and was unpleasant the entire time, and the affection in it is real and would horrify everyone involved if it were pointed out.
+**The thing about him.** Nobody performing this is being cruel about a man they hated. They are quoting a man who made a stretch of their lives worse and is now a bit they can do at a table, which is the only revenge available against an officer and is more than most of them get.
 
 **And why it lands in a room he has never entered.** Because everybody there has met him. Not him specifically. The other one, on their first posting, under a different name.
 

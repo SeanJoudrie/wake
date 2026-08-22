@@ -37,9 +37,9 @@ A promotion to Captain is sitting on somebody's desk. He failed officer school o
 
 He grew up on the Corefuel colony in the wreckage of Wake, where his father ran the station. The family was two months from moving to Creta.
 
-**What he carries.** A grey stone he picked up on the colony road when he was eight. He has had it for twenty years and it is smooth because he rubs it. His mother's Royal service pistol, cleaned since he was old enough to be shown how. A gold holowatch, a gift from a general, shined and with an audible tick to it. An engagement ring in a velvet box that has not been opened in front of anybody.
+**What he carries.** A grey stone he picked up on the colony road when he was seven. He has had it ever since and it is smooth because he rubs it. His mother's Royal service pistol, cleaned since he was old enough to be shown how. A gold holowatch, a gift from a general, shined and with an audible tick to it. An engagement ring in a velvet box that has not been opened in front of anybody.
 
-**What he is like.** Impulsive to the point of recklessness, and funnier in private than anyone outside the team would believe. Table impressions, at length, standing on the furniture. A napkin moustache and the drill instructor who trained all of them. A microwave that went out of a window. He reads his own silence as steadiness and does not notice that everyone around him reads it as absence.
+**What he is like.** Impulsive to the point of recklessness, and funnier in private than anyone outside the team would believe. Table impressions, at length, standing on the furniture. A napkin moustache and a captain they all served under once. A microwave that went out of a window. He reads his own silence as steadiness and does not notice that everyone around him reads it as absence.
 
 He is casually bigoted about non-humans in the ordinary, unexamined way of somebody raised where he was raised, and he is unthinkingly kind to children, and he would be embarrassed to have either one pointed out.
 

@@ -15,4 +15,6 @@ His employer died. He took the next contract, because the next contract had the 
 
 He is in the compound for the same reason the floor is in the compound.
 
+The employer's son died there too. Nobody has recorded whether the two of them were in the same room.
+
 *Cross-ref: The Vitula · Indentured servitude · The Cartels · Nardow*

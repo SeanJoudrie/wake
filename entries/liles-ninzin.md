@@ -13,7 +13,7 @@ Old enough that his knees are a joke between the two of them. A general long eno
 
 **He is the man who lifted the floorboard.** He was on the patrol that reached the Wake colony after the raid, and he found a boy under his mother's body when everyone else had written the settlement off.
 
-He and his then-girlfriend took the child in. They were barely out of college and doing what they could for someone with nowhere else to go. There was an eighth birthday with a small cake, a cheap dinner, and laughter that felt borrowed and was meant kindly.
+He and his then-girlfriend took the child in. They were barely out of college and doing what they could for someone with nowhere else to go. His eighth birthday was the first one he had with them: a small cake, a cheap dinner, and laughter that felt borrowed and was meant kindly.
 
 They were always kind, and the kindness is what made the distance worse.
 

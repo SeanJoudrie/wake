@@ -15,8 +15,10 @@ Bloated and grey, moving on several limbs at once, in the manner of a thing that
 
 **The son.** He has one, and the boy is nothing like him: a crustacean, wine-red shell, crab maw, green eyes with no iris in them, hair like seaweed.
 
-He is also, at this stage of his life, not there. The young of some lineages in this classification pass through a long period, years and sometimes a decade, in which the body is awake and capable and responsive to stimulus and there is no one home behind it yet. It is not an illness. It is a stage he has not reached the end of.
+He is also, at this stage of his life, not there. The young of some lineages in this classification pass through a long period, years and sometimes a decade, in which the body is awake and capable and responsive to stimulus and there is no one home behind it yet. It is not an illness and it is not a disability. It is a stage, and it ends.
 
-Every asset Nardow owns is held in trust in that boy's name. He is building an empire for an heir who cannot perceive him.
+His did not. He was killed in the compound before it did.
+
+Every asset his father owned was held in trust in that boy's name. He was building an empire for an heir who never perceived him and was never going to.
 
 *Cross-ref: The cartels · Species of unresolved classification · The Vitula · Standing order 41*

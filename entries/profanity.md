@@ -3,7 +3,7 @@ title: Profanity
 slug: profanity
 category: language
 tier: INTACT
-cross_refs: [galactic-standard, crag, scarg, astonian-dialect, the-guard, guard-nicknames, the-great-war, the-relay-network, humans, the-wipe]
+cross_refs: [galactic-standard, crag, scarg, the-guard, guard-nicknames, the-relay-network, humans, the-restoration]
 ---
 
 # PROFANITY
@@ -15,11 +15,11 @@ Four words do almost all of the work, they are the same four words on every worl
 
 Everything else is regional, weak, and disappearing.
 
-**The thing worth noticing.** Galactic Standard has flattened sixty-one languages out of existence inside two generations. The teaching material is produced centrally. Local features go, dialects go, whole tongues go, and our survey found no living speaker for any of them.
+**The thing worth noticing.** Nobody teaches this. It is not in the centrally produced material, has never been printed in a primer, and no foundation anywhere has ever taught it under contract.
 
-The obscenity did not go. It is not in the teaching material, it has never been printed in a primer, no foundation has ever taught it under contract, and it is the single most uniform element of the language across every world we have surveyed.
+It is also, of everything in Galactic Standard, the part that varies least. A Guardsman off Modanick and a dock hand on a world that has never had a garrison reach for the same word, in the same position in the sentence, at the same provocation.
 
-Nobody transmitted it deliberately. It moved anyway, on ships, in messes, between strangers who had nothing else in common, and it arrived intact.
+Nobody transmitted it deliberately. It moved anyway, on ships, in messes, between strangers with nothing else in common, and it arrived intact.
 
 **Where it is not allowed.** Two of the eleven tower proprietors refuse it outright, which is why there are worlds where a broadcast drama sounds like nobody has ever been annoyed.
 
@@ -27,6 +27,6 @@ Nobody transmitted it deliberately. It moved anyway, on ships, in messes, betwee
 
 Which is the whole distinction. The words people apologise for are the ones that mean nothing.
 
-*[Compiler's note: we cannot reconstruct a single pre-war language from what survives. We have four hundred and forty-four clean attestations of these four words.]*
+*[Compiler's note: our holdings are eighty per cent commercial and administrative paperwork, in which nobody swears at all. Everything in this entry comes from the four thousand two hundred and six testimonies, where they do, constantly, and where nobody once stopped to explain what they meant.]*
 
-*Cross-ref: Galactic Standard · "Crag" · "Scarg" · The Astonian dialect · The relay network*
+*Cross-ref: Galactic Standard · "Crag" · "Scarg" · Guard nicknames · The relay network*

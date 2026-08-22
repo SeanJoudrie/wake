@@ -13,9 +13,9 @@ The names men use when their own have become a problem, and the reliable comedy 
 
 A good alias is boring. It sounds like somebody's cousin. It survives being said out loud to a customs officer who is not listening. The ones that get used are almost never the ones that get chosen carefully.
 
-**Smelvin.** Nobody has ever repeated it back without pausing first, which is a failure of the first rule and has never once been a problem, because a customs officer who pauses over a name is a customs officer thinking about the name.
+**Smelvin Klombo.** Invented years earlier for a drinking trip on Zonar, retired, and then brought back into service because it was the only one its owner could remember. It works, in the sense that nobody has ever repeated it back without pausing first.
 
-**Dometré Polaris.** Polaris is a Royal surname and reasonably common on Shayron, which is either excellent cover or an extremely expensive mistake depending entirely on who happens to be checking. On the one recorded occasion, the person checking was a governing council that had been waiting nine years for somebody from that family to turn up.
+**Dometré Polaris.** Arrived after a failed first attempt at *James Predator*, which was abandoned mid-sentence. Polaris is a Royal surname and reasonably common on Shayron, which is either excellent cover or an extremely expensive mistake depending on who is checking.
 
 **Grugg Treeleaf.** Assigned to a man who was unconscious at the time and had no say in it whatsoever. Nobody has yet had the heart to tell him under what circumstances it was decided.
 

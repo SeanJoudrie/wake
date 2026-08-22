@@ -1,18 +1,20 @@
 ---
-title: Smelvin
+title: Smelvin Klombo
 slug: smelvin
 category: character
 tier: RECOVERED
 cross_refs: [dometre-polaris, grugg-treeleaf, trailblazer-base-delta, the-nurse-with-the-clipboard, council-of-riflo, riflo, maspin, field-aliases, guard-nicknames, calsco-fritt, the-medevac-dispatcher]
 ---
 
-# SMELVIN
+# SMELVIN KLOMBO
 *also attested as: Melvin · Jimzo · Jizzbo*
 `RECOVERED`
 
 A name on a medical call, a name on a wardrobe box, and nothing on either side of them.
 
-**Everything we have.** He is spoken into a Trailblazer medevac channel, out of jungle country, by somebody giving three names at speed. He appears again as a label on a costume crate at Base Delta. He is present at the Riflo council session and is admitted to the waiting room of the medbay, where the nurse reads his name off a clipboard, pauses over it, and calls him by his outfit instead.
+**Everything we have.** He is spoken into a Trailblazer medevac channel, out of jungle country, by somebody giving three names at speed. He appears again as a label on a costume crate at Base Delta. He is present at the Riflo council session, and is shouted across a feast, both names, twice, by a Maspin who had been looking for him. He is admitted to the waiting room of the medbay, where the nurse reads his name off a clipboard, pauses over it, and calls him by his outfit instead.
+
+The surname is the part that argues for him. Nobody inventing a name at speed arrives at Klombo.
 
 > *"Mister... Squire? We're ready for you."*
 

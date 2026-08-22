@@ -9,7 +9,7 @@ cross_refs: [the-guard, guard-board-of-directors, board-operational-authorisatio
 # DIRECTOR LILES NINZIN
 `INTACT`
 
-Somewhere between forty-five and fifty. A general long enough to be respected, and now the one seat on the Guard's Board of Directors that is not a commercial interest.
+Old enough that his knees are a joke between the two of them. A general long enough to be respected, and now the one seat on the Guard's Board of Directors that is not a commercial interest.
 
 **He is the man who lifted the floorboard.** He was on the patrol that reached the Wake colony after the raid, and he found a boy under his mother's body when everyone else had written the settlement off.
 

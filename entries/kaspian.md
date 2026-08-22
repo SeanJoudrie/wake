@@ -20,4 +20,8 @@ Older than the species that names him, and older than the one that made it.
 
 Ask a Maspin what it means and you get *knowledge*, or *power*, or a shrug. Ask a shaman where they learned what they know, and the answer is him. Ask whether he is real, and even they are not sure.
 
+**The one thing he is recorded as saying.** It is six words, it is repeated in the same form by informants who have never met one another, and nobody has been able to tell us what it refers to.
+
+> *The queen will return in many moons.*
+
 *Cross-ref: Wake · The Palace of Riflo · The pre-human inhabitants of Wake · The Friend*

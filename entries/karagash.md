@@ -21,6 +21,10 @@ Seven feet. Strong through the shoulders and the arms without any of the bulk th
 
 Nobody knows why he went into this line rather than one of the ten thousand respectable ones a Gashi is expected to want. There is speculation and none of it is worth repeating. The likeliest answer is the one that never gets proposed, which is that he tried it and liked it.
 
+**And one detail nobody can account for.** He works out of a spool of equipment carried at the hip. On the single occasion anybody got a proper look at what came off it, it was a length of green rubber garden hose, torn out of a wall spigot by hand and still clumped with wet dirt.
+
+He offered no explanation. He was not asked twice.
+
 He is, for what it is worth, modestly priced.
 
 *Cross-ref: The Gashi · Atmospheric masks · The cartels*

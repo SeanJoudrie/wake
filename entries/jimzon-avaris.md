@@ -21,6 +21,8 @@ His armour is black and deliberately unshined, with a blue visor. He paints it h
 
 He wears glasses some of the time, and there is no pattern to when.
 
+His right ear does not always work. He mentions it once, to a stranger, as an explanation for not having heard something, and then moves straight on. Nobody who has known him for years has ever raised it.
+
 **What he gets called.** Everyone who likes him has a different name for him and not one of them agreed with any other.
 
 *Jimzy* is the colony name. Two people used it and both of them were on that rock: his mother, pointing at a star and telling him it was where he was born, and the neighbour with the sweets. Nobody has called him that since he was eight.
@@ -35,7 +37,7 @@ A promotion to Captain is sitting on somebody's desk. He failed officer school o
 
 He grew up on the Corefuel colony in the wreckage of Wake, where his father ran the station. The family was two months from moving to Creta.
 
-**What he carries.** A grey stone he picked up on the colony road when he was eight. He has had it for twenty years and it is smooth because he rubs it. His mother's service pistol, cleaned since he was old enough to be shown how. A gold holowatch, a gift from a general, shined and with an audible tick to it. An engagement ring in a velvet box that has not been opened in front of anybody.
+**What he carries.** A grey stone he picked up on the colony road when he was eight. He has had it for twenty years and it is smooth because he rubs it. His mother's Royal service pistol, cleaned since he was old enough to be shown how. A gold holowatch, a gift from a general, shined and with an audible tick to it. An engagement ring in a velvet box that has not been opened in front of anybody.
 
 **What he is like.** Impulsive to the point of recklessness, and funnier in private than anyone outside the team would believe. Table impressions, at length, standing on the furniture. A napkin moustache and the drill instructor who trained all of them. A microwave that went out of a window. He reads his own silence as steadiness and does not notice that everyone around him reads it as absence.
 

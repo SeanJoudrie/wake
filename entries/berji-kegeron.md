@@ -8,7 +8,7 @@ cross_refs: [monver, planetary-defense-forces, the-guard, monver-refusal, redlea
 ---
 
 # BERJI KEGERON
-*also: Kegan*
+*also: Kegan · Berj*
 `INTACT`
 
 The tallest man on Castle Team by a clear head, and the least interested in acting like it.

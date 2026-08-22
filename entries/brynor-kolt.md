@@ -7,6 +7,7 @@ cross_refs: [nova-squadron, the-guard, torres-delprest, kelsadria-vot-feentor-ja
 ---
 
 # BRYNOR KOLT
+*also: Bryn*
 `INTACT`
 
 A pilot with Nova Squadron, and the squadron's worst comedian. He tells jokes constantly. Roughly one in three lands, which he takes as encouragement.

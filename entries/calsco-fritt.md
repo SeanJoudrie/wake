@@ -8,6 +8,7 @@ cross_refs: [katanzaria, trailblazers, trailblazer-base-delta, maspin, beryllium
 ---
 
 # CALSCO FRITT
+*also: Cal*
 `CONTESTED`
 
 Seven feet of Katanzarian in a fur hide, with cross-draw revolvers, tribal tattoos, and a laugh you can hear from the other end of a settlement.

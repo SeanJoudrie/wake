@@ -22,10 +22,12 @@ A Maspin: smoke and vapour, water where the eyes should be, an ember behind it a
 
 > *"We call it indentured servitude. Where I work off an imaginary debt until I can pay it off and be free, which is actually fucking hard without a paycheck."*
 
+The way out is his uncle dying or a lottery that does not exist.
+
 **Before that.** A chemist, and a properly trained one. He can make things most people cannot get, including weapons that are banned on his own world.
 
 **How he talks.** Two registers, switched instantly. Street with anyone he likes. An elaborate, over-polished formal voice for anyone with authority, deployed with a completely straight face, which is its own kind of insult.
 
-He has never flown. He has never been off Maspin at all.He has never been off Maspin at all. He can fly, though, and when asked where he learned he says a book or two, which is either a joke or the most alarming sentence in the temple.
+He has never flown. He has never been off Maspin at all. He can fly, though, and when asked where he learned he says a book or two, which is either a joke or the most alarming sentence in the temple.
 
 *Cross-ref: Maspin · The Council of Riflo · Indentured servitude · The Palace of Riflo · Maspin naming taboos*

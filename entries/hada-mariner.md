@@ -11,10 +11,12 @@ cross_refs: [the-guard, maldo, burial-moon, enlistment-rites-form, mead-cards, b
 
 Long service, clean record, and a retirement date.
 
-At the bar he takes the seat next to whoever is on their own and offers, unprompted, to wingman for them. He plays Mead cards in partners and is a serious loss as a partner, because he narrates his own hand.
+Three years on the same flight line with the same four people, and the most competitive of them by a distance. She had been working a barrel roll for a while and landed it, and was told at the bar that she had finally landed it, and did not let that stand.
 
-He is going to Maldo, to one of the ex-Guard communities there, on a square with ornate geometric stonework that he has apparently described to people more than once.
+At the bar she takes the seat next to whoever is sitting on their own. She reads a situation fast, says the useful thing rather than the kind one, and offers, unprompted, to wingman.
 
-Maldo is the old Royal capital: a city built out of a used-up world, which stopped making anything a long time ago and is now a nice old town that people retire to and take souvenirs from. A man spends a career on a ship that never stops moving and picks somewhere that has already finished.
+She is going to Maldo, to one of the ex-Guard communities there, on a square with ornate geometric stonework that she has apparently described to people more than once.
+
+Maldo is the old Royal capital: a city built out of a used-up world, which stopped making anything a long time ago and is now a nice old town that people retire to and take souvenirs from. A person spends a career on a ship that never stops moving and picks somewhere that has already finished.
 
 *Cross-ref: The Guard · Maldo · The Burial Moon*

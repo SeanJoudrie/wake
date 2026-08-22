@@ -9,8 +9,14 @@ cross_refs: [trailblazers, calsco-fritt, michael-vousin, vando, riflo]
 # BARRIS
 `RECOVERED`
 
-A Trailblazer, and one of the crew at the festival table on Riflo.
+A Trailblazer in logistics, and the man at the festival table who does the introducing.
 
-He is present the way most people at a good table are present. Drinking, laughing at Vando's story for the tenth time, saying nothing that anybody wrote down. Not every man in a room is there to be the reason for the scene.
+**The work.** Soil readings, elevation scans, rainfall patterns. Making sure nobody puts a port down on swamp or on stone. It is the least glamorous job on a concession and the whole thing rests on it.
+
+**At a table.** He offers his name unprompted, tells you what he does without being asked twice, and then goes round the table naming everybody else and what they are for. He is the one who makes a stranger into a guest, which is a skill, and which nobody has ever thanked him for.
+
+He is also the one who calls for the Yinmelon story, and he has heard it before.
+
+*[Compiler's note: a Guard corporal of the same name appears in an unrelated action, wounded and evacuated. We have not established whether these are one man or two, and we are not going to assume.]*
 
 *Cross-ref: The Trailblazers · Vando · Michael Vousin · Riflo*

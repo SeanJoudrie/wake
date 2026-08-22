@@ -9,7 +9,9 @@ cross_refs: [trailblazers, yinmelon, rockroot, glazberries, monver, calsco-fritt
 # VANDO
 `TESTIMONY`
 
-A Trailblazer, and the reason the Yinmelon story gets told at least once a rotation.
+A Trailblazer, security on the concession, and the reason the Yinmelon story gets told at least once a rotation.
+
+The job is the kraskor sweeps, which is what it sounds like: keeping several hundred kilos of horned animal away from people who are trying to build something. What is on the table at the festival is generally there because of him.
 
 The run works like this. You put in at small settlements nobody surveys twice, and you sell what people at small settlements actually want: rockroot by the sack, glazberries, spice bundles tied with string. All of it real. All of it worth what you charge.
 

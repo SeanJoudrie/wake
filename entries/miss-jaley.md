@@ -9,9 +9,9 @@ cross_refs: [wakeful-islands, astrovin, shayron, wake]
 # MISS JALEY
 `TESTIMONY`
 
-The neighbour with the sweets.
+The woman at the front desk, sipping chai, who kept sweets in a drawer for whoever came through.
 
-She kept boiled candy from Shayron, which is four transfers and the better part of a month away from a rock in the Wake field, and she gave it to the colony's children whenever they came by the station.
+She worked the station, which on a fragment colony means she was the first face anybody saw and the last one to be counted as staff. She kept boiled candy from Shayron, four transfers and the better part of a month away, and gave it to the chief's boy when he turned up early to wait for his father.
 
 She also had a bottle of pre-war Astrovin. She had been keeping it for years, for something worth keeping it for, in the way people do with a good bottle.
 

@@ -15,7 +15,7 @@ The tallest man on Castle Team by a clear head, and the least interested in acti
 
 Blond hair, tightly curled, cut short. Green eyes at the far end of the range, the sort people comment on and he waves off. Broad through the shoulders and imposing out of armour right up until he moves, which he does with a loose, excited, faintly lanky energy that undoes the whole effect. Green visor.
 
-**Monver.** Forested, mountainous, locally governed, extremely proud of itself, and deeply relaxed about what people do on their own time. He fought a war on his own ground with the Planetary Defence Force before he was ever Guard, on the side that won and then merged in.
+**Lieutenant. Monver.** Forested, mountainous, locally governed, extremely proud of itself, and deeply relaxed about what people do on their own time. He fought a war on his own ground with the Planetary Defence Force before he was ever Guard, on the side that won and then merged in.
 
 **What he actually is.** A cook, a beach person, and a light and tasteful druggie. He does not believe in hierarchies and is not especially interested in ethics either. What moves him is his people: his friends, his family, and keeping them safe. He will do things he would rather not discuss to that end and will not pretend the cause had anything to do with it.
 

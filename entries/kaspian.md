@@ -20,8 +20,10 @@ Older than the species that names him, and older than the one that made it.
 
 Ask a Maspin what it means and you get *knowledge*, or *power*, or a shrug. Ask a shaman where they learned what they know, and the answer is him. Ask whether he is real, and even they are not sure.
 
-**The one thing he is recorded as saying.** It is six words, it is repeated in the same form by informants who have never met one another, and nobody has been able to tell us what it refers to.
+**The name is not his.** Asked what he is called, he says he has never had a name in the sense other people have them, and that his people are called Kaspian. Everybody since has used it as though it were his, including this volume, because there has never been anything else to use.
 
-> *The queen will return in many moons.*
+**One line is recorded.** Nobody has been able to tell us what it refers to.
+
+> *The queen will return to many moons.*
 
 *Cross-ref: Wake · The Palace of Riflo · The pre-human inhabitants of Wake · The Friend*

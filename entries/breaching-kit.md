@@ -17,7 +17,7 @@ Four of them, placed on a rooftop and fired together, will open a building.
 
 **The grappling pistol.** Slim, light, and it fires a molten orange line rather than a hook on a rope. The claws catch a ledge and melt fractionally into it, welding themselves in place. You tug once to test it. It has never been the tug that killed anybody.
 
-**Flashbangs and frags** share a body and differ by a dial. The dial is why teams have rules about who carries what, and why one recruit's mistake with that dial is still being brought up years later by a man with a ruined leg.
+**Flashbangs and frags** share a body and differ by a dial. The dial is why teams have rules about who carries what, and why one man's mistake with that dial, on a cartel compound, put a corporal's ankle in about a million pieces and is still being brought up.
 
 **Smoke** comes in dented cylinders that smell of phosphorus and are worth more than the rifle when things have gone properly wrong.
 

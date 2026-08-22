@@ -4,7 +4,7 @@ slug: jimzon-avaris
 category: character
 tier: INTACT
 art_caption: "staff sergeant jimzon avaris"
-cross_refs: [guard-academy, wakeful-islands, wake, corefuel, korjin-avaris, spara-avaris, powitt-avaris, the-guard, liles-ninzin, kelsadria-vot-feentor-jayzin, pavlock-jattern, berji-kegeron, yakib-yalitio, jax-sheel, modanick, crag, tiam-rockstead-tinoppel, the-personnel-series, guard-quarters, guard-pay, guard-rank-structure, plasma-knives, holocloaks, field-aliases, breaching-kit, marriage, the-guard-corridor]
+cross_refs: [captain-medarco, guard-academy, wakeful-islands, wake, corefuel, korjin-avaris, spara-avaris, powitt-avaris, the-guard, liles-ninzin, kelsadria-vot-feentor-jayzin, pavlock-jattern, berji-kegeron, yakib-yalitio, jax-sheel, modanick, crag, tiam-rockstead-tinoppel, the-personnel-series, guard-quarters, guard-pay, guard-rank-structure, plasma-knives, holocloaks, field-aliases, breaching-kit, marriage, the-guard-corridor]
 ---
 
 # JIMZON AVARIS
@@ -37,7 +37,7 @@ He grew up on the Corefuel colony in the wreckage of Wake, where his father ran 
 
 **What he carries.** A grey stone he picked up on the colony road when he was eight. He has had it for twenty years and it is smooth because he rubs it. His mother's service pistol, cleaned since he was old enough to be shown how. A gold holowatch, a gift from a general, shined and with an audible tick to it. An engagement ring in a velvet box that has not been opened in front of anybody.
 
-**What he is like.** Impulsive to the point of recklessness, and funnier in private than anyone outside the team would believe. Table impressions. A napkin moustache. A microwave that went out of a window. He reads his own silence as steadiness and does not notice that everyone around him reads it as absence.
+**What he is like.** Impulsive to the point of recklessness, and funnier in private than anyone outside the team would believe. Table impressions, at length, standing on the furniture. A napkin moustache and the drill instructor who trained all of them. A microwave that went out of a window. He reads his own silence as steadiness and does not notice that everyone around him reads it as absence.
 
 He is casually bigoted about non-humans in the ordinary, unexamined way of somebody raised where he was raised, and he is unthinkingly kind to children, and he would be embarrassed to have either one pointed out.
 

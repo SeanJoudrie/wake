@@ -781,6 +781,29 @@ summary:hover .chev { color: var(--seal); }
   .plate img { border: 1px solid #999; }
 }
 
+
+/* Plates. A gallery of everything that got drawn, which is not much. */
+.plate-grid { display: grid; gap: var(--sp-6) var(--sp-5);
+  grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+  margin: var(--sp-6) 0 var(--sp-4); }
+.plate-card { margin: 0; }
+.plate-card img { display: block; width: 100%; height: auto;
+  border: 1px solid var(--paper-edge); background: var(--paper-deep); }
+.plate-card a { text-decoration: none; }
+.plate-card figcaption { margin-top: var(--sp-2); display: flex;
+  flex-direction: column; gap: 0.15rem; }
+.plate-title { font: 400 var(--t-15)/1.35 var(--serif); color: var(--ink);
+  text-decoration: underline; text-underline-offset: 0.15em; }
+.plate-cap { font: 400 var(--t-12)/1.5 var(--data); color: var(--tier-ink);
+  text-transform: lowercase; letter-spacing: 0.02em; }
+.plate-meta { font: 400 var(--t-12)/1.5 var(--data); color: var(--tier-ink);
+  text-transform: lowercase; letter-spacing: 0.02em;
+  display: flex; gap: var(--sp-2); align-items: baseline; }
+@media (max-width: 520px) {
+  .plate-grid { grid-template-columns: repeat(2, 1fr); gap: var(--sp-5) var(--sp-4); }
+}
+@media print { .plate-grid { grid-template-columns: repeat(3, 1fr); } }
+
 /* Single-file routing. Only the active route is in the grid. */
 .page { display: none; }
 .page.active { display: contents; }
@@ -809,6 +832,7 @@ body.at-title .enter:hover { color: var(--seal); border-bottom-color: var(--seal
 <h2>Volume</h2>
 <ul>
 <li><a href="/index/">Full index</a></li>
+<li><a href="/plates/">Plates</a></li>
 <li><a href="/gaps/">Gaps</a></li>
 <li><a href="/sources/">Reader's key</a></li>
 <li><a href="/about/">On the source tiers</a></li>
@@ -3060,7 +3084,10 @@ body.at-title .enter:hover { color: var(--seal); border-bottom-color: var(--seal
 <details class="section" open>
 <summary><h2>What happened to him</h2><svg class="chev" viewBox="0 0 12 8" aria-hidden="true" focusable="false"><path d="M1 1.75 L6 6.25 L11 1.75"/></svg></summary>
 <div class="section-body"><p>He was breaching a door on a cartel compound when one of his own people put a fragmentation grenade through a house that should have taken a flashbang. Every gas tank in the building went up. A second later the rounds came through the door he was standing in, and took his leg out from under him.</p>
-<p>He killed the man who shot him before he sat down.</p>
+<p>He killed the man who shot him before he sat down, and reported it in one word that does not appear anywhere else in this archive.</p>
+<blockquote>
+<p><em>&quot;I frosted the fucking Crag that shot me, so it's clear here.&quot;</em></p>
+</blockquote>
 </div>
 </details>
 <details class="section" open>
@@ -12662,7 +12689,10 @@ One uniform tunic in a private collection on Maldo. Two sleeves, no insignia, no
 <details class="section">
 <summary><h2>What happened to him</h2><svg class="chev" viewBox="0 0 12 8" aria-hidden="true" focusable="false"><path d="M1 1.75 L6 6.25 L11 1.75"/></svg></summary>
 <div class="section-body"><p>He was breaching a door on a cartel compound when one of his own people put a fragmentation grenade through a house that should have taken a flashbang. Every gas tank in the building went up. A second later the rounds came through the door he was standing in, and took his leg out from under him.</p>
-<p>He killed the man who shot him before he sat down.</p>
+<p>He killed the man who shot him before he sat down, and reported it in one word that does not appear anywhere else in this archive.</p>
+<blockquote>
+<p><em>&quot;I frosted the fucking Crag that shot me, so it's clear here.&quot;</em></p>
+</blockquote>
 </div>
 </details>
 <details class="section">

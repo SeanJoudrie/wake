@@ -87,6 +87,7 @@ ${groups}
 <h2>Volume</h2>
 <ul>
 <li><a href="${u("/index/")}">Full index</a></li>
+<li><a href="${u("/plates/")}">Plates</a></li>
 <li><a href="${u("/gaps/")}">Gaps</a></li>
 <li><a href="${u("/sources/")}">Reader\'s key</a></li>
 <li><a href="${u("/about/")}">On the source tiers</a></li>

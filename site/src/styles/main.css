@@ -631,3 +631,26 @@ summary:hover .chev { color: var(--seal); }
   .plate { float: none; max-width: 3in; page-break-inside: avoid; }
   .plate img { border: 1px solid #999; }
 }
+
+
+/* Plates. A gallery of everything that got drawn, which is not much. */
+.plate-grid { display: grid; gap: var(--sp-6) var(--sp-5);
+  grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+  margin: var(--sp-6) 0 var(--sp-4); }
+.plate-card { margin: 0; }
+.plate-card img { display: block; width: 100%; height: auto;
+  border: 1px solid var(--paper-edge); background: var(--paper-deep); }
+.plate-card a { text-decoration: none; }
+.plate-card figcaption { margin-top: var(--sp-2); display: flex;
+  flex-direction: column; gap: 0.15rem; }
+.plate-title { font: 400 var(--t-15)/1.35 var(--serif); color: var(--ink);
+  text-decoration: underline; text-underline-offset: 0.15em; }
+.plate-cap { font: 400 var(--t-12)/1.5 var(--data); color: var(--tier-ink);
+  text-transform: lowercase; letter-spacing: 0.02em; }
+.plate-meta { font: 400 var(--t-12)/1.5 var(--data); color: var(--tier-ink);
+  text-transform: lowercase; letter-spacing: 0.02em;
+  display: flex; gap: var(--sp-2); align-items: baseline; }
+@media (max-width: 520px) {
+  .plate-grid { grid-template-columns: repeat(2, 1fr); gap: var(--sp-5) var(--sp-4); }
+}
+@media print { .plate-grid { grid-template-columns: repeat(3, 1fr); } }

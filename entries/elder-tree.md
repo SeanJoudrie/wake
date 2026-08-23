@@ -3,6 +3,7 @@ title: The Elder Tree
 slug: elder-tree
 category: location
 tier: TESTIMONY
+art_caption: "the chamber · worked up from four accounts"
 cross_refs: [maspin, the-abyss, gem-mosaic-wall, elder-tree-interment-rite, flooms, the-maspin, trailblazer-base-delta]
 ---
 

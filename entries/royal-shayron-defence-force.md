@@ -3,6 +3,7 @@ title: Royal Shayron Defence Force
 slug: royal-shayron-defence-force
 category: institution
 tier: INTACT
+art_caption: "a soldier of the crown, in pattern"
 cross_refs: [shayron, royal-houses, the-ivory-guards, king-matthew, the-guard, planetary-defense-forces, meram-kest, cillus-vot-shayron-skoln, high-castle]
 ---
 

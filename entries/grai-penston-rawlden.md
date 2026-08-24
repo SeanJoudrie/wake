@@ -12,6 +12,8 @@ cross_refs: [sershanti-rawlden, entonia-yalenti, dorch-rawlden, crescent-city, p
 
 Grai Penston Rawlden is the sole governing authority of Pashmirské. He is approximately fifty-eight years old. He commanded the principal military formation on the world during the later part of the hundred and fifty year conflict and holds no office that existed before him.
 
+**Origins.** Rawlden was raised poor, in a town whose air and water were contaminated by industrial discharge across a long period. Everybody there drank it. Nobody there had the means to do anything else, and while the war continued nobody at any level had the means to do anything about the discharge either.
+
 **Before the capital.** Rawlden was a general. His background is logistics rather than command in the field, and accounts credit his standing at the end of the war to the fact that he had spent decades keeping formations supplied in conditions where supply was the difficulty.
 
 The civil population was aware throughout that the war was continuing. When he offered stability, he was permitted to remain.
@@ -66,6 +68,10 @@ The third is a single line and is the fragment most often quoted.
 
 Informants agree that the passages between these fragments describe injuries and deaths from the conflict in detail. Those who have discussed the address state that the descriptions are placed immediately before the list of provisions he supplies, and are intended as a comparison.
 
+**The remediation.** One of the earliest acts of the administration was the cleaning of the contaminated ground and water in the industrial districts, including the town Rawlden was raised in. It was carried out at public expense, it was completed, and it is not commemorated anywhere.
+
+Nothing in it reaches the people who grew up drinking the water. That population is now in middle age.
+
 **Observance.** Speech is restricted by statute, dress is regulated in certain respects, and attendance at a calendar of public festivals is compulsory.
 
 The festivals do not concern Rawlden. There is no portrait of him in a public building, no honorific in daily use, and nothing addressed to him. What they commemorate is the world as it was before the war, at its furthest extent and its most accomplished, and the observances are constructed to be moving.
@@ -76,13 +82,15 @@ The festivals do not concern Rawlden. There is no portrait of him in a public bu
 
 The distinction is not published and Rawlden has never corrected the public account. The reputation is maintained deliberately and the killing is not.
 
-**Health.** Rawlden has a cancer. It is of a class that was routinely preventable before the war and for which no formulation now survives anywhere. He is not being treated, because there is nothing to treat him with, and he is understood to be pursuing the question privately.
+**Health.** Rawlden has a cancer of a class that was routinely preventable before the war and for which no formulation now survives anywhere. It is attributed to the town. Yalenti was raised there also and died of the same thing.
 
-The disease is attributed to the town he was raised in. Yalenti was raised there also and died of the same thing.
+He did not know he had it when he went to war. It was present and undiagnosed for a long period, and it accelerated after he took the capital.
 
-It has been managed rather than treated, and the management has been extensive. His legs have failed progressively and he wears prosthetics. A number of his organs have been replaced and his heart is regulated mechanically. None of this is public and the effort involved in keeping it from being public is itself considerable.
+There is no treatment. What there is instead is machinery. His legs have failed progressively and he uses prosthetics. Several organs have been replaced with mechanical substitutes and his heart is regulated. The replacements are engineered rather than grown, they are not a close fit, and they impose limits on what he can do and for how long. He is maintained rather than cured, and by any ordinary description of the term he is on life support.
 
-He is on record, from before any of it, as objecting to prosthetics. He has not withdrawn the position and has not been asked to reconcile it with his own body.
+None of it is public. The effort of keeping it from being public is itself considerable, and every account of him at a public event describes a man who appears entirely well, for as long as the event lasts.
+
+He is on record, from before any of it, as objecting to prosthetics. He has not withdrawn the position and has never been asked to reconcile it with his own body.
 
 The condition is not public. It is recorded here on the testimony of three people who have no connection to one another, two of whom were deported and one of whom was not.
 

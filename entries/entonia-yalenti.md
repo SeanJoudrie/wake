@@ -15,7 +15,9 @@ A journalist of Pashmirské, mother of Dorch Rawlden, and the only person in thi
 
 **The town.** She and Rawlden were raised in the same place. The air and the water there were contaminated by industrial discharge across a long period, and both of them developed cancers of a kind that presents unusually early.
 
-The contamination was a condition of the war. Nothing could be done about it while the fighting continued, and it was remediated afterwards. The people who grew up in it before then are a separate matter and are not remediated.
+The contamination was a condition of the war. Nothing could be done about it while the fighting continued. It was cleaned by Rawlden's administration once he held the capital, at public expense, and completely.
+
+The people who grew up drinking it are a separate matter and were not cleaned.
 
 **The relationship.** She and Rawlden were attached to one another when both were young and separately again, much later, for approximately two weeks. Dorch Rawlden is her son.
 

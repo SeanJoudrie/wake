@@ -21,7 +21,7 @@ The languages continued to be spoken locally. They ceased to be spoken between w
 
 The ending is still functional in some lines. *Ninzin*, *Jayzin* and *Iradin* are inherited family names. In other cases it has become a given name with no patronymic force. *Jimzon* is a given name meaning the son of Jim. His father's given name was *Korjin*, meaning the son of Kor.
 
-Kanta has the widest distribution of the three families named here. Its home planet was destroyed in GC 4394 and it has no remaining first-language speakers.
+Kanta has the widest distribution of the three families named here. Its home planet was destroyed and it has no remaining first-language speakers.
 
 **Myatugo.** Marked a holding: ground registered to a named party. The suffix is *-ton* or *-tom*.
 

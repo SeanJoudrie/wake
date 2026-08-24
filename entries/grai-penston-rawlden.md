@@ -10,42 +10,36 @@ cross_refs: [pashmirske, nhath, nhathian, nhath-names, crag, the-guard, the-grea
 *styled Kon-Grai*
 `RECOVERED`
 
-Sole governing authority of Pashmirské. He holds no office that existed before him and has established none that would outlast him.
+Grai Penston Rawlden is the sole governing authority of Pashmirské. He came to power at the end of the hundred and fifty year conflict on that world and holds no office that existed before him.
 
-**Accession.** He did not win the war. The powers funding it destroyed one another, the money and the resupply stopped, and the fighting wound down over roughly sixty years into a condition no party has agreed to call a peace. He held the capital when it stopped. What followed was conducted mostly by administration rather than by force, against factions with no ammunition, no patron and nothing further to be promised.
+**Accession.** Rawlden did not win the war. The two powers that had funded the conflict destroyed one another, after which the money and the resupply ended and the fighting declined over approximately sixty years. He held the capital when it stopped. The consolidation that followed was carried out largely by administration rather than by force, against factions that were by then without ammunition, without a patron and without any further offer to make.
 
-**The title.** *Kon-Grai* is Nhathian for a leader. It is a compound of *kon*, north, and *grai*, stone.
+**Title.** Rawlden is styled Kon-Grai, a Nhathian term for a leader, formed from *kon*, north, and *grai*, stone. He is not Nhath and has never met one. No contract, correspondence or recorded contact exists between him and that people. He appears to have taken the term from reading.
 
-He is not Nhath. He has never met one. There is no contract, no correspondence and no recorded contact of any kind between him and that people. The title was taken from reading, not from anybody in a position to grant it.
+Accounts of him consistently note that he reads a great deal and that the Nhath are a long-standing interest of his.
 
-He reads a great deal, and every account of him says so. The Nhath are the subject he returns to, in the manner of a man who has chosen a period of history and made it his own.
+Nhathian provides no neutral term for a person outside the Nhath. *Krayd* serves for *they*, for *other species* and for *enemy*. A person outside that people using their word for a leader is therefore making a claim the language has no form for. There is no record of whether Rawlden is aware of this.
 
-**What that means in the language.** Nhathian has no neutral word for an outsider. *Krayd* serves for *they*, for *other species* and for *enemy*, and there is no fourth term. A man outside the people who calls himself by their word for leader has claimed a position the grammar does not hold open, and leaves any Nhath hearing it with one category to file him under.
+Rawlden's given name is Grai, which is the same word as the second element of the title. It has not been established whether the resemblance influenced his choice.
 
-Whether he knows this is not recorded.
+He also uses the term *Fonty*, from the Nhathian *Fon-Ty*, meaning a subordinate. He writes it without the hyphen.
 
-**The name.** His given name is Grai, which is the same word. Whether he noticed that half the title was already his has never been established, and he has not been asked.
+**Government.** Rawlden's stated position is that a population which has been at war for a hundred and fifty years does not require political ideals, and requires food, water, shelter, safety and an absence of shelling. He has said publicly that taxes are collected, that obedience is expected, that certain liberties are not available under his authority and that some of his subjects are afraid of him. He does not describe the arrangement as democratic, free or just and has not claimed a mandate for it. He has also stated that he wants the position and intends to keep it. Accounts agree that he presents none of this as a responsibility reluctantly accepted.
 
-**Government.** His stated position is that after a hundred and fifty years of war a population does not require ideals. It requires food, water, shelter, safety and a night without shelling, and he supplies those.
+**The address.** No complete text of Rawlden's principal public address has been recovered. It survives as a set of fragments, quoted by people who were present, of which three recur in almost every account.
 
-He does not describe the arrangement as democratic, free or just, and has not claimed a mandate. He has said in public that taxes are collected, that obedience is expected, that certain liberties are not available, and that some people are afraid of him. He has also said that he wants the position and intends to keep it. Accounts agree that he does not present any of this as a burden reluctantly accepted.
+The first concerns a widow whose husband had been her sweetheart at school, died badly, and called for his mother at the end, and who was told afterwards that he had died for freedom. Rawlden's stated objection is that the sentence returned nothing to her.
 
-**The address.** No complete text exists. What survives is a set of fragments, quoted consistently by people who were in the square, and the same three appear in nearly every account.
+The second concerns young soldiers who were told they were about to die for a democracy in a war none of them had voted in.
 
-He described a widow. Her husband had been her sweetheart at school, died badly, and spent the end of it calling for his mother. Somebody afterwards told her that he had died for freedom. Rawlden's point was that the sentence returned nothing to her, and that she still had to go home.
-
-He described young soldiers told they were about to die for a democracy in a war none of them had voted in.
-
-The third is a single line, and it is the one everybody can quote.
+The third is a single line and is the fragment most often quoted.
 
 > *"You have food. You have water. You have a roof. Nobody is shooting at you. What the fuck else do you want?"*
 
-The graphic passages between them are attested by every informant. What they describe is what the last century and a half actually did to bodies, in detail, and the recorded intent is comparison rather than shock: the alternative, stated plainly, immediately before the list of things he provides.
+Informants agree that the passages between these fragments describe injuries and deaths from the conflict in detail. Those who have discussed the address state that the descriptions are placed immediately before the list of provisions he supplies, and are intended as a comparison.
 
-He does not ask to be liked, and the response the address is built to produce is not agreement but arithmetic.
+**Relations with the Guard.** There is no relationship. No application, refusal, incident or complaint is recorded in either direction. Rawlden is reported to hold a low opinion of the organisation and to have no intention of acting against it.
 
-**Relations with the Guard.** None. There has been no application, no refusal, no incident and no complaint in either direction. He is reported to hold a low opinion of the organisation and has no intention of fighting it.
-
-**Sources.** Nothing issued over his name is held here. There is no portrait, no service record and no account of his life before the capital. Everything above comes from people who have stood in front of him, and their accounts agree with one another to a degree that is unusual and has not been explained.
+**Sources.** No document issued over Rawlden's name is held here. There is no portrait, no service record and no account of his life prior to his holding the capital. The material in this entry comes from people who have met him, and their accounts are unusually consistent with one another.
 
 *Cross-ref: Pashmirské · The Nhath · Nhathian · The Great War*

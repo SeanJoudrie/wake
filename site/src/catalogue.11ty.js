@@ -39,7 +39,7 @@ ${CHEV}
   const main = `<main id="main">
 <article>
 <header class="entry-head"><h1>Index of entries</h1>
-<p class="also">${entries.length} entries. Compiled to GC 4462. Incomplete.</p></header>
+<p class="also">${entries.length} entries. Incomplete.</p></header>
 <p>Entries are listed by category and open where they stand. Each carries one source tier.
 ${gaps.length} names referenced in this volume have no entry and are listed under
 <a href="${u("/gaps/")}">Gaps</a>.</p>

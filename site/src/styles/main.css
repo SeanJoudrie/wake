@@ -632,6 +632,16 @@ summary:hover .chev { color: var(--seal); }
   .plate img { border: 1px solid #999; }
 }
 
+/* Inside an index row the plate is a thumbnail beside the text, not a
+   frontispiece. The row is already indented, so it gets less room. */
+.row-body > .plate { max-width: 13rem; }
+@media (min-width: 721px) {
+  .row-body > .plate { margin: 0 0 var(--sp-4) var(--sp-5); }
+}
+@media (max-width: 720px) {
+  .row-body > .plate { max-width: 100%; margin: var(--sp-3) 0 var(--sp-4); }
+}
+
 
 /* Plates. A gallery of everything that got drawn, which is not much. */
 .plate-grid { display: grid; gap: var(--sp-6) var(--sp-5);

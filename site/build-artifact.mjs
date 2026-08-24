@@ -104,18 +104,36 @@ ${pages}
 `;
 
 // Inline the plates. The artifact fetches nothing, so the art travels with it.
+// The same plate appears on an entry page and again in the index, so each file
+// is encoded once into a table and the img tags point at it by name. Inlining
+// per tag instead would carry every picture twice.
 const ART = path.join(S.replace(/styles$/, "art"));
+const encoded = new Map();
 let plates = 0;
-const withArt = doc.replace(/src="#?\/?art\/([\w.-]+)"/g, (m, file) => {
+const tagged = doc.replace(/src="#?\/?art\/([\w.-]+)"/g, (m, file) => {
   const p = path.join(ART, file);
   if (!fs.existsSync(p)) return m;
   plates++;
-  return `src="data:image/jpeg;base64,${fs.readFileSync(p).toString("base64")}"`;
+  if (!encoded.has(file)) {
+    encoded.set(file, fs.readFileSync(p).toString("base64"));
+  }
+  return `data-art="${file}"`;
 });
+
+const artTable = `<script>
+const ART = ${JSON.stringify(Object.fromEntries(encoded))};
+for (const img of document.querySelectorAll("img[data-art]")) {
+  const b64 = ART[img.dataset.art];
+  if (b64) img.src = "data:image/jpeg;base64," + b64;
+}
+<\/script>`;
+
+// No body tag in this document, so the table goes on the end.
+const withArt = tagged + artTable;
 
 fs.writeFileSync("../wake-encyclopedia.html", withArt);
 console.log(
   "routes:", routes.length,
-  "| plates:", plates,
+  "| plates:", plates, "in", encoded.size, "files,",
   "| bytes:", withArt.length.toLocaleString()
 );

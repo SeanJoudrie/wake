@@ -159,6 +159,7 @@ export function inlineEntry(entry, refs) {
 
   return `<div class="row-body">
 ${entry.subtitle ? `<p class="also">${escapeHtml(entry.subtitle)}</p>` : ""}
+${plate(entry)}
 ${fields ? `<dl class="fields">${fields}</dl>` : ""}
 ${entryBody(entry, { open: true })}
 <div class="row-refs"><h3>Cross-reference</h3><ul class="refs">${refItems}</ul></div>

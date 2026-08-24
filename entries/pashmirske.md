@@ -52,6 +52,18 @@ The fighting did not conclude. It ran out.
 
 **Scrap.** A century and a half of ordnance and vehicles is in the ground here, and in an age that cannot manufacture, that is stock rather than wreckage. `INFERRED`
 
+**The day.** Pashmirské turns in about thirty hours, and everything on the world is cut to that: the shift, the school session, the broadcast schedule and the festival calendar.
+
+**Weather.** Three seasons and none of them severe. A warm spring, a wet autumn, a winter with snow in it. For a world with this much volcanic geology under it the climate is unremarkable, and residents say so with some feeling.
+
+**What the administration provides.** A food quota, sufficient and dull, issued to everybody. Healthcare that is free and limited, in that order. Maternity leave by statute. No paternity leave, and no record of it having been proposed.
+
+**What people do.** Attendance at the festival calendar is compulsory and the ordinary entertainment is not, and the ordinary entertainment is largely the same material.
+
+Every town stages plays, and the towns are expected to turn out for them. The repertoire is the old canon of the world, performed continuously for long enough that the audience knows the text, which is most of the pleasure. Outdoor screens run a catalogue of films that everybody has seen and everybody watches together anyway.
+
+There is very little on this world that a person does alone, and very little of it is new.
+
 **Money.** Pashmirské holds no Guard membership, no ledger standing and no network coverage, and prices its exports in Guard credits regardless, because that is what the buyers use. Fuel is sold through intermediary companies and from a small number of stations and orbital depots held offworld, which sell to whoever arrives.
 
 The arrangement requires no agreement with the Guard and confers no obligation on it. It also means that the revenue holding the administration together is denominated in an instrument the administration does not control and cannot audit.

@@ -1,0 +1,535 @@
+<title>Military Justice Delivery Script</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+
+<style>
+:root{
+  --bg:#FAFAFB; --surface:#FFFFFF; --ink:#14181F; --muted:#5C6675;
+  --line:#DFE3EA; --line-soft:#EDF0F5;
+  --accent:#1F3A5F; --accent-soft:#E8EDF5;
+  --edit:#8A5300; --edit-bg:#FBF3E4; --edit-line:#D9A63F;
+  --hold:#7A2222; --hold-bg:#F9ECEC;
+  --read:21px;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0F1216; --surface:#171B21; --ink:#E9ECF1; --muted:#98A2B1;
+    --line:#2A313B; --line-soft:#20262E;
+    --accent:#8FB0DA; --accent-soft:#1C2530;
+    --edit:#E5AE5C; --edit-bg:#241D10; --edit-line:#8A6520;
+    --hold:#E89A9A; --hold-bg:#261618;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0F1216; --surface:#171B21; --ink:#E9ECF1; --muted:#98A2B1;
+  --line:#2A313B; --line-soft:#20262E;
+  --accent:#8FB0DA; --accent-soft:#1C2530;
+  --edit:#E5AE5C; --edit-bg:#241D10; --edit-line:#8A6520;
+  --hold:#E89A9A; --hold-bg:#261618;
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:var(--serif); font-size:var(--read); line-height:1.75;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:47rem; margin:0 auto; padding:0 1.5rem 6rem}
+
+/* ---------- top bar ---------- */
+.bar{
+  position:sticky; top:0; z-index:10; background:var(--bg);
+  border-bottom:1px solid var(--line);
+  display:flex; align-items:center; gap:1rem; flex-wrap:wrap;
+  padding:.7rem 0 .65rem;
+}
+.bar-in{max-width:47rem; margin:0 auto; padding:0 1.5rem; width:100%;
+  display:flex; align-items:center; gap:1rem; flex-wrap:wrap}
+.bar h1{
+  font-family:var(--sans); font-size:.95rem; font-weight:600; letter-spacing:.01em;
+  margin:0; color:var(--ink); flex:1 1 auto; white-space:nowrap;
+}
+.bar .exam{font-family:var(--sans); font-size:.72rem; color:var(--muted);
+  letter-spacing:.06em; text-transform:uppercase}
+.sizer{display:flex; gap:.3rem; align-items:center}
+.sizer button{
+  font-family:var(--sans); font-size:.8rem; font-weight:600;
+  background:var(--surface); color:var(--ink); border:1px solid var(--line);
+  border-radius:5px; width:2rem; height:1.9rem; cursor:pointer; line-height:1;
+}
+.sizer button:hover{border-color:var(--accent)}
+.sizer button:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+.sizer span{font-family:var(--sans); font-size:.7rem; color:var(--muted);
+  letter-spacing:.06em; text-transform:uppercase; margin-right:.15rem}
+
+/* ---------- masthead ---------- */
+.mast{padding:2.6rem 0 .5rem}
+.mast .kicker{
+  font-family:var(--sans); font-size:.72rem; font-weight:600; letter-spacing:.13em;
+  text-transform:uppercase; color:var(--accent); margin:0 0 .6rem;
+}
+.mast h2{
+  font-family:var(--sans); font-weight:700; font-size:2.1rem; line-height:1.15;
+  margin:0 0 .7rem; letter-spacing:-.02em; text-wrap:balance;
+}
+.mast p{margin:0; color:var(--muted); font-size:1rem; line-height:1.6}
+
+/* ---------- cards ---------- */
+.cards{display:grid; gap:.9rem; margin:1.8rem 0 0}
+.card{
+  background:var(--surface); border:1px solid var(--line);
+  border-radius:8px; padding:1rem 1.15rem;
+}
+.card h3{
+  font-family:var(--sans); font-size:.72rem; font-weight:700; letter-spacing:.11em;
+  text-transform:uppercase; color:var(--muted); margin:0 0 .6rem;
+}
+.card ul{margin:0; padding-left:1.1rem; font-size:.94rem; line-height:1.65}
+.card li{margin-bottom:.3rem}
+.card li:last-child{margin-bottom:0}
+.card.hold{background:var(--hold-bg); border-color:var(--hold)}
+.card.hold h3{color:var(--hold)}
+.card.hold p{margin:0; font-family:var(--sans); font-size:.95rem; font-weight:600;
+  line-height:1.6; color:var(--ink)}
+
+/* ---------- slide blocks ---------- */
+.slide{padding:2.1rem 0 .3rem; border-top:1px solid var(--line-soft)}
+.slide:first-of-type{border-top:none}
+.slide-head{
+  display:flex; align-items:baseline; gap:.8rem; margin-bottom:.9rem;
+  padding-bottom:.55rem; border-bottom:2px solid var(--accent);
+}
+.num{
+  font-family:var(--sans); font-weight:700; font-size:1.5rem; line-height:1;
+  color:var(--accent); letter-spacing:-.02em; font-variant-numeric:tabular-nums;
+  flex:0 0 auto; min-width:2.4rem;
+}
+.slide-head h3{
+  font-family:var(--sans); font-weight:600; font-size:1.02rem; line-height:1.3;
+  margin:0; flex:1 1 auto; letter-spacing:-.005em;
+}
+.time{
+  font-family:var(--sans); font-size:.82rem; font-weight:500; color:var(--muted);
+  font-variant-numeric:tabular-nums; flex:0 0 auto;
+}
+.slide p{margin:0 0 1.05rem}
+.slide p:last-child{margin-bottom:0}
+
+/* ---------- edited lines ---------- */
+.edited{
+  background:var(--edit-bg); border-left:3px solid var(--edit-line);
+  padding:.7rem .95rem .7rem .9rem; border-radius:0 5px 5px 0;
+}
+.tag{
+  display:inline-block; font-family:var(--sans); font-size:.61rem; font-weight:700;
+  letter-spacing:.12em; text-transform:uppercase; color:var(--edit);
+  border:1px solid var(--edit-line); border-radius:3px;
+  padding:.08rem .35rem; margin-right:.5rem; vertical-align:.13em; line-height:1.5;
+}
+.tag.opt{color:var(--muted); border-color:var(--line)}
+.optional{border-left-color:var(--line); background:transparent;
+  border-left-width:3px; border-left-style:dashed}
+.keep{
+  font-family:var(--sans); font-size:.78rem; font-weight:600; color:var(--hold);
+  letter-spacing:.09em; text-transform:uppercase; margin-bottom:.6rem;
+}
+
+/* ---------- timing table ---------- */
+.tablewrap{overflow-x:auto; margin:1rem 0 0}
+table{border-collapse:collapse; width:100%; font-family:var(--sans); font-size:.88rem}
+th,td{text-align:left; padding:.45rem .7rem; border-bottom:1px solid var(--line-soft)}
+th{font-size:.7rem; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--muted); font-weight:700; border-bottom:1px solid var(--line)}
+td.n{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(--muted)}
+td.c{font-variant-numeric:tabular-nums; text-align:right; font-weight:600}
+
+.end{margin-top:3rem; padding-top:1.6rem; border-top:1px solid var(--line)}
+.end h2{font-family:var(--sans); font-size:1.15rem; font-weight:700; margin:0 0 .3rem}
+.end p{color:var(--muted); font-size:.95rem; margin:0 0 1rem}
+
+@media (max-width:640px){
+  :root{--read:19px}
+  .mast h2{font-size:1.65rem}
+  .num{font-size:1.25rem; min-width:2rem}
+  .slide-head{flex-wrap:wrap}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important}}
+</style>
+
+<div class="bar">
+  <div class="bar-in">
+    <h1>Military Justice Delivery Script</h1>
+    <span class="exam">071-OAXXD012</span>
+    <div class="sizer">
+      <span>Text</span>
+      <button id="dn" aria-label="Smaller text">A&minus;</button>
+      <button id="up" aria-label="Larger text">A+</button>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <div class="mast">
+    <p class="kicker">Online delivery &middot; 39 slides &middot; 40 minutes</p>
+    <h2>Read this straight through. Slides are fixed.</h2>
+    <p>Everything below the slide headers is spoken. Timing markers are in the headers only.
+       Eight lines changed from your draft, each marked in amber. Nothing else was touched.</p>
+  </div>
+
+  <div class="cards">
+    <div class="card">
+      <h3>What changed and why</h3>
+      <ul>
+        <li><strong>Slides 1, 3, 6, 39</strong>, in-person phrasing that breaks on a webcam ("handing out", "look around this room", "say it with me", "I'll be around afterward").</li>
+        <li><strong>Slide 5</strong>, dropped the officer-candidate claim, which Article 133 does not clearly support.</li>
+        <li><strong>Slide 12</strong>, a special court-martial conviction is federal too.</li>
+        <li><strong>Slide 13</strong>, six words that kill the "you said the ladder goes the other way" question.</li>
+        <li><strong>Slide 15</strong>, three words added so your quote matches what is on screen.</li>
+      </ul>
+    </div>
+    <div class="card hold">
+      <h3>If you fall behind</h3>
+      <p>At 20:00, cut slide 15 to one sentence and read only the 14-12 line on 21 and 22.
+         At 30:00, cut 29 and 30 to one point each, and give only the two-sins pattern plus
+         commandments nine and ten. Never cut 11, 19, 26, 31, or 33.</p>
+    </div>
+  </div>
+
+  <!-- ================= SCRIPT ================= -->
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">1</span><h3>Overview of Military Justice</h3><span class="time">0:00</span></div>
+    <p class="edited"><span class="tag">Edited</span>Good morning. For the next forty minutes we're covering military justice. You will be tested on this, forty minutes, multiple choice, seventy percent to pass, and I'll send you a study guide when we're done.</p>
+    <p>But passing the test is the small reason to pay attention. Here's the real one. Every single one of you is about to be in a position where a Soldier does something wrong and people turn and look at you. What you're about to see is the complete menu of what you're allowed to do about it.</p>
+    <p>One idea holds this whole thing together. Everything in this deck sits on a ladder, from least severe to most. Counseling. Corrective training. Reprimand. Bar to continued service. Administrative separation. Nonjudicial punishment. Court-martial. Your job as a leader is picking the right rung. Not the highest one, not the easiest one. The right one.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">2</span><h3>Why we have a military justice system</h3><span class="time">0:45</span></div>
+    <p>Four purposes. Promote justice. Maintain good order and discipline. Promote efficiency and effectiveness. Strengthen national security.</p>
+    <p>Look at that list carefully. Justice is one out of four. A civilian court exists to do justice, and that's the end of the mission statement. Ours has to do justice and keep a fighting force functional at the same time.</p>
+    <p>That's not a small difference. It's the reason we have crimes that don't exist anywhere else in American law, and it's the reason a commander has options that a civilian prosecutor doesn't have. Hold onto that, because it explains most of what comes next.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">3</span><h3>UCMJ jurisdiction</h3><span class="time">1:30</span></div>
+    <p>Jurisdiction runs two directions. Over the person, and over the offense.</p>
+    <p>Over the person. Active duty Soldiers, and Reservists while on active duty. Military academy cadets and midshipmen. National Guard personnel in Federal service, under Title 10. Retirees. Enemy prisoners of war. And in some cases, civilians deployed with units.</p>
+    <p>Two of those have qualifiers on them and I want you to catch both. Reservists, while on active duty. Not all the time. And National Guard personnel in Federal service, Title 10.</p>
+    <p class="edited"><span class="tag">Edited</span>Think about your own status. In state status, under Title 32, you're under your state's code of military justice. Not this one. The moment you're federalized, everything on this slide applies to you personally. That distinction is on the exam, and it's also just a true fact about your career.</p>
+    <p>Retirees are on that list too, and yes, that surprises people. So are enemy prisoners of war.</p>
+    <p>Over the offense, two things. Worldwide jurisdiction, which means the UCMJ follows you. There's no getting out from under it by being off post or in another country. And possible concurrent jurisdiction, which means civilian authorities may have a claim on the exact same conduct at the same time. Both systems can want the same Soldier.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">4</span><h3>Crimes under the UCMJ</h3><span class="time">3:30</span></div>
+    <p>Two columns here.</p>
+    <p>Common law crimes. These are the ones any civilian would recognize. Homicide. Rape. Larceny. Robbery. Assault. Burglary. Crimes anywhere in the country.</p>
+    <p>Military crimes. These have no civilian equivalent at all. Disrespect. Disobedience. Absence without leave. Conduct unbecoming an officer. Conduct prejudicial to good order and discipline.</p>
+    <p>Here's the difference in one example. If you work at a civilian job and you tell your boss exactly what you think of him and walk out the door, you are unemployed. You are not arrested. Nobody charges you. In this organization, that's disrespect and disobedience, and both are crimes.</p>
+    <p>For the exam, expect to be handed an offense and asked which column it belongs in.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">5</span><h3>Article 133</h3><span class="time">4:30</span></div>
+    <p>Article 133. Conduct unbecoming an officer and a gentleman.</p>
+    <p class="edited"><span class="tag">Edited</span>This one is yours. It applies to officers, and you're about to be one.</p>
+    <p>It's deliberately broad. There's no list of specifically prohibited acts. The standard is whether your conduct dishonors or disgraces you badly enough to compromise your standing as an officer. Lying. Public drunkenness. Cheating on an exam. Failing to pay a debt you owe.</p>
+    <p>Not one thing I just listed is a crime for a private. The rank is what makes it chargeable.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">6</span><h3>Article 134</h3><span class="time">5:15</span></div>
+    <p>Article 134. Conduct prejudicial to good order and discipline.</p>
+    <p>133 is about your character as an officer. 134 is about the effect your conduct has on the unit.</p>
+    <p class="edited"><span class="tag">Edited</span>They sound alike, they're numbered right next to each other, and that is precisely why the exam is going to try to get you to swap them. So lock it in. 133, officers. 134, good order and discipline.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">7</span><h3>Commander's responsibilities</h3><span class="time">6:00</span></div>
+    <p>Five responsibilities. Maintain good order and discipline. Investigate reported offenses. Enforce the law. Protect Soldiers' rights. Determine disposition of the case.</p>
+    <p>Four of those five sound like enforcement. One doesn't. Protect Soldiers' rights.</p>
+    <p>That's the one you'll forget, and that's the one that'll be on the test. It's also the most important one in the list, so let me be direct about it. You are not the prosecutor. You're the person responsible for making sure that Soldier receives every single thing they're entitled to, even when you are personally convinced they did it. Especially then. That's not softness. That's the job.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">8</span><h3>Nonbinding disposition guidance</h3><span class="time">7:15</span></div>
+    <p>Fourteen factors a commander should consider when deciding how to dispose of an offense. I'm not going to read you fourteen factors. Memorize the number, because the number gets asked.</p>
+    <p>What you actually need is the shape of them. They break into four questions.</p>
+    <p>What happened. That's the nature, the seriousness, the circumstances, the extent of the harm.</p>
+    <p>Who it happened to. The views of the victim.</p>
+    <p>Who did it. Their criminal history, and whether they're willing to cooperate.</p>
+    <p>And where it happened. The mission of the command where the offense occurred.</p>
+    <p>Now catch the first word on that slide. Nonbinding. This is guidance, not a checklist you get graded against. Which also means you can't hide behind it. The decision is still yours.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">9</span><h3>Nonjudicial punishment</h3><span class="time">8:30</span></div>
+    <p>Article 15. Nonjudicial punishment.</p>
+    <p>Put it on the ladder. This is the middle rung. It's more than a counseling statement and less than a court-martial. It is punishment, real punishment, but it is not a criminal conviction.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">10</span><h3>Article 15 responsibilities</h3><span class="time">8:50</span></div>
+    <p>Before imposing an Article 15, a commander should inquire about three things. Whether an offense was committed. Whether the Soldier was involved. And the character and military record of the Soldier.</p>
+    <p>The first two are about facts. The third one is about the person, and it's the reason two Soldiers can commit the identical offense and properly end up with different outcomes.</p>
+    <p>A Soldier eight years in with a clean record who makes one bad decision is not the same case as a Soldier who's been counseled four times this quarter. Same offense, different Soldier, different answer. That's not favoritism. The regulation tells you to look.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">11</span><h3>Rights of a Soldier under Article 15</h3><span class="time">9:50</span></div>
+    <p class="keep">Do not cut</p>
+    <p>Seven rights. This is the highest-value slide in this block, so slow down with me.</p>
+    <p>Right to remain silent.</p>
+    <p>Right to counsel, formal proceedings only. Circle that qualifier. Formal proceedings only. Those three words are the single most likely thing on this slide to show up on the exam, because deleting them is the easiest way in the world to write a wrong answer that looks right.</p>
+    <p>Right to demand trial. This one surprises people. A Soldier can turn down the Article 15 and say no, put me in front of a court-martial instead. That's a real right. It's also a real gamble, because the potential punishment is higher, but so is the standard of proof the government has to meet. If the Soldier says no, the commander has to decide whether this case is worth taking further.</p>
+    <p>Decision period. The Soldier gets time to think about it and to get advice. It isn't a decision made standing at attention in front of you.</p>
+    <p>Right to call witnesses.</p>
+    <p>The hearing.</p>
+    <p>And the right to appeal.</p>
+    <p>Silent, counsel, demand trial, decision period, witnesses, hearing, appeal. Seven. And every one of them exists for the same reason. This is punishment being imposed by the same person who already decided you did it. Those seven rights are the counterweight to that.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">12</span><h3>Types of court-martial</h3><span class="time">12:20</span></div>
+    <p>Three levels of court-martial. Summary. Special, and note that there are two types of special. And General.</p>
+    <p>They escalate in that order. Summary is the lowest. General is where the serious cases go.</p>
+    <p class="edited"><span class="tag">Edited</span>And here's the line that separates this rung of the ladder from every rung below it. A general or special court-martial conviction is a federal conviction. Everything we've talked about up to now stays inside the Army. This doesn't. It follows a Soldier into civilian life permanently.</p>
+    <p>For the exam, note the parenthetical. If you get asked how many types of special court-martial exist, the answer is two.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">13</span><h3>Administrative actions</h3><span class="time">13:30</span></div>
+    <p>Thirteen administrative actions with their regulations. I'm not reading the list.</p>
+    <p class="edited"><span class="tag">Edited</span>Instead, look at how long it is. That's the entire point of this slide. Before you ever reach punishment, you have thirteen tools that are not punishment. The deck showed you the top of the ladder first. Most Soldier problems in your career are going to get solved on this slide and never go any further.</p>
+    <p>Four regulation numbers are worth memorizing. AR 600-20, counseling and corrective training. AR 600-37, reprimands. AR 635-200, separations. And AR 15-6, which we'll hit later, investigations.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">14</span><h3>Counseling Soldiers</h3><span class="time">14:30</span></div>
+    <p>DA Form 4856. That's the counseling form, and it's the foundation under every administrative action that follows.</p>
+    <p>Here's the line that matters. Oral counseling is not enough. Not because talking to a Soldier doesn't work. Because no record is created.</p>
+    <p>If you verbally counsel a Soldier six times over four months and then try to separate them, on paper it never happened. Their file is clean. You will lose that action, and you will deserve to lose it.</p>
+    <p>Second thing. Document with specificity. "Needs to improve his attitude" is worthless. It's an opinion and it can't be defended. "Reported at 0645 for a 0600 formation on twelve, nineteen, and twenty-six August" is a document. It's a fact, with dates, that nobody can argue with. Write the second one.</p>
+    <p>And cite AR 635-200, paragraph 1-16, along with Part Four, Rehabilitative Results and Comments.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">15</span><h3>The counseling magic phrase</h3><span class="time">16:00</span></div>
+    <p>This is sometimes called the magic phrase or the silver bullet. I'm not going to read the whole paragraph to you and you won't be asked to reproduce it.</p>
+    <p>Know what it does. It's formal notice, and it tells the Soldier three things. Continued behavior like this may result in separation action. A General or Other Than Honorable discharge could severely prejudice you in civilian life. And an OTH could cost you your military and veterans benefits, including all of your education benefits.</p>
+    <p class="edited"><span class="tag">Edited</span>Then the last sentence, which is the one that does the work. Any further misconduct or unsatisfactory performance may cause you to be eliminated without further counseling.</p>
+    <p>That sentence is what makes your next step defensible. The Soldier was told, in writing, exactly what was coming.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">16</span><h3>Corrective training</h3><span class="time">16:45</span></div>
+    <p>Corrective training, also called remedial training. Four rules.</p>
+    <p>It has to be directly related to the deficiency you observed and oriented to correcting that specific deficiency. It is training, not punishment. It must not be humiliating or degrading. And a leader should be present.</p>
+    <p>Let me make that concrete.</p>
+    <p>Soldier is consistently late. You put him on bi-hourly check-ins until he demonstrates he can be where he's supposed to be, when he's supposed to be there. That's related to the deficiency. It corrects the deficiency. It's defensible all day long.</p>
+    <p>Same Soldier, same lateness, and instead you have him fill sandbags for two hours. Ask yourself what deficiency that corrects. It doesn't correct anything. So now it isn't training, it's punishment. And you just imposed punishment without any of the process that punishment requires, which means you have a problem and your commander has a problem.</p>
+    <p>The test is always the same single question. Does this train the thing that was deficient? If you can't answer that cleanly, don't do it.</p>
+    <p>And on the leader being present. If nobody's watching, it isn't training. It's just something unpleasant you assigned.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">17</span><h3>The administrative reprimand</h3><span class="time">18:15</span></div>
+    <p>AR 600-37. A reprimand documents misconduct or poor performance in official files. It's a formal procedure, and the Soldier may rebut it in writing.</p>
+    <p>The part to know is the filing options. Local file, or permanent file in the AMHRR. There's also general officer directed.</p>
+    <p>That filing choice carries the entire weight of this action. Local file follows the Soldier around the unit for a while. Permanent file follows them for the rest of their career, and every promotion board they ever go in front of will read it.</p>
+    <p>Same piece of paper. Same words. Completely different consequence depending on where it lands.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">18</span><h3>The bar to continued service</h3><span class="time">19:15</span></div>
+    <p>The framing here comes from AR 601-280. The Army wants to retain only Soldiers of high moral character, competence, and demonstrated adaptability.</p>
+    <p>Then Directive 2012-03 added mandatory grounds. Three of them, where a bar to reenlistment or an administrative separation is required, not optional.</p>
+    <p>Failure to make satisfactory progress in the Army Weight Control Program. Two consecutive APFT failures. And removal for cause from NCOES courses.</p>
+    <p>Two words to lock in. Required, not discretionary. And consecutive. Two consecutive failures, not two failures over a career.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">19</span><h3>Administrative separations, Soldier's rights</h3><span class="time">20:15</span></div>
+    <p class="keep">Do not cut</p>
+    <p>AR 635-200. A Soldier facing administrative separation has these rights.</p>
+    <p>Notice, and an opportunity to respond. An attorney, for consultation or for board representation. And a hearing, meaning a separation board, if either of two conditions is met.</p>
+    <p>More than six years of service. Or an Other Than Honorable discharge recommendation.</p>
+    <p>I want to stop on that word. Or. Either one, by itself, gets that Soldier a board. Six years alone does it. An OTH recommendation alone does it.</p>
+    <p>The exam is going to put an answer in front of you that says a Soldier needs six years and an OTH recommendation. That's wrong, and it's wrong in a way that is very easy to skate past when you're reading fast on question thirty-one with eight minutes left.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">20</span><h3>Characterization of service</h3><span class="time">21:45</span></div>
+    <p>Three characterizations.</p>
+    <p>Honorable. No misconduct, and the Soldier is entitled to all benefits.</p>
+    <p>General. Minor misconduct, entitled to most benefits.</p>
+    <p>Other Than Honorable. More serious misconduct, requires a board, and the Soldier forfeits most benefits.</p>
+    <p>Understand what you're actually deciding. This is not a label on a form. A General or an OTH can cost a Soldier the GI Bill. You may be deciding whether a twenty-two year old goes to college. Treat that paperwork accordingly.</p>
+    <p>Now the standard of proof, and this is important. Preponderance of the evidence. More likely than not. Fifty percent and a feather.</p>
+    <p>Compare that to a court-martial, where the government has to prove guilt beyond a reasonable doubt. This is a dramatically lower bar. But there's no criminal conviction attached at the end of it. That trade, lower standard for lower consequence, is the entire logic of the administrative track.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">21<span style="font-size:.7em">+22</span></span><h3>Types of involuntary separation</h3><span class="time">23:45</span></div>
+    <p>Two slides of chapter numbers. You're not memorizing all of this tonight. Learn the shape.</p>
+    <p>Chapter 5 is convenience of the government, and it has subsections for parenthood, personality disorder, and other designated physical or mental conditions. Chapter 7 is defective or fraudulent entry. Chapter 9 is alcohol or drug abuse rehabilitation failure. Chapter 11 is entry level performance and conduct. Chapter 13 is unsatisfactory performance. Chapter 14 is misconduct. Chapter 18 is failure to meet body fat standards. Chapter 19 is the Qualitative Management Program.</p>
+    <p>If you learn one line off these two slides, make it Chapter 14. Fourteen dash twelve alpha is minor disciplinary infractions. Fourteen dash twelve bravo is a pattern of misconduct. Fourteen dash twelve charlie is serious misconduct. A, B, C, escalating in severity. That one gets tested.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">23<span style="font-size:.7em">+24</span></span><h3>Inquiries and investigations</h3><span class="time">25:30</span></div>
+    <p>Three types, and they escalate just like everything else in this class.</p>
+    <p>Informal inquiry. Informal investigation under AR 15-6. And an Article 32 preliminary hearing.</p>
+    <p>Match the tool to the seriousness. You don't open a 15-6 because a Soldier was late to formation. You also don't handle a serious allegation with a hallway conversation and a handshake.</p>
+    <p>The sequence for conducting one. Discovery of the incident or allegation. Initial considerations. Selecting the type of inquiry or investigation. Then conducting it.</p>
+    <p>Initial considerations is the step people skip and it's the step that saves you. That's where you decide whether you should even be the person looking into this, and whether anything needs to be preserved or protected before you start asking anybody questions.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">25</span><h3>Rights at an Article 32 preliminary hearing</h3><span class="time">27:00</span></div>
+    <p>Four rights. The accused may attend the hearing. Present evidence. Cross examine witnesses. And has the right to counsel.</p>
+    <p>Understand what an Article 32 is. It's the gate that stands in front of a general court-martial. It is not a trial. It's a hearing to determine whether the case should move forward at all.</p>
+    <p>But look at those four rights. The accused already has real adversarial rights at this stage, including the right to cross examine the witnesses against him. That's before any trial has been ordered.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">26</span><h3>Preliminary hearing officers</h3><span class="time">28:00</span></div>
+    <p class="keep">Do not cut</p>
+    <p>The preliminary hearing officer produces findings of fact and recommendations. The accused receives a copy of that report. The accused then files any objections within five days. And then the convening authority takes action.</p>
+    <p>Five days. Write that number down and put a box around it. It is the only hard deadline anywhere in this entire deck, which makes it about as close to a guaranteed exam question as anything I'm going to show you today.</p>
+    <p>And know the division of labor. The hearing officer recommends. The convening authority decides. A preliminary hearing officer can recommend against referral and the convening authority can still refer that case. Findings and recommendations are not a verdict.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">27</span><h3>Search and seizure, who may authorize</h3><span class="time">29:30</span></div>
+    <p>Only three people may authorize a search and seizure. A commander. A military judge. A military magistrate.</p>
+    <p>That's the whole list. Not your first sergeant. Not the MPs. Not CID. Not even the Staff Judge Advocate, who advises on it but does not authorize it.</p>
+    <p>Three names. If you see an answer choice with a fourth name in it, that answer is wrong.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">28</span><h3>Who controls the person or place</h3><span class="time">30:30</span></div>
+    <p>The question you're always asking is who controls the person or the place. That determines authority to search, and authority to apprehend.</p>
+    <p>A company commander's authority runs to their Soldiers and their spaces. Not to somebody else's Soldiers and somebody else's spaces.</p>
+    <p>Then there's an exception, and it's specific enough that it gets tested. Apprehension in the home requires a warrant. The home receives more protection than anywhere else. Remember that one.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">29</span><h3>Probable cause</h3><span class="time">31:30</span></div>
+    <p>Three concepts. Probable cause. Totality of the circumstances. Neutral and detached.</p>
+    <p>Totality of the circumstances means you don't evaluate one fact sitting by itself. You look at everything you know, together, and ask what it adds up to.</p>
+    <p>Neutral and detached describes the person doing the authorizing. If the commander is personally invested in this case, if the commander is the accuser, then that commander is no longer neutral and detached, and the authorization is in serious trouble.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">30</span><h3>Consent and incident to apprehension</h3><span class="time">32:15</span></div>
+    <p>Two ways to get there without prior authorization. Consent, and search incident to apprehension.</p>
+    <p>Be careful with consent. It has to be voluntary, and you should think hard about what voluntary means when the person asking outranks the person answering.</p>
+    <p>And then look at the last line on this slide. Call your Judge Advocate. That's not filler and it's not a joke. Search and seizure is the single easiest place in this deck for a well-meaning commander to destroy their own case by moving fast. Call.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">31</span><h3>Inspections</h3><span class="time">33:00</span></div>
+    <p class="keep">Do not cut</p>
+    <p>An inspection is not a search. That's the headline.</p>
+    <p>The primary purpose must be to ensure the security, military fitness, and good order and discipline of the unit. And because it isn't a search, it does not require probable cause.</p>
+    <p>Here's the example. Health and welfare inspection of the barracks. No probable cause, no authorization from any of the three people on the earlier slide, and it is completely lawful. The purpose is unit readiness.</p>
+    <p>Now watch those two words, primary purpose. Say you already suspect one specific Soldier of one specific thing, and you call a health and welfare on the entire barracks so you can get into his room. Your primary purpose isn't readiness anymore. That's a search. And you just conducted it without probable cause and without authorization.</p>
+    <p>Same physical act, in the same building, on the same day. Different intent. Completely different legal outcome. That's why this distinction matters.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">32</span><h3>Rights warning under Article 31(b)</h3><span class="time">34:15</span></div>
+    <p>Four rights. The right to be informed of the nature of the accusation. The right to remain silent. Notice that any statement can be used against you. And the right to counsel.</p>
+    <p>This is our version of Miranda. It's worth knowing that Article 31(b) came first, by more than a decade.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">33</span><h3>When to advise a Soldier of rights</h3><span class="time">35:00</span></div>
+    <p class="keep">Do not cut</p>
+    <p>Three conditions. You're acting in an official capacity. It's prior to questioning. And the person is a suspect or an accused.</p>
+    <p>All three, together. Not any one of them. Strip out any single condition and the requirement doesn't attach. This is the most missed slide in the deck.</p>
+    <p>Practically, here's your trigger. The moment a conversation stops being "what happened here" and turns into "did you do this," stop and advise rights.</p>
+    <p>If you skip it, that statement can be suppressed. You will have handed away your own case, for free, because you were in a hurry.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">34</span><h3>Waiver of rights</h3><span class="time">36:15</span></div>
+    <p>Three questions, and the order matters. Do you understand your rights. Do you want a lawyer. Are you willing to make a statement.</p>
+    <p>Understanding comes first, because a person cannot waive a right they don't understand. Then counsel. Then the statement.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">35</span><h3>Pretrial restraint</h3><span class="time">37:00</span></div>
+    <p>Four types, listed least restrictive to most restrictive. Conditions on liberty. Restriction, in lieu of arrest. Arrest. And confinement.</p>
+    <p>Know that order, because "which of these is more restrictive" is an easy question to write.</p>
+    <p>And catch the first word. Pretrial. Nothing on this slide is punishment. This is restraint while an outcome is pending. Which leads directly into the last thing we're covering.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">36</span><h3>Unlawful command influence</h3><span class="time">37:45</span></div>
+    <p>Unlawful command influence. This is sometimes called the mortal enemy of military justice, and it will end a career faster than anything else in this deck.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">37<span style="font-size:.7em">+38</span></span><h3>The 10 Commandments of UCI</h3><span class="time">38:00</span></div>
+    <p>There are ten of these and they're in your study guide. I'm going to give you the pattern instead, because all ten are versions of the same two sins. Inflexibility, and pressure.</p>
+    <p>Don't order a subordinate to dispose of a case a certain way. Don't communicate an inflexible policy on punishment, meaning don't announce that every Soldier who does X is getting Y. Don't stack a panel. Don't lean on a judge, a court member, or a witness. Don't hold an inflexible attitude toward clemency. And if you're the accuser, you may not refer the case.</p>
+    <p class="edited optional"><span class="tag opt">Only if ahead</span>And the court decides punishment, not you.</p>
+    <p>Two of them I want you to actually memorize.</p>
+    <p>Number nine. Your subordinates and your staff can commit command influence, and it gets attributed to you regardless of your knowledge and regardless of your intentions. You own it even when you didn't do it and didn't know about it.</p>
+    <p>And the last one. If a mistake is made, raise the issue immediately and cure it with an appropriate remedy. Your instinct will be to bury it. That instinct is wrong. UCI that gets disclosed early can often be remedied. UCI that surfaces six months later can sink the entire case.</p>
+  </article>
+
+  <article class="slide">
+    <div class="slide-head"><span class="num">39</span><h3>Close</h3><span class="time">39:30</span></div>
+    <p>The study guide is coming out today. It's organized by what's most likely to be tested, so start at the front. Don't try to memorize all thirty-nine slides. Memorize the lists and the numbers, and understand the ladder.</p>
+    <p>One last thing to take with you past the exam.</p>
+    <p>Almost everything you saw today is about process. Process is not bureaucracy and it's not an obstacle to doing your job. It is the only thing standing between a Soldier and an outcome they didn't earn. Follow it.</p>
+    <p class="edited"><span class="tag">Edited</span>Questions, drop them in the chat and I'll stay on after. Study guide goes out today.</p>
+  </article>
+
+  <!-- ================= TIMING ================= -->
+  <div class="end">
+    <h2>Timing card</h2>
+    <p>Cumulative clock at the end of each block.</p>
+    <div class="tablewrap">
+      <table>
+        <thead><tr><th>Slides</th><th>Block</th><th style="text-align:right">Cumulative</th></tr></thead>
+        <tbody>
+          <tr><td class="n">1</td><td>Opening</td><td class="c">0:45</td></tr>
+          <tr><td class="n">2 to 6</td><td>Jurisdiction and crimes</td><td class="c">6:00</td></tr>
+          <tr><td class="n">7 to 8</td><td>Commander's decision</td><td class="c">8:30</td></tr>
+          <tr><td class="n">9 to 12</td><td>Nonjudicial punishment</td><td class="c">13:30</td></tr>
+          <tr><td class="n">13 to 18</td><td>Administrative actions</td><td class="c">20:15</td></tr>
+          <tr><td class="n">19 to 22</td><td>Separations</td><td class="c">25:30</td></tr>
+          <tr><td class="n">23 to 26</td><td>Investigations</td><td class="c">29:30</td></tr>
+          <tr><td class="n">27 to 31</td><td>Search and seizure</td><td class="c">34:15</td></tr>
+          <tr><td class="n">32 to 35</td><td>Rights and restraint</td><td class="c">37:45</td></tr>
+          <tr><td class="n">36 to 38</td><td>Unlawful command influence</td><td class="c">39:30</td></tr>
+          <tr><td class="n">39</td><td>Close</td><td class="c">40:00</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  var root=document.documentElement, min=16, max=30, cur=21;
+  try{ var v=parseInt(localStorage.getItem('mj-read'),10); if(v>=min&&v<=max) cur=v; }catch(e){}
+  function apply(){
+    root.style.setProperty('--read', cur+'px');
+    try{ localStorage.setItem('mj-read', String(cur)); }catch(e){}
+  }
+  apply();
+  document.getElementById('up').addEventListener('click',function(){ if(cur<max){cur++;apply();} });
+  document.getElementById('dn').addEventListener('click',function(){ if(cur>min){cur--;apply();} });
+})();
+</script>

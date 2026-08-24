@@ -3,7 +3,7 @@ title: Grai Penston Rawlden
 slug: grai-penston-rawlden
 category: character
 tier: RECOVERED
-cross_refs: [dorch-rawlden, crescent-city, pashmirske, nhath, nhathian, nhath-names, crag, the-guard, the-great-war, galactic-standard-law, refugee-displacement]
+cross_refs: [sershanti-rawlden, entonia-yalenti, dorch-rawlden, crescent-city, pashmirske, nhath, nhathian, nhath-names, crag, the-guard, the-great-war, galactic-standard-law, refugee-displacement]
 ---
 
 # GRAI PENSTON RAWLDEN
@@ -34,15 +34,15 @@ He also uses the term *Fonty*, from the Nhathian *Fon-Ty*, meaning a subordinate
 
 He lives modestly. No residence, household or personal holding of any scale is attributed to him by any account held here.
 
-**Marriage.** Rawlden is married and has been throughout. The administration promotes monogamy as stated policy on the grounds that it is stabilising.
+**Marriage.** Rawlden is married to Sershanti Rawlden, formerly Kinsley, and has been throughout. The administration promotes monogamy as stated policy on the grounds that it is stabilising.
 
 He conducted an affair lasting approximately two weeks, acknowledged it rather than denying it, and separated from his wife for a period. They reconciled. He offered a divorce and she declined it. Accounts from people close to the household are consistent that the refusal was a decision about position rather than about him, and that the marriage has been maintained since as a working arrangement that both parties present as a stable one.
 
-**The other woman.** She was a journalist, within the limits the statutes allow for that work, and she and Rawlden had been attached to one another when both were young. She is dead.
+**Entonia Yalenti.** A journalist, working within the limits the statutes allow for that work, and attached to Rawlden when both were young. She is dead.
 
 She and Rawlden were raised in the same town. Both developed cancers of early onset, and the account given by both of them is that the air and the water there were contaminated by industrial discharge over a long period.
 
-**Family.** Rawlden has one son by her, Dorch Rawlden, aged about twenty-three, born outside the marriage and a publicly known exception to the policy. His standing is not defined by any instrument. He holds a junior post in the municipal administration of Crescent City and is catalogued separately.
+**Family.** Rawlden has one son by Yalenti, Dorch Rawlden, aged about twenty-three, born outside the marriage and a publicly known exception to the policy. His standing is not defined by any instrument. He holds a junior post in the municipal administration of Crescent City and is catalogued separately.
 
 Every account agrees on two things: that Rawlden regards the affair as a wrong he committed, and that he loves the boy.
 
@@ -78,7 +78,11 @@ The distinction is not published and Rawlden has never corrected the public acco
 
 **Health.** Rawlden has a cancer. It is of a class that was routinely preventable before the war and for which no formulation now survives anywhere. He is not being treated, because there is nothing to treat him with, and he is understood to be pursuing the question privately.
 
-The disease is attributed to the town he was raised in. The woman who bore his son was raised there also and died of the same thing.
+The disease is attributed to the town he was raised in. Yalenti was raised there also and died of the same thing.
+
+It has been managed rather than treated, and the management has been extensive. His legs have failed progressively and he wears prosthetics. A number of his organs have been replaced and his heart is regulated mechanically. None of this is public and the effort involved in keeping it from being public is itself considerable.
+
+He is on record, from before any of it, as objecting to prosthetics. He has not withdrawn the position and has not been asked to reconcile it with his own body.
 
 The condition is not public. It is recorded here on the testimony of three people who have no connection to one another, two of whom were deported and one of whom was not.
 

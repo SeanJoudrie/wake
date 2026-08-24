@@ -11,7 +11,7 @@ cross_refs: [grai-penston-rawlden, pashmirske, crescent-city, the-second-chance,
 
 Son of Grai Penston Rawlden, aged about twenty-three. He holds a junior post in the municipal administration of Crescent City and has held no other.
 
-**Standing.** He was born outside marriage, at a time when his father was already a senior figure, and to a woman who is not named in any account held here. The administration promotes monogamy as stated policy on the grounds that it is stabilising, and he is the publicly known exception to it.
+**Standing.** He was born outside marriage, at a time when his father was already a senior figure, and to a woman who had been attached to his father when both were young, who worked as a journalist within the limits the statutes allow, and who is dead. She died of a cancer attributed to industrial contamination in the town where she and Rawlden were both raised. Rawlden has the same disease. The administration promotes monogamy as stated policy on the grounds that it is stabilising, and he is the publicly known exception to it.
 
 He carries his father's name. On a world where children born outside a marriage frequently do not, this is generally read as an acknowledgement rather than as a courtesy, and it is the only formal thing anybody can point to in his position. No instrument defines his standing and no office is reserved for him.
 

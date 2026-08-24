@@ -34,9 +34,17 @@ He also uses the term *Fonty*, from the Nhathian *Fon-Ty*, meaning a subordinate
 
 He lives modestly. No residence, household or personal holding of any scale is attributed to him by any account held here.
 
-**Family.** Rawlden has one son, Dorch Rawlden, aged about twenty-three, born outside marriage. The administration promotes monogamy as stated policy on the grounds that it is stabilising, and the son is a publicly known exception to it. His standing is not defined by any instrument.
+**Marriage.** Rawlden is married and has been throughout. The administration promotes monogamy as stated policy on the grounds that it is stabilising.
 
-He holds a junior post in the municipal administration of Crescent City, applied for against open advertisement, and is catalogued separately.
+He conducted an affair lasting approximately two weeks, acknowledged it rather than denying it, and separated from his wife for a period. They reconciled. He offered a divorce and she declined it. Accounts from people close to the household are consistent that the refusal was a decision about position rather than about him, and that the marriage has been maintained since as a working arrangement that both parties present as a stable one.
+
+**The other woman.** She was a journalist, within the limits the statutes allow for that work, and she and Rawlden had been attached to one another when both were young. She is dead.
+
+She and Rawlden were raised in the same town. Both developed cancers of early onset, and the account given by both of them is that the air and the water there were contaminated by industrial discharge over a long period.
+
+**Family.** Rawlden has one son by her, Dorch Rawlden, aged about twenty-three, born outside the marriage and a publicly known exception to the policy. His standing is not defined by any instrument. He holds a junior post in the municipal administration of Crescent City and is catalogued separately.
+
+Every account agrees on two things: that Rawlden regards the affair as a wrong he committed, and that he loves the boy.
 
 **Manner.** Rawlden speaks without notes. Every account describes him as quick, dry and unusually well constructed in the moment, to the extent that listeners routinely assume he has prepared and rehearsed. Nobody has produced a text of anything he has said.
 
@@ -69,6 +77,8 @@ The festivals do not concern Rawlden. There is no portrait of him in a public bu
 The distinction is not published and Rawlden has never corrected the public account. The reputation is maintained deliberately and the killing is not.
 
 **Health.** Rawlden has a cancer. It is of a class that was routinely preventable before the war and for which no formulation now survives anywhere. He is not being treated, because there is nothing to treat him with, and he is understood to be pursuing the question privately.
+
+The disease is attributed to the town he was raised in. The woman who bore his son was raised there also and died of the same thing.
 
 The condition is not public. It is recorded here on the testimony of three people who have no connection to one another, two of whom were deported and one of whom was not.
 

@@ -22,9 +22,9 @@ Fought over for a hundred and fifty years by two powers that did not want it, an
 
 **Before any of it.** Pashmirské is volcanic, and the settlement of it is the story the world still tells about itself. Taming the vents took centuries. Learning to draw power off them took longer, and out of that work came the containment and discharge of plasma, which is to say that the weapon the galaxy has spent a hundred years being unable to replace was worked out here first.
 
-For a long period the world was an economic centre on the strength of it. It armed a great deal of the settled galaxy, it fielded soldiers with a reputation that outlasted them, and it took and held territory on at least three occasions.
+For a long period the world was an economic centre on the strength of it. It armed a great deal of the settled galaxy and fielded soldiers with a reputation that outlasted them. Whether it ever held territory beyond its own system is asserted locally and is not attested in anything held here.
 
-None of that survived. The decline is not attributed to any single event and appears in the record as a long shallow slope. By the time the civil war began, the world was manufacturing very little and selling ore.
+None of it survived. The decline is not attributed to any single event and appears in the record as a long shallow slope. By the time the civil war began, the world was manufacturing very little and selling ore.
 
 **The war was already here.** That is the part outsiders get wrong. Nobody arrived and started it. There were factions on this world with grievances of their own, generations deep, and what the two powers did was notice them and pay.
 

@@ -34,7 +34,9 @@ He also uses the term *Fonty*, from the Nhathian *Fon-Ty*, meaning a subordinate
 
 He lives modestly. No residence, household or personal holding of any scale is attributed to him by any account held here.
 
-**Family.** Rawlden has one son, born outside marriage. The administration promotes monogamy as a matter of stated policy, on the grounds that it is stabilising, and the son is a publicly known exception to it. His standing is not defined by any instrument.
+**Family.** Rawlden has one son, aged about twenty-three, born outside marriage. The administration promotes monogamy as stated policy on the grounds that it is stabilising, and the son is a publicly known exception to it. His standing is not defined by any instrument.
+
+He holds a post in the administration. It is a junior one, concerned with the scheduling of refuse collection, and he applied for it. Accounts from Crescent City describe a young man with no interest in authority of any kind, who is not trusted with anything of consequence largely because he has never asked to be, and who is understood to want a life offworld and to be too frightened of the galaxy to go and find one.
 
 **Manner.** Rawlden speaks without notes. Every account describes him as quick, dry and unusually well constructed in the moment, to the extent that listeners routinely assume he has prepared and rehearsed. Nobody has produced a text of anything he has said.
 
@@ -65,6 +67,14 @@ The festivals do not concern Rawlden. There is no portrait of him in a public bu
 **Dissent.** Rawlden's stated policy on political dissent is imprisonment under strict conditions or public execution. Neither is carried out. Persons removed for dissent are subjected to a staged execution and then deported, and the practice is catalogued separately.
 
 The distinction is not published and Rawlden has never corrected the public account. The reputation is maintained deliberately and the killing is not.
+
+**Health.** Rawlden has a cancer. It is of a class that was routinely preventable before the war and for which no formulation now survives anywhere. He is not being treated, because there is nothing to treat him with, and he is understood to be pursuing the question privately.
+
+The condition is not public. It is recorded here on the testimony of three people who have no connection to one another, two of whom were deported and one of whom was not.
+
+**Security.** There have been repeated attempts on Rawlden's life. Informants put the number between nine and nineteen and agree that most were poorly prepared. The former faction leadership is offworld, alive, and in several cases has said publicly what it would like to see happen to him.
+
+He is described by everybody who has been near him as careful in a manner that is proportionate to this rather than in excess of it.
 
 **Relations with the Guard.** There is no relationship. No application, refusal, incident or complaint is recorded in either direction. Rawlden is reported to hold a low opinion of the organisation and to have no intention of acting against it.
 

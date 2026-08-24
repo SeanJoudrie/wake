@@ -10,7 +10,11 @@ cross_refs: [pashmirske, nhath, nhathian, nhath-names, crag, the-guard, the-grea
 *styled Kon-Grai*
 `RECOVERED`
 
-Grai Penston Rawlden is the sole governing authority of Pashmirské. He came to power at the end of the hundred and fifty year conflict on that world and holds no office that existed before him.
+Grai Penston Rawlden is the sole governing authority of Pashmirské. He is approximately fifty-eight years old. He commanded the principal military formation on the world during the later part of the hundred and fifty year conflict and holds no office that existed before him.
+
+**Before the capital.** Rawlden was a general. His background is logistics rather than command in the field, and accounts credit his standing at the end of the war to the fact that he had spent decades keeping formations supplied in conditions where supply was the difficulty.
+
+The civil population was aware throughout that the war was continuing. When he offered stability, he was permitted to remain.
 
 **Accession.** Rawlden did not win the war. The two powers that had funded the conflict destroyed one another, after which the money and the resupply ended and the fighting declined over approximately sixty years. He held the capital when it stopped. The consolidation that followed was carried out largely by administration rather than by force, against factions that were by then without ammunition, without a patron and without any further offer to make.
 
@@ -23,6 +27,10 @@ Nhathian provides no neutral term for a person outside the Nhath. *Krayd* serves
 Rawlden's given name is Grai, which is the same word as the second element of the title. It has not been established whether the resemblance influenced his choice.
 
 He also uses the term *Fonty*, from the Nhathian *Fon-Ty*, meaning a subordinate. He writes it without the hyphen.
+
+**Administration.** Rawlden governs with a cabinet. Appointments are made on loyalty to him and on a record of completing work, and he does not tolerate corruption in any part of the administration. Bribery is not a route to anything under his authority, and informants from several trades confirm this without prompting.
+
+He lives modestly. No residence, household or personal holding of any scale is attributed to him by any account held here.
 
 **Government.** Rawlden's stated position is that a population which has been at war for a hundred and fifty years does not require political ideals, and requires food, water, shelter, safety and an absence of shelling. He has said publicly that taxes are collected, that obedience is expected, that certain liberties are not available under his authority and that some of his subjects are afraid of him. He does not describe the arrangement as democratic, free or just and has not claimed a mandate for it. He has also stated that he wants the position and intends to keep it. Accounts agree that he presents none of this as a responsibility reluctantly accepted.
 
@@ -37,6 +45,10 @@ The third is a single line and is the fragment most often quoted.
 > *"You have food. You have water. You have a roof. Nobody is shooting at you. What the fuck else do you want?"*
 
 Informants agree that the passages between these fragments describe injuries and deaths from the conflict in detail. Those who have discussed the address state that the descriptions are placed immediately before the list of provisions he supplies, and are intended as a comparison.
+
+**Dissent.** Rawlden's stated policy on political dissent is imprisonment under strict conditions or public execution. Neither is carried out. Persons removed for dissent are subjected to a staged execution and then deported, and the practice is catalogued separately.
+
+The distinction is not published and Rawlden has never corrected the public account. The reputation is maintained deliberately and the killing is not.
 
 **Relations with the Guard.** There is no relationship. No application, refusal, incident or complaint is recorded in either direction. Rawlden is reported to hold a low opinion of the organisation and to have no intention of acting against it.
 

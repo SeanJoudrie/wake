@@ -3,7 +3,7 @@ title: Pashmirské
 slug: pashmirske
 category: world
 tier: RECOVERED
-cross_refs: [the-great-war, cord, the-autumnals, the-guard, schrigge, plasma-rifles, schedule-of-unreplaceable-classes, refugee-displacement, galactic-standard-law, the-restoration, scarg, custodial-labour]
+cross_refs: [grai-penston-rawlden, biodium, the-second-chance, the-great-war, cord, the-autumnals, the-guard, schrigge, plasma-rifles, schedule-of-unreplaceable-classes, refugee-displacement, galactic-standard-law, the-restoration, scarg, custodial-labour]
 ---
 
 # PASHMIRSKÉ
@@ -17,7 +17,7 @@ Fought over for a hundred and fifty years by two powers that did not want it, an
 **Population:** not established. The last figure anybody filed was filed by a sponsor, for its own purposes, and is a count of a district
 **Membership:** not a question that is asked here
 **Calendars in use:** the local reckoning. Galactic Standard appears in the port and nowhere behind it
-**Principal exports:** metal
+**Principal exports:** magnetic ore, biodium
 
 **The war was already here.** That is the part outsiders get wrong. Nobody arrived and started it. There were factions on this world with grievances of their own, generations deep, and what the two powers did was notice them and pay.
 
@@ -37,7 +37,11 @@ The fighting did not conclude. It ran out.
 
 **Now.** Quiet, orderly, poor and fed. There is one authority and it does not pretend to be anything else.
 
-**The metal.** A century and a half of ordnance and vehicles is in the ground here, and in an age that cannot make anything, that is not wreckage. It is stock. `INFERRED`
+**The ore.** The world holds magnetic mineral of the grade used in plasma weapon manufacture. It is the only export of any consequence besides the fuel, and there is no longer anywhere to send it, because nobody has been able to build a plasma weapon since the Wipe. The deposit is worked anyway and the material is stockpiled and sold in small quantities against a demand that does not currently exist.
+
+**Biodium.** The second export and the one that actually pays. It is a combustible extracted from the residue of a rainforest that dried out on this world long before anybody arrived on it, and it runs domestic and light industrial plant. It flies nothing. It is catalogued separately.
+
+**Scrap.** A century and a half of ordnance and vehicles is in the ground here, and in an age that cannot manufacture, that is stock rather than wreckage. `INFERRED`
 
 **The Guard.** There has been no approach in either direction. No application, no refusal, no incident, no complaint. The two parties have arrived at an arrangement that neither has written down and both observe, which is that they do not have anything to do with one another.
 

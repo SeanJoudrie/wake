@@ -13,7 +13,7 @@ Governing council of the settled belt, Maspin. Composition is by seat rather tha
 
 **Address.** Councillors are addressed as the Council and by nothing else. They do not give their names to outsiders and they do not appear to use them with each other in session. This is a rule of the body, not a courtesy, and no visitor has ever been given the reason for it.
 
-**Seats.** Nobody outside Maspin knows how many there are or how you get one. Seats are not elected in any sense a visitor would recognise, are not obviously inherited, and are not explained. What is known is that one of them belongs to the Trailblazers, has since GC 4451, and is held by a human, which suggests the body can add a seat when it decides to.
+**Seats.** Nobody outside Maspin knows how many there are or how you get one. Seats are not elected in any sense a visitor would recognise, are not obviously inherited, and are not explained. What is known is that one of them belongs to the Trailblazers, has for some years, and is held by a human, which suggests the body can add a seat when it decides to.
 
 This is a remote world that has had very few long-term visitors and no interest in being surveyed. Almost everything in this entry comes from people who were guests.
 

@@ -11,7 +11,7 @@ cross_refs: [the-guard, johnny-plasma, guard-board-of-directors, season-of-long-
 
 The Guard's birthday, and the best-documented event in this volume by an enormous margin.
 
-Same date every year since GC 4406. Assembly at nine, an address by whichever Director is nearest, a parade, a flyover if there is a fleet in the system, food for everybody, and a broadcast in the evening. It is not a religious holiday and the Guard is clear about that.
+Same date every year since. Assembly at nine, an address by whichever Director is nearest, a parade, a flyover if there is a fleet in the system, food for everybody, and a broadcast in the evening. It is not a religious holiday and the Guard is clear about that.
 
 It is also observed almost everywhere. Twelve member worlds hold it on a different local date, for harvest or weather reasons, each by a written dispensation, each of which we have.
 

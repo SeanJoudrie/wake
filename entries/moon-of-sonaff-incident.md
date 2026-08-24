@@ -9,7 +9,7 @@ cross_refs: [sonaff, dead-moon-raiders, the-guard, accounting-division, ministry
 # THE MOON OF SONAFF INCIDENT
 `RECOVERED`
 
-Action at a closed storage installation, Sonaff, GC 4461. Recent. This entry is provisional.
+Action at a closed storage installation, Sonaff. Recent. This entry is provisional.
 
 **The filing.** Five Guard personnel assigned to static security at a sealed hangar. The assignment order is held. It lists the five by service number and by parent division. `[...]` of the five, none carried an infantry classification. The parent divisions recorded are accounting, cyberbiological research, ministerial media, royal press attachment, and one entry that is illegible.
 

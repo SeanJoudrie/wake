@@ -30,7 +30,7 @@ Two of the nine were closed with a single person left inside, in both cases at t
 
 **Why the crown could take it.** By agreement, and the instrument survives. The Royals were sympathetic to the old faith and wanted a seat that was beautiful, defensible and of no economic consequence whatsoever. The scholars wanted their foundations protected.
 
-Both got it. Registered scholars still hold exemption from the rate and from levy. The register of exempt persons has not been audited since GC 4361.
+Both got it. Registered scholars still hold exemption from the rate and from levy. The register of exempt persons has not been audited since.
 
 **Underneath.** The sewers of the earliest city still run under all of it, and are still in service, because nobody ever found a reason to replace something that works.
 

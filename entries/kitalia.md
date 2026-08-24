@@ -12,7 +12,7 @@ cross_refs: [kitalia-platform-collapse, the-guard, guard-burial-rites, the-guard
 They saw the water coming and they built above it. Pylons driven two kilometres to the seabed, and cities standing on top of them, and no land in use anywhere on the world.
 
 **System:** Kitalia (single star, four bodies, one habitable)
-**Status:** Guard member state. Acceded GC 4424 by referendum
+**Status:** Guard member state. Acceded by referendum
 **Population:** between 200 million and 800 million
 **Membership:** residence, rate, and a name on a platform roll
 **Calendars in use:** Galactic Calendar; the Kitalian tide reckoning, twelve periods, still used in shipping and in law

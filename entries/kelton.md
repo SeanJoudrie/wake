@@ -20,7 +20,7 @@ One city on the whole world, and beyond it small towns and a great deal of empty
 
 What the city makes is the promise that a harvest will be bought, stored, insured and delivered, and the paperwork that makes the promise enforceable. The exchange, the seed registry, the water allocation office, the quarantine authority, forty-one embassies and every insurer writing agricultural risk in the system are all inside it.
 
-**Crop laboratories.** 1,188 registered variant lines, developed here rather than on the worlds that grow them. Licence revenue for GC 4461: 96,440,200 credits.
+**Crop laboratories.** 1,188 registered variant lines, developed here rather than on the worlds that grow them. Licence revenue for : 96,440,200 credits.
 
 **The arrangement.** A farmer on Weton may plant what she likes, harvest it, and sell it. Water, seed, storage, milling, shipping and sale each require an instrument issued in this city.
 

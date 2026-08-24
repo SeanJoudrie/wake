@@ -24,7 +24,7 @@ A world that never lost its big animals. Everywhere else hunted them out. Here t
 
 **What they sell.** Marfeld sells men. They appear in the muster rolls of every army in the surviving record, in every period, listed by name and settlement and rate of pay, because Marfeld has kept that book for eleven centuries and keeps it still. They are contracted as professionals and paid as professionals, and the world is quite clear that this is a trade and not a tragedy.
 
-Guard recruiters have had a permanent office here since GC 4409. That is three years after the Guard existed and twenty-two before Marfeld joined it.
+Guard recruiters have had a permanent office here since three years after the Guard existed, which is twenty-two years before Marfeld joined it.
 
 **The bombing.** Three times. The first took out the surface of half the northern continent during the war, and no target assessment held by this archive lists Marfeld in that sector at all. The second and third are catalogued as incidental to fighting between other parties.
 

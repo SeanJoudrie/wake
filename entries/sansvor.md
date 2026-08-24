@@ -13,7 +13,7 @@ cross_refs: [the-great-war, the-guard, dragons-blood-trees, refugee-displacement
 A rich world that stopped being maintained. Almost nothing here was destroyed. Almost nothing here has been repaired either, and the difference between those two sentences is the whole of the place.
 
 **System:** Sansvor (single star, ten bodies, one habitable)
-**Status:** independent. No garrison. Guard consulate since GC 4433
+**Status:** independent. No garrison. Guard consulate since the establishment
 **Population:** between 100 million and 600 million
 **Membership:** residence. There is no instrument and no authority empowered to issue one
 **Calendars in use:** Galactic Calendar in the ports; at least four local reckonings in daily use, none official
@@ -33,10 +33,10 @@ Nothing in the country is dangerous. Prey animals, and a raptor that takes them.
 
 **The blockade,** and the reason this entry is filed as contested.
 
-Guard material, and most people in the port towns, hold that a belligerent closed the world's shipping during the war and the Guard broke it open in GC 4409, and that the Guard is therefore remembered here as the people who came.
+Guard material, and most people in the port towns, hold that a belligerent closed the world's shipping during the war and the Guard broke it open, and that the Guard is therefore remembered here as the people who came.
 
 A smaller number, mostly inland, hold that the closing continued after the war ended, and continued deliberately, until the world could be relied on to ask.
 
-Port manifests would settle it. The port record for GC 4402 to 4409 is not in this archive. `[FILING INCOMPLETE]`
+Port manifests would settle it. The port record for to 4409 is not in this archive. `[FILING INCOMPLETE]`
 
 *Cross-ref: The Great War · The Guard · Dragon's blood trees · The Refugee Displacement · The Sansvor port manifests `[ENTRY NOT RECOVERED]`*

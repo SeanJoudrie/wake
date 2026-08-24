@@ -11,7 +11,7 @@ cross_refs: [the-wipe, the-great-war, refugee-displacement, guardnet, hoverboard
 
 The faiths that grew where the ships stopped coming.
 
-**Why they are worse here.** The historical version of this happens to people who saw wealth arrive and then leave. What happened in GC 4401 was different in scale: populations that had instant medicine, interstellar travel and constant communication lost all three inside a day, and a good number of them lost every outside contact permanently.
+**Why they are worse here.** The historical version of this happens to people who saw wealth arrive and then leave. What happened at the Wipe was different in scale: populations that had instant medicine, interstellar travel and constant communication lost all three inside a day, and a good number of them lost every outside contact permanently.
 
 They are not imagining a golden age. They remember it. Some of them are old enough to have used it.
 

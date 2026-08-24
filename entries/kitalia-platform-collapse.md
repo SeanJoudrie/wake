@@ -9,9 +9,9 @@ cross_refs: [kitalia, the-guard, guard-burial-rites, kitalia-platform-roll]
 # THE KITALIA PLATFORM COLLAPSE
 `INFERRED`
 
-Loss of one platform city, Kitalia, GC 4461. The structure entered the water. It was not recovered and has not been raised.
+Loss of one platform city, Kitalia. The structure entered the water. It was not recovered and has not been raised.
 
-**The structure.** `INTACT`. Commissioned GC 4388. Foundation depth 1,610 metres across 214 pylons. Design load 4.1 million tonnes. Certified storm tolerance 260 knots sustained. Last full inspection GC 4459, passed without qualification. Construction cost 1,204,000,000 credits. Insured value at loss 1,411,000,000 credits, settled in full.
+**The structure.** `INTACT`. Commissioned. Foundation depth 1,610 metres across 214 pylons. Design load 4.1 million tonnes. Certified storm tolerance 260 knots sustained. Last full inspection passed without qualification. Construction cost 1,204,000,000 credits. Insured value at loss 1,411,000,000 credits, settled in full.
 
 **Cause.** Charges at the pylon heads, placed by cells operating on the world. The Guard investigated, identified four cells, and cleared them out. What this archive holds is the summary; the working material behind it was never released, which is ordinary.
 

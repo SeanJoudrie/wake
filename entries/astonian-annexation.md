@@ -9,11 +9,11 @@ cross_refs: [astonia, astonians, astonian-dialect, royal-houses, the-cartels, th
 # THE ASTONIAN ANNEXATION
 `INTACT`
 
-Transfer of Astonia from Royal protectorate to Guard territory, GC 4419. Effected by instrument, with a preceding action.
+Transfer of Astonia from Royal protectorate to Guard territory. Effected by instrument, with a preceding action.
 
 **Stated grounds.** Cartel control of the territorial administration, and a public health emergency. The emergency is documented: a wave of fatal overdoses across the principal cities over fourteen months, with a filed figure of 4,118 deaths, and one death of a prominent person which is the subject of most of the surviving ministerial material.
 
-**Sequence, as filed.** Contested territorial election, GC 4417, with allegations of interference lodged by two parties. Formal warnings to the territorial administration, GC 4418, three in number, held here in full. Orbital interdiction and search and seizure operations, GC 4419. Instrument of annexation, same year.
+**Sequence, as filed.** A contested territorial election, with allegations of interference lodged by two parties. Formal warnings to the territorial administration, three in number, held here in full. Orbital interdiction and search and seizure operations. The instrument of annexation followed in the same year.
 
 **Effect on cartel revenue.** Filed and substantial. Prosecutions in the following three years: 2,411. Assets seized: 880,400,000 credits. The Restoration has verified the reduction in trade against the shipping returns and finds it real.
 
@@ -21,6 +21,6 @@ Transfer of Astonia from Royal protectorate to Guard territory, GC 4419. Effecte
 
 The accounting is performed by the Guard. The Royal treasury receives the figure and the payment. It does not receive the underlying returns and has not, on the record, requested them.
 
-**Preceding documents.** Two Guard medical surveys of the Astonian population are dated GC 4416, being three years before the annexation and one year before the contested election. They are catalogued under Astonians.
+**Preceding documents.** Two Guard medical surveys of the Astonian population predate the annexation by three years and the contested election by one. They are catalogued under Astonians.
 
 *Cross-ref: Astonia · Astonians · The Royal Houses · The cartels · The Astonian dialect*

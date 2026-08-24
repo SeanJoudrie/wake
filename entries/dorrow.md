@@ -17,7 +17,7 @@ The mills. Grain arrives raw from Weton and leaves as flour, oil and cake, and t
 **Calendars in use:** Polaris Harvest Reckoning
 **Principal exports:** flour, oil, meal, cake
 
-**Throughput, GC 4461:** 1,188,400,000 tonnes in. 1,141,220,000 tonnes of finished product out.
+**Throughput, :** 1,188,400,000 tonnes in. 1,141,220,000 tonnes of finished product out.
 
 The processing margin is the largest single margin in the system. It is realised on Kelton, where the product is sold, and not here, where it is made.
 

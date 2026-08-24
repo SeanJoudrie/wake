@@ -16,7 +16,7 @@ When an objective is cleared, anything of value is to be recovered rather than d
 
 That last category is doing a great deal of work.
 
-**It has been widened twice**, in GC 4431 and GC 4447, both times with a memorandum explaining that this will reduce destruction at objectives.
+**It has been widened twice**, and, both times with a memorandum explaining that this will reduce destruction at objectives.
 
 **Nothing kept under the schedule is written down.** The order says entering it would be administratively disproportionate.
 

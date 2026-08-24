@@ -17,7 +17,7 @@ Soldiers from both sides of a war nobody won, building ports for worlds the ship
 
 They are the only organised logistics network in the settled galaxy operating outside Guard control, and they got there by dealing with local councils rather than with the Guard at all.
 
-**What it cost them.** The founding accounts are held. The body ran at a loss for eleven years and its people went unpaid for seven of them. The arrears schedule is filed. It was settled in full in GC 4443.
+**What it cost them.** The founding accounts are held. The body ran at a loss for eleven years and its people went unpaid for seven of them. The arrears schedule is filed. It was settled in full.
 
 **No walls.** Every Trailblazer installation in the concession filings has no perimeter, no watchtower, no emplacement and no armed establishment. We checked this against the construction schedules, which list no such item, and against three informants, who confirmed it with some amusement.
 

@@ -10,7 +10,7 @@ cross_refs: [cord, the-great-war, guardnet, guard-credits, the-restoration, saig
 *vernacular: the Fry*
 `INTACT`
 
-In GC 4401 every computer in the galaxy stopped, and everything any of them was holding stopped with it. Paper survived. That is the entire reason this volume exists.
+In every computer in the galaxy stopped, and everything any of them was holding stopped with it. Paper survived. That is the entire reason this volume exists.
 
 The formal word is the Wipe, and it is what the filings and the law use. Everybody who was actually there calls it the Fry.
 

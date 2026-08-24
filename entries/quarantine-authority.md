@@ -15,7 +15,7 @@ Biosecurity authority of the Polaris system. Seated in Kelton City. Regulates mo
 
 **Powers.** Inspection, seizure, destruction, and the closure of movement between bodies. Closure requires no external approval and is not appealable. Movement of persons is subject to the same instrument as movement of material.
 
-**Use.** Filed. Closures ordered GC 4442 to GC 4461: 61. Mean duration 9 days. Longest, 214 days, Dorrow to Kelton, in a year in which the Dorrow milling wage was in dispute.
+**Use.** Filed. Closures ordered that period: 61. Mean duration 9 days. Longest, 214 days, Dorrow to Kelton, in a year in which the Dorrow milling wage was in dispute.
 
 The authority's closure notice gives the biological grounds, in plain language, every time. The Restoration has verified the grounds in every case it could check and could check 44 of the 61.
 

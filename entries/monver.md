@@ -12,7 +12,7 @@ cross_refs: [monver-refusal, the-guard, planetary-defense-forces, greyleaf, redl
 Forest, rock and real mountains, some of which are ships. Colonial hulls came down here two thousand years ago and the country grew over them, and the largest is thirty-one kilometres long and carries mature trees.
 
 **System:** Monver (single star, five bodies, one habitable, one worked)
-**Status:** Guard member state. Acceded GC 4431 on negotiated terms
+**Status:** Guard member state. Acceded on negotiated terms
 **Population:** between 80 million and 350 million
 **Membership:** two years of service, and you do not tell us how to live
 **Calendars in use:** Galactic Calendar; the Monver reckoning, six seasons, anchored to the high thaw

@@ -28,7 +28,7 @@ Service is eleven months and universal. The force has no long-range transport, n
 
 **The vaults.** Cretan deposit records survived the Wipe because they were on paper in rooms built to survive things. The four governments state that they are complete. They are not open to this archive, to the Guard, or to anyone else. Applications are answered promptly and in the negative.
 
-**The giving.** Endowment records are public and precise. Between GC 4403 and 4462 Cretan foundations paid for 1,206 libraries, 411 hospitals and 89 university faculties on other worlds. Where the underlying capital came from is not published.
+**The giving.** Endowment records are public and precise. Since the war Cretan foundations have paid for 1,206 libraries, 411 hospitals and 89 university faculties on other worlds. Where the underlying capital came from is not published.
 
 *[Compiler's note: this society works from three rooms. Two of them were paid for by a Cretan endowment. We record that here because it seemed dishonest not to.]*
 

@@ -17,7 +17,7 @@ Grassland and vat towers, and the smell of the rendering yards, which the wind t
 **Calendars in use:** Polaris Harvest Reckoning
 **Principal exports:** meat, bone meal, blood meal, manure, tallow
 
-**Output, GC 4461:** 40,116,200 tonnes carcass weight. 18,904,700 tonnes of rendered fertiliser.
+**Output, :** 40,116,200 tonnes carcass weight. 18,904,700 tonnes of rendered fertiliser.
 
 The second figure is the one that matters. Weton's soil runs on what comes out of these yards, and Weton's yields follow Sheel's rendering volume by about eighteen months. You can see it in the books of both worlds, year against year, and it is written into no contract between them.
 

@@ -17,6 +17,6 @@ You cannot start without filling it in, and once filed it is kept forever, becau
 
 It can be changed at any time by writing in. Fewer than two people in a hundred ever do.
 
-*[Compiler's note: it is a good form. It is well drafted and it is honoured. The volunteer transcribing the GC 4444 series stopped for the day when she noticed what the ages in the third column were.]*
+*[Compiler's note: it is a good form. It is well drafted and it is honoured. The volunteer transcribing one year of them stopped for the day when she noticed what the ages in the third column were.]*
 
 *Cross-ref: Guard burial rites · The Burial Moon · The Guard Academy · Yakib Yalitio*

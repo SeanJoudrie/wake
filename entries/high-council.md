@@ -13,7 +13,7 @@ The senior ministers, the service chiefs, and the heads of the great houses, sit
 
 **Except.** The High Emergency Council Act says that if the sovereign proclaims an emergency, everything the crown and parliament hold passes to this Council.
 
-The Act is precise about the proclamation and precise about the transfer. It says nothing about how long it lasts, how it ends, who reviews it, or what would revoke it. Parliament on Maldo has noticed this out loud four times, most recently in GC 4438, and amended it none.
+The Act is precise about the proclamation and precise about the transfer. It says nothing about how long it lasts, how it ends, who reviews it, or what would revoke it. Parliament on Maldo has noticed this out loud four times, most recently, and amended it none.
 
 **And the geography.** The Act moves power to a body sitting on Maldo. The sovereign proclaims from Shayron. Those are not in the same system.
 

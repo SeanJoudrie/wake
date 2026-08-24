@@ -19,6 +19,6 @@ Recorded terms run from eleven months to thirty-one years. The middle of that is
 
 **Who runs it.** Whoever the local authority is. On Maspin that is the Council of Riflo, whose own registers show indentured people assigned to households belonging to sitting councillors, written down plainly in the ordinary column, because nothing requires anyone to hide it.
 
-**What the Guard says.** That it is going to be ended, and that the priority is first finishing membership and building a uniform register, after which measures will follow. That position has been published in materially identical words in GC 4429, 4437, 4448 and 4459.
+**What the Guard says.** That it is going to be ended, and that the priority is first finishing membership and building a uniform register, after which measures will follow. That position has been published in materially identical words, 4437, 4448 and 4459.
 
 *Cross-ref: "Slave-free territory" · Maspin · The Council of Riflo · Daiser · Custodial labour*

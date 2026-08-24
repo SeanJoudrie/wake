@@ -12,7 +12,7 @@ cross_refs: [the-guard, space-vaccines, guard-academy, the-guard-franchise, gala
 Cold, close-built and comfortable. Brick, iron gates, chimneys, canals that freeze hard enough to skate by the second week. The kind of world that produces doctors and cheese and very little history.
 
 **System:** Modanick (single star, four bodies, one habitable)
-**Status:** Guard member state. Acceded GC 4427 by referendum, 71.4 per cent for, on a turnout of 88.2
+**Status:** Guard member state. Acceded by referendum, 71.4 per cent for, on a turnout of 88.2
 **Population:** between 200 million and 900 million
 **Membership:** descent. Anyone may live here. Municipal office is restricted by statute to people born in the municipality
 **Calendars in use:** Galactic Calendar for filings; the Modanick reckoning, four seasons anchored to first frost, for everything anyone actually says out loud
@@ -30,6 +30,6 @@ The world now supplies more trained physicians to the member worlds than any oth
 
 **Defence.** None. Modanick has never had a military. Its accession instrument settles the personnel obligation in cash, one of four such instruments in the register: it pays 3.9 per cent of member revenue and sends nobody.
 
-**A note on the weather.** Guard tourism material issued between GC 4440 and GC 4455 describes Modanick as warm and bright the year round. Anybody who has actually wintered there describes something else entirely, at length, and with feeling.
+**A note on the weather.** Guard tourism material describes Modanick as warm and bright the year round. Anybody who has actually wintered there describes something else entirely, at length, and with feeling.
 
 *Cross-ref: The Guard · Space vaccines · The Guard Academy · Moonball · Jimzon Avaris*

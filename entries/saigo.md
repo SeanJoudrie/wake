@@ -9,7 +9,7 @@ cross_refs: [guard-academy, simulationism, guardnet, the-wipe, datapads, quantum
 # SAIGO
 `INTACT`
 
-Warm, coastal, and organised entirely around a university. It is the place trying to rebuild the machines that stopped in GC 4401, and it is losing, slowly, in public.
+Warm, coastal, and organised entirely around a university. It is the place trying to rebuild the machines that all stopped at once, and it is losing, slowly, in public.
 
 **System:** Saigo (single star, six bodies, one habitable)
 **Status:** Guard member state and chartered university world
@@ -18,7 +18,7 @@ Warm, coastal, and organised entirely around a university. It is the place tryin
 **Calendars in use:** Galactic Calendar; the term calendar, which governs everything here including the shipping
 **Principal exports:** engineers, patents, instruments, research
 
-**The programme.** Every drone, remote and unmanned system in the galaxy died at once and none of them came back. The reconstruction was chartered here in GC 4412 and has been funded ever since. Output to date: 2,411 registered patents and eleven classes of working device.
+**The programme.** Every drone, remote and unmanned system in the galaxy died at once and none of them came back. The reconstruction was chartered here and has been funded ever since. Output to date: 2,411 registered patents and eleven classes of working device.
 
 **What people think of that.** The member consultations are consistent and they contradict themselves. Asked whether autonomous systems should be rebuilt, respondents say no by a wide margin. Asked separately what they miss most about the world before, they say those systems.
 

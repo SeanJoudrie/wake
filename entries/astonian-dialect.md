@@ -19,7 +19,7 @@ The way Astonia used to talk. One person wrote it down, and then it was gone.
 
 One generation. That is all it takes.
 
-Our own survey of the world in GC 4457 found no speaker.
+Our own survey of the world found no speaker.
 
 **Two attempts to bring it back**, both by Astonian associations, both working from the same notes because there is nothing else, both suspended.
 

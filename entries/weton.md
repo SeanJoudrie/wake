@@ -18,7 +18,7 @@ Grain from one horizon to the other, worked by families on long instruments with
 **Calendars in use:** Polaris Harvest Reckoning
 **Principal exports:** raw grain
 
-**Harvest, GC 4461:** 1,204,880,600 tonnes, of which 1,204,880,600 tonnes were bought at the scheduled price. The purchase guarantee has been met in every year on record.
+**Harvest, :** 1,204,880,600 tonnes, of which 1,204,880,600 tonnes were bought at the scheduled price. The purchase guarantee has been met in every year on record.
 
 **What Weton does not have.** Its soil comes from Sheel. Its water is allocated from Corr. Its seed is licensed from Tall. Its grain leaves raw and is milled on Dorrow. It holds none of those functions and has never asked for one.
 

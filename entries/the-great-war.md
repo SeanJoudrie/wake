@@ -12,7 +12,7 @@ cross_refs: [the-autumnals, cord, the-wipe, destruction-of-wake, refugee-displac
 
 Two powers went to war and both of them ceased to exist. Nothing succeeded either one. Everything in this volume is dated from it and nobody can tell you why it started.
 
-**When.** It stopped in GC 4402 and no source disputes that. It started somewhere between GC 4386 and GC 4393 depending on which world you ask, a spread of seven years. Some of that is worlds dating the war from the first fighting in their own sky. Not all of it is.
+**When.** It stopped and no source disputes that. When it started depends on which world you ask, and the answers span about seven years. Some of that is worlds dating the war from the first fighting in their own sky. Not all of it is.
 
 **Why.** Every world has an answer. No two answers agree. No document has been recovered that would let anyone prefer one.
 

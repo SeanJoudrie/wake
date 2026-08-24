@@ -23,7 +23,7 @@ A field of rock where a planet used to be. Held almost everywhere to be where hu
 
 There is no census material. No municipal roll, no tax register, no conscription list, no birth record, nothing. Several people have described the census offices to us by location. None of the buildings survive.
 
-**The loss.** Guard records say one ordnance deployment, Autumnal forces, GC 4394, over in under an hour.
+**The loss.** Guard records say one ordnance deployment, Autumnal forces, over in under an hour.
 
 Thirty-eight people across eleven settlements say it took between two and nine days. Six of them describe the sky changing colour before anything was heard. Four describe evacuation orders. One describes those orders being countermanded.
 
@@ -31,7 +31,7 @@ We print both. They cannot both be correct.
 
 **After.** Mantle and core in pieces, sixty-one of them dense enough to be worth working. The Corefuel comes out of those, and it comes out of nowhere else with a licence on it, and the licence is issued by the Guard Board of Directors alone.
 
-The ledgers for that trade are `INTACT` and unusually complete. Licensed extraction for GC 4461: **812,443.6 standard tonnes.**
+The ledgers for that trade are `INTACT` and unusually complete. Licensed extraction in the most recent year returned: **812,443.6 standard tonnes.**
 
 People lived out there while it was worked. Houses on the larger fragments, held down and given air by spires burning the planet they were standing on. There was a school.
 

@@ -12,7 +12,7 @@ cross_refs: [polaris-system, house-polaris, kelton, weton, royal-houses, sun-wor
 
 Primary of the agricultural system that supplies the greater part of the member worlds' staple grain, protein, and salt.
 
-**Type and survey data:** filed complete in the navigational schedules, re-surveyed GC 4431.
+**Type and survey data:** filed complete in the navigational schedules, re-surveyed.
 
 **Name.** The star's name is older than its use. A family took the name from the star. Approximately a millennium later that family became royal, and the name is now borne by a Royal house, by the star, by the system, and by the shared calendar of ten inhabited bodies.
 

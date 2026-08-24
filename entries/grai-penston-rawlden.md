@@ -3,7 +3,7 @@ title: Grai Penston Rawlden
 slug: grai-penston-rawlden
 category: character
 tier: RECOVERED
-cross_refs: [pashmirske, nhath, nhathian, nhath-names, crag, the-guard, the-great-war, galactic-standard-law, refugee-displacement]
+cross_refs: [dorch-rawlden, crescent-city, pashmirske, nhath, nhathian, nhath-names, crag, the-guard, the-great-war, galactic-standard-law, refugee-displacement]
 ---
 
 # GRAI PENSTON RAWLDEN
@@ -34,9 +34,9 @@ He also uses the term *Fonty*, from the Nhathian *Fon-Ty*, meaning a subordinate
 
 He lives modestly. No residence, household or personal holding of any scale is attributed to him by any account held here.
 
-**Family.** Rawlden has one son, aged about twenty-three, born outside marriage. The administration promotes monogamy as stated policy on the grounds that it is stabilising, and the son is a publicly known exception to it. His standing is not defined by any instrument.
+**Family.** Rawlden has one son, Dorch Rawlden, aged about twenty-three, born outside marriage. The administration promotes monogamy as stated policy on the grounds that it is stabilising, and the son is a publicly known exception to it. His standing is not defined by any instrument.
 
-He holds a post in the administration. It is a junior one, concerned with the scheduling of refuse collection, and he applied for it. Accounts from Crescent City describe a young man with no interest in authority of any kind, who is not trusted with anything of consequence largely because he has never asked to be, and who is understood to want a life offworld and to be too frightened of the galaxy to go and find one.
+He holds a junior post in the municipal administration of Crescent City, applied for against open advertisement, and is catalogued separately.
 
 **Manner.** Rawlden speaks without notes. Every account describes him as quick, dry and unusually well constructed in the moment, to the extent that listeners routinely assume he has prepared and rehearsed. Nobody has produced a text of anything he has said.
 

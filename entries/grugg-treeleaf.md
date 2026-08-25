@@ -25,11 +25,15 @@ So the name is half of one world and half of nowhere, joined at a medevac, and t
 
 **Since.** No follow-up, no transfer, no next of kin contacted, and no correction ever filed. The file is closed and correct and in that name.
 
-**[SPOILER] Who he is.** Berji Kegeron. The medevac and the file are his: the crash, the face, the coma, and the name a third party supplied on the radio while he was past speaking.
+**[SPOILER] Who he is.** Berji Kegeron. The medevac and the file are his: the crash, the face, the tank, and the name a third party supplied on the radio while he was past speaking.
 
-He keeps the name after he wakes, because Jimzon tells him to. Asked what he wants to be called now, he is told, rather than asked, that his name is Grugg, and he has no idea yet why.
+**[SPOILER] The name was invented twice.** The first time on the radio, by Jimzon, hesitating in the middle of it. The second time at the admissions desk, where a nurse asked for a surname, and where the answer she wrote down and read back to check was Grugg Gruggs. She said it was strange and admitted him under it anyway.
 
-The half of the name that is not a Maspin word and does not occur anywhere else in our material was invented under fire by somebody who needed to say something.
+*Treeleaf* arrives somewhere between the two and nobody in the room is recorded as having chosen it.
+
+**[SPOILER] He keeps it.** After he wakes, Jimzon tells him in a corridor that if anybody asks, his name is Grugg. He does not know yet where he is or what has happened, and asks the name back as a question.
+
+He is still using it in the field afterwards, and is introduced at least once, by Calsco, as Prince Grugg of Katanzaria.
 
 *[Compiler's note: three men gave three names on one call and only one of them was in a condition to be lying. This archive is a great many files exactly like this one, and we normally do not notice, because normally there is nobody left to be wrong about.]*
 

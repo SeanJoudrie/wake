@@ -37,13 +37,25 @@ He told Pavlock and Yakib in the rec room and neither of them believed him. Yaki
 
 **[SPOILER] What he did about it.** He proposed that Jimzon place the key on Director Liles' terminal during his promotion meeting, on the reasoning that nobody else could get into that office and that Liles would not suspect the man he raised. He needed one minute.
 
-**[SPOILER] The crash.** The ship came down. He was carried unconscious for days across open country with his face bleeding, by two men who had no medical supplies and did not know where they were. He went into a coma and was admitted to a medbay under a name somebody else gave on the radio.
+**[SPOILER] The crash.** The ship came down. He was carried unconscious for days across open country with his face bleeding, by two men who had no medical supplies and did not know where they were.
 
-**[SPOILER] He wakes.** He wears a carved wooden mask with hollow eyes, and deep green and orange robes. Jimzon tells him that if anybody asks, his name is Grugg, and he does not know yet where he is or what has happened.
+**[SPOILER] The tank.** He was admitted to a Trailblazer medbay under a name somebody else gave on the radio, and put in a sensory deprivation tank: floating face up in glowing blue floom liquid, tubes into his throat, on a respirator, behind a one-way mirror. The estimate given to Jimzon at the glass was two or three more days. What was visible of his face was deep dark red, scarred and uneven.
 
-The first thing he says when he is asked whether he still feels like himself is that you will not find the same person twice, not even in the same person.
+**[SPOILER] What it was like inside it.** By his own account it felt like years.
 
-**[SPOILER] What he is now.** He talks about the butterfly effect, about the story of Ajax, about whether any of it is a simulation, and about the unconscious choices a brain makes before a person is old enough to have any say in them. He tells Jimzon that the Berji who left the mothership is not the one sitting in front of him, and that he does not mean the mask.
+He counted the days, then the weeks, although time did not mean anything in there. The dreams started and he had to keep reminding himself they were not real. He began taking apart every day he could remember, working backwards, to stay sane: how he tied his boots the morning of the crash, what he ate the day before, every detail, over and over. He went through every memory he had ever had and was still asleep.
+
+He dreamed about waking up repeatedly. Some of them felt real. He would open his eyes, feel everything again, and be pulled back under.
+
+**[SPOILER] Waking.** He was sitting in the dark with his back turned when Jimzon reached him, and asked for the lights to stay off, because he did not want his face seen.
+
+He asked whether it was real. Then he asked Jimzon to say something only the real Jim would know, something he could not have guessed and that would make sense anyway. Jimzon told him he had copied his answers on a mathematics exam at the academy before the two of them had properly met, that this is why he has Berji do the ordinance calculations in battle rather than Pavlock, who is the engineer, and that he made captain on the back of it.
+
+**[SPOILER] The mask.** Jimzon brought it in a box, wrapped, and kept his head down while it was opened. Riveted wood, hand-carved, smoothed and stained, neither smiling nor frowning. Berji put it on and stood up.
+
+It is what he wears from then on, with deep green and orange robes. Jimzon can no longer read him through it.
+
+**[SPOILER] What he is now.** He talks about the butterfly effect, the story of Ajax, whether any of it is a simulation, and the unconscious choices a brain makes before a person is old enough to have a say in them. Asked whether he still feels like himself he says you will not find the same person twice, not even in the same person. Told he did not deserve it, he says it does not matter what he deserved, that it was inevitable, and that there was nothing anybody could have done.
 
 He sits with his hands still and his food going cold in front of him.
 

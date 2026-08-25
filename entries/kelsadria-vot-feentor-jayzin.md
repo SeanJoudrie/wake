@@ -34,4 +34,12 @@ She said it out loud once, testing how it sounded: *Kelsa Avaris. I like the sou
 
 Her enlistment ends within the year.
 
+**[SPOILER] The engagement.** She recognised a voice on the scrambled transmission and broke off to call the ship directly by name rather than by callsign. Torres switched her to input only. She kept transmitting a ceasefire that nobody in the squadron could hear.
+
+Brynor and Torres were both killed in front of her within a minute of one another.
+
+**[SPOILER] What she did.** Her targeting computer cleared and gave her the shot. She let go of the trigger and watched the ship fly away. Her own instrument recorded a hit that was not one.
+
+She landed, could not get out of the cockpit unaided, and went down on the ladder in front of the pit crew. She was interviewed about the engagement afterwards.
+
 *Cross-ref: The Royal Houses · Sansvor · Nova Squadron · Jimzon Avaris · Torres Delprest*

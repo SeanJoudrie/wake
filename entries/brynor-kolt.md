@@ -18,4 +18,12 @@ By his own admission he only asked because he thought she was cool and was fairl
 
 She said yes.
 
+**[SPOILER] How he died.** Nova Squadron was ordered onto a vessel in Guard airspace and cleared to fire. The vessel identified itself on the radio as Castle Team 04, a sanctioned ship, and the transmission scrambled.
+
+He answered it with *very funny* and fired. His shot knocked the ship forty-five degrees off its heading. He fired again and took the rear stabiliser off it.
+
+Return fire destroyed his ship where he flew. Kelsa passed through the debris and saw his body in the open, twisted and burnt.
+
+He was laughing on the comms when it happened.
+
 *Cross-ref: Nova Squadron · Kelsadria Vot Feentor-Jayzin · Torres Delprest*

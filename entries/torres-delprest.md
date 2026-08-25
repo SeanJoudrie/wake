@@ -21,6 +21,8 @@ He is also, when it comes to it, gently hurt to find something out by watching r
 
 Off duty he sings old Backwater country, all of it, badly and with total commitment, and nobody has ever asked him to stop.
 
+**[SPOILER] How he died.** He led the engagement in which Nova Squadron fired on a vessel identifying itself as Castle Team 04. When Kelsa transmitted a ceasefire he switched her to input only, so that command could still hear her and the squadron could not.
 
+After Brynor's ship was destroyed he called for a clean shot and reported his own targeting computer down, damaged by the debris. A bolt went through his cockpit and killed him instantly.
 
 *Cross-ref: Nova Squadron · Kelsadria Vot Feentor-Jayzin · Brynor Kolt*

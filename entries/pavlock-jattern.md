@@ -35,4 +35,10 @@ Maspin children bounce with excitement when he walks past. He straightens his ba
 
 He also carries something he has never said aloud, about the man he follows and the man he wishes were standing there instead, and he hates himself for thinking it, and he cannot make it not be true.
 
+**[SPOILER] Dometré Polaris.** The prince who arrives to negotiate on Riflo for House Kafkee is Pavlock, in a false identity assembled with Calsco Fritt's help. The beard nearly ends it before it begins: Calsco identifies him on sight, on the grounds that the royal family is clean-shaven.
+
+He carries it through the Council Chamber and the negotiation succeeds. Calsco's reading of it is that a man freed from chains still owes the man who freed him.
+
+**[SPOILER] Why he is out there at all.** He is a deserter. He left with Jimzon after what Berji found, and the ship they left on was shot down.
+
 *Cross-ref: Marfeld · The Marfeld coming-of-age trial · The Marfeld beard · Korno · Jimzon Avaris*

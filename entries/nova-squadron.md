@@ -28,4 +28,8 @@ Then everybody drinks it and pulls a face, because rockroot mead is not for enjo
 
 The helmets are the record. Every engraving on them is a mission that went well and a place somebody has been.
 
+**[SPOILER] The engagement that ended it.** Ordered onto a vessel in Guard airspace and cleared to use deadly force. The vessel identified itself as Castle Team 04, a sanctioned ship, and the rest of the transmission scrambled. The squadron fired anyway.
+
+Brynor Kolt and Torres Delprest were killed. The vessel escaped. Of the four who flew that morning, two came back, and the question put to Kelsa afterwards was whether she intended to leave Hada as the last member of the squadron.
+
 *Cross-ref: Torres Delprest · Brynor Kolt · Hada Mariner · The Mothership*

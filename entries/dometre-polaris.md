@@ -31,6 +31,10 @@ Then his pendant answered theirs, and the room changed. What was said afterwards
 
 **Since.** No soldiers arrived. No payment was made. The Council has not withdrawn the minute, has not written to any house, and declines to discuss the matter with this archive.
 
+**[SPOILER] Who he is.** There is no such person. The name is a false identity carried by Pavlock Jattern, built with Calsco Fritt, in order to be admitted to the Council Chamber of Riflo as an envoy of House Kafkee.
+
+Every commitment recorded under the name was made by a Guard combat engineer with no authority to make it. The archive's inability to find the man is not a failure of the record.
+
 *[Compiler's note: a man walked into the one room on that world where a decision happens, gave a name, and left with an agreement. We can tell you what he promised to the credit. We cannot tell you that he exists.]*
 
 *Cross-ref: The Council of Riflo · The Council Chamber of Riflo · House Kafkee · House Polaris · The Gift of Memory · Smelvin · Grugg Treeleaf*

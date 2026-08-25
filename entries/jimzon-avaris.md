@@ -45,4 +45,20 @@ He is casually bigoted about non-humans in the ordinary, unexamined way of someb
 
 He also uses *Crag* the way everyone he grew up with uses it, and thinks nothing about it at all.
 
+**[SPOILER] Why his family died.** They were not killed in a raid. The Guard hired the Nhath to take the station so that the refined fuel could be sold through a middleman instead of settling the completed contract with the extraction families.
+
+He was orphaned in order to close an account, and then raised by the organisation that closed it, and then paid by it for twenty years to fight the people it hired.
+
+**[SPOILER] How he found out.** Berji's key copied the Nhath leader's terminal. The invoices are from the Guard Board of Directors' fund and there is one for every raid.
+
+He put the key on Director Liles' terminal during his own promotion meeting, on the strength of Liles treating him like a younger brother. It needed a minute. It got one.
+
+**[SPOILER] The meeting.** Liles had already watched him find the Nhath file, on his own helmet camera, and knew what was coming. He offered him a captaincy.
+
+Liles is one of seven directors and came to the seat recently enough to have found the arrangement rather than built it. What he asked for was help changing the Guard from inside it. What Jimzon wanted was to publish.
+
+Publishing it is treason. That is the whole of the choice he was given.
+
+**[SPOILER] What he did.** He left. The squad went with him, all but Jax, and the ship they left on was shot down by Nova Squadron over Guard airspace. They came down on a jungle world and walked out of it carrying Berji.
+
 *Cross-ref: The Wakeful Islands · Korjin Avaris · Spara Avaris · Powitt Avaris · Liles Ninzin · Modanick · "Crag"*

@@ -29,4 +29,12 @@ What he says he wants, delivered like warmth:
 
 He is on a board of seven where every member can be removed by the other six, and where nobody's dissent has ever been written down.
 
+**[SPOILER] What he knows.** He is one of the seven directors and he came to the seat recently. He found the arrangement with the Nhath already running. He did not build it.
+
+**[SPOILER] The meeting.** He watched Jimzon find the Nhath file through Jimzon's own helmet camera and said nothing until the promotion meeting, which he then used to offer him a captaincy.
+
+When that failed he asked him to stay and help change the Guard from the inside. He was not able to offer him any way of publishing it that was not treason.
+
+He begged him not to go.
+
 *Cross-ref: The Guard Board of Directors · Jimzon Avaris · Miss Liles · The Wakeful Islands*

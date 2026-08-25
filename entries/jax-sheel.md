@@ -21,4 +21,6 @@ He does not bring it up. It is in the record, which is a different thing from be
 
 Steady in the air and warm on the ground. He is the one who talks, without making it heavy, about having been pulled out of his own lowest patch by people who bothered.
 
+**[SPOILER] He stays.** When the squad deserted, Jax was not with them. Every other member of the team left. He is the one who did not.
+
 *Cross-ref: The Guard · Nova Squadron · Yakib Yalitio · Jimzon Avaris*

@@ -29,4 +29,10 @@ There is one word for everybody outside: *krayd*. It serves for *they*, for *oth
 
 **Work.** Armed contract, which is what the Guard bought and therefore what the record shows. Also haulage, salvage, and the sale of water rights. The survey notes an instructor of arithmetic at a settlement school, by name and generation number, and records his rate of pay.
 
+**[SPOILER] Who paid them.** The Guard did, through the Board of Directors' own fund, in payments of a million credits, one for each raid.
+
+The targets are neutral colonies and settlements outside the Guard's Alliance. The worlds that survive a raid apply to the Alliance for protection afterwards, which is the point of the raid.
+
+The ledger is on the Nhath leader's terminal, alongside the food deliveries and the bike parts.
+
 *Cross-ref: Nhathian · The Nhath homeworld · Translator chips · Corefuel · The disbursing fund `[ENTRY NOT RECOVERED]`*

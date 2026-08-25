@@ -39,4 +39,10 @@ Nobody is refusing to pay. That is the elegance of it. Every step is legitimate 
 
 Nothing about that is personal. It is arithmetic, done on paper, by people who have never met him. That is the part that should worry you.
 
+**[SPOILER] What the ninety-five per cent is for.** Paying it out is the exception rather than the rule, and the structure exists so that it can be avoided.
+
+Two methods appear in the record. A contract can be ended before its term by an outside party the Guard has hired and can disown. Or a man near the end of his term can be sent somewhere he is not expected to come back from, which works best on personnel whose work leaves no paper trail.
+
+Both produce the same entry in the ledger, which is no entry at all.
+
 *Cross-ref: The Guard · Guard credits · Standing order 41 · The accounting division · The death benefit*

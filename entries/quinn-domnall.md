@@ -25,4 +25,12 @@ His contract is nearly up.
 
 **And then a file lands on his desk.** A transfer, to a security posting on a frozen moon called Sonaff. He is being sent to guard a hangar.
 
+**[SPOILER] Why he was sent.** His term was nearly complete. He worked in accounting, which is work that leaves very little paper behind, and he was sent on an operation nobody was expected to return from.
+
+The purpose was the ninety-five per cent. A man who does not come back does not collect it.
+
+**[SPOILER] Afterwards.** He lived. He worked it out from a bed in intensive care.
+
+His accounting duties told him the security rotation on the cargo movements, so he knew which ship carrying valuables would be thinly watched and when. He left on it, with one other man, for a desert world.
+
 *Cross-ref: The accounting division · Sonaff · The Moon of Sonaff Incident · The Sonaff five · The Wipe*

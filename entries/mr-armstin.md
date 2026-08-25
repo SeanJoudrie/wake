@@ -25,4 +25,8 @@ He requested them. Correctly, on the right form, quarter after quarter, for nine
 
 His house was the first one hit.
 
+**[SPOILER] The delivery that did not come.** His parts were on the manifest and never arrived. The candy on the same run did.
+
+The gap was not a shipping failure. The station was scheduled to be attacked and the parts were the ones that would have mattered.
+
 *Cross-ref: Gravity spires · The Wakeful Islands · Corefuel · Wake*

@@ -53,6 +53,9 @@
     var open = btn.getAttribute("aria-expanded") !== "true";
     var scope = btn.closest(".section-set") || document;
     [].slice.call(scope.querySelectorAll(".section")).forEach(function (d) {
+      // Never through the spoiler door. Opening everything is about the entry
+      // in front of you, not about reading ahead of the book.
+      if (d.closest(".spoilers")) return;
       d.open = open;
     });
     btn.setAttribute("aria-expanded", String(open));

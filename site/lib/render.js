@@ -112,19 +112,42 @@ ${cap}
 </figure>`;
 }
 
+const sectionMarkup = (s, open) => `<details class="section"${open ? " open" : ""}>
+<summary><h2>${escapeHtml(s.title)}</h2>${
+  s.gaps ? `<span class="sec-gaps">${s.gaps} gap${s.gaps > 1 ? "s" : ""}</span>` : ""
+}${CHEV}</summary>
+<div class="section-body">${s.html}</div>
+</details>`;
+
+// Everything the author has marked as reading ahead of the book, behind one
+// door per entry. The door is shut whatever else on the page is open, and its
+// summary names no section, because a section title can give the thing away on
+// its own.
+function spoilerGate(sections) {
+  if (!sections.length) return "";
+  const inner = sections.map((s) => sectionMarkup(s, true)).join("\n");
+  return `<details class="spoilers">
+<summary><span class="spoiler-mark">Spoilers</span>
+<span class="spoiler-note">${sections.length} section${
+    sections.length > 1 ? "s" : ""
+  } from later in the book</span>${CHEV}</summary>
+<div class="spoiler-body">
+<p class="spoiler-warn">Past this point the entry describes events the book has not reached.</p>
+${inner}
+</div>
+</details>`;
+}
+
 export function entryBody(entry, { open = false } = {}) {
   if (!entry.sections.length) return entry.lead + entry.notes;
 
-  const sections = entry.sections
-    .map(
-      (s) => `<details class="section"${open ? " open" : ""}>
-<summary><h2>${escapeHtml(s.title)}</h2>${
-        s.gaps ? `<span class="sec-gaps">${s.gaps} gap${s.gaps > 1 ? "s" : ""}</span>` : ""
-      }${CHEV}</summary>
-<div class="section-body">${s.html}</div>
-</details>`
-    )
-    .join("\n");
+  const plain = entry.sections.filter((s) => !s.spoiler);
+  const held = entry.sections.filter((s) => s.spoiler);
+  const gate = spoilerGate(held);
+
+  if (!plain.length) return `${entry.lead}\n${gate}\n${entry.notes}`;
+
+  const sections = plain.map((s) => sectionMarkup(s, open)).join("\n");
 
   return `${entry.lead}
 <div class="section-set">
@@ -135,6 +158,7 @@ export function entryBody(entry, { open = false } = {}) {
 ${sections}
 </div>
 </div>
+${gate}
 ${entry.notes}`;
 }
 

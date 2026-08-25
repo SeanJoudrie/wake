@@ -643,6 +643,67 @@ summary:hover .chev { color: var(--seal); }
 }
 
 
+
+/* ---- Spoilers -----------------------------------------------------------
+   One door per entry, holding everything the author has marked as reading
+   ahead of the book. It is shut on arrival, it stays shut when the reader
+   opens all sections, and its summary names no section, because a heading
+   can give a thing away by itself. Seal ink, never absence red: nothing has
+   failed here, the reader is simply being asked first. */
+.spoilers {
+  margin: var(--sp-6) 0 var(--sp-5);
+  border: 1px solid var(--paper-edge);
+  background: var(--paper-deep);
+}
+.spoilers > summary {
+  display: flex;
+  align-items: baseline;
+  gap: var(--sp-3);
+  padding: var(--sp-3) var(--sp-4);
+  cursor: pointer;
+  list-style: none;
+}
+.spoilers > summary::-webkit-details-marker { display: none; }
+.spoilers > summary:hover .spoiler-mark,
+.spoilers > summary:focus-visible .spoiler-mark { color: var(--seal); }
+.spoilers > summary .chev { flex: none; align-self: center; color: var(--ink-soft); }
+.spoilers[open] > summary { border-bottom: 1px solid var(--paper-edge); }
+
+.spoiler-mark {
+  flex: none;
+  font: 400 var(--t-14)/1.4 var(--data);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--ink);
+}
+.spoiler-note {
+  flex: 1 1 auto;
+  font: 400 var(--t-12)/1.6 var(--data);
+  color: var(--tier-ink);
+}
+.spoiler-body { padding: 0 var(--sp-4) var(--sp-4); }
+.spoiler-warn {
+  margin: var(--sp-3) 0 0;
+  font: 400 var(--t-12)/1.6 var(--data);
+  color: var(--tier-ink);
+}
+/* The sections inside sit on the darker paper, so they take its rule, and
+   the last one does not draw a line against the bottom of the box. */
+.spoiler-body .section { border-top-color: var(--paper-edge); }
+.spoiler-body .section:last-child { border-bottom: 0; }
+
+@media (max-width: 720px) {
+  .spoilers > summary { padding: var(--sp-3); gap: var(--sp-2); flex-wrap: wrap; }
+  .spoiler-note { flex-basis: 100%; }
+  .spoiler-body { padding: 0 var(--sp-3) var(--sp-3); }
+}
+
+/* Print takes the page as it was left. A shut door prints shut. */
+@media print {
+  .spoilers { break-inside: avoid; }
+  .spoilers > summary .chev { display: none; }
+}
+
 /* Plates. A gallery of everything that got drawn, which is not much. */
 .plate-grid { display: grid; gap: var(--sp-6) var(--sp-5);
   grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));

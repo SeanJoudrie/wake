@@ -81,6 +81,9 @@ function isUnnarrowed(label, value) {
 // Entries carry no markdown headings. Sections are bold lead-ins: "**Loss event.** ..."
 const SECTION = /^\*\*([^*]+?)[.:]\*\*(?:\s+(.*))?$/;
 const NOTE = /^\*\[Compiler's note:/;
+// A section the author has marked as reading ahead of the book. The marker is
+// stripped from the title and the section is gated behind a disclosure.
+const SPOILER = /^\[SPOILER\]\s*/i;
 
 function countGaps(html) {
   return (html.match(/class="gap"/g) || []).length;
@@ -107,10 +110,14 @@ function sectionize(lines) {
   }
 
   const sections = starts.map((start, n) => {
-    const [, title, tail] = rest[start].match(SECTION);
+    const [, rawTitle, tail] = rest[start].match(SECTION);
     const end = n + 1 < starts.length ? starts[n + 1] : rest.length;
     const body = [tail || "", ...rest.slice(start + 1, end)].join("\n").trim();
-    return { title, body };
+    return {
+      title: rawTitle.replace(SPOILER, ""),
+      spoiler: SPOILER.test(rawTitle),
+      body,
+    };
   });
 
   return {
@@ -201,7 +208,7 @@ function renderParts(rest) {
   const render = (t) => (t.trim() ? markGaps(noteClass(md.render(t.trim()))) : "");
   const sections = split.sections.map((s) => {
     const html = render(s.body);
-    return { title: s.title, html, gaps: countGaps(html) };
+    return { title: s.title, spoiler: s.spoiler, html, gaps: countGaps(html) };
   });
   const lead = render(split.lead);
   return {

@@ -45,6 +45,16 @@ He is casually bigoted about non-humans in the ordinary, unexamined way of someb
 
 He also uses *Crag* the way everyone he grew up with uses it, and thinks nothing about it at all.
 
+**The balcony.** Told that Pavlock is leaving for Korno, he searches his friend's face the way a person reads a punchline just before it lands, opens his mouth, and looks away long enough to work out that there is no joke coming.
+
+He says it is awesome three times. He asks whether the move is a stepping stone or the stone, and is told it is the stone.
+
+Afterwards he turns to the railing, knocks the cap off a beer against it, drinks half, pours the rest into the bushes and watches it fall. He lets the bottle slide towards the edge, stops it, and puts it back on the railing.
+
+He looks at the sunset again and it is not as pretty this time.
+
+By his own later account he had been sad from the moment he was told, and for a moment on Maspin he was jealous.
+
 **[SPOILER] Why his family died.** They were not killed in a raid. The Guard hired the Nhath to take the station so that the refined fuel could be sold through a middleman instead of settling the completed contract with the extraction families.
 
 He was orphaned in order to close an account, and then raised by the organisation that closed it, and then paid by it for twenty years to fight the people it hired.

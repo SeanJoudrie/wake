@@ -2,19 +2,19 @@
 title: Korno
 slug: korno
 category: world
-tier: INTACT
-cross_refs: [saigo, the-guard, pavlock-jattern, michael-vousin, guard-credits, marfeld, apprenticeship]
+tier: TESTIMONY
+cross_refs: [pavlock-jattern, jimzon-avaris, marfeld, the-guard]
 ---
 
 # KORNO
-`INTACT`
+`TESTIMONY`
 
-Where things get made, and where engineers go when they are done being shot at.
+A good world, and the one people in this volume mean when they talk about getting out.
 
-Not a beautiful world. Grey skies most of the year, low workshops running to the edge of every town, and the constant background sound of small precise machinery. What Korno does is components: the brackets, couplings, regulators and fittings that every other world needs and nobody else can be bothered to fabricate to tolerance.
+**What it is for.** Work, and engineering work in particular. A position on Korno is not treated as a step towards something else. Asked directly whether moving there was a stepping stone for his career or the stone, the one man here who had a place waiting answered that it was the stone, the peak, and that he had finally made it.
 
-**The apprentice register** is the largest single document the planet keeps, and it is the reason people come. Sign on, and a Guard engineering division takes you for a term with a real workshop and a real instructor. It has run under a standing arrangement for thirty-odd years and it works, which makes it almost unique.
+**What is held here.** Nothing else. No survey, no population, no industry return, no municipal record and no plate.
 
-That is the shape of the Korno dream, and it is a modest one. A workshop, a bench, a trade, and nobody shooting at you. There are men in the Guard right now counting the months.
+The entry is one man's plan to go and one other man's account of how he felt about it, and the second of those is the longer of the two.
 
-*Cross-ref: Saigo · The Guard · Pavlock Jattern*
+*Cross-ref: Pavlock Jattern · Jimzon Avaris*

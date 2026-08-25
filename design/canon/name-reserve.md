@@ -12,7 +12,6 @@ Unassigned. Author-supplied. Source name in brackets where given.
 | Sidor | George Sidor |
 | Maritt | Garrette Mentor |
 | Kanzi | Christina Manzi |
-| Botin | Richard Tobin. Alternates: Tobin, Binto, Tobir |
 | Kenjen | Mike Jennings |
 | Seager | Sean Meagher |
 | Azen | Hazel Adeline |
@@ -20,6 +19,9 @@ Unassigned. Author-supplied. Source name in brackets where given.
 Note: Sidor is already in use as a street name on Shayron (Sidor Avenue).
 Reuse as a surname is fine and is the kind of overlap real registers have,
 but it is deliberate rather than accidental if it stays.
+
+Note: Botin and Tobin are both taken. They went to one character, Botin
+Tobin (from Richard Tobin). Binto and Tobir remain unused.
 
 ## Places
 | Reserved | From |

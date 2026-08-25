@@ -1,13 +1,14 @@
 ---
-title: Botin
+title: Botin Tobin
 slug: botin
 category: character
 tier: TESTIMONY
-art_caption: "botin at the tiller"
+art_caption: "botin tobin at the tiller"
 cross_refs: [botins-canal-city]
 ---
 
-# BOTIN
+# BOTIN TOBIN
+*also: Botin*
 `TESTIMONY`
 
 A machine that rows boats by hand. He carries passengers for no fare and accepts donations, which he does not ask for.
@@ -28,4 +29,4 @@ Asked whether he wants to find meaning: *"You can find all you want. Mine was bu
 
 **Manner.** Cheerful, unhurried and funny. He is easy company on the water.
 
-*Cross-ref: The canal city Botin was built for*
+*Cross-ref: The canal city Botin Tobin was built for*

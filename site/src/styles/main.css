@@ -645,64 +645,74 @@ summary:hover .chev { color: var(--seal); }
 
 
 /* ---- Spoilers -----------------------------------------------------------
-   One door per entry, holding everything the author has marked as reading
-   ahead of the book. It is shut on arrival, it stays shut when the reader
-   opens all sections, and its summary names no section, because a heading
-   can give a thing away by itself. Seal ink, never absence red: nothing has
-   failed here, the reader is simply being asked first. */
-.spoilers {
-  margin: var(--sp-6) 0 var(--sp-5);
-  border: 1px solid var(--paper-edge);
-  background: var(--paper-deep);
-}
+   The one thing on this site that is not in the world. Everything else is the
+   compiler addressing a reader inside the fiction; this is the book addressing
+   a fan outside it. So it is off the archive's palette on purpose: a maroon
+   pill you have to press, not a section of the record. Maroon, not absence
+   red. Absence means the record failed. This means you have been asked. */
+.spoilers { margin: var(--sp-6) 0 var(--sp-5); }
+
 .spoilers > summary {
-  display: flex;
-  align-items: baseline;
-  gap: var(--sp-3);
-  padding: var(--sp-3) var(--sp-4);
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-2);
+  padding: var(--sp-2) var(--sp-4);
+  border-radius: 999px;
+  background: var(--spoiler);
+  color: var(--paper);
   cursor: pointer;
   list-style: none;
-}
-.spoilers > summary::-webkit-details-marker { display: none; }
-.spoilers > summary:hover .spoiler-mark,
-.spoilers > summary:focus-visible .spoiler-mark { color: var(--seal); }
-.spoilers > summary .chev { flex: none; align-self: center; color: var(--ink-soft); }
-.spoilers[open] > summary { border-bottom: 1px solid var(--paper-edge); }
-
-.spoiler-mark {
-  flex: none;
-  font: 400 var(--t-14)/1.4 var(--data);
+  font: 400 var(--t-12)/1.5 var(--data);
   text-transform: uppercase;
   letter-spacing: 0.14em;
-  color: var(--ink);
 }
+.spoilers > summary::-webkit-details-marker { display: none; }
+.spoilers > summary:hover { background: var(--spoiler-lit); }
+.spoilers > summary:focus-visible {
+  outline: 2px solid var(--spoiler);
+  outline-offset: 2px;
+}
+.spoilers > summary .chev {
+  flex: none;
+  color: var(--paper);
+  transition: transform 0.15s ease;
+}
+.spoilers[open] > summary .chev { transform: rotate(180deg); }
+
+.spoiler-mark { flex: none; }
+/* The count rides inside the pill, quieter than the word itself. */
 .spoiler-note {
-  flex: 1 1 auto;
-  font: 400 var(--t-12)/1.6 var(--data);
-  color: var(--tier-ink);
+  flex: none;
+  letter-spacing: 0.06em;
+  text-transform: none;
+  opacity: 0.75;
 }
-.spoiler-body { padding: 0 var(--sp-4) var(--sp-4); }
+
+.spoiler-body {
+  margin-top: var(--sp-4);
+  padding-left: var(--sp-4);
+  border-left: 2px solid var(--spoiler);
+}
 .spoiler-warn {
-  margin: var(--sp-3) 0 0;
+  margin: 0 0 var(--sp-2);
   font: 400 var(--t-12)/1.6 var(--data);
-  color: var(--tier-ink);
+  color: var(--spoiler);
 }
-/* The sections inside sit on the darker paper, so they take its rule, and
-   the last one does not draw a line against the bottom of the box. */
-.spoiler-body .section { border-top-color: var(--paper-edge); }
+.spoiler-body .section:first-of-type { border-top: 0; }
 .spoiler-body .section:last-child { border-bottom: 0; }
 
 @media (max-width: 720px) {
-  .spoilers > summary { padding: var(--sp-3); gap: var(--sp-2); flex-wrap: wrap; }
-  .spoiler-note { flex-basis: 100%; }
-  .spoiler-body { padding: 0 var(--sp-3) var(--sp-3); }
+  .spoilers > summary { padding: var(--sp-2) var(--sp-3); }
+  .spoiler-body { padding-left: var(--sp-3); }
 }
 
-/* Print takes the page as it was left. A shut door prints shut. */
+/* A shut door prints shut. */
 @media print {
   .spoilers { break-inside: avoid; }
   .spoilers > summary .chev { display: none; }
+  .spoilers > summary { background: none; color: var(--ink); border: 1px solid var(--ink); }
 }
+
 
 /* Plates. A gallery of everything that got drawn, which is not much. */
 .plate-grid { display: grid; gap: var(--sp-6) var(--sp-5);

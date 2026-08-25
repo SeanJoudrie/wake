@@ -128,11 +128,9 @@ function spoilerGate(sections) {
   const inner = sections.map((s) => sectionMarkup(s, true)).join("\n");
   return `<details class="spoilers">
 <summary><span class="spoiler-mark">Spoilers</span>
-<span class="spoiler-note">${sections.length} section${
-    sections.length > 1 ? "s" : ""
-  } from later in the book</span>${CHEV}</summary>
+<span class="spoiler-note">${sections.length}</span>${CHEV}</summary>
 <div class="spoiler-body">
-<p class="spoiler-warn">Past this point the entry describes events the book has not reached.</p>
+<p class="spoiler-warn">For readers who have finished. Everything below happens later in the book.</p>
 ${inner}
 </div>
 </details>`;

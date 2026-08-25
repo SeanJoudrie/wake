@@ -16,6 +16,13 @@
   /* RESERVED. Only where the record fails. Nothing else on this site is this colour. */
   --absence:  #9B3A2E;
 
+  /* The one element on this site that is not in the world. The spoiler gate is
+     addressed to the reader, not written by the compiler, so it is the only
+     thing allowed off the archive's palette. Kept clearly apart from
+     --absence, which means something else entirely. */
+  --spoiler:     #6E2436;
+  --spoiler-lit: #8A3247;
+
   /* Faces */
   --display: "Archivo Narrow", "Arial Narrow", sans-serif;
   --body:    "IBM Plex Serif", Georgia, "Times New Roman", serif;

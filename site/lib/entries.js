@@ -165,6 +165,7 @@ function parseEntry(slug, raw) {
     art: fs.existsSync(path.join(process.cwd(), "src", "art", `${slug}.jpg`))
       ? `${slug}.jpg`
       : null,
+    artSize: jpegSize(path.join(process.cwd(), "src", "art", `${slug}.jpg`)),
     artCaption: data.art_caption || null,
     crossRefs: data.cross_refs || [],
     sources: SOURCES[slug] || [],
@@ -175,6 +176,24 @@ function parseEntry(slug, raw) {
     })),
     ...renderParts(rest),
   };
+}
+
+// Width and height off the JPEG's frame header, so a plate reserves the space
+// its own picture needs rather than the shape most of them happen to be.
+function jpegSize(file) {
+  if (!fs.existsSync(file)) return null;
+  const b = fs.readFileSync(file);
+  let i = 2;
+  while (i + 9 < b.length) {
+    if (b[i] !== 0xff) { i++; continue; }
+    const marker = b[i + 1];
+    // Any start-of-frame except the two that carry no dimensions.
+    const isSOF =
+      (marker >= 0xc0 && marker <= 0xcf) && marker !== 0xc4 && marker !== 0xc8 && marker !== 0xcc;
+    if (isSOF) return { height: b.readUInt16BE(i + 5), width: b.readUInt16BE(i + 7) };
+    i += 2 + b.readUInt16BE(i + 2);
+  }
+  return null;
 }
 
 function renderParts(rest) {

@@ -12,7 +12,7 @@ export function render() {
     .map(
       (e) => `<figure class="plate-card">
 <a href="${u(`/entry/${e.slug}/`)}">
-<img src="${u(`/art/${e.art}`)}" alt="${escapeHtml(e.title)}" loading="lazy" decoding="async" width="733" height="1100">
+<img src="${u(`/art/${e.art}`)}" alt="${escapeHtml(e.title)}" loading="lazy" decoding="async" width="${(e.artSize || {}).width || 733}" height="${(e.artSize || {}).height || 1100}">
 </a>
 <figcaption>
 <a class="plate-title" href="${u(`/entry/${e.slug}/`)}">${escapeHtml(e.title)}</a>

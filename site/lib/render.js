@@ -105,8 +105,9 @@ export function plate(entry) {
   const cap = entry.artCaption
     ? `<figcaption>${escapeHtml(entry.artCaption)}</figcaption>`
     : "";
+  const { width, height } = entry.artSize || { width: 733, height: 1100 };
   return `<figure class="plate">
-<img src="${u(`/art/${entry.art}`)}" alt="${escapeHtml(entry.title)}" loading="lazy" decoding="async" width="733" height="1100">
+<img src="${u(`/art/${entry.art}`)}" alt="${escapeHtml(entry.title)}" loading="lazy" decoding="async" width="${width}" height="${height}">
 ${cap}
 </figure>`;
 }

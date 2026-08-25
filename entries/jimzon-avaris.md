@@ -61,4 +61,10 @@ Publishing it is treason. That is the whole of the choice he was given.
 
 **[SPOILER] What he did.** He left. The squad went with him, all but Jax, and the ship they left on was shot down by Nova Squadron over Guard airspace. They came down on a jungle world and walked out of it carrying Berji.
 
+He is the one who gave Berji the name Grugg, in a corridor, without explaining it, because Berji had just woken and there was no time.
+
+**[SPOILER] Shayron.** He works the alley in a cap and a borrowed manner, playing an irritated foreman while Karagash holds a spool of cable that is a garden hose, to hold a guard's attention until Calsco can drop on him from above. The performance he gives is Quinn's, copied.
+
+He knows by then that there are bombs on the parade route and that the attack is a false flag meant to start a war. Quinn asks what the play is and calls him Captain.
+
 *Cross-ref: The Wakeful Islands · Korjin Avaris · Spara Avaris · Powitt Avaris · Liles Ninzin · Modanick · "Crag"*

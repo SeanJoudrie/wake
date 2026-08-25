@@ -37,6 +37,16 @@ He told Pavlock and Yakib in the rec room and neither of them believed him. Yaki
 
 **[SPOILER] What he did about it.** He proposed that Jimzon place the key on Director Liles' terminal during his promotion meeting, on the reasoning that nobody else could get into that office and that Liles would not suspect the man he raised. He needed one minute.
 
-**[SPOILER] Afterwards.** The ship came down. He was carried unconscious for days across open country with his face bleeding, by two men who had no medical supplies and did not know where they were. He did not wake. He is described in a coma.
+**[SPOILER] The crash.** The ship came down. He was carried unconscious for days across open country with his face bleeding, by two men who had no medical supplies and did not know where they were. He went into a coma and was admitted to a medbay under a name somebody else gave on the radio.
+
+**[SPOILER] He wakes.** He wears a carved wooden mask with hollow eyes, and deep green and orange robes. Jimzon tells him that if anybody asks, his name is Grugg, and he does not know yet where he is or what has happened.
+
+The first thing he says when he is asked whether he still feels like himself is that you will not find the same person twice, not even in the same person.
+
+**[SPOILER] What he is now.** He talks about the butterfly effect, about the story of Ajax, about whether any of it is a simulation, and about the unconscious choices a brain makes before a person is old enough to have any say in them. He tells Jimzon that the Berji who left the mothership is not the one sitting in front of him, and that he does not mean the mask.
+
+He sits with his hands still and his food going cold in front of him.
+
+He tells them that their sense of self is not tied to their bodies, that grace and malice can appear in any host, and that their minds are only satellites for consciousness.
 
 *Cross-ref: Monver · Planetary Defence Forces · The Monver Refusal · Redleaf · Captain Medarco*

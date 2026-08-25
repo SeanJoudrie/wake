@@ -21,4 +21,6 @@ He recites the oath the way soldiers do, front to back, without needing to find 
 
 He also has somebody he answers to whose name he was not supposed to say.
 
+**[SPOILER] It is not his name.** Meram Kest is a Royal cover identity. He gives the name, the rank and the oath as a practised block, and the man questioning him says outright that he knows the name is a costume and does not care what the real one is.
+
 *Cross-ref: The Royal Shayron Defence Force · Shayron · Prodar*

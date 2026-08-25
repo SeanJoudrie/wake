@@ -27,4 +27,10 @@ He would rather people believed either of the first two. Those happen in an aren
 
 **Home.** He is married, to a woman he describes as fierce and brilliant and beautiful, and he cannot go back to her without either a title or something heroic to his name. He is working on it.
 
+**[SPOILER] He made the prince.** The Dometré Polaris identity is his work. He identified Pavlock as a fraud on sight, on the grounds that the royal family is clean-shaven, and then built the persona anyway and walked it into the Council Chamber of Riflo.
+
+His own account of the arrangement is that a man freed from chains still owes the man who freed him.
+
+**[SPOILER] Later.** He works a snatch in a city alley: Jimzon and Karagash hold a guard's attention in the open while he waits in the foliage above the bins. He drops behind the man and takes him with a blood choke before the sidearm clears its holster, and the two of them carry the body out of sight of the street.
+
 *Cross-ref: Katanzaria · The Trailblazers · Trailblazer Base Delta · Maspin · Beryllium rifles*

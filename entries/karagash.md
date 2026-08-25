@@ -27,4 +27,8 @@ He offered no explanation. He was not asked twice.
 
 He is, for what it is worth, modestly priced.
 
+**[SPOILER] The garden hose again.** It reappears, and the second time it is bait. He carries it coiled like a heavy spool of cable while Jimzon plays an irritated foreman, which holds a guard's attention long enough for the guard to walk into the alley.
+
+The guard works out what the spool actually is about one second before Calsco lands behind him.
+
 *Cross-ref: The Gashi · Atmospheric masks · The cartels*

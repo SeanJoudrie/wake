@@ -17,4 +17,6 @@ No rank. No world. No service. No description of a face, a voice, or a room he h
 
 Whoever he is, at least one soldier of the Royal Shayron Defence Force believes Prodar knows exactly where he is and approves of it.
 
+**[SPOILER] The deadman switch.** The name is got out of a prisoner rather than found in a file. It is understood to belong to somebody in command holding a failsafe, and the prisoner was left behind with that failsafe armed by people who knew he would be caught.
+
 *Cross-ref: Meram Kest · The Royal Shayron Defence Force*

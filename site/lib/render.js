@@ -112,6 +112,12 @@ ${cap}
 </figure>`;
 }
 
+// Categories where every entry carries the door whether or not it holds
+// anything. Empty until the manuscript pass covers every person: an empty
+// door states that nothing happens to the one behind it, and that is a
+// claim, not a default. Put "character" back to switch it on.
+const ALWAYS_GATED = new Set([]);
+
 const sectionMarkup = (s, open) => `<details class="section"${open ? " open" : ""}>
 <summary><h2>${escapeHtml(s.title)}</h2>${
   s.gaps ? `<span class="sec-gaps">${s.gaps} gap${s.gaps > 1 ? "s" : ""}</span>` : ""
@@ -120,29 +126,34 @@ const sectionMarkup = (s, open) => `<details class="section"${open ? " open" : "
 </details>`;
 
 // Everything the author has marked as reading ahead of the book, behind one
-// door per entry. The door is shut whatever else on the page is open, and its
-// summary names no section, because a section title can give the thing away on
-// its own.
-function spoilerGate(sections) {
-  if (!sections.length) return "";
-  const inner = sections.map((s) => sectionMarkup(s, true)).join("\n");
+// door per entry.
+//
+// Every person in the book carries this door, including the ones with nothing
+// behind it, because a door that only appears over a doomed character is a
+// spoiler in itself: you would learn who dies by scrolling. So the shut door
+// is identical everywhere. It names no section, since a heading gives the
+// thing away on its own, and it carries no count, since nought against three
+// would tell you the same thing the door's absence would.
+function spoilerGate(sections, { always = false } = {}) {
+  if (!sections.length && !always) return "";
+  const inner = sections.length
+    ? `<p class="spoiler-warn">For readers who have finished. Everything below happens later in the book.</p>
+${sections.map((s) => sectionMarkup(s, true)).join("\n")}`
+    : `<p class="spoiler-warn">Nothing here. This one's part in the book is all of what is written above.</p>`;
   return `<details class="spoilers">
-<summary><span class="spoiler-mark">Spoilers</span>
-<span class="spoiler-note">${sections.length}</span>${CHEV}</summary>
+<summary><span class="spoiler-mark">Spoilers</span>${CHEV}</summary>
 <div class="spoiler-body">
-<p class="spoiler-warn">For readers who have finished. Everything below happens later in the book.</p>
 ${inner}
 </div>
 </details>`;
 }
 
 export function entryBody(entry, { open = false } = {}) {
-  if (!entry.sections.length) return entry.lead + entry.notes;
-
   const plain = entry.sections.filter((s) => !s.spoiler);
   const held = entry.sections.filter((s) => s.spoiler);
-  const gate = spoilerGate(held);
+  const gate = spoilerGate(held, { always: ALWAYS_GATED.has(entry.category) });
 
+  // No ordinary sections: the lead carries the entry and the door follows it.
   if (!plain.length) return `${entry.lead}\n${gate}\n${entry.notes}`;
 
   const sections = plain.map((s) => sectionMarkup(s, open)).join("\n");

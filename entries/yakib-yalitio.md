@@ -24,4 +24,8 @@ Evenly tanned, because he spends his rest days outside while everyone else is in
 
 He is not the coward of this group. He is the only one keeping score.
 
+**[SPOILER] He went.** He told Berji to throw the drive away and to leave him out of it, on the grounds that he would put his life on the line before his career, because if he dies his brothers are paid and if his career ends they are not.
+
+He left with the rest of them regardless. He is named by the Guard, by his full name, as wanted for high treason along with the whole team.
+
 *Cross-ref: The Guard · Magboots · The enlistment rites form · Jimzon Avaris*

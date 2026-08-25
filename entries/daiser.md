@@ -30,4 +30,6 @@ The way out is his uncle dying or a lottery that does not exist.
 
 He has never flown. He has never been off Maspin at all. He can fly, though, and when asked where he learned he says a book or two, which is either a joke or the most alarming sentence in the temple.
 
+**[SPOILER] The relief tents.** He works the recovery afterwards, alongside Jimzon, Pavlock and Berji. Of the people he pulled out alive, thirteen were living when he found them and eight were living after that.
+
 *Cross-ref: Maspin · The Council of Riflo · Indentured servitude · The Palace of Riflo · Maspin naming taboos*

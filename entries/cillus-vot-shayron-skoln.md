@@ -23,4 +23,8 @@ He shoots footage of squads for exactly that purpose, and at one point he shoots
 
 **What he wears.** A religious pendant, given rather than bought, and he does not take it off.
 
+**[SPOILER] The charge.** He is named in the Guard's own account of the desertion, listed with the squad and the two pilots and an accountant as party to a coordinated act.
+
+Whether the charge describes what he did is a separate question from whether it was filed.
+
 *Cross-ref: The Royal Houses · Shayron · The Moon of Sonaff Incident · The Sonaff five · Astonia*

@@ -19,8 +19,6 @@ Blond hair, tightly curled, cut short. Green eyes at the far end of the range, t
 
 **What he actually is.** A cook, a beach person, and a light and tasteful druggie. He does not believe in hierarchies and is not especially interested in ethics either. What moves him is his people: his friends, his family, and keeping them safe. He will do things he would rather not discuss to that end and will not pretend the cause had anything to do with it.
 
-He is engaged. She is a botanist with the Guard's scientific service, and what they have in common is growing things, cooking them, and smoking the ones that are for smoking.
-
 He talks in stories rather than principles, and he is the one who says the thing that lands. *You can't hate yourself into being better.* And the old Monveri line about a ship in harbour being safe and belonging somewhere else entirely.
 
 His enlistment runs out shortly and he has not filed anything about extending it.
@@ -39,6 +37,8 @@ He told Pavlock and Yakib in the rec room and neither of them believed him. Yaki
 
 **[SPOILER] The crash.** The ship came down. He was carried unconscious for days across open country with his face bleeding, by two men who had no medical supplies and did not know where they were.
 
+**[SPOILER] The face.** Nose torn off. Lips gone. The right cheek stripped to the bone. The right eye missing. Glass and metal driven through the flesh.
+
 **[SPOILER] The tank.** He was admitted to a Trailblazer medbay under a name somebody else gave on the radio, and put in a sensory deprivation tank: floating face up in glowing blue floom liquid, tubes into his throat, on a respirator, behind a one-way mirror. The estimate given to Jimzon at the glass was two or three more days. What was visible of his face was deep dark red, scarred and uneven.
 
 **[SPOILER] What it was like inside it.** By his own account it felt like years.
@@ -53,7 +53,7 @@ He asked whether it was real. Then he asked Jimzon to say something only the rea
 
 **[SPOILER] The mask.** Jimzon brought it in a box, wrapped, and kept his head down while it was opened. Riveted wood, hand-carved, smoothed and stained, neither smiling nor frowning. Berji put it on and stood up.
 
-It is what he wears from then on, with deep green and orange robes. Jimzon can no longer read him through it.
+It is what he wears from then on. The robes under it are Pavlock's royal costume, re-dyed deep forest green and orange, which are Monver's colours, and sewn by Daiser. Jimzon can no longer read him through the mask.
 
 **[SPOILER] What he is now.** He talks about the butterfly effect, the story of Ajax, whether any of it is a simulation, and the unconscious choices a brain makes before a person is old enough to have a say in them. Asked whether he still feels like himself he says you will not find the same person twice, not even in the same person. Told he did not deserve it, he says it does not matter what he deserved, that it was inevitable, and that there was nothing anybody could have done.
 

@@ -16,7 +16,7 @@ Evenly tanned, because he spends his rest days outside while everyone else is in
 
 **Home.** A world he does not talk up much, with one thing on it worth the trip: a starship wreck the size of a city, Maldo era, so thoroughly overgrown that people climb it like a mountain. He climbed it with his father as a boy, in magboots, which were later killed by a lightning storm and never replaced.
 
-**Faith.** He was raised religious in a way that is mostly relaxed and has a few strange corners he does not explain to outsiders. When he filled in the form that asks a recruit what rites they want, the list of eighty-eight faiths did not have his on it, so he wrote it in himself.
+**Faith.** He was raised religious in a way that is mostly relaxed and has a few strange corners he does not explain to outsiders. When he filled in the form that asks a recruit what rites they want, his faith was not on the printed list, so he wrote it in himself.
 
 **Money.** He sends most of his pay home and has done since the day he signed. He is not shy about why, and he does not dress it up:
 

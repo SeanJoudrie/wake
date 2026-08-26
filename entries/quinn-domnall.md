@@ -33,4 +33,6 @@ The purpose was the ninety-five per cent. A man who does not come back does not 
 
 His accounting duties told him the security rotation on the cargo movements, so he knew which ship carrying valuables would be thinly watched and when. He left on it, with one other man, for a desert world.
 
+**[SPOILER] What he becomes.** After Sonaff, and after extensive reconstruction, he works as an interrogator. He is very patient at it.
+
 *Cross-ref: The accounting division · Sonaff · The Moon of Sonaff Incident · The Sonaff five · The Wipe*

@@ -21,11 +21,13 @@ He drew summer. Heat, insects that never let up, and blisters. The first thing h
 
 That is where he decided to be an engineer. Building the thing you need out of whatever is lying near you turns out to be a career.
 
+Half the continent he is from was bombed to the stone age. It is difficult to be an engineer where that is true, and it is part of why he enlisted.
+
 **Which is not the job he has.** He is a combat engineer, which is that skill with a deadline and people shooting. What he wants is astral engineering, on the civilian side, where the thing you build is meant to last and nobody is timing you. He can describe it in detail. He has never filed anything about it.
 
 No man who finishes the trial may speak about it. He never has.
 
-**The beard.** It grew on him out there, and on Marfeld they say hair remembers. You may shape it, trim it, dye it. You do not shave, and shaving means renouncing your family. He spent fourteen months fighting Guard paperwork for the exemption rather than pick up a razor.
+**The beard.** It grew on him out there, and on Marfeld they say hair remembers. You may shape it, trim it, dye it. You do not shave, and shaving means renouncing your family. He fought Guard paperwork for the exemption rather than pick up a razor, which by his own account took weeks.
 
 **The rest of him.** Business-minded in a way that surprises people. Face-blind. Hopeless with directions. Warmer toward non-humans than anyone else on his team, without making a thing of it.
 

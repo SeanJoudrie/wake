@@ -31,4 +31,6 @@ He is, for what it is worth, modestly priced.
 
 The guard works out what the spool actually is about one second before Calsco lands behind him.
 
+**[SPOILER] Who he works for.** Quinn. After Cillus, the two of them work bounties together, and Karagash is the one standing behind him when he walks into a room he has not been invited into.
+
 *Cross-ref: The Gashi · Atmospheric masks · The cartels*

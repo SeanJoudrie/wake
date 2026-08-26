@@ -33,7 +33,19 @@ The purpose was the ninety-five per cent. A man who does not come back does not 
 
 His accounting duties told him the security rotation on the cargo movements, so he knew which ship carrying valuables would be thinly watched and when. He left on it, with one other man, for a desert world.
 
-**[SPOILER] What he becomes.** He works as an interrogator, and he is very patient at it.
+**[SPOILER] Karagash.** After Cillus he works bounties, with Karagash beside him. That is the whole of what he is at this point: two men and a price list.
+
+**[SPOILER] Why he fixes on Jimzon.** He reads the defection as a plan. A captain does not walk out of the Guard without one, and the man who walked out is the reason Quinn had an opening at all. He decides there is a rebellion being run and that this is the man running it, and he decides to join.
+
+He spends a long time tracking him. None of it is witnessed by anybody else in this volume.
+
+**[SPOILER] What he does on Shayron.** He takes a Guard operative living under a Royal cover identity into a cistern beneath the city and works on him with a pair of pliers and a blowtorch until he gives up a name and a relay.
+
+He is not an interrogator. He has never held the post and never holds it after. He does it once, and he is unnervingly good at it, and that is the part worth noticing.
+
+**[SPOILER] The transport.** When Jimzon decides to hand himself over to the Guard, Quinn shoots the transport out of the sky.
+
+**[SPOILER] Where it leaves him.** Stuck with Jimzon and Kelsa.
 
 **[SPOILER] The union.** He falls in with bounty hunters and works out that they are underpaid for the ordinary reason: they bid against each other rather than setting a price together. He organises them.
 

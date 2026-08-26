@@ -2,6 +2,36 @@
 
 Author-supplied, from voice. Recorded as given. Not in the manuscript yet.
 
+## Order of events
+
+1. Sonaff. He and Cillus survive it. He wakes with a chest scar and
+   nothing else. Whatever costs him the body comes later.
+2. They leave on a cargo ship he picked because his accounting told him
+   the security rotation, and they go to a desert world.
+3. Cillus decides to turn them in. Quinn shoots him.
+4. He works bounties with Karagash.
+5. He fixes on Jimzon and starts tracking him, across chapters nobody
+   else in the book sees.
+6. Third act: he finds them on Shayron and joins them.
+7. He takes the Guard operative into the cistern. One occasion.
+8. Jimzon decides to hand himself in. Quinn shoots the transport down.
+9. He ends the book stuck with Jimzon and Kelsa.
+10. The union, the private army, the trade routes and the artifacts are
+    after that. The next book opens a little later than this.
+
+## Why Jimzon
+
+He reads the defection as a plan. A captain does not walk out without
+one, and that walkout is what gave Quinn his own opening. He concludes
+there is a rebellion being run, that Jimzon is running it, and that he
+wants in. He is wrong about all of it and it does not matter.
+
+## Not an interrogator
+
+The cistern is one occasion, not a profession. He has never held the
+post and does not hold it afterwards. The point is not that it is his
+job. The point is how good he turns out to be at it.
+
 ## The rise
 
 He falls in with a couple of bounty hunters. Working alongside them he

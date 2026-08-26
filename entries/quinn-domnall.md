@@ -33,6 +33,26 @@ The purpose was the ninety-five per cent. A man who does not come back does not 
 
 His accounting duties told him the security rotation on the cargo movements, so he knew which ship carrying valuables would be thinly watched and when. He left on it, with one other man, for a desert world.
 
-**[SPOILER] What he becomes.** After Sonaff, and after extensive reconstruction, he works as an interrogator. He is very patient at it.
+**[SPOILER] What he becomes.** He works as an interrogator, and he is very patient at it.
+
+**[SPOILER] The union.** He falls in with bounty hunters and works out that they are underpaid for the ordinary reason: they bid against each other rather than setting a price together. He organises them.
+
+That is the whole of the beginning. Not an army, a bargaining bloc.
+
+**[SPOILER] The bloc becomes a force.** It ends as a private military loyal to him personally, and it is loyal because he is the one who moves markets, prices and the value of a bounty. He decides what the work is worth, so he decides who works.
+
+They take trade routes. They sell protection. They run false flags, which is the Guard's own play at a smaller scale.
+
+**[SPOILER] The method.** The campaign against the Guard is financial and social before it is military: money, finance contacts, moles, and the turning of anybody on either side of the war he judges likely to defect. He is not trying to win a battle. He is trying to weaken both sides until a vacuum opens, and then rise into it.
+
+He is also chasing artifacts, and that starts before he has anybody following him.
+
+**[SPOILER] Cillus.** Before any of the above. Cillus decides to turn them in, and is about to contact the Guard and surrender so that he can go home. Quinn tells him he cannot, because it will get Quinn killed.
+
+The two are involved, recently, out of Sonaff.
+
+It ends as a standoff. Quinn shoots him, and then cries.
+
+**[SPOILER] What is underneath it.** He is frightened of being stepped on, of being discarded, and of being a piece in somebody else's game. Everything he builds is built against those three things.
 
 *Cross-ref: The accounting division · Sonaff · The Moon of Sonaff Incident · The Sonaff five · The Wipe*

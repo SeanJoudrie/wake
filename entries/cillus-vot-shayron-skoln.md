@@ -27,4 +27,12 @@ He shoots footage of squads for exactly that purpose, and at one point he shoots
 
 Whether the charge describes what he did is a separate question from whether it was filed.
 
+**[SPOILER] He tries to go home.** He decides to turn them in, and is on the point of contacting the Guard to surrender, on the understanding that surrendering is how a man in his position gets to go back.
+
+He and Quinn are involved by then, recently, out of Sonaff.
+
+Quinn tells him he cannot do it, because it ends with Quinn dead. Neither of them moves for long enough that it becomes a standoff.
+
+Quinn shoots him.
+
 *Cross-ref: The Royal Houses · Shayron · The Moon of Sonaff Incident · The Sonaff five · Astonia*

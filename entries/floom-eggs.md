@@ -3,6 +3,7 @@ title: Floom eggs
 slug: floom-eggs
 category: flora-fauna
 tier: TESTIMONY
+art_caption: "what a human sees, worked up from one account"
 cross_refs: [flooms, maspin, sensory-tanks, dreamwalking, council-of-riflo, space-vaccines]
 ---
 

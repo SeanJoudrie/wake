@@ -19,6 +19,8 @@ Blond hair, tightly curled, cut short. Green eyes at the far end of the range, t
 
 **What he actually is.** A cook, a beach person, and a light and tasteful druggie. He does not believe in hierarchies and is not especially interested in ethics either. What moves him is his people: his friends, his family, and keeping them safe. He will do things he would rather not discuss to that end and will not pretend the cause had anything to do with it.
 
+He is engaged. She is a botanist with the Guard's scientific service, and what they have in common is growing things, cooking them, and smoking the ones that are for smoking.
+
 He talks in stories rather than principles, and he is the one who says the thing that lands. *You can't hate yourself into being better.* And the old Monveri line about a ship in harbour being safe and belonging somewhere else entirely.
 
 His enlistment runs out shortly and he has not filed anything about extending it.

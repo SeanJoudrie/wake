@@ -27,7 +27,7 @@ Half the continent he is from was bombed to the stone age. It is difficult to be
 
 No man who finishes the trial may speak about it. He never has.
 
-**The beard.** It grew on him out there, and on Marfeld they say hair remembers. You may shape it, trim it, dye it. You do not shave, and shaving means renouncing your family. He fought Guard paperwork for the exemption rather than pick up a razor, which by his own account took weeks.
+**The beard.** It grew on him out there, and on Marfeld they say hair remembers. You may shape it, trim it, dye it. You do not shave, and shaving means renouncing your family. He spent fourteen months fighting Guard paperwork for the exemption rather than pick up a razor.
 
 **The rest of him.** Business-minded in a way that surprises people. Face-blind. Hopeless with directions. Warmer toward non-humans than anyone else on his team, without making a thing of it.
 

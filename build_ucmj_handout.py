@@ -578,6 +578,11 @@ def h_border(par, color="C4C4C4", sz=4):
     ins(pr, b)
 
 
+def doc_of(container):
+    """render_blocks receives either the Document or a table _Cell."""
+    return container if hasattr(container, "styles") else container.part.document
+
+
 def render_blocks(doc, blocks):
     for b in blocks:
         t = b["t"]
@@ -585,6 +590,8 @@ def render_blocks(doc, blocks):
             render_blocks(doc, b["blocks"])
         elif t == "h1sec":
             par = doc.add_paragraph()
+            try: par.style = doc_of(doc).styles["Heading 1"]
+            except Exception: pass
             if b["cls"] == "tier":
                 par.paragraph_format.page_break_before = True
             pf = par.paragraph_format
@@ -602,6 +609,8 @@ def render_blocks(doc, blocks):
                          color=RGBColor(0x33, 0x33, 0x33))
         elif t == "h2":
             par = doc.add_paragraph()
+            try: par.style = doc_of(doc).styles["Heading 2"]
+            except Exception: pass
             pf = par.paragraph_format
             pf.space_before, pf.space_after = Pt(7.5), Pt(3.5)
             pf.keep_with_next = True
@@ -610,6 +619,8 @@ def render_blocks(doc, blocks):
             h_border(par)
         elif t == "h3":
             par = doc.add_paragraph()
+            try: par.style = doc_of(doc).styles["Heading 3"]
+            except Exception: pass
             pf = par.paragraph_format
             pf.space_before, pf.space_after = Pt(8), Pt(4)
             pf.keep_with_next = True
@@ -729,8 +740,8 @@ def build_docx(pdf_path=None):
     for text, tid, lvl in entries:
         par = doc.add_paragraph()
         pf = par.paragraph_format
-        pf.space_before = Pt(2 if lvl == 1 else 0)
-        pf.space_after, pf.line_spacing = Pt(0.5), 1.0
+        pf.space_before = Pt(1.5 if lvl == 1 else 0)
+        pf.space_after, pf.line_spacing = Pt(0.25), 1.0
         pf.left_indent = Inches(0 if lvl == 1 else 0.20)
         pf.first_line_indent = Inches(0)
         pf.tab_stops.add_tab_stop(Inches(TEXT_W), WD_TAB_ALIGNMENT.RIGHT, WD_TAB_LEADER.DOTS)
@@ -744,12 +755,12 @@ def build_docx(pdf_path=None):
             it.text = ' TOC \\o "1-2" \\h \\z \\u '; r._r.append(it)
             r = par.add_run(); r._r.append(_el('w:fldChar', **{'w:fldCharType': 'separate'}))
         if lvl == 1:
-            set_font(par.add_run(text), SANS, 9, bold=True, color=NAVY_RGB)
-            set_font(par.add_run("\t" + str(pmap.get(tid, 1))), SANS, 8.5, bold=True,
+            set_font(par.add_run(text), SANS, 8.5, bold=True, color=NAVY_RGB)
+            set_font(par.add_run("\t" + str(pmap.get(tid, 1))), SANS, 8, bold=True,
                      color=NAVY_RGB)
         else:
-            set_font(par.add_run(text), SERIF, 9)
-            set_font(par.add_run("\t" + str(pmap.get(tid, 1))), SANS, 8.5)
+            set_font(par.add_run(text), SERIF, 8.5)
+            set_font(par.add_run("\t" + str(pmap.get(tid, 1))), SANS, 8)
         if idx == len(toc_pars) - 1:
             r = par.add_run(); r._r.append(_el('w:fldChar', **{'w:fldCharType': 'end'}))
 

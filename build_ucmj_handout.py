@@ -326,7 +326,8 @@ def build_html(front, sections):
             p.append(blocks_html([b]))
     # --- tier sections
     for sec in sections:
-        head = {"t": "h1sec", "cls": "tier" if sec["sub"] else "tier flow",
+        brk = bool(sec["sub"]) or sec["title"].lower().startswith("addendum")
+        head = {"t": "h1sec", "cls": "tier" if brk else "tier flow",
                 "id": sec["id"], "text": sec["title"], "sub": sec["sub"]}
         p.append(blocks_html(wrap_keeps([head] + sec["blocks"])))
     p.append("</body></html>")
@@ -762,7 +763,8 @@ def build_docx(pdf_path=None):
     h_border_top(intro)
 
     for sec in sections:
-        head = {"t": "h1sec", "cls": "tier" if sec["sub"] else "tier flow",
+        brk = bool(sec["sub"]) or sec["title"].lower().startswith("addendum")
+        head = {"t": "h1sec", "cls": "tier" if brk else "tier flow",
                 "id": sec["id"], "text": sec["title"], "sub": sec["sub"]}
         render_blocks(doc, wrap_keeps([head] + sec["blocks"]))
 

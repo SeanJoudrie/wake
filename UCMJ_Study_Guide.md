@@ -456,3 +456,30 @@ Framing statement: the Army desires to retain only those Soldiers of **high mora
 8. Apprehension **in the home** requires a warrant
 9. Corrective training must be related to the deficiency and must not be degrading
 10. A commander owns UCI committed by staff **regardless of knowledge or intent**
+
+---
+
+# Addendum: Asked in Class
+
+**Not on the slides, and not expected on the exam.** This is here because it was asked during the class and an answer was promised.
+
+## A.1 Apprehension in the home: on post or off post? (Slide 28)
+
+The deck says apprehension in the home requires a warrant. The question asked was whether "home" means a house on post or a house off post.
+
+The dividing line is not on post versus off post. It is whether the place is a **private dwelling** under **R.C.M. 302(e)(2)**.
+
+Counts as a private dwelling:
+
+- Single family houses, duplexes, and apartments
+- **Government quarters on post**, same as a residence off post
+
+Does not count as a private dwelling:
+
+- Living areas in **barracks**
+- Vessels, aircraft, and vehicles
+- Tents, bunkers, and field encampments
+
+So a house on post receives the same protection as a house off post. A barracks room does not.
+
+One practical note: in the military the instrument is usually an **apprehension authorization** from a commander, military judge, or military magistrate rather than a civilian judge's warrant. Functionally it is the same idea, someone neutral has to approve the entry.
